@@ -1,0 +1,863 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Akor Sahnesi</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;700&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg:#161210; --surface:#241d19; --line:#3a2f28;
+    --ink:#efe6d8; --muted:#9c8b7b;
+    --amber:#f4a94a; --chord:#ffcf3f; --chord-bg:#4a3111;
+    --down:#f4a94a; --up:#7fd4c4; --mute:#8a7668;
+    --radius:10px;
+  }
+  *{box-sizing:border-box;}
+  html,body{margin:0;padding:0;height:100%;}
+  body{
+    background:var(--bg); color:var(--ink);
+    font-family:'Space Grotesk',sans-serif;
+    display:flex; flex-direction:column; min-height:100vh;
+  }
+  button{
+    font-family:inherit; cursor:pointer; color:var(--ink);
+    background:var(--surface); border:1px solid var(--line);
+    border-radius:8px; padding:.5em .9em; font-size:.85rem;
+  }
+  button:hover{border-color:var(--amber);}
+  button.active{background:var(--amber); color:#221a12; border-color:var(--amber);}
+  input[type=text],input[type=search]{
+    font-family:inherit; background:var(--surface); color:var(--ink);
+    border:1px solid var(--line); border-radius:8px; padding:.6em .8em; font-size:1rem;
+  }
+  :focus-visible{outline:2px solid var(--amber); outline-offset:2px;}
+  a{color:var(--amber);}
+
+  /* ---------- arama ekranı ---------- */
+  #search-screen{
+    position:fixed; inset:0; background:var(--bg);
+    display:flex; flex-direction:column; align-items:center;
+    padding:8vh 1rem 2rem; z-index:50; overflow-y:auto;
+  }
+  #search-screen.hidden{display:none;}
+  #search-screen h1{
+    font-size:clamp(1.6rem,5vw,2.4rem); margin:0 0 .3em; letter-spacing:.02em;
+  }
+  #search-screen .tag{color:var(--muted); margin-bottom:1.6em; font-size:.95rem;}
+  #search-box{width:min(560px,92vw); display:flex; gap:.5em;}
+  #search-box input{flex:1;}
+  #search-results{width:min(560px,92vw); margin-top:1.2em; display:flex; flex-direction:column; gap:.4em;}
+  .result-item{
+    background:var(--surface); border:1px solid var(--line); border-radius:8px;
+    padding:.7em .9em; text-align:left; font-size:.95rem; display:flex; justify-content:space-between; gap:.6em;
+  }
+  .result-item:hover{border-color:var(--amber); color:var(--amber);}
+  #search-status{color:var(--muted); font-size:.85rem; margin-top:.8em; min-height:1.2em;}
+  #close-search{position:absolute; top:1rem; right:1rem;}
+
+  /* ---------- ana uygulama ---------- */
+  #app{display:none; flex-direction:column; flex:1; min-height:100vh;}
+  #app.visible{display:flex;}
+
+  header.top{
+    display:flex; flex-wrap:wrap; align-items:center; gap:.6em 1em;
+    padding:.9em 1.2em; border-bottom:1px solid var(--line); background:var(--surface);
+  }
+  header.top .titles{flex:1; min-width:200px;}
+  header.top h2{margin:0; font-size:1.25rem; line-height:1.2;}
+  header.top .artist{color:var(--muted); font-size:.9rem;}
+  .meta-chip{
+    font-family:'Space Mono',monospace; font-size:.8rem; color:var(--muted);
+    border:1px solid var(--line); border-radius:6px; padding:.25em .55em;
+    cursor:default;
+  }
+  .meta-chip.capo-na{ font-style:italic; border-style:dashed; }
+  .transpose-ctl{display:flex; align-items:center; gap:.4em;}
+  .transpose-ctl button{padding:.35em .7em;}
+  #transpose-key{font-family:'Space Mono',monospace; min-width:2.6em; text-align:center; color:var(--chord);}
+
+  /* ---------- ritim şeridi ---------- */
+  #rhythm-bar{
+    display:flex; align-items:center; gap:.8em; padding:.6em 1.2em;
+    border-bottom:1px solid var(--line); flex-wrap:wrap;
+  }
+  #rhythm-bar.hidden{display:none;}
+  #rhythm-strip{display:flex; gap:.35em; flex-wrap:wrap;}
+  .beat{
+    width:2em; height:2em; border-radius:6px; display:flex; align-items:center; justify-content:center;
+    font-family:'Space Mono',monospace; font-weight:700; font-size:1rem;
+    background:var(--surface); border:1px solid var(--line); color:var(--muted);
+    transition:transform .12s ease, background .12s ease;
+  }
+  .beat.down{color:var(--down); border-color:var(--down);}
+  .beat.up{color:var(--up); border-color:var(--up);}
+  .beat.mute{color:var(--mute);}
+  .beat.pulse{transform:scale(1.25); background:var(--chord-bg);}
+
+  /* ---------- video + offset ---------- */
+  #media-row{
+    display:flex; align-items:center; gap:1em; padding:.6em 1.2em;
+    border-bottom:1px solid var(--line); flex-wrap:wrap;
+  }
+  #yt-wrap{width:220px; aspect-ratio:16/9; background:#000; border-radius:8px; overflow:hidden; flex-shrink:0;}
+  #yt-player{width:100%; height:100%;}
+  .offset-ctl{display:flex; align-items:center; gap:.5em; font-size:.85rem; color:var(--muted);}
+  .offset-ctl input[type=range]{accent-color:var(--amber);}
+  #alt-video-list{display:flex; gap:.4em; flex-wrap:wrap;}
+  #alt-video-list button{font-family:'Space Mono',monospace; font-size:.75rem;}
+  #yt-status{font-size:.8rem; color:var(--muted);}
+  #yt-status.err{color:#e8846b;}
+
+  /* ---------- sahne (akor + söz) ---------- */
+  #stage{
+    flex:1; overflow-y:auto; padding:2rem 1.2rem 6rem;
+    background:
+      radial-gradient(ellipse 70% 40% at 50% 30%, rgba(244,169,74,.06), transparent 70%),
+      var(--bg);
+  }
+  #lines{max-width:900px; margin:0 auto; display:flex; flex-direction:column; gap:1.1em;}
+  .row{
+    position:relative; padding:.35em .6em; border-radius:8px; cursor:pointer;
+    overflow-x:auto; scrollbar-width:thin;
+  }
+  .row.blank{height:.6em; cursor:default;}
+  .row.section{
+    margin-top:.6em; padding-left:.9em; border-left:3px solid var(--amber);
+    color:var(--amber); font-weight:700; letter-spacing:.03em; text-transform:uppercase; font-size:.85rem;
+  }
+  .lane{
+    position:relative; height:1.5em; font-family:'Space Mono',monospace; font-size:1rem; white-space:pre;
+  }
+  .cb{
+    position:absolute; top:0; background:var(--chord-bg); color:var(--chord);
+    font-weight:700; padding:0 .3em; border-radius:4px; font-size:1.02em; line-height:1.5em;
+    border:1px solid rgba(255,207,63,.35);
+    text-shadow:0 0 8px rgba(255,207,63,.35);
+  }
+  .lyric{
+    font-family:'Space Mono',monospace; font-size:1rem; white-space:pre; color:var(--ink); line-height:1.5em;
+  }
+  .row.active{background:rgba(244,169,74,.14); box-shadow:0 0 0 1px rgba(244,169,74,.35), 0 0 22px rgba(244,169,74,.18);}
+  .row.active .lyric{color:var(--amber);}
+  .row.past .lyric{color:var(--muted); opacity:.55;}
+  .row.past .cb{opacity:.5;}
+  .row.sync-armed{outline:1px dashed var(--amber);}
+
+  /* ---------- transport ---------- */
+  #transport{
+    position:sticky; bottom:0; display:flex; align-items:center; gap:.8em; flex-wrap:wrap;
+    padding:.7em 1.2em; border-top:1px solid var(--line); background:var(--surface);
+  }
+  #clock{font-family:'Space Mono',monospace; color:var(--muted); min-width:4.4em;}
+  #transport .spacer{flex:1;}
+  #sync-hint{font-size:.78rem; color:var(--muted);}
+
+  @media (prefers-reduced-motion: reduce){
+    .row{scroll-behavior:auto;}
+    .beat{transition:none;}
+    #stage{scroll-behavior:auto;}
+  }
+  @media (max-width:640px){
+    #yt-wrap{width:150px;}
+    header.top{padding:.7em .8em;}
+    #stage{padding:1.2rem .6rem 6rem;}
+    .lane,.lyric{font-size:.88rem;}
+  }
+</style>
+</head>
+<body>
+
+<!-- ============ ARAMA EKRANI ============ -->
+<div id="search-screen">
+  <button id="close-search" style="display:none">Kapat ✕</button>
+  <h1>Akor Sahnesi</h1>
+  <div class="tag">Şarkı ara, akorları ve sözleri sahne gibi izle.</div>
+  <div id="search-box">
+    <input id="search-input" type="search" placeholder="şarkı adı ya da sanatçı..." autofocus>
+  </div>
+  <div id="search-status"></div>
+  <div id="search-results"></div>
+</div>
+
+<!-- ============ ANA UYGULAMA ============ -->
+<div id="app">
+  <header class="top">
+    <div class="titles">
+      <h2 id="song-title">—</h2>
+      <div class="artist" id="song-artist">—</div>
+    </div>
+    <span class="meta-chip" id="key-chip">Ton: —</span>
+    <span class="meta-chip" id="capo-chip">Kapo: —</span>
+    <div class="transpose-ctl">
+      <button id="tr-down" title="Yarım ses aşağı">−</button>
+      <span id="transpose-key">—</span>
+      <button id="tr-up" title="Yarım ses yukarı">+</button>
+    </div>
+    <button id="open-search">🔍 Ara</button>
+  </header>
+
+  <div id="rhythm-bar" class="hidden">
+    <strong style="font-size:.85rem;color:var(--muted)">Ritim</strong>
+    <div id="rhythm-strip"></div>
+    <button id="tap-tempo">Tempo Ver</button>
+    <span id="bpm-display" style="font-family:'Space Mono',monospace;color:var(--muted);font-size:.85rem"></span>
+    <button id="play-rhythm">Ritmi Çal</button>
+  </div>
+
+  <div id="media-row">
+    <div id="yt-wrap"><div id="yt-player"></div></div>
+    <div class="offset-ctl">
+      <span>Offset</span>
+      <input type="range" id="offset-slider" min="-10" max="10" step="0.1" value="0">
+      <span id="offset-val">0.0s</span>
+      <button id="calibrate-btn" title="Aktif satırın tam şimdi söylendiğini işaretle">🎯 Şimdi Senkronla</button>
+    </div>
+    <button id="alt-video-btn">Başka video</button>
+    <div id="alt-video-list"></div>
+    <span id="yt-status"></span>
+  </div>
+
+  <div id="stage"><div id="lines"></div></div>
+
+  <div id="transport">
+    <button id="play-btn">▶ Çal</button>
+    <button id="stop-btn">■ Durdur</button>
+    <span id="clock">00:00</span>
+    <button id="sync-mode-btn">Senkron Modu</button>
+    <span id="sync-hint"></span>
+    <div class="spacer"></div>
+    <button id="download-btn">İndir</button>
+    <button id="upload-btn">Yükle</button>
+    <input type="file" id="upload-input" accept="application/json" style="display:none">
+  </div>
+</div>
+
+<script src="https://www.youtube.com/iframe_api"></script>
+<script>
+(function(){
+"use strict";
+
+// ------------------------------------------------------------------
+// Durum
+// ------------------------------------------------------------------
+let song = null;
+let transpose = 0;
+let offset = 0;
+let manualSyncMode = false;
+let syncPointer = 0;
+
+let ytPlayer = null, ytReady = false;
+let candidateQueue = null;   // null = henüz çekilmedi
+let triedIds = new Set();
+let internalT = 0, internalRunning = false, lastTick = 0;
+let activeIdx = -1;
+let rhythmPattern = [];
+let rhythmTimer = null;
+let tapTimes = [];
+let bpm = null;
+
+const els = {};
+["search-screen","close-search","search-input","search-status","search-results",
+ "open-search","app","song-title","song-artist","key-chip","capo-chip",
+ "tr-down","tr-up","transpose-key","rhythm-bar","rhythm-strip","tap-tempo",
+ "bpm-display","play-rhythm","yt-wrap","offset-slider","offset-val",
+ "alt-video-btn","alt-video-list","yt-status","calibrate-btn","stage","lines","play-btn","stop-btn","clock",
+ "sync-mode-btn","sync-hint","download-btn","upload-btn","upload-input"
+].forEach(id => els[id] = document.getElementById(id));
+
+// ------------------------------------------------------------------
+// localStorage yardımcıları (try/catch: sandbox'ta çalışmayabilir)
+// ------------------------------------------------------------------
+function lsKey(slug){ return "akor-sahnesi:" + slug; }
+function saveLocal(){
+  if(!song) return;
+  try{
+    localStorage.setItem(lsKey(song.slug), JSON.stringify({
+      lines: song.lines.map(l => ({t: l.t})),
+      offset, transpose, youtubeId: song.youtubeId, hasSyncedLyrics: song.hasSyncedLyrics
+    }));
+  }catch(e){ /* localStorage yok/sandbox: sessizce yut */ }
+}
+function loadLocal(slug){
+  try{
+    const raw = localStorage.getItem(lsKey(slug));
+    return raw ? JSON.parse(raw) : null;
+  }catch(e){ return null; }
+}
+
+// ------------------------------------------------------------------
+// 5.1 Arama ekranı
+// ------------------------------------------------------------------
+let searchDebounce = null;
+els["search-input"].addEventListener("input", () => {
+  clearTimeout(searchDebounce);
+  const q = els["search-input"].value.trim();
+  if(!q){ els["search-results"].innerHTML=""; els["search-status"].textContent=""; return; }
+  searchDebounce = setTimeout(() => runSearch(q), 350);
+});
+
+async function runSearch(q){
+  els["search-status"].textContent = "aranıyor...";
+  try{
+    const r = await fetch("/api/search?q=" + encodeURIComponent(q));
+    const data = await r.json();
+    if(data.error){ els["search-status"].textContent = "Hata: " + data.error; return; }
+    els["search-status"].textContent = data.length ? "" : "sonuç yok";
+    els["search-results"].innerHTML = "";
+    data.forEach(item => {
+      const b = document.createElement("button");
+      b.className = "result-item";
+      b.innerHTML = `<span>${escapeHtml(item.label)}</span><span style="color:var(--muted)">↵</span>`;
+      b.addEventListener("click", () => loadSong(item.slug));
+      els["search-results"].appendChild(b);
+    });
+  }catch(e){
+    els["search-status"].textContent = "Arama başarısız: " + e.message;
+  }
+}
+
+function escapeHtml(s){
+  return s.replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+}
+
+els["open-search"].addEventListener("click", () => {
+  els["search-screen"].classList.remove("hidden");
+  els["close-search"].style.display = song ? "block" : "none";
+  els["search-input"].focus();
+});
+els["close-search"].addEventListener("click", () => {
+  els["search-screen"].classList.add("hidden");
+});
+
+// ------------------------------------------------------------------
+// Şarkı yükleme
+// ------------------------------------------------------------------
+async function loadSong(slug){
+  els["search-status"].textContent = "yükleniyor...";
+  try{
+    const r = await fetch("/api/song?slug=" + encodeURIComponent(slug));
+    const data = await r.json();
+    if(data.error){ els["search-status"].textContent = "Hata: " + data.error; return; }
+    song = data;
+
+    // localStorage'daki elle senkron / offset / transpoze / video seçimini uygula
+    const saved = loadLocal(slug);
+    if(saved){
+      offset = saved.offset || 0;
+      transpose = saved.transpose || 0;
+      if(saved.youtubeId) song.youtubeId = saved.youtubeId;
+      if(Array.isArray(saved.lines)){
+        song.lines.forEach((l,i) => {
+          if(saved.lines[i] && saved.lines[i].t != null) l.t = saved.lines[i].t;
+        });
+        if(!song.hasSyncedLyrics && saved.hasSyncedLyrics) song.hasSyncedLyrics = true;
+      }
+    } else {
+      offset = 0; transpose = 0;
+    }
+
+    els["search-screen"].classList.add("hidden");
+    els["app"].classList.add("visible");
+    render();
+    setupPlayer();
+  }catch(e){
+    els["search-status"].textContent = "Yüklenemedi: " + e.message;
+  }
+}
+
+// ------------------------------------------------------------------
+// 5.8 Transpoze
+// ------------------------------------------------------------------
+const SHARP=["C","C#","D","D#","E","F","F#","G","G#","A","A#","B"];
+const FLAT2SHARP={"Db":"C#","Eb":"D#","Gb":"F#","Ab":"G#","Bb":"A#"};
+function shiftChord(ch,n){
+  const m=ch.match(/^([A-G])(#|b)?(.*)$/); if(!m) return ch;
+  let root=FLAT2SHARP[m[1]+(m[2]||"")]||(m[1]+(m[2]||"")), rest=m[3]||"";
+  let i=SHARP.indexOf(root); if(i<0) return ch;
+  let out=SHARP[(i+n+1200)%12];
+  const bass=rest.match(/\/([A-G](#|b)?)/);
+  if(bass){ let b=FLAT2SHARP[bass[1]]||bass[1], bi=SHARP.indexOf(b);
+            if(bi>=0) rest=rest.replace(/\/[A-G](#|b)?/,"/"+SHARP[(bi+n+1200)%12]); }
+  return out+rest;
+}
+
+els["tr-down"].addEventListener("click", () => { transpose--; applyTranspose(); saveLocal(); });
+els["tr-up"].addEventListener("click", () => { transpose++; applyTranspose(); saveLocal(); });
+
+function applyTranspose(){
+  document.querySelectorAll(".cb").forEach(cb => {
+    cb.textContent = shiftChord(cb.dataset.chord, transpose);
+  });
+  els["transpose-key"].textContent = song && song.key ? shiftChord(song.key, transpose) : "—";
+  if(song){
+    // Kapo mantığı: gösterilen akor ŞEKİLLERİ n yarım ses aşağı inince (kolay
+    // şekil), gerçek ses aynı kalması için kapo o kadar YUKARI çıkmalı —
+    // yani kapo = orijinal kapo − transpoze. +11 ile −1 aynı nota olduğundan
+    // (mod 12) en kısa yolu (−6..+6 aralığı) kullanıp "Kapo 11" gibi saçma
+    // sonuçların önüne geçiyoruz.
+    let t = ((transpose % 12) + 12) % 12;
+    if(t > 6) t -= 12;
+    const baseCapo = song.capo != null ? song.capo : 0;
+    const rawCapo = baseCapo - t;
+    const effectiveCapo = Math.max(0, rawCapo);
+    const capoChip = els["capo-chip"];
+    capoChip.textContent = "Kapo: " + effectiveCapo;
+    if(rawCapo < 0){
+      // Kapo yalnızca perdeyi YÜKSELTEBİLİR; bu yönde (tonu yukarı taşımak)
+      // kapo sesi telafi edemez — burada 0, "kapoya gerek yok, doğrudan bu
+      // tonda çalınıyor" anlamına gelir, "kapo hesaplanamadı" değil.
+      capoChip.title = "Bu yönde kapo geçerli değil (kapo sadece perdeyi yükseltir) — doğrudan bu tonda, kaposuz çalınıyor.";
+      capoChip.classList.add("capo-na");
+    } else {
+      capoChip.title = "";
+      capoChip.classList.remove("capo-na");
+    }
+  }
+}
+
+// ------------------------------------------------------------------
+// 5.3 Akor + söz render
+// ------------------------------------------------------------------
+function render(){
+  els["song-title"].textContent = song.title || "—";
+  els["song-artist"].textContent = song.artist || "—";
+  els["key-chip"].textContent = "Ton: " + (song.key || "—");
+  applyTranspose();
+
+  els["lines"].innerHTML = "";
+  song.lines.forEach((ln, idx) => {
+    const row = document.createElement("div");
+    row.className = "row";
+    row.dataset.idx = idx;
+
+    const isBlank = !ln.lyric.trim() && (!ln.chords || ln.chords.length===0) && !ln.section;
+    if(isBlank){ row.classList.add("blank"); els["lines"].appendChild(row); return; }
+
+    if(ln.section){
+      row.classList.add("section");
+      row.textContent = ln.lyric.trim();
+      els["lines"].appendChild(row);
+      return;
+    }
+
+    if(ln.chords && ln.chords.length){
+      const lane = document.createElement("div");
+      lane.className = "lane";
+      ln.chords.forEach(c => {
+        const cb = document.createElement("span");
+        cb.className = "cb";
+        cb.dataset.chord = c.chord;
+        cb.textContent = shiftChord(c.chord, transpose);
+        cb.style.left = c.col + "ch";
+        lane.appendChild(cb);
+      });
+      row.appendChild(lane);
+    }
+
+    const lyricEl = document.createElement("div");
+    lyricEl.className = "lyric";
+    lyricEl.textContent = ln.lyric;
+    row.appendChild(lyricEl);
+
+    row.addEventListener("click", () => onRowClick(idx));
+    els["lines"].appendChild(row);
+  });
+
+  renderRhythm();
+}
+
+function onRowClick(idx){
+  const ln = song.lines[idx];
+  if(manualSyncMode){
+    ln.t = getTime();
+    song.hasSyncedLyrics = true;
+    syncPointer = idx + 1;
+    flashRow(idx);
+    saveLocal();
+  } else if(ln.t != null){
+    seek(ln.t);
+  }
+}
+
+function flashRow(idx){
+  const row = els["lines"].querySelector(`.row[data-idx="${idx}"]`);
+  if(!row) return;
+  row.classList.add("sync-armed");
+  setTimeout(() => row.classList.remove("sync-armed"), 400);
+}
+
+// ------------------------------------------------------------------
+// 5.7 Ritim şeridi
+// ------------------------------------------------------------------
+function renderRhythm(){
+  const raw = (song.rhythm || "").trim();
+  if(!raw){ els["rhythm-bar"].classList.add("hidden"); rhythmPattern=[]; return; }
+  rhythmPattern = raw.split("-").map(s => s.trim().toUpperCase()).filter(Boolean);
+  if(!rhythmPattern.length){ els["rhythm-bar"].classList.add("hidden"); return; }
+
+  els["rhythm-bar"].classList.remove("hidden");
+  els["rhythm-strip"].innerHTML = "";
+  rhythmPattern.forEach((sym, i) => {
+    const b = document.createElement("div");
+    b.className = "beat " + (sym==="A" ? "down" : sym==="Y" ? "up" : "mute");
+    b.dataset.i = i;
+    b.textContent = sym==="A" ? "↓" : sym==="Y" ? "↑" : "✕";
+    els["rhythm-strip"].appendChild(b);
+  });
+}
+
+els["tap-tempo"].addEventListener("click", () => {
+  const now = performance.now();
+  if(tapTimes.length && now - tapTimes[tapTimes.length-1] > 2000) tapTimes = [];
+  tapTimes.push(now);
+  if(tapTimes.length > 6) tapTimes.shift();
+  if(tapTimes.length >= 2){
+    const intervals = [];
+    for(let i=1;i<tapTimes.length;i++) intervals.push(tapTimes[i]-tapTimes[i-1]);
+    const avg = intervals.reduce((a,b)=>a+b,0)/intervals.length;
+    bpm = Math.round(60000/avg);
+    els["bpm-display"].textContent = bpm + " BPM";
+  }
+});
+
+els["play-rhythm"].addEventListener("click", () => {
+  if(rhythmTimer){
+    clearInterval(rhythmTimer);
+    rhythmTimer = null;
+    els["play-rhythm"].classList.remove("active");
+    document.querySelectorAll(".beat.pulse").forEach(b => b.classList.remove("pulse"));
+    return;
+  }
+  if(!rhythmPattern.length) return;
+  const interval = 60000 / (bpm || 100);
+  let i = 0;
+  els["play-rhythm"].classList.add("active");
+  rhythmTimer = setInterval(() => {
+    document.querySelectorAll(".beat.pulse").forEach(b => b.classList.remove("pulse"));
+    const beat = els["rhythm-strip"].querySelector(`.beat[data-i="${i % rhythmPattern.length}"]`);
+    if(beat) beat.classList.add("pulse");
+    i++;
+  }, interval);
+});
+
+// ------------------------------------------------------------------
+// 5.2 YouTube oynatıcı (otomatik ses) + dahili kronometre yedeği
+// ------------------------------------------------------------------
+window.onYouTubeIframeAPIReady = function(){
+  // song henüz yüklenmemiş olabilir; setupPlayer çağrıldığında player kurulacak
+};
+
+function setupPlayer(){
+  candidateQueue = null;
+  triedIds = new Set(song.youtubeId ? [song.youtubeId] : []);
+  els["yt-status"].textContent = "";
+  els["yt-status"].classList.remove("err");
+
+  if(!window.YT || !window.YT.Player){
+    setTimeout(setupPlayer, 300);
+    return;
+  }
+  if(ytPlayer){
+    ytReady = false;
+    if(song.youtubeId){ ytPlayer.cueVideoById(song.youtubeId); }
+    return;
+  }
+  ytPlayer = new YT.Player("yt-player", {
+    videoId: song.youtubeId || undefined,
+    playerVars: {rel:0, modestbranding:1},
+    events:{
+      onReady: () => { ytReady = true; els["yt-status"].textContent = ""; },
+      onStateChange: (ev) => {
+        // cueVideoById ile yeni bir aday yüklendiğinde de (onReady bir daha
+        // tetiklenmez) oynatıcının gerçekten hazır olduğunu işaretle
+        if([-1,0,1,2,3,5].includes(ev.data)){
+          ytReady = true;
+          els["yt-status"].textContent = "";
+        }
+      },
+      onError: onPlayerError
+    }
+  });
+}
+
+// Video gömülemiyorsa (embed kapalı / kaldırılmış / bölge kısıtlı) otomatik
+// olarak sıradaki YouTube eşleşmesini dener; hiçbiri çalışmazsa kullanıcıyı
+// bilgilendirip dahili kronometreyle (sessiz) devam eder.
+async function onPlayerError(e){
+  ytReady = false;
+  els["yt-status"].textContent = "bu video çalınamadı, alternatif deneniyor...";
+  await tryNextCandidate();
+}
+
+// Türkçe karakterleri sadeleştirip alfasayısala indirger (backend norm() ile aynı fikir)
+function normText(s){
+  s = (s||"").toLowerCase();
+  const map = {"ç":"c","ğ":"g","ı":"i","ö":"o","ş":"s","ü":"u"};
+  s = s.replace(/[çğıöşü]/g, ch => map[ch]);
+  s = s.replace(/[^a-z0-9 ]/g, "");
+  return s.replace(/\s+/g, " ").trim();
+}
+
+// Bir aday video başlığı, gerçekten bu şarkıya mı ait — yoksa alakasız bir
+// öneri mi (ör. "önerilen video" rafından sızmış) — kabaca doğrular.
+function candidateMatchesSong(title){
+  const t = normText(title);
+  const songTitle = normText(song.title);
+  if(songTitle && t.includes(songTitle)) return true;
+  const artist = normText(song.artist);
+  if(artist && songTitle){
+    const artistWords = artist.split(" ").filter(w => w.length > 2);
+    const hasArtist = artistWords.length===0 || artistWords.some(w => t.includes(w));
+    const titleWords = songTitle.split(" ").filter(w => w.length > 2);
+    const titleHits = titleWords.filter(w => t.includes(w)).length;
+    if(hasArtist && titleWords.length && titleHits / titleWords.length >= 0.6) return true;
+  }
+  return false;
+}
+
+async function tryNextCandidate(){
+  if(candidateQueue === null){
+    const q = [song.artist, song.title].filter(Boolean).join(" ");
+    try{
+      const r = await fetch("/api/youtube-alts?q=" + encodeURIComponent(q));
+      candidateQueue = await r.json();       // [{id, title}, ...]
+    }catch(err){
+      candidateQueue = [];
+    }
+  }
+  const next = candidateQueue.find(c => !triedIds.has(c.id) && candidateMatchesSong(c.title));
+  if(next){
+    triedIds.add(next.id);
+    song.youtubeId = next.id;
+    ytPlayer.cueVideoById(next.id);
+    saveLocal();
+  } else {
+    // Alakasız videoya sessizce geçmek yerine dur; kullanıcı "Başka video"
+    // ile başlıkları görerek elle seçebilir, ya da YouTube'un kendi
+    // "izle" bağlantısını kullanabilir.
+    els["yt-status"].textContent = "otomatik eşleşen video bulunamadı — \"Başka video\" ile elle seçebilirsin";
+    els["yt-status"].classList.add("err");
+  }
+}
+
+function getTime(){ return (ytReady && ytPlayer) ? ytPlayer.getCurrentTime() : internalT; }
+function seek(sec){
+  if(ytReady && ytPlayer){ ytPlayer.seekTo(sec,true); ytPlayer.playVideo(); }
+  else { internalT=sec; internalRunning=true; lastTick=performance.now(); }
+}
+
+els["play-btn"].addEventListener("click", () => {
+  if(ytReady && ytPlayer){
+    const state = ytPlayer.getPlayerState();
+    if(state === 1){ ytPlayer.pauseVideo(); } else { ytPlayer.playVideo(); }
+  } else {
+    internalRunning = !internalRunning;
+    lastTick = performance.now();
+  }
+});
+
+els["stop-btn"].addEventListener("click", () => {
+  if(ytReady && ytPlayer){
+    ytPlayer.pauseVideo();
+    ytPlayer.seekTo(0, true);
+  } else {
+    internalRunning = false;
+    internalT = 0;
+  }
+  els["clock"].textContent = fmtClock(0);
+});
+
+// ------------------------------------------------------------------
+// Offset (5.6)
+// ------------------------------------------------------------------
+els["offset-slider"].addEventListener("input", () => {
+  offset = parseFloat(els["offset-slider"].value);
+  els["offset-val"].textContent = offset.toFixed(1) + "s";
+  saveLocal();
+});
+
+// Video farklı bir versiyon olduğunda (uzun intro, live vb.) LRCLIB
+// zamanlarıyla sabit bir kayma oluşur. Kullanıcı, o an ışıklanan satırın
+// video'da tam söylendiğini duyduğu anda bu düğmeye basar; offset, o satırın
+// kayıtlı zamanıyla şu anki oynatma zamanı arasındaki farka ayarlanır.
+els["calibrate-btn"].addEventListener("click", () => {
+  if(!song || activeIdx < 0 || song.lines[activeIdx].t == null){
+    els["yt-status"].textContent = "kalibrasyon için önce bir satır ışıklanmalı";
+    return;
+  }
+  const line = song.lines[activeIdx];
+  let newOffset = getTime() - line.t;
+  newOffset = Math.max(-10, Math.min(10, newOffset));
+  offset = Math.round(newOffset * 10) / 10;
+  els["offset-slider"].value = offset;
+  els["offset-val"].textContent = offset.toFixed(1) + "s";
+  saveLocal();
+});
+
+// ------------------------------------------------------------------
+// Alternatif video (4.2 / 7)
+// ------------------------------------------------------------------
+els["alt-video-btn"].addEventListener("click", async () => {
+  if(!song) return;
+  const q = [song.artist, song.title].filter(Boolean).join(" ");
+  els["alt-video-list"].innerHTML = "yükleniyor...";
+  try{
+    const r = await fetch("/api/youtube-alts?q=" + encodeURIComponent(q));
+    const candidates = await r.json();       // [{id, title}, ...]
+    els["alt-video-list"].innerHTML = "";
+    if(!candidates.length){
+      els["alt-video-list"].textContent = "sonuç yok";
+      return;
+    }
+    candidates.forEach(c => {
+      const b = document.createElement("button");
+      b.textContent = c.title.length > 42 ? c.title.slice(0,42) + "…" : c.title;
+      b.title = c.title;
+      b.addEventListener("click", () => {
+        song.youtubeId = c.id;
+        triedIds.add(c.id);
+        if(ytPlayer) ytPlayer.cueVideoById(c.id);
+        els["yt-status"].textContent = "";
+        els["yt-status"].classList.remove("err");
+        saveLocal();
+      });
+      els["alt-video-list"].appendChild(b);
+    });
+  }catch(e){
+    els["alt-video-list"].textContent = "başarısız";
+  }
+});
+
+// ------------------------------------------------------------------
+// 5.9 Elle tıkla-senkronla (Boşluk = sıradaki satırı damgala)
+// ------------------------------------------------------------------
+els["sync-mode-btn"].addEventListener("click", () => {
+  manualSyncMode = !manualSyncMode;
+  els["sync-mode-btn"].classList.toggle("active", manualSyncMode);
+  els["sync-hint"].textContent = manualSyncMode
+    ? "Senkron modu açık: Boşluk = sıradaki satırı damgala, ya da bir satıra tıkla"
+    : "";
+  if(manualSyncMode) syncPointer = 0;
+});
+
+document.addEventListener("keydown", (e) => {
+  if(e.code !== "Space" || !manualSyncMode || !song) return;
+  const target = e.target;
+  if(target && (target.tagName==="INPUT" || target.tagName==="TEXTAREA")) return;
+  e.preventDefault();
+  while(syncPointer < song.lines.length && !song.lines[syncPointer].lyric.trim()){
+    syncPointer++;
+  }
+  if(syncPointer >= song.lines.length) return;
+  song.lines[syncPointer].t = getTime();
+  song.hasSyncedLyrics = true;
+  flashRow(syncPointer);
+  saveLocal();
+  syncPointer++;
+});
+
+// ------------------------------------------------------------------
+// 5.10 Kaydet / yükle
+// ------------------------------------------------------------------
+els["download-btn"].addEventListener("click", () => {
+  if(!song) return;
+  const blob = new Blob([JSON.stringify({...song, offset, transpose}, null, 2)], {type:"application/json"});
+  const a = document.createElement("a");
+  a.href = URL.createObjectURL(blob);
+  a.download = (song.slug || "sarki") + ".sync.json";
+  a.click();
+  URL.revokeObjectURL(a.href);
+});
+
+els["upload-btn"].addEventListener("click", () => els["upload-input"].click());
+els["upload-input"].addEventListener("change", (e) => {
+  const file = e.target.files[0];
+  if(!file) return;
+  const reader = new FileReader();
+  reader.onload = () => {
+    try{
+      const data = JSON.parse(reader.result);
+      song = data;
+      offset = data.offset || 0;
+      transpose = data.transpose || 0;
+      render();
+      setupPlayer();
+      saveLocal();
+    }catch(err){
+      alert("Geçersiz dosya: " + err.message);
+    }
+  };
+  reader.readAsText(file);
+  e.target.value = "";
+});
+
+// ------------------------------------------------------------------
+// 5.4 Senkron döngüsü + spot ışığı (imza öğe)
+// ------------------------------------------------------------------
+function fmtClock(t){
+  t = Math.max(0, t|0);
+  const m = Math.floor(t/60), s = t%60;
+  return String(m).padStart(2,"0") + ":" + String(s).padStart(2,"0");
+}
+
+function loop(now){
+  if(internalRunning){
+    const dt = (now - lastTick) / 1000;
+    internalT += dt;
+    lastTick = now;
+  }
+  if(song){
+    const t = getTime();
+    els["clock"].textContent = fmtClock(t);
+
+    let idx = -1;
+    for(let i=0;i<song.lines.length;i++){
+      if(song.lines[i].t != null && song.lines[i].t <= t + offset + 0.05) idx = i;
+    }
+    if(idx !== activeIdx){
+      highlight(idx);
+      if(idx >= 0){
+        const row = els["lines"].querySelector(`.row[data-idx="${idx}"]`);
+        if(row) row.scrollIntoView({behavior:"smooth", block:"center"});
+      }
+      activeIdx = idx;
+    }
+  }
+  requestAnimationFrame(loop);
+}
+
+function highlight(idx){
+  els["lines"].querySelectorAll(".row.active").forEach(r => r.classList.remove("active"));
+  els["lines"].querySelectorAll(".row").forEach(r => {
+    const i = parseInt(r.dataset.idx, 10);
+    if(!isNaN(i)) r.classList.toggle("past", idx >= 0 && i < idx);
+  });
+  if(idx >= 0){
+    const row = els["lines"].querySelector(`.row[data-idx="${idx}"]`);
+    if(row) row.classList.add("active");
+  }
+}
+
+requestAnimationFrame(loop);
+
+// URL'den doğrudan şarkı açma: /#slug
+if(location.hash.length > 1){
+  loadSong(location.hash.slice(1));
+}
+
+// Tarayıcı konsolundan durum kontrolü için (geliştirme/teşhis amaçlı)
+window.AkorSahnesi = {
+  getState: () => ({
+    ytReady, internalRunning, internalT,
+    slug: song && song.slug, youtubeId: song && song.youtubeId,
+    playerState: ytPlayer ? ytPlayer.getPlayerState() : null,
+  })
+};
+
+})();
+</script>
+</body>
+</html>
