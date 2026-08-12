@@ -20,7 +20,7 @@ from pathlib import Path
 
 import requests
 
-CACHE_DIR = Path(__file__).parent / "cache"
+CACHE_DIR = Path(os.environ.get("LOCAL_CACHE_DIR", Path(__file__).parent / "cache"))
 CLOUD_URL = os.environ.get("CLOUD_URL", "").rstrip("/")
 ADMIN_TOKEN = os.environ.get("ADMIN_TOKEN", "").strip()
 
