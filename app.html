@@ -121,13 +121,13 @@
   #lines{max-width:900px; margin:0 auto; display:flex; flex-direction:column; gap:1.1em;}
   .row{
     position:relative; padding:.35em .6em; border-radius:8px; cursor:pointer;
-    overflow-x:auto; scrollbar-width:thin;
   }
   .row.blank{height:.6em; cursor:default;}
   .row.section{
     margin-top:.6em; padding-left:.9em; border-left:3px solid var(--amber);
     color:var(--amber); font-weight:700; letter-spacing:.03em; text-transform:uppercase; font-size:.85rem;
   }
+  .row-content{ position:relative; }
   .lane{
     position:relative; height:1.5em; font-family:'Space Mono',monospace; font-size:1rem; white-space:pre;
   }
@@ -384,8 +384,8 @@ function shiftChord(ch,n){
   return out+rest;
 }
 
-els["tr-down"].addEventListener("click", () => { transpose--; applyTranspose(); saveLocal(); });
-els["tr-up"].addEventListener("click", () => { transpose++; applyTranspose(); saveLocal(); });
+els["tr-down"].addEventListener("click", () => { transpose--; applyTranspose(); fitRows(); saveLocal(); });
+els["tr-up"].addEventListener("click", () => { transpose++; applyTranspose(); fitRows(); saveLocal(); });
 
 function applyTranspose(){
   document.querySelectorAll(".cb").forEach(cb => {
@@ -443,6 +443,10 @@ function render(){
       return;
     }
 
+    const content = document.createElement("div");
+    content.className = "row-content";
+
+    let maxCol = ln.lyric.length;
     if(ln.chords && ln.chords.length){
       const lane = document.createElement("div");
       lane.className = "lane";
@@ -450,24 +454,71 @@ function render(){
         const cb = document.createElement("span");
         cb.className = "cb";
         cb.dataset.chord = c.chord;
-        cb.textContent = shiftChord(c.chord, transpose);
+        const chordText = shiftChord(c.chord, transpose);
+        cb.textContent = chordText;
         cb.style.left = c.col + "ch";
         lane.appendChild(cb);
+        maxCol = Math.max(maxCol, c.col + chordText.length);
       });
-      row.appendChild(lane);
+      content.appendChild(lane);
     }
+
+    // .lane'in mutlak konumlu akor rozetleri, kapsayan kutunun genişliğini
+    // kendiliğinden büyütmez — bu yüzden en uzak akorun bittiği noktaya göre
+    // genişliği elle veriyoruz; yoksa satır sonundaki akorlar görünmez alana
+    // taşıp kayboluyor (kaydırarak bile erişilemiyor).
+    content.style.width = maxCol + "ch";
 
     const lyricEl = document.createElement("div");
     lyricEl.className = "lyric";
     lyricEl.textContent = ln.lyric;
-    row.appendChild(lyricEl);
+    content.appendChild(lyricEl);
 
+    row.appendChild(content);
     row.addEventListener("click", () => onRowClick(idx));
     els["lines"].appendChild(row);
   });
 
   renderRhythm();
+  fitRows();
 }
+
+// Satır, ekrana sığmayacak kadar genişse (uzun söz + sona yakın akorlar)
+// kaydırmaya güvenmek yerine küçülterek tamamını tek bakışta görünür kılar.
+// requestAnimationFrame'e erteliyoruz: DOM'a yeni eklenen satırlarda tarayıcı
+// düzeni henüz oturmamış olabilir, hemen ölçüm yapmak yanlış (bayat) genişlik
+// değerleri verip yanlış bir ölçek hesaplatabiliyor.
+function fitRows(){
+  requestAnimationFrame(() => {
+    els["lines"].querySelectorAll(".row-content").forEach(content => {
+      content.style.transform = "";
+      const row = content.parentElement;
+      const style = getComputedStyle(row);
+      const avail = row.clientWidth - parseFloat(style.paddingLeft) - parseFloat(style.paddingRight);
+      const natural = content.scrollWidth;
+      if(avail > 0 && natural > avail){
+        const scale = avail / natural;
+        content.style.transform = `scale(${scale})`;
+        content.style.transformOrigin = "left top";
+        row.style.height = (content.scrollHeight * scale) + "px";
+      } else {
+        row.style.height = "";
+      }
+    });
+  });
+}
+
+// Web fontu (Space Mono) geç yüklenirse metin genişliği değişip önceki
+// ölçekleri geçersiz kılabilir; font tam yüklenince bir kez daha ölçekle.
+if(document.fonts && document.fonts.ready){
+  document.fonts.ready.then(() => fitRows());
+}
+
+let fitRowsResizeTimer = null;
+window.addEventListener("resize", () => {
+  clearTimeout(fitRowsResizeTimer);
+  fitRowsResizeTimer = setTimeout(fitRows, 150);
+});
 
 function onRowClick(idx){
   const ln = song.lines[idx];
