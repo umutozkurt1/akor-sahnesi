@@ -1,0 +1,155 @@
+{
+  "slug": "hande-yener-aci-veriyor",
+  "artist": "Hande Yener",
+  "title": "Acı Veriyor",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Tanrıya yalvarmıştım",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yıllar önce yıllar önce",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 9
+        },
+        {
+          "chord": "Am",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dedim ki onu alma yanına",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Benden önce benden önce",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 9
+        },
+        {
+          "chord": "Am",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Küçük bir şans daha istiyorum",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bunu bütün kalbimle diliyorum",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Acı veriyor yeni baştan sevmesi",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 8
+        },
+        {
+          "chord": "Am",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir gün benle bir gün ayrı geçmesi",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 10
+        },
+        {
+          "chord": "Am",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Acı veriyor yeni baştan sevmesi",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 8
+        },
+        {
+          "chord": "Am",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yıllar sonra aşka küskün dönmesi",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 7
+        },
+        {
+          "chord": "Am",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

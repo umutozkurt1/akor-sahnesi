@@ -1,0 +1,113 @@
+{
+  "slug": "korkut-sarmer-bedduam",
+  "artist": "Korkut Sarmer",
+  "title": "Bedduam",
+  "key": "B",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Çaresizlikten bu bakış sana",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Geçmiyor günler geceler",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dışarıda yağmur gözlerimde yaşlar",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yüreğim seni gizler  (2) ister",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Çık desem çıkmazsın aklımdan",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bırak yakamı çek git sonsuza hayatımdan",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir defa adını anarsam ardından",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bedduam say son sözümdür ardından.",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 11
+        },
+        {
+          "chord": "C",
+          "col": 25
+        },
+        {
+          "chord": "B",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

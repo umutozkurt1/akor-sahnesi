@@ -1,0 +1,154 @@
+{
+  "slug": "vedat-tozyilmaz-gece-yagmuru",
+  "artist": "Vedat Tozyılmaz",
+  "title": "Gece Yağmuru",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Gece yağmuru yağıyor İstanbul'da",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Damlalar sanki göz yaşlarım",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gölgen vuruyor duvarlara",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Titreyen yollara",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 7
+        },
+        {
+          "chord": "Am",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ama sen gelince aklıma",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yürüyorum sanki bir boşluğa",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Issız o boş sokaklara",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kaldırımlara...",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Uzağım sana uzak",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hayalin başucumda",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hatta koynumda.",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 5
+        },
+        {
+          "chord": "Am",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

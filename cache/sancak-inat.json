@@ -1,0 +1,422 @@
+{
+  "slug": "sancak-inat",
+  "artist": "Sancak",
+  "title": "İnat",
+  "key": "D",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Intro:",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 4
+        },
+        {
+          "chord": "C",
+          "col": 8
+        },
+        {
+          "chord": "Dm",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Beni kandırdın, seviyorum diyerek",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 11
+        },
+        {
+          "chord": "Gm",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Körü körüne inandığımı adın gibi bilerek",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 20
+        },
+        {
+          "chord": "Dm",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Uykumdan uyandırdın, en güzel yerinde",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 16
+        },
+        {
+          "chord": "A#",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dostlarımdan utandım halime üzülerek",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 18
+        },
+        {
+          "chord": "Dm",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Her şey sende kalsın bana yalnız beni bırak",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 41
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Güneşim doğmaz zaten mevsimler yok artık",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 18
+        },
+        {
+          "chord": "Dm",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Aklım sende kalsın dayanırım bana bırak",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ellerimdeki izler duvarlara vurarak",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 15
+        },
+        {
+          "chord": "Dm",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İçimde kopan fırtınaya inat",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 4
+        },
+        {
+          "chord": "A#",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yalanlarına inat",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Seni bekliyorum",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yanında uyandığın kimselere inat",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 5
+        },
+        {
+          "chord": "A#",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bu gururuma inat",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Seni özlüyorum",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Seni kandırdım, gidiyorum diyerek",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 11
+        },
+        {
+          "chord": "A#",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Geri dön demeyeceğini adım gibi bilerek",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 19
+        },
+        {
+          "chord": "Dm",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Uykumdan uyandırdın, en güzel yerinde",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 17
+        },
+        {
+          "chord": "A#",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dostlarımdan utandım halime üzülerek",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 18
+        },
+        {
+          "chord": "Dm",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Her şey sende kalsın bana yalnız beni bırak",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 41
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Güneşim doğmaz zaten mevsimler yok artık",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 18
+        },
+        {
+          "chord": "Dm",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Aklım sende kalsın dayanırım bana bırak",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ellerimdeki izler duvarlara vurarak",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 15
+        },
+        {
+          "chord": "Dm",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İçimde kopan fırtınaya inat",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 4
+        },
+        {
+          "chord": "A#",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yalanlarına inat",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Seni bekliyorum",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yanında uyandığın kimselere inat",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 5
+        },
+        {
+          "chord": "A#",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bu gururuma inat",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Seni özlüyorum",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

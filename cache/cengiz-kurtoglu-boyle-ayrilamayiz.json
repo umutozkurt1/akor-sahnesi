@@ -1,0 +1,193 @@
+{
+  "slug": "cengiz-kurtoglu-boyle-ayrilamayiz",
+  "artist": "Cengiz Kurtoğlu",
+  "title": "Böyle Ayrılamayız",
+  "key": "B",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Bugün benim karşımda, ilk defa ağlıyorsun",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Her şey burada bitsin, ayrılalım diyorsun",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 30
+        },
+        {
+          "chord": "Em",
+          "col": 36
+        },
+        {
+          "chord": "A",
+          "col": 41
+        },
+        {
+          "chord": "D",
+          "col": 51
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hangi seven unutmuş, biz de unutamayız",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 27
+        },
+        {
+          "chord": "A",
+          "col": 34
+        },
+        {
+          "chord": "D",
+          "col": 55
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Boş yere veda etme, böyle ayrılamayız",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "F#",
+          "col": 24
+        },
+        {
+          "chord": "F#",
+          "col": 32
+        },
+        {
+          "chord": "A",
+          "col": 43
+        },
+        {
+          "chord": "D",
+          "col": 50
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ayrılamayız   unutamayız",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 11
+        },
+        {
+          "chord": "A",
+          "col": 15
+        },
+        {
+          "chord": "D",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Boş yere veda etme, böyle ayrılamayız",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "F#",
+          "col": 24
+        },
+        {
+          "chord": "F#",
+          "col": 34
+        },
+        {
+          "chord": "Bm",
+          "col": 52
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Aramıza hiç kimse, girmesin ne olursun",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Biliyorum sen hala, beni çok seviyorsun",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 25
+        },
+        {
+          "chord": "Em",
+          "col": 30
+        },
+        {
+          "chord": "A",
+          "col": 40
+        },
+        {
+          "chord": "D",
+          "col": 50
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

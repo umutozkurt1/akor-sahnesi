@@ -1,0 +1,105 @@
+{
+  "slug": "goksin-derin-sonbahardan-baharlara-selam",
+  "artist": "Gökşin Derin",
+  "title": "Sonbahardan Baharlara Selam",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Nereye gitsen peşinde yanan var",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 5
+        },
+        {
+          "chord": "Am",
+          "col": 9
+        },
+        {
+          "chord": "Em",
+          "col": 15
+        },
+        {
+          "chord": "Dm",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sonbahardan baharlara selamlar",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 13
+        },
+        {
+          "chord": "Am",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İçimde kalanlar benimle yanarlar",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 3
+        },
+        {
+          "chord": "Am",
+          "col": 10
+        },
+        {
+          "chord": "Em",
+          "col": 17
+        },
+        {
+          "chord": "Dm",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sönünce ışıklar gözlerimden su damlar",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 1
+        },
+        {
+          "chord": "Em",
+          "col": 11
+        },
+        {
+          "chord": "Am",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

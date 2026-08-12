@@ -1,0 +1,166 @@
+{
+  "slug": "oyku-gurman-nem-alacak-felek-benim",
+  "artist": "Öykü Gürman",
+  "title": "Nem Alacak Felek Benim",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Bir okkacık yağım mı var Bir dönümcük bağım mı var",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "A#m",
+          "col": 6
+        },
+        {
+          "chord": "Cm",
+          "col": 22
+        },
+        {
+          "chord": "A#m",
+          "col": 41
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir derdime bin dert olar Nem alacak felek benim",
+      "chords": [
+        {
+          "chord": "D#m",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 15
+        },
+        {
+          "chord": "A#m",
+          "col": 33
+        },
+        {
+          "chord": "Cm",
+          "col": 41
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yandım yandım kar mı verdi  Ekşi tatlı nar mı verdi",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 0
+        },
+        {
+          "chord": "D#m",
+          "col": 28
+        },
+        {
+          "chord": "Cm",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sarı saçlı yar mı verdi Nem alacak felek benim",
+      "chords": [
+        {
+          "chord": "D#m",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 19
+        },
+        {
+          "chord": "A#m",
+          "col": 28
+        },
+        {
+          "chord": "Cm",
+          "col": 41
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Tükenmeyen mal mı verdi Nem alacak felek benim",
+      "chords": [
+        {
+          "chord": "D#m",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 26
+        },
+        {
+          "chord": "A#m",
+          "col": 36
+        },
+        {
+          "chord": "Cm",
+          "col": 44
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dedi boyun eğ hükmüme Bela verdi küme küme",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "A#m",
+          "col": 10
+        },
+        {
+          "chord": "A#m",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ferman okudu köküme Nem alacak felek benim",
+      "chords": [
+        {
+          "chord": "D#m",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 14
+        },
+        {
+          "chord": "A#m",
+          "col": 28
+        },
+        {
+          "chord": "Cm",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

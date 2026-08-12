@@ -1,0 +1,165 @@
+{
+  "slug": "baris-kadioglu-ayrilik-var",
+  "artist": "Barış Kadıoğlu",
+  "title": "Ayrılık Var",
+  "key": "B",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Aklında neler var",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 4
+        },
+        {
+          "chord": "C",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bakışlarında ayrılığın sancısı var",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 13
+        },
+        {
+          "chord": "C",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Üzülme alışırım zaten, içinde kaç yangın var",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 5
+        },
+        {
+          "chord": "Bm",
+          "col": 13
+        },
+        {
+          "chord": "C",
+          "col": 34
+        },
+        {
+          "chord": "Bm",
+          "col": 62
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Üzülme alışırım zaten, içinde kaç yangın var",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 7
+        },
+        {
+          "chord": "Bm",
+          "col": 15
+        },
+        {
+          "chord": "C",
+          "col": 36
+        },
+        {
+          "chord": "Bm",
+          "col": 64
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yalan mı söyle bana verdiğin tüm sözlerinle",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 34
+        },
+        {
+          "chord": "D",
+          "col": 63
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Doğruyu söyle, hiç mi güvenmedin ah bakma öyle",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İçimdeki ışık sana verdiğim gün soldu böyle",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ah yetmedi mi yine ayrılık var gözlerinde",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 20
+        },
+        {
+          "chord": "D",
+          "col": 30
+        },
+        {
+          "chord": "Am",
+          "col": 45
+        },
+        {
+          "chord": "Bm",
+          "col": 56
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

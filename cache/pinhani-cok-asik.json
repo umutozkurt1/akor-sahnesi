@@ -1,0 +1,238 @@
+{
+  "slug": "pinhani-cok-asik",
+  "artist": "Pinhani",
+  "title": "Çok Aşık",
+  "key": "G#",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Intro:",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 7
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Her şeyi silip atmak, yok saymak, unutmak  var",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 74
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İntikam çok sinsice, aşkın kucağımda saklanır yakar",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 72
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İçimdeki kötü fısıldar, acıt acıtabildiğin kadar",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Acıt acıtabilidiğin kadar kanar",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ben insan değilmişim, mutlu edemezmişim seni",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 37
+        },
+        {
+          "chord": "Cm",
+          "col": 72
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Zamansız gidermişim, yarım bırakırmışım, sonları hiç sevmezmişim",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 37
+        },
+        {
+          "chord": "C#",
+          "col": 69
+        },
+        {
+          "chord": "Cm",
+          "col": 102
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ama ben çok, çok,       çok aşığım, aşığım sana",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 21
+        },
+        {
+          "chord": "Cm",
+          "col": 25
+        },
+        {
+          "chord": "A#",
+          "col": 29
+        },
+        {
+          "chord": "Fm",
+          "col": 34
+        },
+        {
+          "chord": "A#",
+          "col": 57
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Aşığım",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Önce fikrin düşer, boğar gecemi sorulara",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 74
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hiç mi gelmez içinden huzur, ne gerek var bu kavgalara",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 78
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Affetmek aşkın içinde var, gururum gardını kollar,",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 46
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gururum delik deşik, sana",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

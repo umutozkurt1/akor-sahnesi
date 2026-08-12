@@ -1,0 +1,157 @@
+{
+  "slug": "karmate-kiz-horonu",
+  "artist": "Karmate",
+  "title": "Kız Horonu",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Gemi geliyor gemida",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gemi limana girmez",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 8
+        },
+        {
+          "chord": "Am",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bekarluk sultanlukturda",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir daha geri gelmez",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 9
+        },
+        {
+          "chord": "Am",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gemi yurutmam seni da",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Suda çurutmam seni",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 8
+        },
+        {
+          "chord": "Am",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Elli seneda geçsa",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gene unutmam seni",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 7
+        },
+        {
+          "chord": "Am",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gemici direğiylan da",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kayıkçı küreğiylan",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ben şimdi nere gidem",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bu yanmış yüreğiylan",
+      "chords": [],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

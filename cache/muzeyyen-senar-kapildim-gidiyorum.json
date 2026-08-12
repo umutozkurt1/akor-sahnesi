@@ -1,0 +1,113 @@
+{
+  "slug": "muzeyyen-senar-kapildim-gidiyorum",
+  "artist": "Müzeyyen Senar",
+  "title": "Kapıldım Gidiyorum",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Kapıldım gidiyorum bahtımın rügârına",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 15
+        },
+        {
+          "chord": "Cm",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ey ufuklar diyorum, yolculuk var yârına",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "G#",
+          "col": 8
+        },
+        {
+          "chord": "G",
+          "col": 16
+        },
+        {
+          "chord": "Fm",
+          "col": 34
+        },
+        {
+          "chord": "G",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ayrılık görünmüşken yâr tutmuyor elimden",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 16
+        },
+        {
+          "chord": "G#",
+          "col": 29
+        },
+        {
+          "chord": "G",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Misâfirim bugün ben, gurbet akşamlarına",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 8
+        },
+        {
+          "chord": "G",
+          "col": 17
+        },
+        {
+          "chord": "G#",
+          "col": 22
+        },
+        {
+          "chord": "Fm",
+          "col": 34
+        },
+        {
+          "chord": "G",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

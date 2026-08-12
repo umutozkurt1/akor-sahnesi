@@ -1,0 +1,161 @@
+{
+  "slug": "cevdet-bagca-kirgin",
+  "artist": "Cevdet Bağca",
+  "title": "Kırgın",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Derdinden  Verem  Olsam",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Tutuşsam  Kerem  Olsam",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sürmem  Seni  Tenime",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yarama  Merhem  Olsan",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sürmem  Seni   Tenime",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yarama  Meerhem  Olsan",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 13
+        },
+        {
+          "chord": "Am",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kurumuş  Yaprak  Olsam",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir  Çorak  Toprak  Olsam",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İçmem  Bir  Yudum  Senden",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kerbelada  Su  Olsan",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İçmem  Bir  Yudum  Senden",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kerbelada  Su  Olsan",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 12
+        },
+        {
+          "chord": "Am",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

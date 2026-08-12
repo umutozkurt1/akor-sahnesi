@@ -1,0 +1,153 @@
+{
+  "slug": "yavuz-bingol-ay-dusse",
+  "artist": "Yavuz Bingöl",
+  "title": "Ay Düşse",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Gün doğuyor durmaksızın",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "E7",
+          "col": 13
+        },
+        {
+          "chord": "Am",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Seneler geçiyor farkındamısın",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "E7",
+          "col": 16
+        },
+        {
+          "chord": "F7",
+          "col": 21
+        },
+        {
+          "chord": "Am",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bu gönül ikimizi nasıl da yakar",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kimi aynaya bakar bakar kimi seyre durur gariban",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "E7",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yıkılır bir anda dünyalar",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 6
+        },
+        {
+          "chord": "Am",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İki göz biraraya gelebilse kelimeler anlamını yitirse",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Olmayacak dua değil bu birileri he dese",
+      "chords": [
+        {
+          "chord": "E7",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 21
+        },
+        {
+          "chord": "F7",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Pencereme bu gece ay düşse lara liray",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

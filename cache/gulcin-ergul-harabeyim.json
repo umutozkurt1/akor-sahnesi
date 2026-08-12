@@ -1,0 +1,211 @@
+{
+  "slug": "gulcin-ergul-harabeyim",
+  "artist": "Gülçin Ergül",
+  "title": "Harabeyim",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Uykusuz gecelerin yıldızlarıydık biz",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 25
+        },
+        {
+          "chord": "A",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hiç göz bile kırpmazdık senle",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 16
+        },
+        {
+          "chord": "A",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "O kapkara karanlıkta",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 4
+        },
+        {
+          "chord": "Gm",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bembeyaz parlardık biz",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 4
+        },
+        {
+          "chord": "Em",
+          "col": 11
+        },
+        {
+          "chord": "A",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bitti mi aşk şimdi söyle bitti mi aşk",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 11
+        },
+        {
+          "chord": "A",
+          "col": 25
+        },
+        {
+          "chord": "Gm",
+          "col": 30
+        },
+        {
+          "chord": "Am",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bitti mi aşk uykusuz gece yine yine yine",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 12
+        },
+        {
+          "chord": "A",
+          "col": 20
+        },
+        {
+          "chord": "Gm",
+          "col": 27
+        },
+        {
+          "chord": "Am",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Harabeyim aşkından yıkıkım",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 13
+        },
+        {
+          "chord": "G",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Amadeyim emrine canım",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Avareyim tuz buz olmuşum",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Harabeyim paramparçayım",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

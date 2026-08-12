@@ -1,0 +1,612 @@
+{
+  "slug": "corinne-bailey-rae-put-your-records-on",
+  "artist": "Corinne Bailey Rae",
+  "title": "Put Your Records On",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Intro",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "F#m6",
+          "col": 2
+        },
+        {
+          "chord": "Esus13",
+          "col": 7
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "E9",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Three little birds, sat on my window",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "F#m6",
+          "col": 21
+        },
+        {
+          "chord": "Esus13",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And they told me I don't need to worry",
+      "chords": [
+        {
+          "chord": "E9",
+          "col": 14
+        },
+        {
+          "chord": "A",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Summer came like cinnamon So sweet",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "F#m6",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Esus13",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Little girls doubledutch on the concrete",
+      "chords": [
+        {
+          "chord": "E9",
+          "col": 13
+        },
+        {
+          "chord": "A",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "    Maybe sometimes, we've    got it wrong, but it's alright",
+      "chords": [
+        {
+          "chord": "F#m7",
+          "col": 0
+        },
+        {
+          "chord": "F#m7",
+          "col": 25
+        },
+        {
+          "chord": "B7",
+          "col": 54
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "        Dmaj7                               Dmmaj7",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "The more     things seem to change, the more      they stay same",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Oh, don't you hesitate",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Girl, put your records on,    tell me your favorite song",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "F#m6",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "      You go ahead, let your hair down",
+      "chords": [
+        {
+          "chord": "Esus13",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sapphire and faded jeans,    I hope you get your dreams",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "F#m6",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "      Just go ahead, let your hair down",
+      "chords": [
+        {
+          "chord": "Esus13",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "     You're gonna find yourself somewhere, somehow",
+      "chords": [
+        {
+          "chord": "Dmaj7",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 50
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Blue as the sky, sunburn and lonely",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "F#m6",
+          "col": 18
+        },
+        {
+          "chord": "Esus13",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sipping tea in a bar by the roadside",
+      "chords": [
+        {
+          "chord": "E9",
+          "col": 12
+        },
+        {
+          "chord": "A",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Don't you let those other boys    fool you",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "F#m6",
+          "col": 31
+        },
+        {
+          "chord": "Esus13",
+          "col": 43
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Got to love that afro hair do",
+      "chords": [
+        {
+          "chord": "E9",
+          "col": 12
+        },
+        {
+          "chord": "A",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "    Maybe sometimes, we    feel afraid, but it's alright",
+      "chords": [
+        {
+          "chord": "F#m7",
+          "col": 0
+        },
+        {
+          "chord": "F#m7",
+          "col": 22
+        },
+        {
+          "chord": "B7",
+          "col": 50
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "        Dmaj7                           Dmmaj7",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "The more     you stay the same, the more      they seem to change",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Don't you think it's strange?",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Girl, put your records on, tell me your favorite song",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "      You go ahead, let your hair down",
+      "chords": [
+        {
+          "chord": "Esus13",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sapphire and faded jeans,    I hope you get your dreams",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "F#m6",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "      Just go ahead, let your hair down",
+      "chords": [
+        {
+          "chord": "Esus13",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dmaj7                               Dmmaj7",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "     You're gonna find yourself somewhere, somehow",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   'Twas more than I could take,   pity for pity's sake",
+      "chords": [
+        {
+          "chord": "Bm7",
+          "col": 0
+        },
+        {
+          "chord": "Bm7",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   Some nights kept me awake,   I thought that I was stronger",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   When you gonna realize,   that you don't even have to try  any longer?",
+      "chords": [
+        {
+          "chord": "Bm7",
+          "col": 0
+        },
+        {
+          "chord": "Bm7",
+          "col": 26
+        },
+        {
+          "chord": "Dmaj7",
+          "col": 49
+        },
+        {
+          "chord": "Dmaj7",
+          "col": 57
+        },
+        {
+          "chord": "Bm7",
+          "col": 66
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  Do what you want to",
+      "chords": [
+        {
+          "chord": "D6",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Girl, put your records on,    tell me your favorite song",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "F#m6",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "      You go ahead, let your hair down",
+      "chords": [
+        {
+          "chord": "Esus13",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sapphire and faded jeans,    I hope you get your dreams",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "F#m6",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "      Just go ahead, let your hair down",
+      "chords": [
+        {
+          "chord": "Esus13",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Girl, put your records on,    tell me your favorite song",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "F#m6",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "      You go ahead, let your hair down",
+      "chords": [
+        {
+          "chord": "Esus13",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sapphire and faded jeans,    I hope you get your dreams",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "F#m6",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "      Just go ahead, let your hair down",
+      "chords": [
+        {
+          "chord": "Esus13",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Oh,     you're gonna find yourself somewhere, somehow",
+      "chords": [
+        {
+          "chord": "Dmaj7",
+          "col": 3
+        },
+        {
+          "chord": "Amaj9",
+          "col": 53
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

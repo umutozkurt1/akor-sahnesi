@@ -1,0 +1,151 @@
+{
+  "slug": "ibrahim-erkal-canisi",
+  "artist": "İbrahim Erkal",
+  "title": "Canısı",
+  "key": "D",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Gidemem gidemem, seni terk edemem",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ölürüm ölürüm, ben sensiz edemem",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 41
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Canısı canısı canısı",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 7
+        },
+        {
+          "chord": "Dm",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Canısı canısı, ömrümün yarısı",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 9
+        },
+        {
+          "chord": "Dm",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ben senden ayrılmam, alnımın yazısı",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 12
+        },
+        {
+          "chord": "Cm",
+          "col": 26
+        },
+        {
+          "chord": "F7",
+          "col": 42
+        },
+        {
+          "chord": "Dm",
+          "col": 49
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Duymasam sesini, tutmasam elini",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Tatmasam tenini, buna dayanamam",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Canısı canısı canısı",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 7
+        },
+        {
+          "chord": "Dm",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "N",
+      "chords": [],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

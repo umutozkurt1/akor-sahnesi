@@ -1,0 +1,178 @@
+{
+  "slug": "demet-akalin-ses-kes",
+  "artist": "Demet Akalın",
+  "title": "Ses Kes",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Benden nefret ediyormuşsun",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Benimde buna vaktim olsa",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Tamam uzaktan kusursuzsun",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yakından lüzumsuz oysa",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İki yüzü vardı",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir kalbi yoktu",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kırdıklarımı saydım hepsi oydu",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 18
+        },
+        {
+          "chord": "A#",
+          "col": 31
+        },
+        {
+          "chord": "Am",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Arkadamdan atıp tutup",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Konuşup söylenme",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bende durum şöyle",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ses Kes dinle",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

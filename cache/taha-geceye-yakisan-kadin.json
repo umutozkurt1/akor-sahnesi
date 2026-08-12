@@ -1,0 +1,137 @@
+{
+  "slug": "taha-geceye-yakisan-kadin",
+  "artist": "Taha",
+  "title": "Geceye Yakışan Kadın",
+  "key": "E",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Geceye yakışan bir kadın",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 4
+        },
+        {
+          "chord": "Bm",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ben ona tutsak, o bana sağır",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Geceme karışan bir kadın",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yıldızları toplamış saçlarına",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Geceye alışan bir adam",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 4
+        },
+        {
+          "chord": "Bm",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yağmurlar yağsa da, o zaten sırılsıklam",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 2
+        },
+        {
+          "chord": "D",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Geceyi yakan bir adam",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Geceyi söndüren bir kader var",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 4
+        },
+        {
+          "chord": "D",
+          "col": 22
+        },
+        {
+          "chord": "Em",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

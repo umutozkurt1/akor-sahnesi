@@ -1,0 +1,277 @@
+{
+  "slug": "pilli-bebek-bak",
+  "artist": "Pilli Bebek",
+  "title": "Bak",
+  "key": "Bb",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Öfke yangınlarından kurtulsan",
+      "chords": [
+        {
+          "chord": "Bbm",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kendi kıyılarına yakın bir yerde",
+      "chords": [
+        {
+          "chord": "Bbm",
+          "col": 4
+        },
+        {
+          "chord": "F",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Toz pembenin üstüne bassan",
+      "chords": [
+        {
+          "chord": "Bbm",
+          "col": 6
+        },
+        {
+          "chord": "F",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gök mavinin altında uzansan",
+      "chords": [
+        {
+          "chord": "Bbm",
+          "col": 8
+        },
+        {
+          "chord": "F",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Uzak geliyor hayatın uzak sana",
+      "chords": [
+        {
+          "chord": "Ebm",
+          "col": 2
+        },
+        {
+          "chord": "Db",
+          "col": 11
+        },
+        {
+          "chord": "Ab",
+          "col": 23
+        },
+        {
+          "chord": "Bbm",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yakamam kendimi yakamı bıraksana",
+      "chords": [
+        {
+          "chord": "Ebm",
+          "col": 8
+        },
+        {
+          "chord": "Db",
+          "col": 23
+        },
+        {
+          "chord": "Ab",
+          "col": 35
+        },
+        {
+          "chord": "Fm",
+          "col": 50
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hayaller içinde     gün görmeye bak",
+      "chords": [
+        {
+          "chord": "Bbm",
+          "col": 20
+        },
+        {
+          "chord": "Ebm",
+          "col": 26
+        },
+        {
+          "chord": "F",
+          "col": 45
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Saklı kalan güne    can vermeye bak",
+      "chords": [
+        {
+          "chord": "Bbm",
+          "col": 22
+        },
+        {
+          "chord": "Ebm",
+          "col": 27
+        },
+        {
+          "chord": "F",
+          "col": 45
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Parıldayıp duran    insanlara bak",
+      "chords": [
+        {
+          "chord": "Bbm",
+          "col": 22
+        },
+        {
+          "chord": "Ebm",
+          "col": 28
+        },
+        {
+          "chord": "F",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kendi düşlerine    düşmanlara bak",
+      "chords": [
+        {
+          "chord": "Bbm",
+          "col": 21
+        },
+        {
+          "chord": "Eb",
+          "col": 27
+        },
+        {
+          "chord": "F",
+          "col": 45
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "intro solo",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Parıldayıp duran     insanlara bak",
+      "chords": [
+        {
+          "chord": "Bbm",
+          "col": 23
+        },
+        {
+          "chord": "Ebm",
+          "col": 29
+        },
+        {
+          "chord": "F",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kendi düşlerine     düşmanlara bak",
+      "chords": [
+        {
+          "chord": "Bbm",
+          "col": 22
+        },
+        {
+          "chord": "Ebm",
+          "col": 28
+        },
+        {
+          "chord": "F",
+          "col": 43
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gittikçe yükselen     haller içindeyim",
+      "chords": [
+        {
+          "chord": "Gb",
+          "col": 22
+        },
+        {
+          "chord": "Ebm",
+          "col": 32
+        },
+        {
+          "chord": "F",
+          "col": 48
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İnsandan örülmüş   duvarlar içindeyim",
+      "chords": [
+        {
+          "chord": "Gb",
+          "col": 25
+        },
+        {
+          "chord": "Ebm",
+          "col": 33
+        },
+        {
+          "chord": "F",
+          "col": 53
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

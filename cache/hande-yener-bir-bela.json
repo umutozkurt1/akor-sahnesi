@@ -1,0 +1,259 @@
+{
+  "slug": "hande-yener-bir-bela",
+  "artist": "Hande Yener",
+  "title": "Bir Bela",
+  "key": "G",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Kapo 1",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Günler alıyor bazen anlaması",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 10
+        },
+        {
+          "chord": "D#",
+          "col": 16
+        },
+        {
+          "chord": "Dm",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Benle kötü bir şey paylaşır gibisin",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 15
+        },
+        {
+          "chord": "D#",
+          "col": 24
+        },
+        {
+          "chord": "Dm",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kime kalıyor zordur anlaması",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 9
+        },
+        {
+          "chord": "D#",
+          "col": 16
+        },
+        {
+          "chord": "Dm",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sende derdini saklayan birisin",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 11
+        },
+        {
+          "chord": "D#",
+          "col": 19
+        },
+        {
+          "chord": "Dm",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gece sever hüzünleri vardır yine bir bildiği",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 7
+        },
+        {
+          "chord": "F",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yağmurundum yavaş yavaş diniyorum",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 5
+        },
+        {
+          "chord": "Dm",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yakıp yine ışıkları arar mısın o günleri",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 8
+        },
+        {
+          "chord": "F",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bitiyor artık ve bunu çok net görüyorum",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 22
+        },
+        {
+          "chord": "Dm",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hiç kimseyi seninle aynı tutmak olur mu",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 9
+        },
+        {
+          "chord": "F",
+          "col": 28
+        },
+        {
+          "chord": "Dm",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Aşk bir keredir bir sonraki aynı yeri bulur mu",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 12
+        },
+        {
+          "chord": "F",
+          "col": 35
+        },
+        {
+          "chord": "Cm",
+          "col": 44
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yürüyerek gidiyorum hiç acelem yok ayrılığa",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 6
+        },
+        {
+          "chord": "Cm",
+          "col": 16
+        },
+        {
+          "chord": "F",
+          "col": 31
+        },
+        {
+          "chord": "Gm",
+          "col": 41
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Seninkisi bitmiş olabilir benim duygum bir bela",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 5
+        },
+        {
+          "chord": "Cm",
+          "col": 22
+        },
+        {
+          "chord": "F",
+          "col": 35
+        },
+        {
+          "chord": "Gm",
+          "col": 45
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

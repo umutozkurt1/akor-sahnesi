@@ -1,0 +1,190 @@
+{
+  "slug": "redd-dunya",
+  "artist": "Redd",
+  "title": "Dünya",
+  "key": "C#",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "İstemiyor artık canım",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hiç üzülme umrumda değil hoşçakal derim",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 43
+        },
+        {
+          "chord": "F#m",
+          "col": 61
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Benim için artık bitti",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Geri dönmen umrumda değil, hoşçakal derim",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 45
+        },
+        {
+          "chord": "F#m",
+          "col": 62
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hiç bu kadar acıtmadı, hiç kimse senin kadar, acıtmadı canımı",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 37
+        },
+        {
+          "chord": "A",
+          "col": 65
+        },
+        {
+          "chord": "C#m",
+          "col": 81
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Önce gözümü bağladın sonra zamanı yavaşlattın, sonra durdurdun",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 39
+        },
+        {
+          "chord": "A",
+          "col": 68
+        },
+        {
+          "chord": "C#m",
+          "col": 98
+        },
+        {
+          "chord": "B",
+          "col": 108
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dünya yeniden dönüyor         x4",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 6
+        },
+        {
+          "chord": "F#m",
+          "col": 16
+        },
+        {
+          "chord": "C#m",
+          "col": 27
+        },
+        {
+          "chord": "B",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Telefonda ağlıyorsun",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gözyaşların umrumda değil hoşçakal derim",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 44
+        },
+        {
+          "chord": "F#m",
+          "col": 59
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yan birazcık anla canım,",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kül olsan da umrumda değil, hoşçakal derim",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 45
+        },
+        {
+          "chord": "F#m",
+          "col": 60
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

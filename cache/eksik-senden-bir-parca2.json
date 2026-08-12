@@ -1,0 +1,106 @@
+{
+  "slug": "eksik-senden-bir-parca2",
+  "artist": "Eksik",
+  "title": "Senden Bir Parça",
+  "key": "D",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Durdurak bilmez yaşlı gözlerim",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Eskimiş biraz hüzün taşıyan bulutlarda",
+      "chords": [
+        {
+          "chord": "A#m",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kaybettim kendimi",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ne yana baksam senden bir parça",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Nasıl sarar karanlıkta ruhum seni",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 41
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kaybediyorum vazgeçiyorum belki ama",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir geceden öteye geçmez bizim hikayemiz",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

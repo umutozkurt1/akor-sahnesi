@@ -1,0 +1,931 @@
+{
+  "slug": "bryan-adams-heaven",
+  "artist": "Bryan Adams",
+  "title": "Heaven",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 2
+        },
+        {
+          "chord": "G",
+          "col": 5
+        },
+        {
+          "chord": "F",
+          "col": 7
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 2
+        },
+        {
+          "chord": "G",
+          "col": 5
+        },
+        {
+          "chord": "F",
+          "col": 7
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Oh, thinkin' about our younger years",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 5
+        },
+        {
+          "chord": "G",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "There was only you and me",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 10
+        },
+        {
+          "chord": "Am",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "We were young and wild and free",
+      "chords": [
+        {
+          "chord": "Bb",
+          "col": 8
+        },
+        {
+          "chord": "G",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Now nothin' can take you away from me",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 5
+        },
+        {
+          "chord": "G",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "We've been down that road before",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 11
+        },
+        {
+          "chord": "Am",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But that's over now",
+      "chords": [
+        {
+          "chord": "Bb",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " You keep me comin' back for more",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Baby, you're all that I want",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 16
+        },
+        {
+          "chord": "Am",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "When you're lyin' here in my arms",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 12
+        },
+        {
+          "chord": "F",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'm findin' it hard to believe",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 4
+        },
+        {
+          "chord": "G",
+          "col": 19
+        },
+        {
+          "chord": "Am",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "We're in Heaven",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And love is all that I need",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 4
+        },
+        {
+          "chord": "G",
+          "col": 15
+        },
+        {
+          "chord": "Am",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And I found it there in your heart",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 6
+        },
+        {
+          "chord": "F",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "It isn't too hard to see",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 17
+        },
+        {
+          "chord": "Am",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "We're in Heaven",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 2
+        },
+        {
+          "chord": "G",
+          "col": 5
+        },
+        {
+          "chord": "F",
+          "col": 7
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Oh, once in your life you find someone",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 5
+        },
+        {
+          "chord": "G",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Who will turn your world around",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 9
+        },
+        {
+          "chord": "Am",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bring you up when you're feelin' down",
+      "chords": [
+        {
+          "chord": "Bb",
+          "col": 10
+        },
+        {
+          "chord": "G",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Yeah, nothin' could change what you mean to me",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 7
+        },
+        {
+          "chord": "G",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Oh , there's lots that I could say",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 13
+        },
+        {
+          "chord": "Am",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But just hold me now",
+      "chords": [
+        {
+          "chord": "Bb",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Cause our love will light the way",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And baby you're all that I want",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 4
+        },
+        {
+          "chord": "G",
+          "col": 19
+        },
+        {
+          "chord": "Am",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "When you're lyin' here in my arms",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 12
+        },
+        {
+          "chord": "F",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'm finding it hard to believe",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 4
+        },
+        {
+          "chord": "G",
+          "col": 19
+        },
+        {
+          "chord": "Am",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "We're in Heaven",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yeah, love is all that I need",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 6
+        },
+        {
+          "chord": "G",
+          "col": 17
+        },
+        {
+          "chord": "Am",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And I found it there in your heart",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 6
+        },
+        {
+          "chord": "F",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "It isn't too hard to see",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 3
+        },
+        {
+          "chord": "G",
+          "col": 17
+        },
+        {
+          "chord": "Am",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "We're in Heaven, yeah",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  I've been waitin' for  so long",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 23
+        },
+        {
+          "chord": "F",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "For somethin' to arrive",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 13
+        },
+        {
+          "chord": "Am",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "For love to come along",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "    Now our dreams are comin' true",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 2
+        },
+        {
+          "chord": "Em",
+          "col": 23
+        },
+        {
+          "chord": "F",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Through the good times and the bad",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yeah, I'll be standin' there by you , oh",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 2
+        },
+        {
+          "chord": "Am",
+          "col": 4
+        },
+        {
+          "chord": "C",
+          "col": 7
+        },
+        {
+          "chord": "F",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 2
+        },
+        {
+          "chord": "Am",
+          "col": 4
+        },
+        {
+          "chord": "G",
+          "col": 7
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And baby you're all that I want",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 4
+        },
+        {
+          "chord": "G",
+          "col": 19
+        },
+        {
+          "chord": "Am",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "When you're lyin' here in my arms",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 12
+        },
+        {
+          "chord": "F",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'm findin' it hard to believe",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 4
+        },
+        {
+          "chord": "G",
+          "col": 19
+        },
+        {
+          "chord": "Am",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "We're in Heaven",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And love is all that I need",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 4
+        },
+        {
+          "chord": "G",
+          "col": 15
+        },
+        {
+          "chord": "Am",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And I found it there in your heart",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 6
+        },
+        {
+          "chord": "F",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "It isn't too hard to see",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 3
+        },
+        {
+          "chord": "G",
+          "col": 17
+        },
+        {
+          "chord": "Am",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "We're in Heaven,",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Heaven, woah",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 8
+        },
+        {
+          "chord": "G",
+          "col": 12
+        },
+        {
+          "chord": "Am",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   You're all that I want",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 2
+        },
+        {
+          "chord": "F",
+          "col": 10
+        },
+        {
+          "chord": "G",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You're all that I need.",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 7
+        },
+        {
+          "chord": "G",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 2
+        },
+        {
+          "chord": "Am",
+          "col": 4
+        },
+        {
+          "chord": "C",
+          "col": 7
+        },
+        {
+          "chord": "F",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 2
+        },
+        {
+          "chord": "Am",
+          "col": 4
+        },
+        {
+          "chord": "G",
+          "col": 7
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

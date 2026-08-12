@@ -1,0 +1,151 @@
+{
+  "slug": "model-belki",
+  "artist": "Model",
+  "title": "Belki",
+  "key": "B",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Solmuş anılarımla bugün belki gelir geçer",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 12
+        },
+        {
+          "chord": "F#m",
+          "col": 30
+        },
+        {
+          "chord": "Bm",
+          "col": 45
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Belirsiz yarınımla belli ki bu halim derbeder",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 14
+        },
+        {
+          "chord": "F#m",
+          "col": 27
+        },
+        {
+          "chord": "Bm",
+          "col": 48
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Damla damla içimde birikir bu koca deniz",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 18
+        },
+        {
+          "chord": "F#m",
+          "col": 33
+        },
+        {
+          "chord": "Bm",
+          "col": 49
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Varsın taşsın belli etmem sevemem kimseyi",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 17
+        },
+        {
+          "chord": "F#m",
+          "col": 37
+        },
+        {
+          "chord": "Bm",
+          "col": 53
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dayanırız kavuşuruz belki de seninle bu yerde",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 14
+        },
+        {
+          "chord": "F#m",
+          "col": 29
+        },
+        {
+          "chord": "Bm",
+          "col": 53
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Unuturuz avunuruz belkiler bizim peşimizde",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 17
+        },
+        {
+          "chord": "F#m",
+          "col": 34
+        },
+        {
+          "chord": "Bm",
+          "col": 56
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

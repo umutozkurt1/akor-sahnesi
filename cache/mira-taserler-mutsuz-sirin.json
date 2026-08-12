@@ -1,0 +1,153 @@
+{
+  "slug": "mira-taserler-mutsuz-sirin",
+  "artist": "Mira Taşerler",
+  "title": "Mutsuz Şirin",
+  "key": "G",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Bugün olmuş tam on gün",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yüreğin nasıl dayanıyor anlamıyorum",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 23
+        },
+        {
+          "chord": "Gm",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir Takım söylentiler dönüyor",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Buldu diyorlar birini inanamıyorum",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 24
+        },
+        {
+          "chord": "Gm",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Söylenenler gerçeği yansıtıyorsa dönme",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 35
+        },
+        {
+          "chord": "D",
+          "col": 56
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kal orda köyün mutsuz şirini ben değil sen olacaksın sonunda",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 49
+        },
+        {
+          "chord": "Dm",
+          "col": 91
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Beni kendinden mahrum etme aşkı şiddete mecbur etme",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 41
+        },
+        {
+          "chord": "E",
+          "col": 60
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yakarım orayı yıkarım başına sakın ha beni tahrik etme",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 41
+        },
+        {
+          "chord": "E",
+          "col": 60
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

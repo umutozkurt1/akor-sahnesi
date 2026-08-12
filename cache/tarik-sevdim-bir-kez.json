@@ -1,0 +1,125 @@
+{
+  "slug": "tarik-sevdim-bir-kez",
+  "artist": "Tarık",
+  "title": "Sevdim Bir Kez",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Sevdim bir kez inan çıkman aklımdan",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hayal olmuş düş olmuş hep benlesin",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Cahilmiyim delimiyim ben neyim",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 11
+        },
+        {
+          "chord": "Am",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Evden işe işten eve hep senleyim",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bekle durda sabah ola gün ola",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ezan sesi beyaz bayrak çekerim",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Mecnun bana ahbap dost ola",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 12
+        },
+        {
+          "chord": "Am",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dert kimdeymiş  inan görsün isterim",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

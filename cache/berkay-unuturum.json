@@ -1,0 +1,165 @@
+{
+  "slug": "berkay-unuturum",
+  "artist": "Berkay",
+  "title": "Unuturum",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Ömrüm sonuna kadar diye başlar, Yazılırken aşk masalı.",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "A#m7",
+          "col": 26
+        },
+        {
+          "chord": "Cm7",
+          "col": 45
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Duygular değişir, gelişir, Acıdır görmek o son faslı.",
+      "chords": [
+        {
+          "chord": "A#m7",
+          "col": 18
+        },
+        {
+          "chord": "C#",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Art arda sorulur bütün sorular, bulunur bir karşılığı İkimiz bir olmayı beceremedik,",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "A#m7",
+          "col": 20
+        },
+        {
+          "chord": "Cm7",
+          "col": 36
+        },
+        {
+          "chord": "A#m7",
+          "col": 69
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "taşıyamadık ağırlığı Aşkkkkkk",
+      "chords": [
+        {
+          "chord": "Cm7",
+          "col": 12
+        },
+        {
+          "chord": "Cm",
+          "col": 18
+        },
+        {
+          "chord": "C#",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Buğulu gözlerini, Sıcacık ellerini, Yürekli sözlerini unuturum!",
+      "chords": [
+        {
+          "chord": "Cm7",
+          "col": 0
+        },
+        {
+          "chord": "A#m7",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sana çıkan yolları, Senli baharları, Yaşadım yılları unuturum!",
+      "chords": [
+        {
+          "chord": "Cm7",
+          "col": 0
+        },
+        {
+          "chord": "D#7",
+          "col": 21
+        },
+        {
+          "chord": "A#m7",
+          "col": 35
+        },
+        {
+          "chord": "C#maj7",
+          "col": 51
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Buğulu gözlerini, Sıcacık ellerini, Yürekli sözlerini unuturum!",
+      "chords": [
+        {
+          "chord": "Cm7",
+          "col": 0
+        },
+        {
+          "chord": "A#m7",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sana çıkan yolları, Senli baharları, Yaşadım yılları unuturum!",
+      "chords": [
+        {
+          "chord": "Cm7",
+          "col": 0
+        },
+        {
+          "chord": "A#m7",
+          "col": 32
+        },
+        {
+          "chord": "C#",
+          "col": 49
+        },
+        {
+          "chord": "Cm",
+          "col": 52
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

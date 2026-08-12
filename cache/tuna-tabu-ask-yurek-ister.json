@@ -1,0 +1,228 @@
+{
+  "slug": "tuna-tabu-ask-yurek-ister",
+  "artist": "Tuna Tabu",
+  "title": "Aşk Yürek İster",
+  "key": "B",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "dur söyleme bilmesinler acımızı",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 3
+        },
+        {
+          "chord": "Bm",
+          "col": 25
+        },
+        {
+          "chord": "C",
+          "col": 28
+        },
+        {
+          "chord": "Bm",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "sakın ağlama görmesinler gözyaşımızı",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 3
+        },
+        {
+          "chord": "Bm",
+          "col": 28
+        },
+        {
+          "chord": "C",
+          "col": 31
+        },
+        {
+          "chord": "Bm",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "kara toprakta son bulsun hasretim",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "bile bile seve seve vazgeçmemi benden bekleme",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "bana bunu yapma",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 2
+        },
+        {
+          "chord": "Em",
+          "col": 10
+        },
+        {
+          "chord": "Bm",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "gururumla oynama",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 10
+        },
+        {
+          "chord": "Bm",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "beni bu karanlık gecelerde bırakma",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "aşk böyle kolay mı",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "ucuz bir eşya mı",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "yaralı kalbim satılık mı",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 18
+        },
+        {
+          "chord": "C",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "gitmek en kolayı",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "zoru başarmalı",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "aşk yürek ister yıkılmamalı",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

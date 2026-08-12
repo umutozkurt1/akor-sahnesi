@@ -1,0 +1,222 @@
+{
+  "slug": "cem-belevi-bilmez",
+  "artist": "Cem Belevi",
+  "title": "Bilmez",
+  "key": "F#",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 2
+        },
+        {
+          "chord": "D",
+          "col": 6
+        },
+        {
+          "chord": "F#m",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Eskiden böymemiydim",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "kendimi üzermiydim",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Meczup gibi gezermiydim Aman",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 46
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "bir susup bin dert oldun",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "kendimi sende buldum",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "içmeden sarhoş oldum Aman",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yüzüne gözüne baş koydum dönersem bana haram",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 41
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "geceden gündüze varamam",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "içime dışıma sen doldun başkasını koyamam",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "gidersem de nefes alamam",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "gidersem de nefes alamam",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 14
+        },
+        {
+          "chord": "F#m",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "bilmez bilmez bilmezler onlar",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 8
+        },
+        {
+          "chord": "E",
+          "col": 17
+        },
+        {
+          "chord": "F#m",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "görmez görmez seni benim gözümden onlar",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 9
+        },
+        {
+          "chord": "E",
+          "col": 20
+        },
+        {
+          "chord": "F#m",
+          "col": 60
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

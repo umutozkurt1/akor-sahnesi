@@ -1,0 +1,371 @@
+{
+  "slug": "ece-barak-iki-asik",
+  "artist": "Ece Barak",
+  "title": "İki Aşık",
+  "key": "E",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Oyun parkında kalbini buldum",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 15
+        },
+        {
+          "chord": "Bm",
+          "col": 21
+        },
+        {
+          "chord": "Em",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Küçücük yaşımda ruhuna tutundum",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 15
+        },
+        {
+          "chord": "Bm",
+          "col": 24
+        },
+        {
+          "chord": "Em",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir prens gibi kalbimin sesini duydun",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 9
+        },
+        {
+          "chord": "Bm",
+          "col": 18
+        },
+        {
+          "chord": "Em",
+          "col": 28
+        },
+        {
+          "chord": "Gm",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Beni hep kendinin önünde tuttun",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 13
+        },
+        {
+          "chord": "Bm",
+          "col": 29
+        },
+        {
+          "chord": "Em",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kahramansın pek bir aşksın sıcak yuvamsın",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 35
+        },
+        {
+          "chord": "B",
+          "col": 56
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İlk aşk ilk aşk",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 6
+        },
+        {
+          "chord": "A",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Çiçekler açar renkler parlar güneş bir başka doğar",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 13
+        },
+        {
+          "chord": "G",
+          "col": 27
+        },
+        {
+          "chord": "A",
+          "col": 35
+        },
+        {
+          "chord": "B",
+          "col": 42
+        },
+        {
+          "chord": "Em",
+          "col": 51
+        },
+        {
+          "chord": "G",
+          "col": 56
+        },
+        {
+          "chord": "A",
+          "col": 63
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İlk aşk ilk aşk",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 7
+        },
+        {
+          "chord": "G",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Daha önce hiç duyulmamış bir hikaye yazar",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 10
+        },
+        {
+          "chord": "A",
+          "col": 21
+        },
+        {
+          "chord": "B",
+          "col": 35
+        },
+        {
+          "chord": "Em",
+          "col": 41
+        },
+        {
+          "chord": "G",
+          "col": 54
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Benim masalım başka benim masalım başka",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 15
+        },
+        {
+          "chord": "Em",
+          "col": 23
+        },
+        {
+          "chord": "G",
+          "col": 30
+        },
+        {
+          "chord": "A",
+          "col": 34
+        },
+        {
+          "chord": "Bm",
+          "col": 41
+        },
+        {
+          "chord": "Em",
+          "col": 48
+        },
+        {
+          "chord": "G",
+          "col": 53
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Çocuk kalbimle bir dilek tuttum",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 17
+        },
+        {
+          "chord": "B",
+          "col": 25
+        },
+        {
+          "chord": "Em",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hayaller içinde bir bulut oldum",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 14
+        },
+        {
+          "chord": "G",
+          "col": 22
+        },
+        {
+          "chord": "Bm",
+          "col": 28
+        },
+        {
+          "chord": "Em",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir prens gibi hayallerimi sordun",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 13
+        },
+        {
+          "chord": "Bm",
+          "col": 17
+        },
+        {
+          "chord": "Em",
+          "col": 28
+        },
+        {
+          "chord": "G",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hepsi gerçek olcak dedin sözünü tuttun",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 32
+        },
+        {
+          "chord": "Em",
+          "col": 52
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

@@ -1,0 +1,141 @@
+{
+  "slug": "anonim-turkuler-yayla-cicegi",
+  "artist": "Anonim Türküler",
+  "title": "Yayla çiçeği",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Yayla çiçeği misin balam yuvarlanda gel bana",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 8
+        },
+        {
+          "chord": "Ab",
+          "col": 27
+        },
+        {
+          "chord": "D#",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Güneş misin ay mısın da kurban olurum sana",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 6
+        },
+        {
+          "chord": "D#",
+          "col": 12
+        },
+        {
+          "chord": "Fm",
+          "col": 19
+        },
+        {
+          "chord": "Ab",
+          "col": 25
+        },
+        {
+          "chord": "A#",
+          "col": 35
+        },
+        {
+          "chord": "Cm",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hoppa rinna rinanay ray da rinanay",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 14
+        },
+        {
+          "chord": "D#",
+          "col": 22
+        },
+        {
+          "chord": "Fm",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Rinanay yarım rinanay nay",
+      "chords": [
+        {
+          "chord": "Ab",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 9
+        },
+        {
+          "chord": "Ab",
+          "col": 16
+        },
+        {
+          "chord": "Cm",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yaylaların yoğurdu balam seni kimler doğurdu",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Seni doğuran ana da bal ilen mi  yogurdu",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hoppa rinna rinanay ray da rinanay",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Rinanay yarım rinanay nay",
+      "chords": [],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

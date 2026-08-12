@@ -1,0 +1,166 @@
+{
+  "slug": "tan-tasci-sokagindan-gecmezdim",
+  "artist": "Tan Taşçı",
+  "title": "Sokağından Geçmezdim",
+  "key": "F",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Al beni de yanına",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sakın ha burada bırakıp gitme",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Son yolum ol, sonum ol",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Zorum olma, gitme terketme",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İstedim olmaz, çok uğraştım çok",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "Eb",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yorulma sen de, bence gerek yok",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bak bazı hisler dürüstlük ister",
+      "chords": [
+        {
+          "chord": "Eb",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Benim dünüm zor, yarınım yok",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "Eb",
+          "col": 32
+        },
+        {
+          "chord": "Dm",
+          "col": 45
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İsteseydi dün gibi gitmez denerdi",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bekleseydi çok fark etmez dönerdim",
+      "chords": [
+        {
+          "chord": "Eb",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 45
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Anlasaydı düşünmeden severdi beni",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "Eb",
+          "col": 41
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ben bilseydim sokağından geçmezdim",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 22
+        },
+        {
+          "chord": "Dm",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

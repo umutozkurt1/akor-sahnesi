@@ -1,0 +1,193 @@
+{
+  "slug": "orhan-olmez-ozledim",
+  "artist": "Orhan Ölmez",
+  "title": "Özledim",
+  "key": "C#",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Bilemezsin neler gördüm, ne düğümler çözdüm",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 18
+        },
+        {
+          "chord": "Bm",
+          "col": 43
+        },
+        {
+          "chord": "C#m",
+          "col": 65
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Çok yol aldım senden sonra, neler aştı gönlüm",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 26
+        },
+        {
+          "chord": "Bm",
+          "col": 50
+        },
+        {
+          "chord": "C#m",
+          "col": 70
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Her şeye çözüm bulsam da, kalbim hala senin sanki",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "C#m",
+          "col": 49
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Aşkın bende çıkmaz sokak, çözülmeyen düğüm gibi",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 22
+        },
+        {
+          "chord": "E",
+          "col": 45
+        },
+        {
+          "chord": "D",
+          "col": 65
+        },
+        {
+          "chord": "C#m",
+          "col": 79
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sesini duymayı özledim, elini tutmayı özledim",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 35
+        },
+        {
+          "chord": "E",
+          "col": 49
+        },
+        {
+          "chord": "A",
+          "col": 69
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yüzümü görmesen bile, adımı söylemeni özledim",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 20
+        },
+        {
+          "chord": "Bm",
+          "col": 54
+        },
+        {
+          "chord": "C#m",
+          "col": 75
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bilemezsin neler gördüm, ne dağlar deldim",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 18
+        },
+        {
+          "chord": "Bm",
+          "col": 42
+        },
+        {
+          "chord": "C#m",
+          "col": 60
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Çok zor oldu senden sonra, neler aştı kalbim",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 24
+        },
+        {
+          "chord": "Bm",
+          "col": 48
+        },
+        {
+          "chord": "C#m",
+          "col": 68
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "B bölümü",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Nakarat",
+      "chords": [],
+      "section": true,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

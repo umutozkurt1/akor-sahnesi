@@ -1,0 +1,260 @@
+{
+  "slug": "gulsen-dan-dan",
+  "artist": "Gülşen",
+  "title": "Dan Dan",
+  "key": "Eb",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Intro:",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Bbm",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 7
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Soğudu havalar burada güneş açmıyor",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 20
+        },
+        {
+          "chord": "Eb",
+          "col": 29
+        },
+        {
+          "chord": "Db",
+          "col": 34
+        },
+        {
+          "chord": "Cm",
+          "col": 49
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Telefonu da hiç açmıyor",
+      "chords": [
+        {
+          "chord": "Bbm",
+          "col": 15
+        },
+        {
+          "chord": "Cm",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Beklesin diyordur ne acelesi var",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 15
+        },
+        {
+          "chord": "Eb",
+          "col": 43
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir yere kaçmıyor gözümden de kaçmıyor",
+      "chords": [
+        {
+          "chord": "Db",
+          "col": 2
+        },
+        {
+          "chord": "Cm",
+          "col": 20
+        },
+        {
+          "chord": "Bbm",
+          "col": 38
+        },
+        {
+          "chord": "Cm",
+          "col": 57
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ya beni gelip alırsın buradan",
+      "chords": [
+        {
+          "chord": "Eb",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ya da bir ses duyarsın oradan",
+      "chords": [
+        {
+          "chord": "Eb",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Öldürürüm kendimi",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dan dan dan dan dan dan",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Blöf yok valla billa",
+      "chords": [
+        {
+          "chord": "Bbm",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bana sen lazım illa",
+      "chords": [
+        {
+          "chord": "Bbm",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Güzellikle veya zorla zorla zorla",
+      "chords": [
+        {
+          "chord": "Bbm",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Blöf yok valla billa",
+      "chords": [
+        {
+          "chord": "Bbm",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bana sen lazım illa",
+      "chords": [
+        {
+          "chord": "Bbm",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Duygular anlarsın ya gırla gırla gırla",
+      "chords": [
+        {
+          "chord": "Bbm",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

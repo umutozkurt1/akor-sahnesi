@@ -1,0 +1,227 @@
+{
+  "slug": "murat-celik-ayrilik",
+  "artist": "Murat Çelik",
+  "title": "Ayrılık",
+  "key": "D",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Sana uzaktan bakıyor artık gözlerim",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 17
+        },
+        {
+          "chord": "Dm",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gönlüm senden geçmez",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bana döndü hep sözlerim",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Unutmak o kadar kolay mı sandın",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 16
+        },
+        {
+          "chord": "F",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ayrılık bana aşktır artık",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Eb",
+          "col": 8
+        },
+        {
+          "chord": "Cm",
+          "col": 13
+        },
+        {
+          "chord": "Dm",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dağılmış saclarım gönlünün yatağına uyandırma",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 23
+        },
+        {
+          "chord": "Dm",
+          "col": 43
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sabah olsun ben giderim",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sen kal rüyamda",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Nakarat",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "Aramak o kadar kolay mı sandın",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yolların bana aşktır artık",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Eb",
+          "col": 9
+        },
+        {
+          "chord": "Cm",
+          "col": 14
+        },
+        {
+          "chord": "Dm",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ah gitmek o kadar kolay mı sandın",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yolların bana aşktır artık",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Eb",
+          "col": 9
+        },
+        {
+          "chord": "Cm",
+          "col": 14
+        },
+        {
+          "chord": "Dm",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

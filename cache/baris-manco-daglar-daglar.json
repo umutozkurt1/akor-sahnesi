@@ -1,0 +1,164 @@
+{
+  "slug": "baris-manco-daglar-daglar",
+  "artist": "Barış Manço",
+  "title": "Dağlar Dağlar",
+  "key": "G",
+  "capo": 0,
+  "rhythm": "A-K-Y-Y-K-Y",
+  "youtubeId": "BI6Nk1cXBvk",
+  "hasSyncedLyrics": true,
+  "lines": [
+    {
+      "lyric": "Ellerimle büyüttügüm solar iken dirilttiğim",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": 75.63
+    },
+    {
+      "lyric": "Çiçegimi kopardın sen, ellere verdin    x2",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Ab",
+          "col": 11
+        },
+        {
+          "chord": "Gm",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": 80.1
+    },
+    {
+      "lyric": "Dağlar dağlar",
+      "chords": [
+        {
+          "chord": "Bb",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": 97.5
+    },
+    {
+      "lyric": "Kurban olam yol ver geçem",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": 104.18
+    },
+    {
+      "lyric": "Sevdigimi son bir olsun yakından görem",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Ab",
+          "col": 14
+        },
+        {
+          "chord": "Gm",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": 108.69
+    },
+    {
+      "lyric": "Kuşlar ötmez, güller soldu yüce dağlar duman oldu",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": 160.42
+    },
+    {
+      "lyric": "Belli ki gittiğin yerden kara haber var    x2",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Ab",
+          "col": 13
+        },
+        {
+          "chord": "Gm",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": 164.72
+    },
+    {
+      "lyric": "Dağlar dağlar",
+      "chords": [
+        {
+          "chord": "Bb",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": 182.03
+    },
+    {
+      "lyric": "Kurban olam yol ver geçem",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": 188.96
+    },
+    {
+      "lyric": "Sevdigimi son bir olsun yakından görem",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Ab",
+          "col": 14
+        },
+        {
+          "chord": "Gm",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": 193.4
+    }
+  ],
+  "enriched": true,
+  "duration": 265.0
+}

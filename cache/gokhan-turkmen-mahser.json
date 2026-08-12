@@ -1,0 +1,171 @@
+{
+  "slug": "gokhan-turkmen-mahser",
+  "artist": "Gökhan Türkmen",
+  "title": "Mahşer",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 5
+        },
+        {
+          "chord": "Em",
+          "col": 10
+        },
+        {
+          "chord": "Dm",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yıkıla yıkıla, senden vazgeçmek uğruna",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 17
+        },
+        {
+          "chord": "Em",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sarıla sarıla, neden söyle zor bu veda",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 23
+        },
+        {
+          "chord": "Em",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bağıra çağıra, susarken ben lütfen sus konuşma",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 28
+        },
+        {
+          "chord": "Em",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Uzaktan yakına yakına, giderken dur lütfen bana dokunma",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 15
+        },
+        {
+          "chord": "Dm",
+          "col": 45
+        },
+        {
+          "chord": "Em",
+          "col": 53
+        },
+        {
+          "chord": "G",
+          "col": 78
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yalnızlık senden kolay hiç yorma kendini",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kaldırdım duvardaki en güzel resmini",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yakında kalbimden de silerim ismini",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Boşver",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Senin yanın mahşer yeri",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

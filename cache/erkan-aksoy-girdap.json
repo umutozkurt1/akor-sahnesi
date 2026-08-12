@@ -1,0 +1,131 @@
+{
+  "slug": "erkan-aksoy-girdap",
+  "artist": "Erkan Aksoy",
+  "title": "Girdap",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Bilirmisin ne sancılıdır gelmeyişin",
+      "chords": [
+        {
+          "chord": "Cm7",
+          "col": 0
+        },
+        {
+          "chord": "Bbm7",
+          "col": 20
+        },
+        {
+          "chord": "Cm7",
+          "col": 47
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İki damla gözyaşına sığar bazen",
+      "chords": [
+        {
+          "chord": "Cm7",
+          "col": 0
+        },
+        {
+          "chord": "Bbm7",
+          "col": 15
+        },
+        {
+          "chord": "Abmaj7",
+          "col": 41
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kimi görürsen gör dinmez ağrın kederin",
+      "chords": [
+        {
+          "chord": "Cm7",
+          "col": 0
+        },
+        {
+          "chord": "Bbm7",
+          "col": 36
+        },
+        {
+          "chord": "Cm7",
+          "col": 57
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hep aynı yerde dönüp durmak sensiz çaresiz",
+      "chords": [
+        {
+          "chord": "Cm7",
+          "col": 0
+        },
+        {
+          "chord": "Bbm7",
+          "col": 33
+        },
+        {
+          "chord": "Abmaj7",
+          "col": 60
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Girdap hasretin işte her gece içine çeken benim",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 1
+        },
+        {
+          "chord": "Dbmaj7",
+          "col": 25
+        },
+        {
+          "chord": "Cm7",
+          "col": 68
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir ömrü bir saniyeye sığdıran hasretin",
+      "chords": [
+        {
+          "chord": "Bbm7",
+          "col": 6
+        },
+        {
+          "chord": "Cm7",
+          "col": 25
+        },
+        {
+          "chord": "Db",
+          "col": 38
+        },
+        {
+          "chord": "Fm",
+          "col": 50
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

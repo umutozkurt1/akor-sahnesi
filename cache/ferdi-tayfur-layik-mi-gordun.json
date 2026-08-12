@@ -1,0 +1,227 @@
+{
+  "slug": "ferdi-tayfur-layik-mi-gordun",
+  "artist": "Ferdi Tayfur",
+  "title": "Layık Mı Gördün",
+  "key": "D",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": " Ey benim gönlümün bitmeyen sevgisi",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 1
+        },
+        {
+          "chord": "Am",
+          "col": 10
+        },
+        {
+          "chord": "Dm",
+          "col": 19
+        },
+        {
+          "chord": "Am",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Ey benim ömrümün tükenmez çilesi",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 1
+        },
+        {
+          "chord": "Am",
+          "col": 10
+        },
+        {
+          "chord": "Dm",
+          "col": 18
+        },
+        {
+          "chord": "Am",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Ey benim başımın tacı sevdamın ilacı",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 1
+        },
+        {
+          "chord": "Dm",
+          "col": 6
+        },
+        {
+          "chord": "C",
+          "col": 10
+        },
+        {
+          "chord": "A#",
+          "col": 18
+        },
+        {
+          "chord": "C",
+          "col": 23
+        },
+        {
+          "chord": "Am",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Layıkmı gördün beni hasrete",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 1
+        },
+        {
+          "chord": "F",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Bilmemki neden üzersin",
+      "chords": [
+        {
+          "chord": "D#m",
+          "col": 1
+        },
+        {
+          "chord": "Dm",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Nededim sana nedir bu halin",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 1
+        },
+        {
+          "chord": "F",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Yüzünü asıp gidersin",
+      "chords": [
+        {
+          "chord": "D#m",
+          "col": 1
+        },
+        {
+          "chord": "Dm",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " İstersen bir düşün son pişmanlık faydasız",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 1
+        },
+        {
+          "chord": "Am",
+          "col": 10
+        },
+        {
+          "chord": "Dm",
+          "col": 20
+        },
+        {
+          "chord": "Am",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Beni yalnız bırakma buralarda kimsesiz",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 1
+        },
+        {
+          "chord": "Am",
+          "col": 13
+        },
+        {
+          "chord": "Dm",
+          "col": 22
+        },
+        {
+          "chord": "Am",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Ben nasıl yaşarım sen yoksan çaresiz",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 1
+        },
+        {
+          "chord": "Dm",
+          "col": 7
+        },
+        {
+          "chord": "C",
+          "col": 11
+        },
+        {
+          "chord": "A#",
+          "col": 19
+        },
+        {
+          "chord": "C",
+          "col": 26
+        },
+        {
+          "chord": "Am",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

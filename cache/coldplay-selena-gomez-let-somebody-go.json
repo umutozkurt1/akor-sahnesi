@@ -1,0 +1,763 @@
+{
+  "slug": "coldplay-selena-gomez-let-somebody-go",
+  "artist": "Coldplay & Selena Gomez",
+  "title": "Let Somebody Go",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "İntro :  x2",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 2
+        },
+        {
+          "chord": "F",
+          "col": 4
+        },
+        {
+          "chord": "C",
+          "col": 6
+        },
+        {
+          "chord": "G",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "We had a kind of love",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I thought that it would never end",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 15
+        },
+        {
+          "chord": "C",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Oh my lover, oh my other, oh my friend",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 6
+        },
+        {
+          "chord": "C",
+          "col": 19
+        },
+        {
+          "chord": "G",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "We talked around in circles and",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 3
+        },
+        {
+          "chord": "G",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "We talked around and then",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 3
+        },
+        {
+          "chord": "C",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I loved you to the moon and back again",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 2
+        },
+        {
+          "chord": "C",
+          "col": 19
+        },
+        {
+          "chord": "G",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You gave everything this golden glow",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 9
+        },
+        {
+          "chord": "Am",
+          "col": 25
+        },
+        {
+          "chord": "G",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Now turn off all the stars, 'cause this I know",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 4
+        },
+        {
+          "chord": "C",
+          "col": 21
+        },
+        {
+          "chord": "G",
+          "col": 41
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "That it hurts like so",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 8
+        },
+        {
+          "chord": "G",
+          "col": 14
+        },
+        {
+          "chord": "C",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "To let somebody go",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 3
+        },
+        {
+          "chord": "G",
+          "col": 11
+        },
+        {
+          "chord": "F",
+          "col": 16
+        },
+        {
+          "chord": "C",
+          "col": 19
+        },
+        {
+          "chord": "G",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "All the storms we weathered",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Everything that we went through",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 5
+        },
+        {
+          "chord": "C",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Now without you, what on earth am I to do?",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 8
+        },
+        {
+          "chord": "C",
+          "col": 25
+        },
+        {
+          "chord": "G",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "When I called the mathematicians and",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 7
+        },
+        {
+          "chord": "G",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I asked them to explain",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 2
+        },
+        {
+          "chord": "C",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "They said love is only equal to the pain",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 10
+        },
+        {
+          "chord": "C",
+          "col": 23
+        },
+        {
+          "chord": "G",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And when everything was going wrong",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 9
+        },
+        {
+          "chord": "Am",
+          "col": 24
+        },
+        {
+          "chord": "G",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You could turn my sorrow into song",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 10
+        },
+        {
+          "chord": "C",
+          "col": 25
+        },
+        {
+          "chord": "G",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Oh it hurts like so",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 6
+        },
+        {
+          "chord": "G",
+          "col": 12
+        },
+        {
+          "chord": "C",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "To let somebody go",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 3
+        },
+        {
+          "chord": "G",
+          "col": 11
+        },
+        {
+          "chord": "F",
+          "col": 16
+        },
+        {
+          "chord": "C",
+          "col": 19
+        },
+        {
+          "chord": "G",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "To let somebody go",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 3
+        },
+        {
+          "chord": "G",
+          "col": 11
+        },
+        {
+          "chord": "F",
+          "col": 16
+        },
+        {
+          "chord": "C",
+          "col": 19
+        },
+        {
+          "chord": "G",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Oh",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 2
+        },
+        {
+          "chord": "G",
+          "col": 4
+        },
+        {
+          "chord": "F",
+          "col": 6
+        },
+        {
+          "chord": "C",
+          "col": 8
+        },
+        {
+          "chord": "G",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Oh   (Let somebody,  let somebody go)",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 2
+        },
+        {
+          "chord": "G",
+          "col": 4
+        },
+        {
+          "chord": "F",
+          "col": 6
+        },
+        {
+          "chord": "C",
+          "col": 18
+        },
+        {
+          "chord": "G",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Oh, when you love somebody",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "When you love somebody",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Got to let somebody know",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Oh, when you love somebody",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "When you love somebody",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Got to let somebody know",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "So    when you love somebody",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 3
+        },
+        {
+          "chord": "C",
+          "col": 5
+        },
+        {
+          "chord": "G",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "When you love somebody",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Then it hurts like so",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 8
+        },
+        {
+          "chord": "F",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "To let somebody go",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 3
+        },
+        {
+          "chord": "G",
+          "col": 11
+        },
+        {
+          "chord": "F",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "It hurts like so",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 3
+        },
+        {
+          "chord": "G",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "To let somebody go",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 3
+        },
+        {
+          "chord": "G",
+          "col": 11
+        },
+        {
+          "chord": "F",
+          "col": 16
+        },
+        {
+          "chord": "C",
+          "col": 19
+        },
+        {
+          "chord": "G",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But you're still with me now, I know",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 36
+        },
+        {
+          "chord": "G",
+          "col": 38
+        },
+        {
+          "chord": "F",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "(Let somebody,  let somebody go)",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 13
+        },
+        {
+          "chord": "G",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Oh    (Let somebody,  let somebody go)",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 2
+        },
+        {
+          "chord": "G",
+          "col": 4
+        },
+        {
+          "chord": "F",
+          "col": 6
+        },
+        {
+          "chord": "C",
+          "col": 19
+        },
+        {
+          "chord": "G",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But you're still with me now, I know",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 36
+        },
+        {
+          "chord": "G",
+          "col": 39
+        },
+        {
+          "chord": "C",
+          "col": 41
+        },
+        {
+          "chord": "F",
+          "col": 43
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

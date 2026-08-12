@@ -1,0 +1,193 @@
+{
+  "slug": "model-buyu",
+  "artist": "Model",
+  "title": "Büyü",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Bugün son günü çocukluğumun",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 4
+        },
+        {
+          "chord": "Dm",
+          "col": 20
+        },
+        {
+          "chord": "Am",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ah en güzel yeri bile gelmemişti oyunumun",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 13
+        },
+        {
+          "chord": "C",
+          "col": 22
+        },
+        {
+          "chord": "E",
+          "col": 45
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Büyü hadi hayat zor dediler",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 20
+        },
+        {
+          "chord": "C",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Canım da ah bize hiç sevmeyi öğretmediler",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 19
+        },
+        {
+          "chord": "F",
+          "col": 32
+        },
+        {
+          "chord": "E",
+          "col": 52
+        },
+        {
+          "chord": "Am",
+          "col": 68
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Siyah beyaz duvarlar ördüler",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 23
+        },
+        {
+          "chord": "C",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Canım da ah bize hiç pembeyi öğretmediler",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 19
+        },
+        {
+          "chord": "F",
+          "col": 31
+        },
+        {
+          "chord": "E",
+          "col": 53
+        },
+        {
+          "chord": "Am",
+          "col": 67
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir sabah uyandım, bu hayat bir rüyaymış meğer",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 6
+        },
+        {
+          "chord": "E",
+          "col": 25
+        },
+        {
+          "chord": "C",
+          "col": 43
+        },
+        {
+          "chord": "E",
+          "col": 64
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Aşkla açan çiçek solmazmış,  ah ölümün rengi olmazmış  x3",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 25
+        },
+        {
+          "chord": "F",
+          "col": 39
+        },
+        {
+          "chord": "Dm",
+          "col": 45
+        },
+        {
+          "chord": "F",
+          "col": 72
+        },
+        {
+          "chord": "E",
+          "col": 83
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

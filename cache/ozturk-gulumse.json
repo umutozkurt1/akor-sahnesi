@@ -1,0 +1,144 @@
+{
+  "slug": "ozturk-gulumse",
+  "artist": "Öztürk",
+  "title": "Gülümse",
+  "key": "G",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "kimsenin derdi yok ki derdim üstüne",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "herşeyi unutursun zaman geçince",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "son sözü söylemezler iyi gününde",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "soran bilmez derdim ne diye",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "duyan bilmez derdim ne diye",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "gülümse sen yine",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "her açan gonca güle",
+      "chords": [
+        {
+          "chord": "A#7",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "yağmur ol yağ üstüne",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "hapsolmuşum sende",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 4
+        },
+        {
+          "chord": "Gm",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

@@ -1,0 +1,105 @@
+{
+  "slug": "erdem-subak-sac-sakal",
+  "artist": "Erdem Subak",
+  "title": "Saç Sakal",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Sesime bir kelepçe daha vurdun",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ben susuyorum istemeden",
+      "chords": [
+        {
+          "chord": "C#",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Aramıza girebilecek bir fırtına",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yoktu ki sitem eden",
+      "chords": [
+        {
+          "chord": "C#",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sen benden gittin",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bende karıştı saç sakal",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İçimdeki arsız acıtan nefesine",
+      "chords": [
+        {
+          "chord": "C#",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Diyemiyorum hoşçakal",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

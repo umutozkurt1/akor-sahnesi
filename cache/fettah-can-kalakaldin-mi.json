@@ -1,0 +1,168 @@
+{
+  "slug": "fettah-can-kalakaldin-mi",
+  "artist": "Fettah Can",
+  "title": "Kalakaldın Mı?",
+  "key": "G",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Elimden gelen bu ardına koymayanlardanım",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 27
+        },
+        {
+          "chord": "Gm",
+          "col": 55
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Baktığın yerde değil bakmadıklarındayım",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "Bb",
+          "col": 18
+        },
+        {
+          "chord": "Fm",
+          "col": 29
+        },
+        {
+          "chord": "Gm",
+          "col": 51
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yalnızca bir an meselesi aklının ücrasıyım",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 39
+        },
+        {
+          "chord": "Gm",
+          "col": 54
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dön demek hakkın sandığın değil, yandığınım",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "Bb",
+          "col": 24
+        },
+        {
+          "chord": "Ab",
+          "col": 27
+        },
+        {
+          "chord": "Gm",
+          "col": 65
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sandığın değil yandığınım",
+      "chords": [
+        {
+          "chord": "Ab",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sınandın mı en sevdiğinle",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İçin yana yana hiç ayrıldın mı",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir kelime etmeden, göz göze gelmeden",
+      "chords": [
+        {
+          "chord": "Bb",
+          "col": 0
+        },
+        {
+          "chord": "Ab",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gerçek mi diyemeden kalakaldın mı",
+      "chords": [
+        {
+          "chord": "Bb",
+          "col": 0
+        },
+        {
+          "chord": "Ab",
+          "col": 37
+        },
+        {
+          "chord": "Gm",
+          "col": 53
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

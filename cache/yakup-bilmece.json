@@ -1,0 +1,89 @@
+{
+  "slug": "yakup-bilmece",
+  "artist": "Yakup",
+  "title": "Bilmece",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Şu hayat bir garip bilmece",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 16
+        },
+        {
+          "chord": "Dm",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Cevabı ne sende ne bende",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 1
+        },
+        {
+          "chord": "F",
+          "col": 10
+        },
+        {
+          "chord": "Am",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dönüp dolaşıp içinde",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 10
+        },
+        {
+          "chord": "Dm",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yanıp gidicez birlikte",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 14
+        },
+        {
+          "chord": "Am",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

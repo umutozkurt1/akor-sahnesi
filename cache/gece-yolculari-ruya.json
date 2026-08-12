@@ -1,0 +1,165 @@
+{
+  "slug": "gece-yolculari-ruya",
+  "artist": "Gece Yolcuları",
+  "title": "Rüya",
+  "key": "E",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "larında ben varım",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Düşünde gördüm",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 8
+        },
+        {
+          "chord": "Bm",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gözyaşında ben varım",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hayalinde gördüm",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 10
+        },
+        {
+          "chord": "Bm",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Rahatça uyur musun ben olsam yanında",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 19
+        },
+        {
+          "chord": "Am",
+          "col": 29
+        },
+        {
+          "chord": "C",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gözyaşını siler misin ben olsam koynunda",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 22
+        },
+        {
+          "chord": "Am",
+          "col": 32
+        },
+        {
+          "chord": "C",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dur    uyuma    rüyan olurum",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 7
+        },
+        {
+          "chord": "G",
+          "col": 22
+        },
+        {
+          "chord": "Em",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sus    konuşma    belan olurum",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 7
+        },
+        {
+          "chord": "G",
+          "col": 24
+        },
+        {
+          "chord": "Em",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

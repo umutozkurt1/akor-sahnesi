@@ -1,0 +1,471 @@
+{
+  "slug": "the-beatles-ask-me-why",
+  "artist": "The Beatles",
+  "title": "Ask Me Why",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Intro: E",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I  love you        'cause you tell me things I want to know",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 1
+        },
+        {
+          "chord": "Dm",
+          "col": 4
+        },
+        {
+          "chord": "Em",
+          "col": 9
+        },
+        {
+          "chord": "Dm",
+          "col": 14
+        },
+        {
+          "chord": "C",
+          "col": 47
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And it's true      that it really only goes to show",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 1
+        },
+        {
+          "chord": "Dm",
+          "col": 4
+        },
+        {
+          "chord": "Em",
+          "col": 9
+        },
+        {
+          "chord": "Dm",
+          "col": 14
+        },
+        {
+          "chord": "C",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "That I know",
+      "chords": [
+        {
+          "chord": "E7",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "That I I I I  should never never never be blue",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 5
+        },
+        {
+          "chord": "Fm",
+          "col": 22
+        },
+        {
+          "chord": "Dm",
+          "col": 42
+        },
+        {
+          "chord": "G7",
+          "col": 47
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Now you're mine      my happiness still makes me cry",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 1
+        },
+        {
+          "chord": "Dm",
+          "col": 4
+        },
+        {
+          "chord": "Em",
+          "col": 11
+        },
+        {
+          "chord": "Dm",
+          "col": 16
+        },
+        {
+          "chord": "C",
+          "col": 41
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And in  time        you'll understand the reason why",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 1
+        },
+        {
+          "chord": "Dm",
+          "col": 4
+        },
+        {
+          "chord": "Em",
+          "col": 8
+        },
+        {
+          "chord": "Dm",
+          "col": 13
+        },
+        {
+          "chord": "C",
+          "col": 44
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "If I cry",
+      "chords": [
+        {
+          "chord": "E7",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "It's not because I'm sad",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 5
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But you're the only love that I've ever had",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 16
+        },
+        {
+          "chord": "E",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I can't believe   it's happened to me",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 9
+        },
+        {
+          "chord": "B7",
+          "col": 16
+        },
+        {
+          "chord": "E",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I can't conceive   of any more misery",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 10
+        },
+        {
+          "chord": "G7",
+          "col": 16
+        },
+        {
+          "chord": "C",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ask me  why   I'll say I love you",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 1
+        },
+        {
+          "chord": "F#m",
+          "col": 4
+        },
+        {
+          "chord": "G#m",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And I'm always thinking of you",
+      "chords": [
+        {
+          "chord": "G#m",
+          "col": 9
+        },
+        {
+          "chord": "E",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I love you,      'cause you tell me things I want to know",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 3
+        },
+        {
+          "chord": "Em",
+          "col": 7
+        },
+        {
+          "chord": "Dm",
+          "col": 11
+        },
+        {
+          "chord": "C",
+          "col": 46
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And it's true     that it really only goes to show",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 4
+        },
+        {
+          "chord": "Em",
+          "col": 9
+        },
+        {
+          "chord": "Dm",
+          "col": 13
+        },
+        {
+          "chord": "C",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "That I know",
+      "chords": [
+        {
+          "chord": "E7",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "That I, I, I, I should never, never, never be blue",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 4
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ask me why, I'll say I love you",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 4
+        },
+        {
+          "chord": "G#m",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "         G#m7              A7M  E  E5+",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And I'm always thinking of you",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I can't believe   it's happened to me",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 10
+        },
+        {
+          "chord": "B7",
+          "col": 17
+        },
+        {
+          "chord": "E",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I can't conceive   of any more misery",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 11
+        },
+        {
+          "chord": "G7",
+          "col": 17
+        },
+        {
+          "chord": "C",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ask me  why, I'll say I love you",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 4
+        },
+        {
+          "chord": "G#m",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "        G#m                A7M",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And I'm always thinking of you",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ending:",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You, You, You, You",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 10
+        },
+        {
+          "chord": "G#m",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

@@ -1,0 +1,235 @@
+{
+  "slug": "ayna-karakolda-ayna-var",
+  "artist": "Ayna",
+  "title": "Karakolda Ayna Var",
+  "key": "D",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Karakolda ayna var ayna var",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 18
+        },
+        {
+          "chord": "A#",
+          "col": 31
+        },
+        {
+          "chord": "Dm",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kız kolunda damga var",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 18
+        },
+        {
+          "chord": "A#",
+          "col": 24
+        },
+        {
+          "chord": "A",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gözlerinden bellidir cevriyem",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 23
+        },
+        {
+          "chord": "A#",
+          "col": 32
+        },
+        {
+          "chord": "Dm",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sende kara sevda var morede fosforlum",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 20
+        },
+        {
+          "chord": "A#",
+          "col": 27
+        },
+        {
+          "chord": "Dm",
+          "col": 49
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sende kara sevda var",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 16
+        },
+        {
+          "chord": "A",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Denizlerin kumuyum kumuyum",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 19
+        },
+        {
+          "chord": "A#",
+          "col": 36
+        },
+        {
+          "chord": "Dm",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Balıkların unuyum",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 12
+        },
+        {
+          "chord": "A#",
+          "col": 18
+        },
+        {
+          "chord": "Dm",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Aç koynunu ben geldim cevriyem",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 23
+        },
+        {
+          "chord": "A#",
+          "col": 34
+        },
+        {
+          "chord": "Dm",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ben de Allah kuluyum morede fosforlum",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 14
+        },
+        {
+          "chord": "A#",
+          "col": 22
+        },
+        {
+          "chord": "Dm",
+          "col": 54
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ben de Allah kuluyum",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 18
+        },
+        {
+          "chord": "A",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

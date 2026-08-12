@@ -1,0 +1,192 @@
+{
+  "slug": "yasar-hoscakal-gozbebegim",
+  "artist": "Yaşar",
+  "title": "Hoşçakal Gözbebeğim",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Bülbülde gam bende hazan",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Selvi endam sendeydi güzel",
+      "chords": [
+        {
+          "chord": "B7",
+          "col": 17
+        },
+        {
+          "chord": "Em",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ah bu ne gam bu ne siyah",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Seyrü sefalar sendeydi güzel",
+      "chords": [
+        {
+          "chord": "B7",
+          "col": 16
+        },
+        {
+          "chord": "Em",
+          "col": 43
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ellerimdin benim, kollarımdın sen ah",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "B7",
+          "col": 29
+        },
+        {
+          "chord": "Em",
+          "col": 49
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Şimdi ben, neye neyle sarılacağım",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 16
+        },
+        {
+          "chord": "B7",
+          "col": 32
+        },
+        {
+          "chord": "Em",
+          "col": 44
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hoşçakal gözbebeğim",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hoşçakal gözbebeğim",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hoşçakal yaz güneşim",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hoşçakal",
+      "chords": [
+        {
+          "chord": "B7",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 7
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Öbür yaza kadar",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 4
+        },
+        {
+          "chord": "Am",
+          "col": 8
+        },
+        {
+          "chord": "B7",
+          "col": 12
+        },
+        {
+          "chord": "Em",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

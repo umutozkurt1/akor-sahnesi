@@ -1,0 +1,201 @@
+{
+  "slug": "model-ayrilik",
+  "artist": "Model",
+  "title": "Ayrılık",
+  "key": "F",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Fikrimden geceler yatabilmirem",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "Bbm",
+          "col": 15
+        },
+        {
+          "chord": "Fm",
+          "col": 25
+        },
+        {
+          "chord": "C",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bu fikri başımdan atabilmirem",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "Bbm",
+          "col": 10
+        },
+        {
+          "chord": "C",
+          "col": 24
+        },
+        {
+          "chord": "Fm",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Uzundur geceler yatabilmirem",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "Bbm",
+          "col": 13
+        },
+        {
+          "chord": "Fm",
+          "col": 22
+        },
+        {
+          "chord": "C",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bu fikri başımdan atabilmirem",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "Bbm",
+          "col": 10
+        },
+        {
+          "chord": "C",
+          "col": 24
+        },
+        {
+          "chord": "Fm",
+          "col": 37
+        },
+        {
+          "chord": "Eb",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Neyleyim ki sene çatabilmirem",
+      "chords": [
+        {
+          "chord": "Ab",
+          "col": 0
+        },
+        {
+          "chord": "Bbm",
+          "col": 14
+        },
+        {
+          "chord": "Eb",
+          "col": 24
+        },
+        {
+          "chord": "Ab",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Neyleyim ki sene çatabilmirem",
+      "chords": [
+        {
+          "chord": "Ab",
+          "col": 0
+        },
+        {
+          "chord": "Bbm",
+          "col": 14
+        },
+        {
+          "chord": "Eb",
+          "col": 24
+        },
+        {
+          "chord": "Ab",
+          "col": 39
+        },
+        {
+          "chord": "F",
+          "col": 43
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ayrılık ayrılık aman ayrılık",
+      "chords": [
+        {
+          "chord": "Bbm",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 20
+        },
+        {
+          "chord": "C",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Her bir dertten ala yaman ayrılık",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "Bbm",
+          "col": 21
+        },
+        {
+          "chord": "C",
+          "col": 33
+        },
+        {
+          "chord": "Fm",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

@@ -1,0 +1,123 @@
+{
+  "slug": "tolga-akman-sehrinde",
+  "artist": "Tolga Akman",
+  "title": "Şehrinde",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Ne sözler sataştı dilime, söyleyemedim.",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 20
+        },
+        {
+          "chord": "F",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sana ben...",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bazen her şey kolay gelir insana,",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 14
+        },
+        {
+          "chord": "F",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gitmek istersin gidemezsin....",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bekler seni kapının önünde,",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Islanmış yavru köpek gibi...",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ezip geçemezsin vicdan,",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gitmek yarım kalır şehrinde...",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 13
+        },
+        {
+          "chord": "Am",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

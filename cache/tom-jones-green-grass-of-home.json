@@ -1,0 +1,204 @@
+{
+  "slug": "tom-jones-green-grass-of-home",
+  "artist": "Tom Jones",
+  "title": "Green Grass Of Home",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "The old home town looks the same,",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "A7",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "as I step down from the train,",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 6
+        },
+        {
+          "chord": "A",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "and there to meet me is my mama and papa,",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "down the road I look and there runs Mary,",
+      "chords": [
+        {
+          "chord": "E7",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 10
+        },
+        {
+          "chord": "A7",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "hair of gold and lips like cherries,",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "Bdim",
+          "col": 8
+        },
+        {
+          "chord": "D",
+          "col": 18
+        },
+        {
+          "chord": "Bm",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "it's good to touch the green green grass of home.",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 6
+        },
+        {
+          "chord": "E7",
+          "col": 24
+        },
+        {
+          "chord": "Bm7",
+          "col": 36
+        },
+        {
+          "chord": "E7",
+          "col": 41
+        },
+        {
+          "chord": "A",
+          "col": 44
+        },
+        {
+          "chord": "A",
+          "col": 49
+        },
+        {
+          "chord": "D",
+          "col": 51
+        },
+        {
+          "chord": "A",
+          "col": 53
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yes they all come to meet me,",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "A7",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "out reaching, smileying sweetly,",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 6
+        },
+        {
+          "chord": "Bm7",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "it's good to touch the green green grass of home.",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 5
+        },
+        {
+          "chord": "E7",
+          "col": 24
+        },
+        {
+          "chord": "Bm7",
+          "col": 36
+        },
+        {
+          "chord": "E7",
+          "col": 41
+        },
+        {
+          "chord": "A",
+          "col": 44
+        },
+        {
+          "chord": "A",
+          "col": 49
+        },
+        {
+          "chord": "D",
+          "col": 51
+        },
+        {
+          "chord": "A",
+          "col": 53
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

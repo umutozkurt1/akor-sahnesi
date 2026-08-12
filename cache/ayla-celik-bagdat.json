@@ -1,0 +1,176 @@
+{
+  "slug": "ayla-celik-bagdat",
+  "artist": "Ayla çelik",
+  "title": "Bağdat",
+  "key": "F#",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Yine seni sevmekten başka",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hiç bir şey yapmadım bugün",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Enikonu çaldı telefonlarım",
+      "chords": [
+        {
+          "chord": "Db",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Boşver bakmadım bugün",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ne gazete okudum ne de bir haber",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Derdi yasakladım bugün",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 4
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kaç öpücük olmuş inanamazsın",
+      "chords": [
+        {
+          "chord": "Db",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Aşkı hesapladım bugün",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dün geceyle tam üç ay bir gün  x2",
+      "chords": [
+        {
+          "chord": "Db",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ben dünyanın en büyük aşığı olabilirim",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 48
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ben koynunda yüz sene bin sene durabilirim",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 57
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ben Leyla'yı Mecnun'u Ferhat'ı Aslı'yı Kerem'i bilmem ama",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 66
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bağdat'ı iki gözüm kapalı bulabilirim",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 3
+        },
+        {
+          "chord": "D",
+          "col": 28
+        },
+        {
+          "chord": "Db",
+          "col": 33
+        },
+        {
+          "chord": "F#m",
+          "col": 41
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

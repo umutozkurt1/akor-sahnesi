@@ -1,0 +1,154 @@
+{
+  "slug": "serkan-kaya-sevemiyorum",
+  "artist": "Serkan Kaya",
+  "title": "Sevemiyorum",
+  "key": "F",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Düşünmesem mi, üzülmesem mi?",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Diye daha kaç kez sorabilirim ki?",
+      "chords": [
+        {
+          "chord": "A#m",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Böyle gördüm, böyle yaşadım",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sevdim mi sevdim atamadım",
+      "chords": [
+        {
+          "chord": "Ebm",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Beni daha kaç kere vurabilir, Incitebilir, Üzebilirsin ki?",
+      "chords": [
+        {
+          "chord": "Gb",
+          "col": 14
+        },
+        {
+          "chord": "Ab",
+          "col": 31
+        },
+        {
+          "chord": "Gb",
+          "col": 43
+        },
+        {
+          "chord": "Fm",
+          "col": 55
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sevemiyorum senden başkasını",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sevemiyorum bir başkasını",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yüreğime imzanı atıp gittin",
+      "chords": [
+        {
+          "chord": "Gb",
+          "col": 0
+        },
+        {
+          "chord": "Ebm",
+          "col": 11
+        },
+        {
+          "chord": "Gb",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Senden kalan her şey boş",
+      "chords": [
+        {
+          "chord": "Gb",
+          "col": 0
+        },
+        {
+          "chord": "A#m",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sonrasında ne varsa bomboş",
+      "chords": [
+        {
+          "chord": "Gb",
+          "col": 0
+        },
+        {
+          "chord": "Ab",
+          "col": 12
+        },
+        {
+          "chord": "Ebm",
+          "col": 16
+        },
+        {
+          "chord": "Fm",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

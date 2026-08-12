@@ -1,0 +1,196 @@
+{
+  "slug": "nalan-yaraliyim",
+  "artist": "Nalan",
+  "title": "Yaralıyım",
+  "key": "G",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Gül bahçesi dikensiz olmaz",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gececek gececek",
+      "chords": [
+        {
+          "chord": "Gm7",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ağlamam sızlamam hiç bir şeye",
+      "chords": [
+        {
+          "chord": "Dm7",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gün gelip devran dönecek",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 13
+        },
+        {
+          "chord": "Gm",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İçimden öldürmek geliyor seni",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Gm7",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sadece söylemesi kolay",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bu yılda aşk beni terk ediyor",
+      "chords": [
+        {
+          "chord": "Dm7",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hayırlısı olsun kısmet değilmişssin bana",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 12
+        },
+        {
+          "chord": "Gm",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yaralıyım anla",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 6
+        },
+        {
+          "chord": "D#",
+          "col": 12
+        },
+        {
+          "chord": "Cm",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yine o yanında",
+      "chords": [
+        {
+          "chord": "Dm7",
+          "col": 7
+        },
+        {
+          "chord": "Gm",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Nasıl beklersin benden son söz",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 9
+        },
+        {
+          "chord": "D#",
+          "col": 16
+        },
+        {
+          "chord": "Cm7",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Aklı başında",
+      "chords": [
+        {
+          "chord": "Dm7",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 5
+        },
+        {
+          "chord": "Gm",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

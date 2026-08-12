@@ -1,0 +1,161 @@
+{
+  "slug": "sinan-ozen-kimim-var",
+  "artist": "Sinan Özen",
+  "title": "Kimim Var",
+  "key": "G",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Korkuyorum Yoksa Vakit Tamam mı?",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 11
+        },
+        {
+          "chord": "Fm",
+          "col": 22
+        },
+        {
+          "chord": "Gm",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Her şeyimiz arta kalan zaman mı?",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 9
+        },
+        {
+          "chord": "Fm",
+          "col": 22
+        },
+        {
+          "chord": "Gm",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Baştan Beri Hep Yanımda Sen Vardın",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gideceksen Varlığın Bir Yalan mı?",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 7
+        },
+        {
+          "chord": "Fm",
+          "col": 20
+        },
+        {
+          "chord": "Gm",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sensiz Hayat Ayağıma Bağ Gibi",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Korkularım Günden Güne Çığ Gibi",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Güvendiğim Bir Sen Vardın Dağ Gibi",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sende Bırakıp Gideceksen Kimim Var",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 18
+        },
+        {
+          "chord": "Gm",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

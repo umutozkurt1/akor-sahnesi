@@ -1,0 +1,199 @@
+{
+  "slug": "model-ninni",
+  "artist": "Model",
+  "title": "Ninni",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Bir ninni söyle anne, uyumak ne zor sensiz",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 43
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Geceler emanet sessiz,    şefkatsiz kollarda",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 9
+        },
+        {
+          "chord": "Dm",
+          "col": 36
+        },
+        {
+          "chord": "E",
+          "col": 52
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Uzat bana elini anne, duramam ayakta sensiz",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 48
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hayat zor eller tekinsiz, kirlenmiş yalanlarla",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 14
+        },
+        {
+          "chord": "Dm",
+          "col": 33
+        },
+        {
+          "chord": "E",
+          "col": 49
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Belki gözyaşı yoktur gittiğim yerde",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 12
+        },
+        {
+          "chord": "Am",
+          "col": 30
+        },
+        {
+          "chord": "E",
+          "col": 49
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Buluşur muyuz seninle, meleklerin güldüğü yerde",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 10
+        },
+        {
+          "chord": "Dm",
+          "col": 33
+        },
+        {
+          "chord": "E",
+          "col": 54
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Belki gözyaşı yoktur gittiğim yerde",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 13
+        },
+        {
+          "chord": "Am",
+          "col": 30
+        },
+        {
+          "chord": "E",
+          "col": 49
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Buluşur muyuz seninle, meleklerin güldüğü yerde",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 10
+        },
+        {
+          "chord": "Dm",
+          "col": 34
+        },
+        {
+          "chord": "E",
+          "col": 53
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Benim için üzülme anne, önümde bir yol var sensiz",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 54
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Umutlar çağırır bedensiz,  uykusuz sabahlarda",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 12
+        },
+        {
+          "chord": "Dm",
+          "col": 37
+        },
+        {
+          "chord": "E",
+          "col": 54
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

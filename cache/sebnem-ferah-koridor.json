@@ -1,0 +1,243 @@
+{
+  "slug": "sebnem-ferah-koridor",
+  "artist": "Şebnem Ferah",
+  "title": "Koridor",
+  "key": "D",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Uzun, uzun, uzun, uzun bir koridor",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 17
+        },
+        {
+          "chord": "Dm",
+          "col": 27
+        },
+        {
+          "chord": "Gm",
+          "col": 47
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Düşün, adım, adım, adım, adım gittiğim bir vurgun",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 11
+        },
+        {
+          "chord": "A#m",
+          "col": 31
+        },
+        {
+          "chord": "Dm",
+          "col": 36
+        },
+        {
+          "chord": "Gm",
+          "col": 58
+        },
+        {
+          "chord": "A",
+          "col": 69
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kendimden ve senden, başıma gelen en, en güzel şeylerden",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 41
+        },
+        {
+          "chord": "D",
+          "col": 65
+        },
+        {
+          "chord": "C",
+          "col": 71
+        },
+        {
+          "chord": "A#7",
+          "col": 87
+        },
+        {
+          "chord": "A",
+          "col": 91
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Aklımdan, fikrimden",
+      "chords": [
+        {
+          "chord": "Gm7",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Zaten hiç yokmuşsun",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 18
+        },
+        {
+          "chord": "F",
+          "col": 29
+        },
+        {
+          "chord": "A#",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yavaş, yavaş, yavaş, yavaş gittiğimi düşün",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 58
+        },
+        {
+          "chord": "A",
+          "col": 64
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ağır, ağır, ağır, ağır eksilirken yükün",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 15
+        },
+        {
+          "chord": "Dm",
+          "col": 20
+        },
+        {
+          "chord": "Gm",
+          "col": 37
+        },
+        {
+          "chord": "A",
+          "col": 45
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Omzundan, göğsünden, geride kalan en, en güzel günlerden",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 45
+        },
+        {
+          "chord": "Dm",
+          "col": 65
+        },
+        {
+          "chord": "C",
+          "col": 69
+        },
+        {
+          "chord": "A#",
+          "col": 84
+        },
+        {
+          "chord": "A",
+          "col": 88
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sevgimden, ömrümden",
+      "chords": [
+        {
+          "chord": "Gm7",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Zaten hiç yokmuşsun",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 9
+        },
+        {
+          "chord": "C",
+          "col": 29
+        },
+        {
+          "chord": "A#",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

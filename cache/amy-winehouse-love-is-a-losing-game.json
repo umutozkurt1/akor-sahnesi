@@ -1,0 +1,409 @@
+{
+  "slug": "amy-winehouse-love-is-a-losing-game",
+  "artist": "Amy Winehouse",
+  "title": "Love Is A Losing Game",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Intro",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Cmaj7",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Fdim7",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "     For you I     was the flame",
+      "chords": [
+        {
+          "chord": "Cmaj7",
+          "col": 0
+        },
+        {
+          "chord": "G7sus4",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   Love is a losing game",
+      "chords": [
+        {
+          "chord": "Fm6",
+          "col": 0
+        },
+        {
+          "chord": "Cmaj7",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "     Five story fire as      you came",
+      "chords": [
+        {
+          "chord": "Cmaj7",
+          "col": 0
+        },
+        {
+          "chord": "G7sus4",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   Love is a losing game",
+      "chords": [
+        {
+          "chord": "Fm6",
+          "col": 0
+        },
+        {
+          "chord": "Cmaj7",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   One I wished,   I never played",
+      "chords": [
+        {
+          "chord": "Am7",
+          "col": 0
+        },
+        {
+          "chord": "Dm7",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   Oh, what a mess we made",
+      "chords": [
+        {
+          "chord": "Fm6",
+          "col": 0
+        },
+        {
+          "chord": "Cmaj7",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "     And now the final frame",
+      "chords": [
+        {
+          "chord": "Cmaj7",
+          "col": 0
+        },
+        {
+          "chord": "G7sus4",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   Love is a losing game",
+      "chords": [
+        {
+          "chord": "Fm6",
+          "col": 0
+        },
+        {
+          "chord": "Cmaj7",
+          "col": 15
+        },
+        {
+          "chord": "Fdim7",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "     Played out by      the band",
+      "chords": [
+        {
+          "chord": "Cmaj7",
+          "col": 0
+        },
+        {
+          "chord": "G7sus4",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   Love is a losing hand",
+      "chords": [
+        {
+          "chord": "Fm6",
+          "col": 0
+        },
+        {
+          "chord": "Cmaj7",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "     More than I     could stand",
+      "chords": [
+        {
+          "chord": "Cmaj7",
+          "col": 0
+        },
+        {
+          "chord": "G7sus4",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   Love is a losing hand",
+      "chords": [
+        {
+          "chord": "Fm6",
+          "col": 0
+        },
+        {
+          "chord": "Cmaj7",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   Selfprofessed   profound",
+      "chords": [
+        {
+          "chord": "Am7",
+          "col": 0
+        },
+        {
+          "chord": "Dm7",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   Till the chips     were down",
+      "chords": [
+        {
+          "chord": "Fm6",
+          "col": 0
+        },
+        {
+          "chord": "Cmaj7",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "     Know you're a gambling man",
+      "chords": [
+        {
+          "chord": "Cmaj7",
+          "col": 0
+        },
+        {
+          "chord": "G7sus4",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   Love is a losing hand",
+      "chords": [
+        {
+          "chord": "Fm6",
+          "col": 0
+        },
+        {
+          "chord": "Cmaj7",
+          "col": 15
+        },
+        {
+          "chord": "Fdim7",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "     Though I battled blind",
+      "chords": [
+        {
+          "chord": "Cmaj7",
+          "col": 0
+        },
+        {
+          "chord": "G7sus4",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   Love is a fate     resigned",
+      "chords": [
+        {
+          "chord": "Fm6",
+          "col": 0
+        },
+        {
+          "chord": "Cmaj7",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "     Memories mar   my mind",
+      "chords": [
+        {
+          "chord": "Cmaj7",
+          "col": 0
+        },
+        {
+          "chord": "G7sus4",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   Love is a fate     resigned",
+      "chords": [
+        {
+          "chord": "Fm6",
+          "col": 0
+        },
+        {
+          "chord": "Cmaj7",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   Over futile odds",
+      "chords": [
+        {
+          "chord": "Am7",
+          "col": 0
+        },
+        {
+          "chord": "Dm7",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   And laughed at by     the gods",
+      "chords": [
+        {
+          "chord": "Fm6",
+          "col": 0
+        },
+        {
+          "chord": "Cmaj7",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "     And now the final frame",
+      "chords": [
+        {
+          "chord": "Cmaj7",
+          "col": 0
+        },
+        {
+          "chord": "G7sus4",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   Love is a losing game",
+      "chords": [
+        {
+          "chord": "Fm6",
+          "col": 0
+        },
+        {
+          "chord": "Cmaj7",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

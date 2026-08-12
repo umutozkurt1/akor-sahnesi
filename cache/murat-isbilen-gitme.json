@@ -1,0 +1,123 @@
+{
+  "slug": "murat-isbilen-gitme",
+  "artist": "Murat İşbilen",
+  "title": "Gitme",
+  "key": "G",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Gitme Aklım Sende Kalır",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Uyuyamam Geceleri",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 11
+        },
+        {
+          "chord": "Gm",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hiç Ayrılmadık Senınle",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hiç Ayrılmadık Senınle",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Degil Bir Sene Gir Gün Bile",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gitme",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 3
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Belki Bir Şey Olmaz Ama",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Korkuyorum Elde Degil",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 13
+        },
+        {
+          "chord": "Gm",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Tekrar",
+      "chords": [],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

@@ -1,0 +1,155 @@
+{
+  "slug": "demet-akalin-nazar",
+  "artist": "Demet Akalın",
+  "title": "Nazar",
+  "key": "F#",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Unutuldun bende çoktan, kalan acısı da kalpte aksesuar",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 43
+        },
+        {
+          "chord": "Bm",
+          "col": 69
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sevebilirdim gerçek olsan, hep fake, hep filtreli pozlar",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 43
+        },
+        {
+          "chord": "Bm",
+          "col": 67
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Senle eskiyi konuşmanın",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Faydası yok bu ilişkiye",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gel git aklına alışmadım",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Doydu kalp kötü tecrübeye",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Tozdan kirden kara kalbin",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ayna olsan yine bakmam sana",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "C#m",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Değmem, değmem nazar olsam",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Nazar olsan bile değmem sana",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "C#m",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

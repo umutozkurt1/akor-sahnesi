@@ -1,0 +1,198 @@
+{
+  "slug": "demet-akalin-tozpembe",
+  "artist": "Demet Akalın",
+  "title": "Tozpembe",
+  "key": "D",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "ORJİNAL TONU: C",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Beklenen final geldi çattı yıkıldı kapı duvar",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 3
+        },
+        {
+          "chord": "F#m",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Seni bilmem ama benim kalbimde bir çok derin yara var",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 9
+        },
+        {
+          "chord": "Bm",
+          "col": 43
+        },
+        {
+          "chord": "C#m",
+          "col": 62
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İstediğim şey çok değildi ki sadece biraz sadakat",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 7
+        },
+        {
+          "chord": "F#m",
+          "col": 53
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ama sende değil sana gönül verende asıl büyük kabahat",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 9
+        },
+        {
+          "chord": "Bm",
+          "col": 34
+        },
+        {
+          "chord": "C#m",
+          "col": 62
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dertsiz başıma dert açtın,",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 6
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "hayatımda kısa süre yer aldın",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gönül kapımı çalıpda kaçtın,",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 5
+        },
+        {
+          "chord": "E",
+          "col": 41
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "bu halin neydi anlayamadım",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 16
+        },
+        {
+          "chord": "C#m",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Demek ki,",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "senin için aşk boş bir laftı",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dilinden düşüpte kırıldı",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Toz pembe hayaller vardı",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Pembesi gitti tozu kaldı",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "C#m",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

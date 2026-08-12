@@ -1,0 +1,143 @@
+{
+  "slug": "halil-sezai-paracikoglu-usurken",
+  "artist": "Halil Sezai Paracıkoğlu",
+  "title": "Üşürken",
+  "key": "B",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Saatin tiktakları",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İşkence her gece...",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 3
+        },
+        {
+          "chord": "F#m",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hızlı kuş gölgeleri gibi",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 4
+        },
+        {
+          "chord": "F#m",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Geçiyor zaman sen gibi..",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 3
+        },
+        {
+          "chord": "F#m",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sen rüzgarken",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ben uçmuşken",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kaybolmuşken..",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Düşerken",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 3
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sen uçurumken",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ben ağlarken...",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 4
+        },
+        {
+          "chord": "F#m",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

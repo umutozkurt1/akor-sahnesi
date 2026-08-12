@@ -1,0 +1,677 @@
+{
+  "slug": "extreme-more-than-words",
+  "artist": "Extreme",
+  "title": "More Than Words",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "Fadd9",
+          "col": 2
+        },
+        {
+          "chord": "Dm7",
+          "col": 8
+        },
+        {
+          "chord": "F",
+          "col": 12
+        },
+        {
+          "chord": "F",
+          "col": 14
+        },
+        {
+          "chord": "G",
+          "col": 16
+        },
+        {
+          "chord": "C",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Saying I love you is",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "Fadd9",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "not the words I want to hear from you",
+      "chords": [
+        {
+          "chord": "Dm7",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 16
+        },
+        {
+          "chord": "G",
+          "col": 24
+        },
+        {
+          "chord": "C",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "It's not that I want you",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "Fadd9",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "not to say but if you only knew",
+      "chords": [
+        {
+          "chord": "Dm7",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 15
+        },
+        {
+          "chord": "G",
+          "col": 22
+        },
+        {
+          "chord": "Am",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ho-ow ea-sy",
+      "chords": [
+        {
+          "chord": "Em7",
+          "col": 0
+        },
+        {
+          "chord": "Dm7",
+          "col": 6
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "It would be to show me how you feel",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 15
+        },
+        {
+          "chord": "Am",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "More than words  is all you have to do",
+      "chords": [
+        {
+          "chord": "Em7",
+          "col": 0
+        },
+        {
+          "chord": "Dm7",
+          "col": 10
+        },
+        {
+          "chord": "G7",
+          "col": 20
+        },
+        {
+          "chord": "C7",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "To make it real",
+      "chords": [
+        {
+          "chord": "C7",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Then you wouldn't have to say",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 10
+        },
+        {
+          "chord": "C",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "That you love me 'cos",
+      "chords": [
+        {
+          "chord": "Am7",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'd already know",
+      "chords": [
+        {
+          "chord": "Dm7",
+          "col": 0
+        },
+        {
+          "chord": "G7",
+          "col": 6
+        },
+        {
+          "chord": "C",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "What would you do if my heart was torn in two",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 24
+        },
+        {
+          "chord": "Em",
+          "col": 34
+        },
+        {
+          "chord": "F",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "More than words to show you feel that your love for me is real",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "Dm7",
+          "col": 28
+        },
+        {
+          "chord": "G7",
+          "col": 44
+        },
+        {
+          "chord": "C",
+          "col": 62
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "What would you say if I took those words away?",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "Am7",
+          "col": 25
+        },
+        {
+          "chord": "Em7",
+          "col": 36
+        },
+        {
+          "chord": "F",
+          "col": 43
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Then you couldn't make things new",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "Dm7",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Just by saying I love you",
+      "chords": [
+        {
+          "chord": "G7",
+          "col": 9
+        },
+        {
+          "chord": "C",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "[Interlude]",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "Cadd9",
+          "col": 2
+        },
+        {
+          "chord": "Am7",
+          "col": 8
+        },
+        {
+          "chord": "C",
+          "col": 12
+        },
+        {
+          "chord": "C",
+          "col": 14
+        },
+        {
+          "chord": "D",
+          "col": 16
+        },
+        {
+          "chord": "G",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Now that I've tried to",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "Fadd9",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Talk to you and make you understand",
+      "chords": [
+        {
+          "chord": "Dm7",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 16
+        },
+        {
+          "chord": "G",
+          "col": 24
+        },
+        {
+          "chord": "C",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "All that you have to do is",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "Fadd9",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Close your eyes and just reach out your hands",
+      "chords": [
+        {
+          "chord": "Dm7",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 15
+        },
+        {
+          "chord": "G",
+          "col": 31
+        },
+        {
+          "chord": "Am",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And touch me",
+      "chords": [
+        {
+          "chord": "Em7",
+          "col": 0
+        },
+        {
+          "chord": "Dm7",
+          "col": 6
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hold me close don't ever let me go",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 15
+        },
+        {
+          "chord": "Am",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "More than words",
+      "chords": [
+        {
+          "chord": "Em7",
+          "col": 0
+        },
+        {
+          "chord": "Dm7",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Is all I ever needed you to show",
+      "chords": [
+        {
+          "chord": "G7",
+          "col": 0
+        },
+        {
+          "chord": "C7",
+          "col": 13
+        },
+        {
+          "chord": "F",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Then you wouldn't have to say",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 9
+        },
+        {
+          "chord": "C",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "That you love me 'cos",
+      "chords": [
+        {
+          "chord": "Am7",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'd already know",
+      "chords": [
+        {
+          "chord": "Dm7",
+          "col": 0
+        },
+        {
+          "chord": "G7",
+          "col": 6
+        },
+        {
+          "chord": "C",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "What would you do if my heart was torn in two",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 24
+        },
+        {
+          "chord": "Em",
+          "col": 34
+        },
+        {
+          "chord": "F",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "More than words to show you feel that your love for me is real",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "Dm7",
+          "col": 28
+        },
+        {
+          "chord": "G7",
+          "col": 44
+        },
+        {
+          "chord": "C",
+          "col": 62
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "What would you say if I took those words away?",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "Am7",
+          "col": 25
+        },
+        {
+          "chord": "Em7",
+          "col": 36
+        },
+        {
+          "chord": "F",
+          "col": 43
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Then you couldn't make things new",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "Dm7",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Just by saying I love you",
+      "chords": [
+        {
+          "chord": "G7",
+          "col": 3
+        },
+        {
+          "chord": "C",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

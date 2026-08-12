@@ -1,0 +1,188 @@
+{
+  "slug": "simge-yalniz-basina",
+  "artist": "Simge",
+  "title": "Yalnız Başına",
+  "key": "F#",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Bin ah edip hayatın karşısında",
+      "chords": [
+        {
+          "chord": "D#m",
+          "col": 0
+        },
+        {
+          "chord": "G#m",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Öylece kalakaldım",
+      "chords": [
+        {
+          "chord": "Bmaj7",
+          "col": 0
+        },
+        {
+          "chord": "A#m7",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Seyredip durdum eskide ne varsa",
+      "chords": [
+        {
+          "chord": "D#m",
+          "col": 0
+        },
+        {
+          "chord": "G#m",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yalnızca bende aşktın",
+      "chords": [
+        {
+          "chord": "Bmaj7",
+          "col": 0
+        },
+        {
+          "chord": "A#m7",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Oooo oooo",
+      "chords": [
+        {
+          "chord": "Bmaj7",
+          "col": 0
+        },
+        {
+          "chord": "A#m7",
+          "col": 8
+        },
+        {
+          "chord": "G#m7",
+          "col": 14
+        },
+        {
+          "chord": "F#maj7",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bakalım ne kadar da doğruymuş",
+      "chords": [
+        {
+          "chord": "Bbm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dünden sonra yarın olur mu yalnız başına",
+      "chords": [
+        {
+          "chord": "Abm",
+          "col": 51
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yalnız başına",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yalanların da masum muymuş",
+      "chords": [
+        {
+          "chord": "Bbm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Seni sevmek bu kadar zor mu yalnız başına",
+      "chords": [
+        {
+          "chord": "Abm",
+          "col": 53
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yalnız başına",
+      "chords": [
+        {
+          "chord": "Gb",
+          "col": 0
+        },
+        {
+          "chord": "Abm7",
+          "col": 4
+        },
+        {
+          "chord": "Bbm7",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Bmaj7",
+          "col": 0
+        },
+        {
+          "chord": "Bbm",
+          "col": 7
+        },
+        {
+          "chord": "Abm7",
+          "col": 12
+        },
+        {
+          "chord": "Gbmaj7",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

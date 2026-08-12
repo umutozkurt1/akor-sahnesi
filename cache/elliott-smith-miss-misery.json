@@ -1,0 +1,392 @@
+{
+  "slug": "elliott-smith-miss-misery",
+  "artist": "Elliott Smith",
+  "title": "Miss Misery",
+  "key": "B",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Verse 1",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'll fake it through the day with some help",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 10
+        },
+        {
+          "chord": "Em",
+          "col": 19
+        },
+        {
+          "chord": "D",
+          "col": 29
+        },
+        {
+          "chord": "Em",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "From Johnnie Walker Red",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Send the poison brain down the drain to put",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 10
+        },
+        {
+          "chord": "Em",
+          "col": 18
+        },
+        {
+          "chord": "A",
+          "col": 23
+        },
+        {
+          "chord": "G",
+          "col": 32
+        },
+        {
+          "chord": "D",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bad thoughts in my head",
+      "chords": [
+        {
+          "chord": "Bsus9",
+          "col": 20
+        },
+        {
+          "chord": "A",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Two tickets torn in half for LG",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 9
+        },
+        {
+          "chord": "Em",
+          "col": 23
+        },
+        {
+          "chord": "D",
+          "col": 30
+        },
+        {
+          "chord": "Em",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "With nothing to do",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Chorus",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "Do you miss me, Miss Misery",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 8
+        },
+        {
+          "chord": "A",
+          "col": 14
+        },
+        {
+          "chord": "G",
+          "col": 18
+        },
+        {
+          "chord": "D",
+          "col": 24
+        },
+        {
+          "chord": "A",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Like you say you do",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 10
+        },
+        {
+          "chord": "D",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bridge 1",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "We met in the park, read the lines in my hand",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 23
+        },
+        {
+          "chord": "D",
+          "col": 39
+        },
+        {
+          "chord": "F",
+          "col": 51
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Told me I'm strong, hardly ever wrong, I said, man you mean",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 14
+        },
+        {
+          "chord": "A",
+          "col": 41
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Verse 2",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You had plans for both of us that involved",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "A trip out of town",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "To a place I seen in a magazine that you",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Left lyin' around",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   I don't have you with me but I keep",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "A good attitude",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Chorus",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "Middle Eight",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I know you'd rather see me gone, than to see me",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 20
+        },
+        {
+          "chord": "D",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "The way that I am",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 5
+        },
+        {
+          "chord": "G",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But I am in the life anyway",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 17
+        },
+        {
+          "chord": "Gb",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Verse 3",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Next door, TV's flashing blue",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Frames on the wall",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "It's a comedy of errors you see",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "It's about taking a fall",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "To vanish into oblivion",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "It's easy to do",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Chorus Chords",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And I try to be but you know me",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I come back when you want me to",
+      "chords": [],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

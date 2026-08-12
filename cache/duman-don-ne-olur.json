@@ -1,0 +1,180 @@
+{
+  "slug": "duman-don-ne-olur",
+  "artist": "Duman",
+  "title": "Dön Ne Olur",
+  "key": "D",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Sen gittin gözüm arkada kaldı",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 4
+        },
+        {
+          "chord": "Dm",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Canım sıkıldı çabuk gel                    X2",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Tadım kalmadı hemen gel",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 22
+        },
+        {
+          "chord": "Gm",
+          "col": 36
+        },
+        {
+          "chord": "Gm",
+          "col": 41
+        },
+        {
+          "chord": "F",
+          "col": 44
+        },
+        {
+          "chord": "D#",
+          "col": 46
+        },
+        {
+          "chord": "Dm",
+          "col": 49
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir kaç gün içinde dön ne olur",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 18
+        },
+        {
+          "chord": "Gm",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bıraktığın gibi burdayım",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yalnız değilsin yanındayım",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 3
+        },
+        {
+          "chord": "D#",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Tut elimi tut canındayım",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yalnız değilsin yanındayım",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir kaç gün içinde dön ne olur",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 18
+        },
+        {
+          "chord": "Gm",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

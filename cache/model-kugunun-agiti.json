@@ -1,0 +1,357 @@
+{
+  "slug": "model-kugunun-agiti",
+  "artist": "Model",
+  "title": "Kuğunun Ağıtı",
+  "key": "G",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Annem anlatırdı bu masalı",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir kuğu hakkında ruhu yaralı",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hiç sesi çıkmamış yaşarken",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yalnızca bir şarkı söylemiş ölürken",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 46
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "O kuğu gibi ben de sükuneti bozuyorum",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 24
+        },
+        {
+          "chord": "D#",
+          "col": 27
+        },
+        {
+          "chord": "Gm",
+          "col": 45
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sesim kısık bu yerde veda ediyorum",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 24
+        },
+        {
+          "chord": "D#",
+          "col": 32
+        },
+        {
+          "chord": "Cm",
+          "col": 41
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ben gidiyorum",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gözümde yaşlarım, kalbimde aşklarım",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 25
+        },
+        {
+          "chord": "Gm",
+          "col": 39
+        },
+        {
+          "chord": "F",
+          "col": 53
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Şimdi ben gidiyorum",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bitmedi savaşlarım, siler yeniden başlarım her şeyi",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 6
+        },
+        {
+          "chord": "F",
+          "col": 27
+        },
+        {
+          "chord": "Gm",
+          "col": 40
+        },
+        {
+          "chord": "F",
+          "col": 58
+        },
+        {
+          "chord": "Gm",
+          "col": 74
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Şarkılar söylerdim küçükken",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hepsi ağıt oldu büyürken",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Geçmiş cebimde ölü toprağı",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Zihnim anılara ziyafet verirken",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "O kuğu gibi ben de sükuneti bozuyorum",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 25
+        },
+        {
+          "chord": "D#",
+          "col": 28
+        },
+        {
+          "chord": "Gm",
+          "col": 54
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sesim kısık bu yerde veda ediyorum",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 24
+        },
+        {
+          "chord": "D#",
+          "col": 29
+        },
+        {
+          "chord": "F",
+          "col": 48
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Nakarat",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "O kuğu gibi ben de sükuneti bozuyorum",
+      "chords": [
+        {
+          "chord": "C5",
+          "col": 0
+        },
+        {
+          "chord": "G5",
+          "col": 23
+        },
+        {
+          "chord": "D#5",
+          "col": 36
+        },
+        {
+          "chord": "G5",
+          "col": 52
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sesim kısık bu yerde veda ediyorum",
+      "chords": [
+        {
+          "chord": "C5",
+          "col": 0
+        },
+        {
+          "chord": "G5",
+          "col": 23
+        },
+        {
+          "chord": "D#5",
+          "col": 33
+        },
+        {
+          "chord": "F5",
+          "col": 51
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

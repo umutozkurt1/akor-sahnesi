@@ -1,0 +1,610 @@
+{
+  "slug": "katy-perry-hot-n-cold",
+  "artist": "Katy Perry",
+  "title": "Hot N Cold",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "You change your mind",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Like a girl changes clothes",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 8
+        },
+        {
+          "chord": "F",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yeah you, PMS",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 5
+        },
+        {
+          "chord": "G",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Like a bitch",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I would know",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And you over think",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 5
+        },
+        {
+          "chord": "G",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Always speak",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Crypticly",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 4
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I should know",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "That you're no good for me",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 6
+        },
+        {
+          "chord": "Dm",
+          "col": 13
+        },
+        {
+          "chord": "F",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "{Refrão}",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Cause you're hot then you're cold",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You're yes then you're no",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You're in then you're out",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You're up then you're down",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You're wrong when it's right",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 7
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "It's black and it's white",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 5
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "We fight, we break up",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 3
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "We kiss, we make up",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 3
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "(you)You don't really want to stay, no",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 5
+        },
+        {
+          "chord": "G",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "(but you)[B]ut you don't really want to go-o",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 9
+        },
+        {
+          "chord": "F",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You're hot then you're cold",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 7
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You're yes then you're no",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 7
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You're in and you're out",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 7
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You're up and you're down",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 7
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "C - G - Dm - F",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "We used to be",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Just like twins",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "So in sync",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 7
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "The same energy",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 5
+        },
+        {
+          "chord": "G",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Now's a dead battery",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 9
+        },
+        {
+          "chord": "F",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Used to laugh bout nothing",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 8
+        },
+        {
+          "chord": "G",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Now your plain boring",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 9
+        },
+        {
+          "chord": "F",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I should know that",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You're not gonna change",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 1
+        },
+        {
+          "chord": "Dm",
+          "col": 18
+        },
+        {
+          "chord": "F",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Cause you're hot then you're cold",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You're yes then you're no",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You're in then you're out",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You're up then you're down",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You're wrong when it's right",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 7
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "It's black and it's white",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 5
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "We fight, we break up",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 3
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "We kiss, we make up",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 3
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "(you)You don't really want to stay, no",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 5
+        },
+        {
+          "chord": "G",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "(but you)[B]ut you don't really want to go-o",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 9
+        },
+        {
+          "chord": "F",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You're hot then you're cold",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 7
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You're yes then you're no",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 7
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You're in and you're out",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 7
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You're up and you're down",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 7
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

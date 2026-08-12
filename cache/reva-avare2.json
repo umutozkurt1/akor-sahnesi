@@ -1,0 +1,247 @@
+{
+  "slug": "reva-avare2",
+  "artist": "Reva",
+  "title": "Avare",
+  "key": "D",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Yok bir kötü sözü, sürçi lisanı. Dillere destan heybeti, endamı",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 24
+        },
+        {
+          "chord": "A#",
+          "col": 40
+        },
+        {
+          "chord": "A",
+          "col": 57
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dengesiz geç oluyor fikir beyanı. Aldatıldı  sanıyor yok vicdanı",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "A#dim7",
+          "col": 26
+        },
+        {
+          "chord": "A#",
+          "col": 38
+        },
+        {
+          "chord": "A",
+          "col": 54
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Nereye kaçsam, nereye gitsem derdi hesapta ah bilebilsem",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 21
+        },
+        {
+          "chord": "A#",
+          "col": 39
+        },
+        {
+          "chord": "A",
+          "col": 54
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kendimde değildim, biraz asabiydim. İnanmıyordu ısrar ettim",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "A#dim7",
+          "col": 26
+        },
+        {
+          "chord": "A#",
+          "col": 47
+        },
+        {
+          "chord": "A",
+          "col": 56
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Buraya kadar geldin, gördün. Ne var ne yok bende",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Şimdi memnun değilsen hiç bakma ardına. Çoktan başlamışsındır farklı tatlar tatmaya",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 43
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Aşk içinde alavere dalavere",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bilmiyorum nerde, bilmiyorum kiminle. Bizimki çıktı avare",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Aşk içinde alavere dalavere",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bilmiyorum nerdeyim, kimim ve kiminleyim. İçiyorum sadece",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 46
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Solo:",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "A#dim7",
+          "col": 4
+        },
+        {
+          "chord": "Dm",
+          "col": 12
+        },
+        {
+          "chord": "A",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 4
+        },
+        {
+          "chord": "A",
+          "col": 8
+        },
+        {
+          "chord": "A",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

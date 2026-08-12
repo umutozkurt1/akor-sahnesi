@@ -1,0 +1,262 @@
+{
+  "slug": "tarkan-gitme",
+  "artist": "Tarkan",
+  "title": "Gitme",
+  "key": "F#",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Ne vakit gelsen aklıma, bir yıldız düşer içime",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 26
+        },
+        {
+          "chord": "C#",
+          "col": 34
+        },
+        {
+          "chord": "F#m",
+          "col": 52
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Seni görürüm o anda, yağar yağmur avucuma",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 28
+        },
+        {
+          "chord": "C#",
+          "col": 39
+        },
+        {
+          "chord": "F#m",
+          "col": 60
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gidersen doğmaz güneşim, sarar gözlerimi acı bir telaş",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 16
+        },
+        {
+          "chord": "D",
+          "col": 32
+        },
+        {
+          "chord": "Bm",
+          "col": 46
+        },
+        {
+          "chord": "C#m",
+          "col": 56
+        },
+        {
+          "chord": "D",
+          "col": 64
+        },
+        {
+          "chord": "C#",
+          "col": 71
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gitme desem canım, kalır mısın benimle",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 20
+        },
+        {
+          "chord": "C#",
+          "col": 34
+        },
+        {
+          "chord": "F#m",
+          "col": 51
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gitme desem canım, sever mısın beni yine",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 26
+        },
+        {
+          "chord": "C#",
+          "col": 39
+        },
+        {
+          "chord": "F#m",
+          "col": 60
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gitme, gitme, gitme ah gitme      x2",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 8
+        },
+        {
+          "chord": "C#",
+          "col": 18
+        },
+        {
+          "chord": "D",
+          "col": 32
+        },
+        {
+          "chord": "F#m",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Geceler sabahsız, ömrüm baharsız",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 16
+        },
+        {
+          "chord": "A",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sensiz kalırsam, ölürüm yalansız  2x",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 16
+        },
+        {
+          "chord": "A",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gitme, gitme, gitme ne olur     x2",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 9
+        },
+        {
+          "chord": "C#",
+          "col": 17
+        },
+        {
+          "chord": "F#m",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kıvrım kıvrım saçların ıslanır ben dokununca",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 20
+        },
+        {
+          "chord": "C#",
+          "col": 30
+        },
+        {
+          "chord": "F#m",
+          "col": 55
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ne vakit gelsen aklıma, durdururum zamanı",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 29
+        },
+        {
+          "chord": "C#",
+          "col": 39
+        },
+        {
+          "chord": "F#m",
+          "col": 58
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

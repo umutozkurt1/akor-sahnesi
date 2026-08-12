@@ -1,0 +1,57 @@
+{
+  "slug": "edis-doldur-icelim",
+  "artist": "Edis",
+  "title": "Doldur İçelim",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Doldur içelim doldur bi daha",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yeterince üzüldük vur masaya",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir yudum aşk benden sana",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Uğruna harcarım ne var ne yoksa",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

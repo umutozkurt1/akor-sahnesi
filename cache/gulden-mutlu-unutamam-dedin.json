@@ -1,0 +1,282 @@
+{
+  "slug": "gulden-mutlu-unutamam-dedin",
+  "artist": "Gülden Mutlu",
+  "title": "Unutamam Dedin",
+  "key": "C#",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Unutamam dedin",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yalan mı söyledin",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Aynı son aynı hikaye",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bırak beni bırak, gideyim",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 13
+        },
+        {
+          "chord": "C#m",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Canım, geçmez sandığım",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Günler mi açtı aramızı",
+      "chords": [
+        {
+          "chord": "E/D",
+          "col": 10
+        },
+        {
+          "chord": "C#m",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ne umdum ne gördü gözlerim",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bu dokuduğum sen değilsin",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 7
+        },
+        {
+          "chord": "D",
+          "col": 13
+        },
+        {
+          "chord": "C#m",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Unutamam dedin",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yalan mı söyledin",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ben böyle pare pare",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Zehir oldu yediğim içtiğim",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Reva mı ettiğin",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Aynı son aynı hikaye",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bırak beni bırak gideyim",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 8
+        },
+        {
+          "chord": "C#m",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Durmam yabancı elleri",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kimlerle açtın aramızı",
+      "chords": [
+        {
+          "chord": "E/D",
+          "col": 10
+        },
+        {
+          "chord": "C#m",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ne umdum ne gördü gözlerim",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bu dokuduğum sen değilsin",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 7
+        },
+        {
+          "chord": "D",
+          "col": 13
+        },
+        {
+          "chord": "C#m",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

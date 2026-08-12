@@ -1,0 +1,728 @@
+{
+  "slug": "conan-gray-comfort",
+  "artist": "Conan Gray",
+  "title": "Comfort",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Intro",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 4
+        },
+        {
+          "chord": "F",
+          "col": 9
+        },
+        {
+          "chord": "C",
+          "col": 13
+        },
+        {
+          "chord": "Em",
+          "col": 17
+        },
+        {
+          "chord": "Am",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "This hurt that I'm holding's getting heavy",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 6
+        },
+        {
+          "chord": "Em",
+          "col": 20
+        },
+        {
+          "chord": "F",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But I'mma keep a smile on my shoulders 'til I'm sweaty",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 17
+        },
+        {
+          "chord": "Em",
+          "col": 31
+        },
+        {
+          "chord": "Am",
+          "col": 48
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Begging on my knees, screaming someone come and help me",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 15
+        },
+        {
+          "chord": "Em",
+          "col": 32
+        },
+        {
+          "chord": "F",
+          "col": 49
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But by the time they're there",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I've already hid the body",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 7
+        },
+        {
+          "chord": "Am",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "My breath's getting short and I'm unsteady",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 6
+        },
+        {
+          "chord": "Em",
+          "col": 22
+        },
+        {
+          "chord": "Am",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Welling up in tears as I lay upon your belly",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 16
+        },
+        {
+          "chord": "Em",
+          "col": 26
+        },
+        {
+          "chord": "F",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Tell you that I'm fine",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I don't really need nobody",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 10
+        },
+        {
+          "chord": "Am",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But you say through a sigh",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "That I said that lie already",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 8
+        },
+        {
+          "chord": "F",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yeah I just needed company now",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 20
+        },
+        {
+          "chord": "C",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yeah I just needed someone around",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 20
+        },
+        {
+          "chord": "Am",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I don't care what song that we play",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Or mess that we make",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 3
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Just company now",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 6
+        },
+        {
+          "chord": "Am",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Comfort crowd",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 10
+        },
+        {
+          "chord": "Em",
+          "col": 15
+        },
+        {
+          "chord": "Am",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Comfort crowd",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 10
+        },
+        {
+          "chord": "Em",
+          "col": 15
+        },
+        {
+          "chord": "Am",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "We rot",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 4
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Thinking lots about nothing",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 10
+        },
+        {
+          "chord": "Am",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yeah I could spend a lifetime",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sitting here talking",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And even if I cry all over your body",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 14
+        },
+        {
+          "chord": "Em",
+          "col": 23
+        },
+        {
+          "chord": "Am",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You don't really mind",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Say you like your shirt soggy",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 9
+        },
+        {
+          "chord": "F",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yeah I just needed company now",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 20
+        },
+        {
+          "chord": "C",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yeah I just needed someone around",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 20
+        },
+        {
+          "chord": "Am",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I don't care what song that we play",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Or mess that we make",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 3
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Just company now",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 6
+        },
+        {
+          "chord": "Am",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Comfort crowd",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 10
+        },
+        {
+          "chord": "Em",
+          "col": 15
+        },
+        {
+          "chord": "Am",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Comfort crowd",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 10
+        },
+        {
+          "chord": "Em",
+          "col": 15
+        },
+        {
+          "chord": "Am",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "We mess around",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And laugh too loud",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 5
+        },
+        {
+          "chord": "F",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And make the sounds",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I try to hide when people are around",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 3
+        },
+        {
+          "chord": "Em",
+          "col": 21
+        },
+        {
+          "chord": "Am",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "By blood we're bound",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Through ups and downs",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 9
+        },
+        {
+          "chord": "F",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Their smiles and pouts",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Comfort crowd",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You can always count",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yeah I just needed company now",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 21
+        },
+        {
+          "chord": "Em",
+          "col": 28
+        },
+        {
+          "chord": "Am",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yeah I just needed someone around",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 21
+        },
+        {
+          "chord": "Em",
+          "col": 29
+        },
+        {
+          "chord": "F",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I don't care what song that we play",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 20
+        },
+        {
+          "chord": "Em",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Or mess that we make",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 4
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Just company now",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 6
+        },
+        {
+          "chord": "Em",
+          "col": 14
+        },
+        {
+          "chord": "F",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Comfort crowd",
+      "chords": [],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

@@ -1,0 +1,484 @@
+{
+  "slug": "hepsi-uc-kalp",
+  "artist": "Hepsi",
+  "title": "Üç Kalp",
+  "key": "G",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 3
+        },
+        {
+          "chord": "A#",
+          "col": 5
+        },
+        {
+          "chord": "D#",
+          "col": 8
+        },
+        {
+          "chord": "Cm",
+          "col": 11
+        },
+        {
+          "chord": "D",
+          "col": 14
+        },
+        {
+          "chord": "Gm",
+          "col": 16
+        },
+        {
+          "chord": "G",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 3
+        },
+        {
+          "chord": "A#",
+          "col": 5
+        },
+        {
+          "chord": "D#",
+          "col": 8
+        },
+        {
+          "chord": "Cm",
+          "col": 11
+        },
+        {
+          "chord": "D",
+          "col": 14
+        },
+        {
+          "chord": "Gm",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 3
+        },
+        {
+          "chord": "F",
+          "col": 6
+        },
+        {
+          "chord": "Gm",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "karar ver artık kimi daha çok sevdiğine",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "kararsız olma sen üzme herkesi",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 21
+        },
+        {
+          "chord": "D",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "kalbinde kim var omu yoksa benmiyim",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "bilmek isterim yolumu çizeyim",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 17
+        },
+        {
+          "chord": "D",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "    sen de üzgünsün bu hayattan hemde nasıl",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 4
+        },
+        {
+          "chord": "F",
+          "col": 15
+        },
+        {
+          "chord": "A#",
+          "col": 29
+        },
+        {
+          "chord": "D#",
+          "col": 44
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "    bir kalpde iki kalp nasıl yaşanır",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 11
+        },
+        {
+          "chord": "D",
+          "col": 24
+        },
+        {
+          "chord": "Gm",
+          "col": 32
+        },
+        {
+          "chord": "G",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "    iki kişi seven iki defa ölürmüş",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 4
+        },
+        {
+          "chord": "F",
+          "col": 13
+        },
+        {
+          "chord": "A#",
+          "col": 22
+        },
+        {
+          "chord": "D#",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "    bir kalp yalnız bir kalbi düşünürmüş",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 13
+        },
+        {
+          "chord": "D",
+          "col": 25
+        },
+        {
+          "chord": "Gm",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "      ah sen üzgün",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 6
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "      ah ben üzgün",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 6
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "      o da üzgün yapma",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "      herkes de üzgün",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 17
+        },
+        {
+          "chord": "G",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "      ah sen üzgün",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 6
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "      ah ben üzgün",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 6
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "      o da üzgün yapma",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "      herkes çok üzgün",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 3
+        },
+        {
+          "chord": "F",
+          "col": 6
+        },
+        {
+          "chord": "Gm",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "gözler beni arar kalbin onu düşünür",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "tercih yap sonra üç kalp birden ölür",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 18
+        },
+        {
+          "chord": "D",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "görülmemiştir böyle aşk inan dünyada",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "ne biçim sevgi üç kalp birarada",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 19
+        },
+        {
+          "chord": "D",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Tekrar I",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Tekrar II  X2",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 3
+        },
+        {
+          "chord": "F",
+          "col": 6
+        },
+        {
+          "chord": "Gm",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

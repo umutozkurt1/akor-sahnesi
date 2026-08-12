@@ -1,0 +1,271 @@
+{
+  "slug": "bos-liman-bos-liman",
+  "artist": "Boş Liman",
+  "title": "Boş Liman",
+  "key": "G",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 3
+        },
+        {
+          "chord": "Am",
+          "col": 6
+        },
+        {
+          "chord": "Em",
+          "col": 10
+        },
+        {
+          "chord": "Am",
+          "col": 14
+        },
+        {
+          "chord": "Em",
+          "col": 18
+        },
+        {
+          "chord": "F",
+          "col": 22
+        },
+        {
+          "chord": "G",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Aldı gitti bi parçam artık onda",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 3
+        },
+        {
+          "chord": "F",
+          "col": 13
+        },
+        {
+          "chord": "C",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Birden yıkıldı dünyam ve sonra",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 12
+        },
+        {
+          "chord": "F",
+          "col": 17
+        },
+        {
+          "chord": "C",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kayboldum dön gel yine",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 17
+        },
+        {
+          "chord": "F",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Seneler değişse bile",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Harcanmış yıllar hep boş yere",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 16
+        },
+        {
+          "chord": "F",
+          "col": 29
+        },
+        {
+          "chord": "G",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kimseye bahsetmem adını",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sahile döktüm gözyaşımı",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir gemi kalktı dönmeyecek",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Martılar sevmez boş limanı",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sonbahara vurgun bir deli takvim",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hiç yola gelmez ah şu kalbim",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kim bilir kaç yaprak dökecek",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Rüzgarına yenik düşecek",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

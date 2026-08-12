@@ -1,0 +1,215 @@
+{
+  "slug": "ozgun-istiklal",
+  "artist": "Özgün",
+  "title": "İstiklal",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Tam yılın aşk aylarında İstiklal barlarında",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "F#",
+          "col": 13
+        },
+        {
+          "chord": "Fm",
+          "col": 25
+        },
+        {
+          "chord": "F#",
+          "col": 35
+        },
+        {
+          "chord": "A#m",
+          "col": 47
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Her gece coşarken",
+      "chords": [
+        {
+          "chord": "D#m",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Tüm sıkı dostlar yanımda, boş kadehler masamda",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "F#",
+          "col": 12
+        },
+        {
+          "chord": "Fm",
+          "col": 25
+        },
+        {
+          "chord": "F#",
+          "col": 47
+        },
+        {
+          "chord": "A#m",
+          "col": 62
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dolarken taşarken",
+      "chords": [
+        {
+          "chord": "D#m",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Onu gördüm karşımda bir edepsiz merhaba",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 11
+        },
+        {
+          "chord": "F#",
+          "col": 20
+        },
+        {
+          "chord": "D#m",
+          "col": 28
+        },
+        {
+          "chord": "Fm",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Geldi ve ansızın oturdu inadına",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 21
+        },
+        {
+          "chord": "F#",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir of çekip Allah dedim, böylesini ben hiç görmedim",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 14
+        },
+        {
+          "chord": "F#",
+          "col": 28
+        },
+        {
+          "chord": "D#m",
+          "col": 54
+        },
+        {
+          "chord": "Fm",
+          "col": 68
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Diğerleri sadece sevebilir ama bense uğruna ölebilirim",
+      "chords": [
+        {
+          "chord": "F#",
+          "col": 41
+        },
+        {
+          "chord": "D#m",
+          "col": 66
+        },
+        {
+          "chord": "Fm",
+          "col": 80
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir ah çekip dünya dedim bu gece bana dar mı her yerin",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 14
+        },
+        {
+          "chord": "F#",
+          "col": 33
+        },
+        {
+          "chord": "D#m",
+          "col": 66
+        },
+        {
+          "chord": "Fm",
+          "col": 80
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gözlerime baksan inanacaksan söyle rakı rakı rakı büyük",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 25
+        },
+        {
+          "chord": "F#",
+          "col": 44
+        },
+        {
+          "chord": "D#m",
+          "col": 66
+        },
+        {
+          "chord": "Fm",
+          "col": 80
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

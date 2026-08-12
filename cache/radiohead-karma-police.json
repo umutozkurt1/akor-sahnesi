@@ -1,0 +1,853 @@
+{
+  "slug": "radiohead-karma-police",
+  "artist": "Radiohead",
+  "title": "Karma Police",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Intro :",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 7
+        },
+        {
+          "chord": "G",
+          "col": 10
+        },
+        {
+          "chord": "Am",
+          "col": 12
+        },
+        {
+          "chord": "F",
+          "col": 15
+        },
+        {
+          "chord": "Em",
+          "col": 17
+        },
+        {
+          "chord": "G",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 3
+        },
+        {
+          "chord": "G",
+          "col": 5
+        },
+        {
+          "chord": "C",
+          "col": 11
+        },
+        {
+          "chord": "Am",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 3
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  Karma    police",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Arrest this man",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 2
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  He talks in maths",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  He buzzes like a fridge  He's like",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 5
+        },
+        {
+          "chord": "Am",
+          "col": 25
+        },
+        {
+          "chord": "D",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "a detuned radio",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 4
+        },
+        {
+          "chord": "C",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 3
+        },
+        {
+          "chord": "D",
+          "col": 6
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Am     DF#",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  Karma    police",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  Arrest this girl",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 4
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  Her Hitler hairdo",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 9
+        },
+        {
+          "chord": "Em",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Is making me feel ill",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 3
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  And we have crashed her party",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 8
+        },
+        {
+          "chord": "G",
+          "col": 21
+        },
+        {
+          "chord": "C",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 3
+        },
+        {
+          "chord": "D",
+          "col": 6
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " This is what you'll get",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "      This is what you'll get",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "Gb",
+          "col": 2
+        },
+        {
+          "chord": "C",
+          "col": 5
+        },
+        {
+          "chord": "D",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "      This is what you'll get",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "Gb",
+          "col": 2
+        },
+        {
+          "chord": "C",
+          "col": 5
+        },
+        {
+          "chord": "D",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "G             BmF#",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " When you mess     with us",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 2
+        },
+        {
+          "chord": "D",
+          "col": 5
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Am     DF#",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  Karma    police",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  I've given all I can",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 7
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  It's not enough",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  I've given all I can",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 7
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  But we're still on the payroll",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 11
+        },
+        {
+          "chord": "G",
+          "col": 20
+        },
+        {
+          "chord": "C",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 3
+        },
+        {
+          "chord": "D",
+          "col": 6
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " This is what you'll get",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "      This is what you'll get",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "Gb",
+          "col": 2
+        },
+        {
+          "chord": "C",
+          "col": 5
+        },
+        {
+          "chord": "D",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "      This is what you'll get",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "Gb",
+          "col": 2
+        },
+        {
+          "chord": "C",
+          "col": 5
+        },
+        {
+          "chord": "D",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "G             BmF#",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " When you mess     with us",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 2
+        },
+        {
+          "chord": "D",
+          "col": 5
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  For a minute there",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " I lost myself, I lost myself",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 7
+        },
+        {
+          "chord": "G",
+          "col": 15
+        },
+        {
+          "chord": "D",
+          "col": 22
+        },
+        {
+          "chord": "E",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  Phew, for a minute there I lost",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 14
+        },
+        {
+          "chord": "G",
+          "col": 21
+        },
+        {
+          "chord": "D",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "myself, I lost myself",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 7
+        },
+        {
+          "chord": "D",
+          "col": 14
+        },
+        {
+          "chord": "E",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "     For a      minute there",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 3
+        },
+        {
+          "chord": "G",
+          "col": 5
+        },
+        {
+          "chord": "D",
+          "col": 9
+        },
+        {
+          "chord": "G",
+          "col": 11
+        },
+        {
+          "chord": "D",
+          "col": 13
+        },
+        {
+          "chord": "E",
+          "col": 15
+        },
+        {
+          "chord": "Bm",
+          "col": 18
+        },
+        {
+          "chord": "D",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I lost myself, I lost myself",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 2
+        },
+        {
+          "chord": "D",
+          "col": 9
+        },
+        {
+          "chord": "G",
+          "col": 17
+        },
+        {
+          "chord": "D",
+          "col": 24
+        },
+        {
+          "chord": "E",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Phew, for  a minute there",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 9
+        },
+        {
+          "chord": "D",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I lost myself, I lost myself",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 2
+        },
+        {
+          "chord": "D",
+          "col": 9
+        },
+        {
+          "chord": "G",
+          "col": 17
+        },
+        {
+          "chord": "D",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 2
+        },
+        {
+          "chord": "D",
+          "col": 5
+        },
+        {
+          "chord": "G",
+          "col": 7
+        },
+        {
+          "chord": "D",
+          "col": 9
+        },
+        {
+          "chord": "G",
+          "col": 11
+        },
+        {
+          "chord": "D",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 2
+        },
+        {
+          "chord": "D",
+          "col": 5
+        },
+        {
+          "chord": "G",
+          "col": 7
+        },
+        {
+          "chord": "D",
+          "col": 9
+        },
+        {
+          "chord": "G",
+          "col": 11
+        },
+        {
+          "chord": "D",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 2
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

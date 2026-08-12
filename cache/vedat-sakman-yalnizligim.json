@@ -1,0 +1,117 @@
+{
+  "slug": "vedat-sakman-yalnizligim",
+  "artist": "Vedat Sakman",
+  "title": "Yalnızlığım",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "yeni tanıştık belkide ama kimbilir belkide hep vardın",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "E7",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "eşlik ediyordun sessiz ve sinsice belkide",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "şimdi şimdi anlıyorum kurnazca ayırdın beni belkide",
+      "chords": [
+        {
+          "chord": "A7",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "liğme liğme savurdun sevdiklerimi belkide",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "E7",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "yalnızlığım, yaşamak zorunda olduğum beraberliğimsin",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "E7",
+          "col": 43
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "yalnızlığım,kanımsın canımsın sen benim çaresizliğimsin",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 43
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "yalnızlığım bugünüm yarınım sen benim hüzünlerimsin",
+      "chords": [
+        {
+          "chord": "E7",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "yalnızlığım tek bilebildiğim sen benim vaz geçilmezimsin",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 44
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

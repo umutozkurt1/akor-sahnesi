@@ -1,0 +1,248 @@
+{
+  "slug": "haramiler-mavi-duvar",
+  "artist": "Haramiler",
+  "title": "Mavi Duvar",
+  "key": "G",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Duvarları maviye boyadım, maviyi çok seversin",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 24
+        },
+        {
+          "chord": "Dm",
+          "col": 42
+        },
+        {
+          "chord": "Gm",
+          "col": 59
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Penceremde menekşeler dizili, sularken şarkı söylersin",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 37
+        },
+        {
+          "chord": "F",
+          "col": 55
+        },
+        {
+          "chord": "Gm",
+          "col": 73
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gramofonda eski alaturka, hoşuna gider bilirim",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 30
+        },
+        {
+          "chord": "Dm",
+          "col": 56
+        },
+        {
+          "chord": "F",
+          "col": 64
+        },
+        {
+          "chord": "Gm",
+          "col": 66
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "O yaz evinin içinde, denize nazır",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 21
+        },
+        {
+          "chord": "F",
+          "col": 30
+        },
+        {
+          "chord": "Gm",
+          "col": 44
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sabaha kadar, bekledim seni",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 17
+        },
+        {
+          "chord": "F",
+          "col": 21
+        },
+        {
+          "chord": "Gm",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Birden dalgalar dedi ki,     gelmeyeceksin",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 5
+        },
+        {
+          "chord": "Cm",
+          "col": 9
+        },
+        {
+          "chord": "Dm",
+          "col": 28
+        },
+        {
+          "chord": "F",
+          "col": 34
+        },
+        {
+          "chord": "Gm",
+          "col": 52
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dalgalar dedi ki       gelmeyeceksin",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 19
+        },
+        {
+          "chord": "F",
+          "col": 26
+        },
+        {
+          "chord": "Gm",
+          "col": 44
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Birden çıktım viraneden koşa koşa indim kumsala",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 23
+        },
+        {
+          "chord": "Gm",
+          "col": 30
+        },
+        {
+          "chord": "Cm",
+          "col": 37
+        },
+        {
+          "chord": "F",
+          "col": 53
+        },
+        {
+          "chord": "Gm",
+          "col": 68
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Acı acı sövdüm sonra,    yüzümü kırbaçlayan rüzgara",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 14
+        },
+        {
+          "chord": "Gm",
+          "col": 28
+        },
+        {
+          "chord": "Cm",
+          "col": 37
+        },
+        {
+          "chord": "F",
+          "col": 58
+        },
+        {
+          "chord": "Gm",
+          "col": 73
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

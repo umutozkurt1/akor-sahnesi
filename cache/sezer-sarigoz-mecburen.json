@@ -1,0 +1,176 @@
+{
+  "slug": "sezer-sarigoz-mecburen",
+  "artist": "Sezer Sarıgöz",
+  "title": "Mecburen",
+  "key": "E",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "İntro :",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 3
+        },
+        {
+          "chord": "Dm",
+          "col": 6
+        },
+        {
+          "chord": "Em",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kaldırıp atsan atılmaz",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sat desen satılmaz",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Aşk dediğin şey kolay bitmemeli",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İnsan şaşar beşer",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gönlünden bi pay düşer",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Eskiye dair buruk bir yas kalır",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yazıp yazıp silmekten",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Uzaklara dalıp gitmektense",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yarım kalan hislerden",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Uzaklaşmam gerek mecburen",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 2
+        },
+        {
+          "chord": "G",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

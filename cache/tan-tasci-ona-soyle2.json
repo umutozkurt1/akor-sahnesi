@@ -1,0 +1,180 @@
+{
+  "slug": "tan-tasci-ona-soyle2",
+  "artist": "Tan Taşçı",
+  "title": "Ona Söyle",
+  "key": "E",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 4
+        },
+        {
+          "chord": "F",
+          "col": 8
+        },
+        {
+          "chord": "Em",
+          "col": 11
+        },
+        {
+          "chord": "Am",
+          "col": 15
+        },
+        {
+          "chord": "Em",
+          "col": 19
+        },
+        {
+          "chord": "Dm",
+          "col": 23
+        },
+        {
+          "chord": "Em",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kırılmasın, incinmesin, dert değmesin dallarına",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 32
+        },
+        {
+          "chord": "Am",
+          "col": 70
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Rüzgar üşütmesin, zor olmasın sabahlarına",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 24
+        },
+        {
+          "chord": "Em",
+          "col": 64
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sakın ağlamasın bir kendini bilmeyene",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 25
+        },
+        {
+          "chord": "Dm",
+          "col": 57
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bağlamasın gönlünü, gitsin bir hak edene",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 28
+        },
+        {
+          "chord": "Em",
+          "col": 61
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ona söyle kan damlıyor gönlümden",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yine söyle emin değilim kendimden",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Nolur söyle çok özledim, sor neden",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 19
+        },
+        {
+          "chord": "F",
+          "col": 29
+        },
+        {
+          "chord": "Em",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sevmek yetmiyor bazen",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 15
+        },
+        {
+          "chord": "Em",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

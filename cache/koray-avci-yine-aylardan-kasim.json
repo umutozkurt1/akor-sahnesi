@@ -1,0 +1,133 @@
+{
+  "slug": "koray-avci-yine-aylardan-kasim",
+  "artist": "Koray Avcı",
+  "title": "Yine Aylardan Kasım",
+  "key": "B",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Bir teselli ver, kırılan gururuma",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 17
+        },
+        {
+          "chord": "F#m",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir tebessüm et, unutursun zamanla",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 24
+        },
+        {
+          "chord": "F#m",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yine dalmışım aynada yüzüm ağlar",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 20
+        },
+        {
+          "chord": "F#m",
+          "col": 55
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yine dalmışım elimde fotoğraflar",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 19
+        },
+        {
+          "chord": "F#m",
+          "col": 51
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yine aylardan Kasım sanki sende kaldı bir yarım",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 19
+        },
+        {
+          "chord": "F#m",
+          "col": 65
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Her nefesim her anım sanadır canım",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 24
+        },
+        {
+          "chord": "F#m",
+          "col": 56
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yine aylardan Kasım sanki sende kaldı bir yarım",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 19
+        },
+        {
+          "chord": "F#m",
+          "col": 65
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Her nefesim her anım sanadır canım",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 24
+        },
+        {
+          "chord": "F#m",
+          "col": 56
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

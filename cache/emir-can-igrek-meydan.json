@@ -1,0 +1,231 @@
+{
+  "slug": "emir-can-igrek-meydan",
+  "artist": "Emir Can İğrek",
+  "title": "Meydan",
+  "key": "F#",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Bak bu prangalar bana küçük gelir, bileği bağlayamaz",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 25
+        },
+        {
+          "chord": "E",
+          "col": 56
+        },
+        {
+          "chord": "F#m",
+          "col": 77
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kalbi kazan kara, daha kararmamış yüreği anlayamaz",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 21
+        },
+        {
+          "chord": "E",
+          "col": 54
+        },
+        {
+          "chord": "F#m",
+          "col": 75
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ben senin üvey oğlun gibi sana muhtacım İstanbul",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 21
+        },
+        {
+          "chord": "A",
+          "col": 41
+        },
+        {
+          "chord": "D",
+          "col": 56
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Beni sokaklara atma",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 8
+        },
+        {
+          "chord": "F#m",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ben beceremiyorum bu yaşama işini bu çamura bulanarak",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 30
+        },
+        {
+          "chord": "D",
+          "col": 64
+        },
+        {
+          "chord": "E",
+          "col": 88
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dalga geçiyorum hayatla pekala ama bedeli olacak",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 24
+        },
+        {
+          "chord": "D",
+          "col": 56
+        },
+        {
+          "chord": "E",
+          "col": 76
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ya beni as tavana ya urganımı at",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 13
+        },
+        {
+          "chord": "D",
+          "col": 25
+        },
+        {
+          "chord": "E",
+          "col": 33
+        },
+        {
+          "chord": "D",
+          "col": 49
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Geçmem bu davadan",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 11
+        },
+        {
+          "chord": "D",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Her zaman, harbede harbede geçiyorum candan",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 8
+        },
+        {
+          "chord": "D",
+          "col": 13
+        },
+        {
+          "chord": "E",
+          "col": 46
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Heyt ulan, kaybede kaybede okuyorum meydan",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 6
+        },
+        {
+          "chord": "D",
+          "col": 11
+        },
+        {
+          "chord": "E",
+          "col": 43
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

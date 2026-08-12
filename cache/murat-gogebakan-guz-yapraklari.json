@@ -1,0 +1,131 @@
+{
+  "slug": "murat-gogebakan-guz-yapraklari",
+  "artist": "Murat Göğebakan",
+  "title": "Güz Yaprakları",
+  "key": "B",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Andım seni bu gece,yadettim yüreğimden",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 64
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sevgi yokuşundan şimdi geçtim,yalnızlar rıhtımındayım ben",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 55
+        },
+        {
+          "chord": "Bm",
+          "col": 70
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Güz yapraklar mevsimsiz döker mi? böyle!",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 21
+        },
+        {
+          "chord": "G",
+          "col": 37
+        },
+        {
+          "chord": "F#",
+          "col": 52
+        },
+        {
+          "chord": "G",
+          "col": 55
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bu aşk hiç baharında biter mi? söyle!",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 15
+        },
+        {
+          "chord": "D",
+          "col": 31
+        },
+        {
+          "chord": "A",
+          "col": 39
+        },
+        {
+          "chord": "Bm",
+          "col": 47
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gökkubbe senin için,denizler senin gözyaşın",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 59
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bastığın toprak yüreğim,sensiz bu dünyayı neyleyim",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 43
+        },
+        {
+          "chord": "Bm",
+          "col": 76
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

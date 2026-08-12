@@ -1,0 +1,122 @@
+{
+  "slug": "teoman-hatiralar",
+  "artist": "Teoman",
+  "title": "Hatıralar",
+  "key": "E",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Geçip giden zamanları, bir yerlerde bulsam",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 42
+        },
+        {
+          "chord": "B",
+          "col": 67
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sonra üzülsem, üzüldüğüme üzülsem",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 15
+        },
+        {
+          "chord": "E",
+          "col": 27
+        },
+        {
+          "chord": "C#m",
+          "col": 50
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gözyaşıma dalıp dalıp, seni hatırlarım",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 23
+        },
+        {
+          "chord": "E",
+          "col": 57
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gittin şimdi sen, yoksun yanımda",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 22
+        },
+        {
+          "chord": "G#m",
+          "col": 28
+        },
+        {
+          "chord": "C#m",
+          "col": 41
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir şey istemem, neye yarar hatıralar",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 19
+        },
+        {
+          "chord": "E",
+          "col": 55
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Başa döner",
+      "chords": [],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

@@ -1,0 +1,157 @@
+{
+  "slug": "kubilay-yurdaguven-bari-sen",
+  "artist": "Kubilay Yurdagüven",
+  "title": "Bari Sen",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Acılar biriktirdi yalanların üstüne",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 6
+        },
+        {
+          "chord": "A",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ve seni koydu baş köşesine",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 4
+        },
+        {
+          "chord": "Bm",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Anılar biriktirdi sen diye",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 5
+        },
+        {
+          "chord": "A",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir sabah uyandı yoksun diye yoksun niye",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 18
+        },
+        {
+          "chord": "Bm",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bari sen bıraksaydın benden bi parça",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 7
+        },
+        {
+          "chord": "F#m",
+          "col": 16
+        },
+        {
+          "chord": "Em",
+          "col": 32
+        },
+        {
+          "chord": "F#m",
+          "col": 54
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bari sen döküp yıkmasaydın",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 7
+        },
+        {
+          "chord": "F#m",
+          "col": 16
+        },
+        {
+          "chord": "Em",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ne kaldı ki tutunacak gönül kime sığınacak",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 11
+        },
+        {
+          "chord": "F#m",
+          "col": 25
+        },
+        {
+          "chord": "Em",
+          "col": 36
+        },
+        {
+          "chord": "F#m",
+          "col": 60
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Paramparça savrulacak bir ben bıraksaydın",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 15
+        },
+        {
+          "chord": "F#m",
+          "col": 31
+        },
+        {
+          "chord": "Bm",
+          "col": 43
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

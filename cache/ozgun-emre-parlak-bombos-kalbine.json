@@ -1,0 +1,149 @@
+{
+  "slug": "ozgun-emre-parlak-bombos-kalbine",
+  "artist": "Özgün & Emre Parlak",
+  "title": "Bomboş Kalbine",
+  "key": "F#",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "bitti farkındaysan yıprattık tertemiz aşkı",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 32
+        },
+        {
+          "chord": "C#m",
+          "col": 55
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "biten şeylerin ardından konuşmak doğru olmaz",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 2
+        },
+        {
+          "chord": "E",
+          "col": 20
+        },
+        {
+          "chord": "D",
+          "col": 41
+        },
+        {
+          "chord": "C#m",
+          "col": 65
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "zaten bu bana hiç uymaz",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 3
+        },
+        {
+          "chord": "C#m",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "zaten bu bana hiç uymaz",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 4
+        },
+        {
+          "chord": "E",
+          "col": 17
+        },
+        {
+          "chord": "C#m",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "seviyordum ben zaten gitmek istediğini bile bile",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "ne kadar zormuş atlatmak içim acıyor seve seve",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 46
+        },
+        {
+          "chord": "C#m",
+          "col": 63
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "seninde aksın tüm gözyaşyarın o bomboş kalbine",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "elbette ağlarsın sen de aşkım diye diye",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 32
+        },
+        {
+          "chord": "C#m",
+          "col": 49
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

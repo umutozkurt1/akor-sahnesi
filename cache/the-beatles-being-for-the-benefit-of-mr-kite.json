@@ -1,0 +1,566 @@
+{
+  "slug": "the-beatles-being-for-the-benefit-of-mr-kite",
+  "artist": "The Beatles",
+  "title": "Being For The Benefit Of Mr. Kite",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Bb",
+          "col": 9
+        },
+        {
+          "chord": "A7",
+          "col": 12
+        },
+        {
+          "chord": "Dm",
+          "col": 15
+        },
+        {
+          "chord": "G",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "For the benefit of Mr. Kite",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 10
+        },
+        {
+          "chord": "C#m",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "There will be a show tonight on trampoline",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 1
+        },
+        {
+          "chord": "Bm",
+          "col": 17
+        },
+        {
+          "chord": "E",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "The Henderson's will all be there",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 7
+        },
+        {
+          "chord": "C#m",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Late of Pablo Fanques Fair- what a scene!",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 1
+        },
+        {
+          "chord": "Bm",
+          "col": 17
+        },
+        {
+          "chord": "F#",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "     Bm              BmA",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Over man and horses hoops and garters",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Lastly through a hogshead of real fire!",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 1
+        },
+        {
+          "chord": "F#7",
+          "col": 21
+        },
+        {
+          "chord": "Bm",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "In this way Mr. K. will challenge the world!",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 9
+        },
+        {
+          "chord": "F#",
+          "col": 17
+        },
+        {
+          "chord": "Bm",
+          "col": 39
+        },
+        {
+          "chord": "Em",
+          "col": 45
+        },
+        {
+          "chord": "F#7",
+          "col": 49
+        },
+        {
+          "chord": "Bm",
+          "col": 53
+        },
+        {
+          "chord": "E",
+          "col": 57
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "The celebrated Mr. K.",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 10
+        },
+        {
+          "chord": "C#m",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Performs his feat on Saturday at Bishops gate",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 1
+        },
+        {
+          "chord": "Bm",
+          "col": 17
+        },
+        {
+          "chord": "E",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "The Henderson's will dance and sing",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 7
+        },
+        {
+          "chord": "C#m",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "As Mr. Kite flies through the ring- don't be late!",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 1
+        },
+        {
+          "chord": "Bm",
+          "col": 17
+        },
+        {
+          "chord": "F#",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "     Bm              BmA",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Messrs. K. and H. assure the public",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Their production will be second to none",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 1
+        },
+        {
+          "chord": "F#7",
+          "col": 21
+        },
+        {
+          "chord": "Bm",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And of course Henry The Horse dances the waltz!",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 9
+        },
+        {
+          "chord": "F#",
+          "col": 26
+        },
+        {
+          "chord": "Bm",
+          "col": 42
+        },
+        {
+          "chord": "D",
+          "col": 48
+        },
+        {
+          "chord": "A",
+          "col": 52
+        },
+        {
+          "chord": "F#",
+          "col": 55
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 7
+        },
+        {
+          "chord": "F",
+          "col": 10
+        },
+        {
+          "chord": "C",
+          "col": 14
+        },
+        {
+          "chord": "B",
+          "col": 17
+        },
+        {
+          "chord": "Em",
+          "col": 20
+        },
+        {
+          "chord": "G",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "The band begins at ten to six",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 10
+        },
+        {
+          "chord": "C#m",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "When Mr. K. performs his tricks without a sound",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 1
+        },
+        {
+          "chord": "Bm",
+          "col": 17
+        },
+        {
+          "chord": "E",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And Mr. H. will demonstrate",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 7
+        },
+        {
+          "chord": "C#m",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ten summer sets he'll undertake on solid ground",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 1
+        },
+        {
+          "chord": "Bm",
+          "col": 17
+        },
+        {
+          "chord": "F#",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "     Bm              BmA",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "We've been some days in preparation",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "A splendid time is guaranteed for all",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 1
+        },
+        {
+          "chord": "F#7",
+          "col": 21
+        },
+        {
+          "chord": "Bm",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And tonight Mr. Kite is topping the bill!",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 9
+        },
+        {
+          "chord": "F#",
+          "col": 26
+        },
+        {
+          "chord": "Bm",
+          "col": 42
+        },
+        {
+          "chord": "D",
+          "col": 48
+        },
+        {
+          "chord": "A",
+          "col": 52
+        },
+        {
+          "chord": "F#",
+          "col": 55
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "F#",
+          "col": 4
+        },
+        {
+          "chord": "A",
+          "col": 7
+        },
+        {
+          "chord": "C#m",
+          "col": 10
+        },
+        {
+          "chord": "F#",
+          "col": 14
+        },
+        {
+          "chord": "Bm",
+          "col": 18
+        },
+        {
+          "chord": "F#",
+          "col": 22
+        },
+        {
+          "chord": "A",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 10
+        },
+        {
+          "chord": "G#7",
+          "col": 13
+        },
+        {
+          "chord": "C#m",
+          "col": 17
+        },
+        {
+          "chord": "A",
+          "col": 22
+        },
+        {
+          "chord": "G#",
+          "col": 25
+        },
+        {
+          "chord": "C#m",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 6
+        },
+        {
+          "chord": "G#",
+          "col": 9
+        },
+        {
+          "chord": "C#m",
+          "col": 12
+        },
+        {
+          "chord": "A",
+          "col": 22
+        },
+        {
+          "chord": "G#",
+          "col": 25
+        },
+        {
+          "chord": "C#m",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

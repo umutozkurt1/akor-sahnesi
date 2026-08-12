@@ -1,0 +1,177 @@
+{
+  "slug": "yeni-turku-cember",
+  "artist": "Yeni Türkü",
+  "title": "Çember",
+  "key": "G#",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Ya dışındasındır çemberin, ya da içinde yer alacaksın",
+      "chords": [
+        {
+          "chord": "G#m",
+          "col": 0
+        },
+        {
+          "chord": "D#m",
+          "col": 17
+        },
+        {
+          "chord": "E",
+          "col": 37
+        },
+        {
+          "chord": "B",
+          "col": 60
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kendin içindeyken, kafan dışındaysa",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "G#m",
+          "col": 14
+        },
+        {
+          "chord": "C#m",
+          "col": 23
+        },
+        {
+          "chord": "G#m",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Çaresi yok kardeşim",
+      "chords": [
+        {
+          "chord": "G#m",
+          "col": 0
+        },
+        {
+          "chord": "D#m",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Her akşam böyle içip kederlenip",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Mutsuz olacaksın",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "G#m",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Meyhane masalarında kahrolacaksın",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "G#m",
+          "col": 21
+        },
+        {
+          "chord": "F#",
+          "col": 30
+        },
+        {
+          "chord": "G#m",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Şiirlerle şarkılarla, kendini avutacaksın",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 0
+        },
+        {
+          "chord": "D#m",
+          "col": 16
+        },
+        {
+          "chord": "E",
+          "col": 28
+        },
+        {
+          "chord": "B",
+          "col": 47
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ya dışındasındır çemberin, ya da içinde yer alacaksın",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 0
+        },
+        {
+          "chord": "F#",
+          "col": 22
+        },
+        {
+          "chord": "E",
+          "col": 43
+        },
+        {
+          "chord": "F#",
+          "col": 64
+        },
+        {
+          "chord": "G#m",
+          "col": 74
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

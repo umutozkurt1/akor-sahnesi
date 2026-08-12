@@ -1,0 +1,292 @@
+{
+  "slug": "eflatun-sarap",
+  "artist": "Eflatun",
+  "title": "Şarap",
+  "key": "D",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Kapo  : 1",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Intro :",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 3
+        },
+        {
+          "chord": "Dm",
+          "col": 6
+        },
+        {
+          "chord": "C",
+          "col": 9
+        },
+        {
+          "chord": "Dm",
+          "col": 12
+        },
+        {
+          "chord": "A#",
+          "col": 15
+        },
+        {
+          "chord": "Dm",
+          "col": 18
+        },
+        {
+          "chord": "A#",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gökyüzünü kaybetmiş bir kuş gibi",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Üzgün yorgun vede kırgınım hayata",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İğne atsalar yere düşmez tenhaların var kalbimde",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Aynadaki hatta sudaki aksin bile kayıp",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 11
+        },
+        {
+          "chord": "Am",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Aynadaki hatta sudaki aksin bile kayıp",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 11
+        },
+        {
+          "chord": "Am",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Biz seninle bir salkımın iki aşık üzümüyken",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 25
+        },
+        {
+          "chord": "F#m",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Başka şişelerde şarap olmuşuz",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Başka hayatlarda harap olmuşuz",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Biz seninle bir denizin iki aşık balığıyken",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 12
+        },
+        {
+          "chord": "Dm",
+          "col": 24
+        },
+        {
+          "chord": "Am",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Başka sularda yüzüp durmuşuz",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Başka kıyılara vurmuşuz",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 3
+        },
+        {
+          "chord": "Gm",
+          "col": 6
+        },
+        {
+          "chord": "A#",
+          "col": 9
+        },
+        {
+          "chord": "Am",
+          "col": 12
+        },
+        {
+          "chord": "Dm",
+          "col": 17
+        },
+        {
+          "chord": "C",
+          "col": 20
+        },
+        {
+          "chord": "A#",
+          "col": 22
+        },
+        {
+          "chord": "Dm",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

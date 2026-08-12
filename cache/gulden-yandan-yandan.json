@@ -1,0 +1,210 @@
+{
+  "slug": "gulden-yandan-yandan",
+  "artist": "Gülden",
+  "title": "Yandan Yandan",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "İntro :",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 4
+        },
+        {
+          "chord": "Am",
+          "col": 7
+        },
+        {
+          "chord": "G",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Mübarek efe babadan olma",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sülün gibi güzel anadan doğma",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 4
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "O nasıl endam yavrum",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 7
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gözler bir kadeh boğma",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 6
+        },
+        {
+          "chord": "Am",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ver bakalım elini sıcak mı",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Öpünce kalbin duracak mı",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 3
+        },
+        {
+          "chord": "Dm",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Uzan yanıma yakından bakalım",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dünya düz mü yuvarlak mı",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 12
+        },
+        {
+          "chord": "Am",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Nasıl da yazmış seni kaderime",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "O lütuflar yaradandan",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 14
+        },
+        {
+          "chord": "Am",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İstedim verdi tam gönlüme göre",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ohh yandan yandan",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 14
+        },
+        {
+          "chord": "Am",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

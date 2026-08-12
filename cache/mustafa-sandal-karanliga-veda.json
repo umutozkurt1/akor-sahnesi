@@ -1,0 +1,159 @@
+{
+  "slug": "mustafa-sandal-karanliga-veda",
+  "artist": "Mustafa Sandal",
+  "title": "Karanlığa Veda",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Seni hiç görmesem birgün öpmesem haykirir ruhum",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Elini tutmasam yakin olmasam ne yerim kalir ne yurdum",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sen hiç baska olma sen hiç baska sorma sen",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 19
+        },
+        {
+          "chord": "E",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Beni böyle kabul et",
+      "chords": [
+        {
+          "chord": "E7",
+          "col": 11
+        },
+        {
+          "chord": "Am",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sen hiç baska olma sen hiç baska korkma sen",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 19
+        },
+        {
+          "chord": "E",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Karanliga veda et",
+      "chords": [
+        {
+          "chord": "E7",
+          "col": 10
+        },
+        {
+          "chord": "Am",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Derdime derman oldun geriye dönülmüyor",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 15
+        },
+        {
+          "chord": "E7",
+          "col": 21
+        },
+        {
+          "chord": "Am",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yana yana geceleri yildiz oldun isigin hiç sönmüyor",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 26
+        },
+        {
+          "chord": "E7",
+          "col": 32
+        },
+        {
+          "chord": "Am",
+          "col": 48
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Tekrar",
+      "chords": [],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

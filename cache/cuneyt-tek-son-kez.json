@@ -1,0 +1,151 @@
+{
+  "slug": "cuneyt-tek-son-kez",
+  "artist": "Cüneyt Tek",
+  "title": "Son Kez",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Seviyorum aşığım ama kapına gelmeye hiç yüzüm yok",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 28
+        },
+        {
+          "chord": "A#",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Biliyorum suçluyum bu yüzden suskun pişman",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 13
+        },
+        {
+          "chord": "C",
+          "col": 26
+        },
+        {
+          "chord": "A#",
+          "col": 33
+        },
+        {
+          "chord": "Am",
+          "col": 41
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Affedersen bu çocuk kalbi ben hep aynı sendeyim",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yok desende gece gündüz bu şarkımla seslenirim",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 6
+        },
+        {
+          "chord": "A#",
+          "col": 17
+        },
+        {
+          "chord": "C",
+          "col": 31
+        },
+        {
+          "chord": "A#",
+          "col": 37
+        },
+        {
+          "chord": "Am",
+          "col": 45
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yinede son kez düşün yinede son kez askım",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 11
+        },
+        {
+          "chord": "C",
+          "col": 22
+        },
+        {
+          "chord": "Am",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yinede son kez bizi ben öyle pişmanım",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 12
+        },
+        {
+          "chord": "C",
+          "col": 25
+        },
+        {
+          "chord": "A#",
+          "col": 30
+        },
+        {
+          "chord": "Am",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

@@ -1,0 +1,177 @@
+{
+  "slug": "yola-dus-bir-de-sen-gitme",
+  "artist": "Yola Düş",
+  "title": "Bir de Sen Gitme",
+  "key": "B",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Akşamlar böyle biter hep böyle dertli biter",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Evli evine gider, kuşlar yuvaya döner",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 30
+        },
+        {
+          "chord": "Bm",
+          "col": 51
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir de sen gitme",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir de sen gitme",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir de sen gitme",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İçimden yaralıyım ben",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 18
+        },
+        {
+          "chord": "Bm",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Giden bu yolculardan en çok ben şanssızım",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ne kadar çok yaşadıysam, o kadar çok yalnızım",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 49
+        },
+        {
+          "chord": "Bm",
+          "col": 66
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Biraz da sen ağla",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Biraz da sen ağla",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ölürken bile hasretim sana",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir tek sen anla",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

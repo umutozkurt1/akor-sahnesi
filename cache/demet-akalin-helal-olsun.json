@@ -1,0 +1,251 @@
+{
+  "slug": "demet-akalin-helal-olsun",
+  "artist": "Demet Akalın",
+  "title": "Helal Olsun",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Helal Olsun Bir Dağı Devirdin",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 8
+        },
+        {
+          "chord": "Cm",
+          "col": 16
+        },
+        {
+          "chord": "Dm",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Seninle Nefes Alan Bir Canı Ezip Geçtin",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 15
+        },
+        {
+          "chord": "D#",
+          "col": 25
+        },
+        {
+          "chord": "Cm",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yazık Oldu Çok Yazık Oldu...",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 8
+        },
+        {
+          "chord": "Cm",
+          "col": 17
+        },
+        {
+          "chord": "Dm",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bu Zamansız Gidişin Beni Sırtımdan Vurdu",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 16
+        },
+        {
+          "chord": "D#",
+          "col": 25
+        },
+        {
+          "chord": "Cm",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Senin Yüzünden Koca Bir Şehre Küstüm",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 11
+        },
+        {
+          "chord": "F",
+          "col": 27
+        },
+        {
+          "chord": "D#",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Senin Yüzünden Kaybolup Yollara Düştüm",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 11
+        },
+        {
+          "chord": "F",
+          "col": 27
+        },
+        {
+          "chord": "D#",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hani Sen Bana Kıyamazdın Gözün Gibi Bakardın Ya",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 14
+        },
+        {
+          "chord": "Cm",
+          "col": 27
+        },
+        {
+          "chord": "Dm",
+          "col": 41
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hani Sen Beni Kıramazdın Ölene Kadar Senindim Ya",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 5
+        },
+        {
+          "chord": "Cm",
+          "col": 14
+        },
+        {
+          "chord": "Dm",
+          "col": 27
+        },
+        {
+          "chord": "D#",
+          "col": 42
+        },
+        {
+          "chord": "Dm",
+          "col": 46
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hani Sen Bana Kıyamazdın Gözün Gibi Bakardın Ya",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 14
+        },
+        {
+          "chord": "Cm",
+          "col": 27
+        },
+        {
+          "chord": "Dm",
+          "col": 41
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hani Sen Beni Kıramazdın Ölene Kadar Benimdin Ya",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 5
+        },
+        {
+          "chord": "Cm",
+          "col": 14
+        },
+        {
+          "chord": "Dm",
+          "col": 27
+        },
+        {
+          "chord": "D#",
+          "col": 42
+        },
+        {
+          "chord": "Dm",
+          "col": 46
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

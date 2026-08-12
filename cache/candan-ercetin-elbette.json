@@ -1,0 +1,193 @@
+{
+  "slug": "candan-ercetin-elbette",
+  "artist": "Candan Erçetin",
+  "title": "Elbette",
+  "key": "D",
+  "capo": 0,
+  "rhythm": "A-A-Y-Y-A-Y",
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Güneş her akşam batıp her gün doğuyorsa",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Çiçekler solup solup tekrar açıyorsa",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 54
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "En derin yaralar kapanıyorsa, en büyük acılar unutuluyorsa",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 53
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Neden korkulur hayatta söyleyin bana",
+      "chords": [
+        {
+          "chord": "F#",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 57
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Elbette bazen çiçek açıp bezen solacağım",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 7
+        },
+        {
+          "chord": "Bm",
+          "col": 61
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Elbette daldan dala konup sonra uçacağım",
+      "chords": [
+        {
+          "chord": "F#",
+          "col": 9
+        },
+        {
+          "chord": "Bm",
+          "col": 65
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Elbette bazen hızla dönüp bazen duracağım",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 8
+        },
+        {
+          "chord": "Bm",
+          "col": 65
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Elbette bazen söyleyip bazen susacağım",
+      "chords": [
+        {
+          "chord": "F#",
+          "col": 8
+        },
+        {
+          "chord": "Bm",
+          "col": 60
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Başa döner",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İnanmadım asla inanamam",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 13
+        },
+        {
+          "chord": "Bm",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Her şeyin bir sonu olduğuna",
+      "chords": [
+        {
+          "chord": "F#",
+          "col": 11
+        },
+        {
+          "chord": "Bm",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Nakarat",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "Elbette bugün ağlıyorsam yarın güleceğim",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 9
+        },
+        {
+          "chord": "Bm",
+          "col": 60
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Elbette önce çekip gidip sonra döneceğim",
+      "chords": [
+        {
+          "chord": "F#",
+          "col": 11
+        },
+        {
+          "chord": "Bm",
+          "col": 63
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

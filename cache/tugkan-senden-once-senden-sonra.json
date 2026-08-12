@@ -1,0 +1,216 @@
+{
+  "slug": "tugkan-senden-once-senden-sonra",
+  "artist": "Tuğkan",
+  "title": "Senden Önce Senden Sonra",
+  "key": "G",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Bu çığlık çığlığa dalgalar",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ve hüzünlü güzel martılar",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Rüzgara çarpıp çarpıp",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gelip doluyorlar kalbime",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yalnızım uçurum kıyısında",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 6
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hayat ve ölüm arasında",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 7
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Tüm hayatım akıp geçiyor",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ayaklarımın altında",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Daha kaç vücut gerekli",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Benim seni unutmama",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 13
+        },
+        {
+          "chord": "Gm",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Senden önce senden sonra",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Senden önce senden sonra",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Daha kaç vücut gerek bana",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 43
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Benim seni unutmama",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Solo",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 6
+        },
+        {
+          "chord": "Cm",
+          "col": 11
+        },
+        {
+          "chord": "Am",
+          "col": 17
+        },
+        {
+          "chord": "Gm",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

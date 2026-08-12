@@ -1,0 +1,130 @@
+{
+  "slug": "atiye-salla",
+  "artist": "Atiye",
+  "title": "Salla",
+  "key": "D",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "ORJİNAL TONU: C",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hangi aşk yola gelir ki",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Acı veren biri mutlu eder mi",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Aldatan aldanırmış değer mi",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 17
+        },
+        {
+          "chord": "B",
+          "col": 41
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bahane bol gönül dara düşünce",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İnsan hata yapar mı sevince",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sınırları çizersin giderse",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 16
+        },
+        {
+          "chord": "B",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Üzeni yolla, isterse dönsün sonra",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Salla ardına bakma asla",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yolla aldatan aldansın salla",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

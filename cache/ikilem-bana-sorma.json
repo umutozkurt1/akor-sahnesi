@@ -1,0 +1,181 @@
+{
+  "slug": "ikilem-bana-sorma",
+  "artist": "İkilem",
+  "title": "Bana Sorma",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Yine hüzün aldı beni, gidemiyorum",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Her şey üstüme üstüme geliyor, bunalıyorum",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 14
+        },
+        {
+          "chord": "Am",
+          "col": 71
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bu ara bozuk düzenim, bilemiyorum",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Uyonıyor her gece yarısı seni, düşünüyorum",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 17
+        },
+        {
+          "chord": "Am",
+          "col": 69
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Öyle bir alışsamda",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 8
+        },
+        {
+          "chord": "F",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kendimi avutsamda",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 10
+        },
+        {
+          "chord": "F",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Çok baharlar geçti artık",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 20
+        },
+        {
+          "chord": "F",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Eskidendi zordu aştım",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 14
+        },
+        {
+          "chord": "F",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Her sokakta senden kaçtım",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 18
+        },
+        {
+          "chord": "F",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bana sorma yollara sor",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 17
+        },
+        {
+          "chord": "G",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bana sorma yok",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

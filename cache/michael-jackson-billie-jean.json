@@ -1,0 +1,552 @@
+{
+  "slug": "michael-jackson-billie-jean",
+  "artist": "Michael Jackson",
+  "title": "Billie Jean",
+  "key": "F#",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Intro",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "F#m7",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "She was more like a beauty queen from a movie scene",
+      "chords": [
+        {
+          "chord": "F#m7",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I said don't mind, but what do you mean",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I am the one",
+      "chords": [
+        {
+          "chord": "Bm7",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Who will dance on the floor in the round",
+      "chords": [
+        {
+          "chord": "F#m7",
+          "col": 61
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "She said I am the one",
+      "chords": [
+        {
+          "chord": "Bm7",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Who will dance on the floor in the round",
+      "chords": [
+        {
+          "chord": "F#m7",
+          "col": 59
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "She told me her name was Billie Jean,",
+      "chords": [
+        {
+          "chord": "F#m7",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "As she caused a scene Then every head turned with eyes that",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dreamed of being the one",
+      "chords": [
+        {
+          "chord": "Bm7",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Who will dance on the floor in the round",
+      "chords": [
+        {
+          "chord": "F#m7",
+          "col": 60
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "D7m                              F#m7                                  D7m",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "People always told me be careful of what you do And don't go",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Around breaking young girls' hearts    uh uh uh",
+      "chords": [
+        {
+          "chord": "F#m7",
+          "col": 50
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And mother always told me be careful of who you love And be careful of what you do",
+      "chords": [
+        {
+          "chord": "F#m7",
+          "col": 48
+        },
+        {
+          "chord": "D",
+          "col": 98
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "'Cause the lie becomes the truth",
+      "chords": [
+        {
+          "chord": "C#",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "heyhey",
+      "chords": [
+        {
+          "chord": "F#m7",
+          "col": 6
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Billie Jean is not my lover",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "She's just a girl who claims that I am the one   But the kid is not my Son",
+      "chords": [
+        {
+          "chord": "Bm7",
+          "col": 74
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "She says I am the one,   but the kid is not my son",
+      "chords": [
+        {
+          "chord": "F#m7",
+          "col": 0
+        },
+        {
+          "chord": "Bm7",
+          "col": 31
+        },
+        {
+          "chord": "F#m7",
+          "col": 62
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "For forty days and forty nights",
+      "chords": [
+        {
+          "chord": "F#m7",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "The law was on her side But who can stand when she's in demand",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Her schemes and plans",
+      "chords": [
+        {
+          "chord": "Bm7",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "'cause we danced",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "On the floor",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "In the round",
+      "chords": [
+        {
+          "chord": "F#m7",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "So take my strong advice,",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   Just remember to always think    twice",
+      "chords": [
+        {
+          "chord": "Bm7",
+          "col": 0
+        },
+        {
+          "chord": "F#m7",
+          "col": 48
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "She told my baby we'd danced 'til three",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Then she looked at me She showed a photo of a baby crying His eyes looked like mine",
+      "chords": [
+        {
+          "chord": "Bm7",
+          "col": 79
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Go on dance",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "On the floor",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "           F#m7   D7m",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "In the round, baby",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "People always told me be  careful of what you do And don't go around breaking young girls' hearts",
+      "chords": [
+        {
+          "chord": "F#m7",
+          "col": 38
+        },
+        {
+          "chord": "F#m7",
+          "col": 145
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "She came and stood right by me  Then the smell of sweet perfume This",
+      "chords": [
+        {
+          "chord": "F#m7",
+          "col": 44
+        },
+        {
+          "chord": "D",
+          "col": 104
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Happened much too soon She called me to her room",
+      "chords": [
+        {
+          "chord": "C#",
+          "col": 45
+        },
+        {
+          "chord": "F#m7",
+          "col": 78
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Billie Jean is not my lover She's just a girl who claims that I",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Am the one But the kid is not my son",
+      "chords": [
+        {
+          "chord": "Bm7",
+          "col": 11
+        },
+        {
+          "chord": "F#m7",
+          "col": 44
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Billie Jean is not my lover She's just a girl who claims that I am the one",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But the kid is not my son She says I am the one,",
+      "chords": [
+        {
+          "chord": "Bm7",
+          "col": 0
+        },
+        {
+          "chord": "F#m7",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But the kid is not my   son",
+      "chords": [
+        {
+          "chord": "Bm7",
+          "col": 0
+        },
+        {
+          "chord": "F#m7",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "She says I am the one, but the kid is not my son",
+      "chords": [
+        {
+          "chord": "Bm7",
+          "col": 30
+        },
+        {
+          "chord": "F#m7",
+          "col": 66
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Billie Jean is not my lover",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "She's just a girl who claims that I am the one",
+      "chords": [
+        {
+          "chord": "Bm7",
+          "col": 46
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But the kid is not my son",
+      "chords": [
+        {
+          "chord": "F#m7",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "She says I am the one,",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But the kid is not my son",
+      "chords": [
+        {
+          "chord": "Bm7",
+          "col": 0
+        },
+        {
+          "chord": "F#m7",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "She says I am the one,",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "She says he is my son",
+      "chords": [
+        {
+          "chord": "F#m7",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "She says I am the one",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Billie Jean is not my lover",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Billie Jean is not my lover",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Billie Jean is not my lover",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Billie Jean is not my lover",
+      "chords": [],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

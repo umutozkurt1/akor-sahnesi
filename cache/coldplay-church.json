@@ -1,0 +1,581 @@
+{
+  "slug": "coldplay-church",
+  "artist": "Coldplay",
+  "title": "Church",
+  "key": "E",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Intro",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 4
+        },
+        {
+          "chord": "Em",
+          "col": 6
+        },
+        {
+          "chord": "Bm",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "What can I tell you?",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "When I'm with you, I'm walking on air",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 9
+        },
+        {
+          "chord": "Bm",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Watching you sleeping there,     yeah",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 15
+        },
+        {
+          "chord": "Em",
+          "col": 27
+        },
+        {
+          "chord": "Bm",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And what can't I get through?",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "When for everyone, everywhere",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 9
+        },
+        {
+          "chord": "Bm",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You're answering every prayer",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 17
+        },
+        {
+          "chord": "Em",
+          "col": 29
+        },
+        {
+          "chord": "Bm",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And when you're riding a wave",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 26
+        },
+        {
+          "chord": "A",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Oh, won't you ride that wave to me?",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 15
+        },
+        {
+          "chord": "Bm",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "When you're setting your sail",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 26
+        },
+        {
+          "chord": "A",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Oh, can I be your seventh sea?",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 11
+        },
+        {
+          "chord": "Bm",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "When you're riding a wave",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 22
+        },
+        {
+          "chord": "A",
+          "col": 27
+        },
+        {
+          "chord": "Em",
+          "col": 30
+        },
+        {
+          "chord": "Bm",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Oh, when you're riding a wave",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 26
+        },
+        {
+          "chord": "A",
+          "col": 31
+        },
+        {
+          "chord": "Em",
+          "col": 34
+        },
+        {
+          "chord": "Bm",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "'Cause when I'm hurt",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 17
+        },
+        {
+          "chord": "A",
+          "col": 22
+        },
+        {
+          "chord": "Em",
+          "col": 25
+        },
+        {
+          "chord": "Bm",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Then I'll go to your church",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 22
+        },
+        {
+          "chord": "A",
+          "col": 27
+        },
+        {
+          "chord": "Em",
+          "col": 30
+        },
+        {
+          "chord": "Bm",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "'Cause when I'm hurt",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 17
+        },
+        {
+          "chord": "A",
+          "col": 22
+        },
+        {
+          "chord": "Em",
+          "col": 25
+        },
+        {
+          "chord": "Bm",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Then I'll go to your church",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 22
+        },
+        {
+          "chord": "A",
+          "col": 27
+        },
+        {
+          "chord": "Em",
+          "col": 30
+        },
+        {
+          "chord": "Bm",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 5
+        },
+        {
+          "chord": "Em",
+          "col": 8
+        },
+        {
+          "chord": "Bm",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "When you're riding a wave",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 26
+        },
+        {
+          "chord": "A",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Oh, won't you ride that wave to me?",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 15
+        },
+        {
+          "chord": "Bm",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "When you're riding a wave",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 22
+        },
+        {
+          "chord": "A",
+          "col": 27
+        },
+        {
+          "chord": "Em",
+          "col": 30
+        },
+        {
+          "chord": "Bm",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 5
+        },
+        {
+          "chord": "Em",
+          "col": 8
+        },
+        {
+          "chord": "Bm",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 5
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "(Ooh, ooh, ooh)",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 6
+        },
+        {
+          "chord": "F#m",
+          "col": 11
+        },
+        {
+          "chord": "A",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "(Ooh, ooh, ooh)",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 6
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I worship in your church, baby, always",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 18
+        },
+        {
+          "chord": "A",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I worship in your church, all the seven days (Ooh, ooh, ooh)",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 18
+        },
+        {
+          "chord": "Bm",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I praise and praise",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 15
+        },
+        {
+          "chord": "A",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "(Ooh, ooh, ooh)",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 6
+        },
+        {
+          "chord": "F#m",
+          "col": 11
+        },
+        {
+          "chord": "A",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "(Ooh, ooh, ooh)",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 6
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

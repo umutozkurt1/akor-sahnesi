@@ -1,0 +1,181 @@
+{
+  "slug": "nezih-git",
+  "artist": "Nezih",
+  "title": "Git",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "git bırakıp uzaklara git",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "ardında yaşlı gözlere kıyıp git",
+      "chords": [
+        {
+          "chord": "C#",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "git bırakıp uzaklara git",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "istedemde dön desemde hadi git",
+      "chords": [
+        {
+          "chord": "Eb",
+          "col": 0
+        },
+        {
+          "chord": "C#",
+          "col": 11
+        },
+        {
+          "chord": "Cm",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "git yalan sevdaların",
+      "chords": [
+        {
+          "chord": "C#",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "çaresiz yarınlara",
+      "chords": [
+        {
+          "chord": "C#",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "bu yürek bunada dayanır",
+      "chords": [
+        {
+          "chord": "Eb",
+          "col": 0
+        },
+        {
+          "chord": "C#",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "alışırım gözyaşlarıma",
+      "chords": [
+        {
+          "chord": "Eb",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "sana git diyemem ama kal demek gelmiyor içimden",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "son sözünü söyledin bana bırakıp giderken",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "ah gün gelir olurda pişman olup dönersen",
+      "chords": [
+        {
+          "chord": "C#",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "ardından bakıp güleceğim",
+      "chords": [
+        {
+          "chord": "Eb",
+          "col": 0
+        },
+        {
+          "chord": "C#",
+          "col": 9
+        },
+        {
+          "chord": "Cm",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

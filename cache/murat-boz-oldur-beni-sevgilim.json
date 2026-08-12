@@ -1,0 +1,258 @@
+{
+  "slug": "murat-boz-oldur-beni-sevgilim",
+  "artist": "Murat Boz",
+  "title": "Öldür Beni Sevgilim",
+  "key": "E",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Intro:",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 5
+        },
+        {
+          "chord": "Dm",
+          "col": 10
+        },
+        {
+          "chord": "Em",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Senin hünerli gönlüne düşmem suç mu?",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 6
+        },
+        {
+          "chord": "Dm",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir düşün bu gözlerim ıslak mı kuru mu?",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 6
+        },
+        {
+          "chord": "Em",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ufalanır canım hasatı acıydı bu aşkın",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 6
+        },
+        {
+          "chord": "Dm",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Toz dumanda yürüdüm doyulmazdı kumsalın",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 6
+        },
+        {
+          "chord": "Em",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Laf aramızda özleniyorsun buralarda",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 7
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Siyahtan da siyahtı dalgaların",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 6
+        },
+        {
+          "chord": "Em",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Canım yanıyor senden ne haber orada",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 6
+        },
+        {
+          "chord": "Dm",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ne çok değiştin  seni zor tanıdım",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 7
+        },
+        {
+          "chord": "F",
+          "col": 15
+        },
+        {
+          "chord": "Em",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Görmedim bu zamana kadar",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 5
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kalbin ne kadar da büyük",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 4
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Koca bir İstanbul sanki",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hem yeni hem kırık dökük",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 4
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ne aşklar sığdırdık içimize",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 6
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ölmedik be güzelim",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hadi vur beni sen yak beni",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 4
+        },
+        {
+          "chord": "F",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Öldür beni sevgilim",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 2
+        },
+        {
+          "chord": "Em",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

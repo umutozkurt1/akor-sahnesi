@@ -1,0 +1,784 @@
+{
+  "slug": "james-morrison-you-give-me-something",
+  "artist": "James Morrison",
+  "title": "You Give Me Something",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "INTRO",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 2
+        },
+        {
+          "chord": "C#",
+          "col": 6
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 2
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "VERSF 1",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You only stay with me in the morning",
+      "chords": [
+        {
+          "chord": "C#",
+          "col": 0
+        },
+        {
+          "chord": "G#",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You only hold me when I sleep",
+      "chords": [
+        {
+          "chord": "F#",
+          "col": 0
+        },
+        {
+          "chord": "G#7",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I was meant to tread the water",
+      "chords": [
+        {
+          "chord": "A#m",
+          "col": 0
+        },
+        {
+          "chord": "C#",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Now Ive gotten in too deep",
+      "chords": [
+        {
+          "chord": "F#",
+          "col": 0
+        },
+        {
+          "chord": "G#7",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "For every piece of me that wants you",
+      "chords": [
+        {
+          "chord": "A#m",
+          "col": 0
+        },
+        {
+          "chord": "C#",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Another piece backs away",
+      "chords": [
+        {
+          "chord": "F#",
+          "col": 0
+        },
+        {
+          "chord": "G#",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "CHORUS 1 - THF CHORDS ARF EXPLAINED# ABOVF",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Coz you give me something that makes me scared alright",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "A#m",
+          "col": 9
+        },
+        {
+          "chord": "D#m7",
+          "col": 17
+        },
+        {
+          "chord": "G#7",
+          "col": 33
+        },
+        {
+          "chord": "F#",
+          "col": 43
+        },
+        {
+          "chord": "Fm",
+          "col": 53
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "this could be nothing but im willing to give it a try",
+      "chords": [
+        {
+          "chord": "A#m",
+          "col": 6
+        },
+        {
+          "chord": "D#m7",
+          "col": 16
+        },
+        {
+          "chord": "G#7",
+          "col": 32
+        },
+        {
+          "chord": "F#",
+          "col": 43
+        },
+        {
+          "chord": "Fm",
+          "col": 54
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Please give me something coz some day I might know my heart",
+      "chords": [
+        {
+          "chord": "A#m",
+          "col": 6
+        },
+        {
+          "chord": "D#m7",
+          "col": 16
+        },
+        {
+          "chord": "G#7",
+          "col": 32
+        },
+        {
+          "chord": "A",
+          "col": 49
+        },
+        {
+          "chord": "C#",
+          "col": 53
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "VERSF 2",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You only waited up for hours",
+      "chords": [
+        {
+          "chord": "C#",
+          "col": 0
+        },
+        {
+          "chord": "G#7",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Just to spend a little time alone with me",
+      "chords": [
+        {
+          "chord": "F#",
+          "col": 0
+        },
+        {
+          "chord": "G#7",
+          "col": 41
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Like I said, ive never bought you flowers",
+      "chords": [
+        {
+          "chord": "A#m",
+          "col": 0
+        },
+        {
+          "chord": "C#",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I cant work out what they need",
+      "chords": [
+        {
+          "chord": "F#",
+          "col": 0
+        },
+        {
+          "chord": "G#7",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I never thought I'd love someone",
+      "chords": [
+        {
+          "chord": "A#m",
+          "col": 0
+        },
+        {
+          "chord": "C#",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "that was someones else's dream",
+      "chords": [
+        {
+          "chord": "F#",
+          "col": 0
+        },
+        {
+          "chord": "G#",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "CHORUS 2",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Coz you give me something that makes me scared alright",
+      "chords": [
+        {
+          "chord": "Fm7",
+          "col": 0
+        },
+        {
+          "chord": "A#m7",
+          "col": 10
+        },
+        {
+          "chord": "D#m7",
+          "col": 20
+        },
+        {
+          "chord": "G#7",
+          "col": 36
+        },
+        {
+          "chord": "F#",
+          "col": 46
+        },
+        {
+          "chord": "Fm7",
+          "col": 54
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "this could be nothing but im willing to give it a try",
+      "chords": [
+        {
+          "chord": "A#m7",
+          "col": 9
+        },
+        {
+          "chord": "D#m7",
+          "col": 19
+        },
+        {
+          "chord": "G#7",
+          "col": 35
+        },
+        {
+          "chord": "F#",
+          "col": 45
+        },
+        {
+          "chord": "Fm7",
+          "col": 55
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Please give me something coz some day I might call you from my heart",
+      "chords": [
+        {
+          "chord": "A#m7",
+          "col": 6
+        },
+        {
+          "chord": "D#m7",
+          "col": 17
+        },
+        {
+          "chord": "G#7",
+          "col": 36
+        },
+        {
+          "chord": "Em7",
+          "col": 54
+        },
+        {
+          "chord": "D#m7",
+          "col": 62
+        },
+        {
+          "chord": "G#",
+          "col": 71
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But it might be a second too late",
+      "chords": [
+        {
+          "chord": "Em7",
+          "col": 7
+        },
+        {
+          "chord": "D#m7",
+          "col": 17
+        },
+        {
+          "chord": "C#",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "The words that I could never say",
+      "chords": [
+        {
+          "chord": "Em7",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Are gonna come out anyway",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 10
+        },
+        {
+          "chord": "F#",
+          "col": 17
+        },
+        {
+          "chord": "Fm7",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "BRIDGF - No lyrics",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Fm7",
+          "col": 0
+        },
+        {
+          "chord": "A#m7",
+          "col": 6
+        },
+        {
+          "chord": "D#m7",
+          "col": 13
+        },
+        {
+          "chord": "G#7",
+          "col": 20
+        },
+        {
+          "chord": "F#",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Fm7",
+          "col": 0
+        },
+        {
+          "chord": "A#m7",
+          "col": 6
+        },
+        {
+          "chord": "D#m7",
+          "col": 13
+        },
+        {
+          "chord": "G#7",
+          "col": 20
+        },
+        {
+          "chord": "F#",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "CHORUS 3",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Coz you give me something that makes me scared alright",
+      "chords": [
+        {
+          "chord": "Fm7",
+          "col": 0
+        },
+        {
+          "chord": "A#m7",
+          "col": 7
+        },
+        {
+          "chord": "D#m7",
+          "col": 19
+        },
+        {
+          "chord": "G#7",
+          "col": 35
+        },
+        {
+          "chord": "F#",
+          "col": 45
+        },
+        {
+          "chord": "Fm7",
+          "col": 57
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "this could be nothing but im willing to give it a try",
+      "chords": [
+        {
+          "chord": "A#m7",
+          "col": 6
+        },
+        {
+          "chord": "D#m7",
+          "col": 17
+        },
+        {
+          "chord": "G#7",
+          "col": 33
+        },
+        {
+          "chord": "F#",
+          "col": 44
+        },
+        {
+          "chord": "Fm7",
+          "col": 55
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Please give me something",
+      "chords": [
+        {
+          "chord": "A#m7",
+          "col": 6
+        },
+        {
+          "chord": "D#m7",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "CHORUS 4",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Coz you give me something that makes me scared alright",
+      "chords": [
+        {
+          "chord": "Fm7",
+          "col": 0
+        },
+        {
+          "chord": "A#m7",
+          "col": 7
+        },
+        {
+          "chord": "D#m7",
+          "col": 18
+        },
+        {
+          "chord": "G#7",
+          "col": 35
+        },
+        {
+          "chord": "F#",
+          "col": 45
+        },
+        {
+          "chord": "Fm7",
+          "col": 57
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "this could be nothing but im willing to give it a try",
+      "chords": [
+        {
+          "chord": "A#m7",
+          "col": 6
+        },
+        {
+          "chord": "D#m7",
+          "col": 17
+        },
+        {
+          "chord": "G#7",
+          "col": 33
+        },
+        {
+          "chord": "F#",
+          "col": 43
+        },
+        {
+          "chord": "Fm7",
+          "col": 55
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "A#m7",
+          "col": 6
+        },
+        {
+          "chord": "D#m7",
+          "col": 17
+        },
+        {
+          "chord": "G#7",
+          "col": 33
+        },
+        {
+          "chord": "A",
+          "col": 50
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Please give me something coz some day I might know my heart",
+      "chords": [
+        {
+          "chord": "C#",
+          "col": 1
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "OUTRO",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "Know my heart, know my heart, know my heart",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 18
+        },
+        {
+          "chord": "C#",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 2
+        },
+        {
+          "chord": "C#",
+          "col": 6
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 2
+        },
+        {
+          "chord": "C",
+          "col": 6
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

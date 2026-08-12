@@ -1,0 +1,160 @@
+{
+  "slug": "bilal-sonses-cennetten-cicek",
+  "artist": "Bilal Sonses",
+  "title": "Cennetten Çiçek",
+  "key": "B",
+  "capo": 0,
+  "rhythm": "A-K-Y-Y-K-Y",
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Bir başıma koyup gitme yar, önümüzde baharlar var",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 39
+        },
+        {
+          "chord": "A",
+          "col": 82
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Aldanma geçer ayazlar",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sensiz bana dünya dar, kapanmıyor açtığın yaralar",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 8
+        },
+        {
+          "chord": "Em",
+          "col": 32
+        },
+        {
+          "chord": "A",
+          "col": 80
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hesabını sorar yaradan",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 13
+        },
+        {
+          "chord": "F#m",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Acılara yürüyor korkmuyorum, arada bir kalbini yokluyorum",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 13
+        },
+        {
+          "chord": "G",
+          "col": 68
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Cennetten çiçek mi topluyorum, herkesi sen gibi kokluyorum",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 20
+        },
+        {
+          "chord": "F#m",
+          "col": 70
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ama sen başka bir kollarda, sana sarhoşum yollarda",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 17
+        },
+        {
+          "chord": "Em",
+          "col": 58
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kaybolmuş bir gençliğim var da, alacaklıyım yıllardan",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 21
+        },
+        {
+          "chord": "F#m",
+          "col": 60
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 4
+        },
+        {
+          "chord": "A",
+          "col": 7
+        },
+        {
+          "chord": "F#m",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

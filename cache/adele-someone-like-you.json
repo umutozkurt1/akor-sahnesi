@@ -1,0 +1,912 @@
+{
+  "slug": "adele-someone-like-you",
+  "artist": "Adele",
+  "title": "Someone Like You",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "C#m",
+          "col": 2
+        },
+        {
+          "chord": "G#",
+          "col": 6
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "     I heard that you're      settled down,",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 4
+        },
+        {
+          "chord": "A",
+          "col": 6
+        },
+        {
+          "chord": "C#m",
+          "col": 24
+        },
+        {
+          "chord": "G#",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "That you   found a girl and you're married now,",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 8
+        },
+        {
+          "chord": "D",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " I heard that your dreams came true,",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "C#m",
+          "col": 19
+        },
+        {
+          "chord": "G#",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Guess she gave you things I didn't give to you,",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 10
+        },
+        {
+          "chord": "D",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Old friend, why are you so      shy?",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 3
+        },
+        {
+          "chord": "C#m",
+          "col": 26
+        },
+        {
+          "chord": "G#",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ain't like you to hold back or hide from the light",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 11
+        },
+        {
+          "chord": "D",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I hate to turn up out of the blue uninvited,",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 2
+        },
+        {
+          "chord": "F#m",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But I couldn't stay away, I couldn't fight it,",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 5
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I had hoped you'd see my face,",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 6
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And that you'd be reminded that for me it isn't over",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 4
+        },
+        {
+          "chord": "D",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Never mind, I'll find someone like   you,",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 22
+        },
+        {
+          "chord": "F#m",
+          "col": 35
+        },
+        {
+          "chord": "D",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I wish nothing but the best for you, too,",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 7
+        },
+        {
+          "chord": "E",
+          "col": 27
+        },
+        {
+          "chord": "F#m",
+          "col": 32
+        },
+        {
+          "chord": "D",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Don't forget me, I beg,",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 9
+        },
+        {
+          "chord": "E",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I remember you said,",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 4
+        },
+        {
+          "chord": "D",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sometimes it lasts in love,",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But sometimes it hurts instead,",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 4
+        },
+        {
+          "chord": "F#m",
+          "col": 25
+        },
+        {
+          "chord": "D",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sometimes it lasts in love,",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But sometimes it hurts instead, yeah",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 4
+        },
+        {
+          "chord": "F#m",
+          "col": 25
+        },
+        {
+          "chord": "D",
+          "col": 32
+        },
+        {
+          "chord": "D",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " You know how the      time flies,",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "C#m",
+          "col": 17
+        },
+        {
+          "chord": "G#",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Only   yesterday was the time of our lives,",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 4
+        },
+        {
+          "chord": "D",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "We were born and raised in a      summer haze,",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 8
+        },
+        {
+          "chord": "C#m",
+          "col": 28
+        },
+        {
+          "chord": "G#",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bound by the surprise of our glory days",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 6
+        },
+        {
+          "chord": "D",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I hate to turn up out of the blue uninvited,",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 2
+        },
+        {
+          "chord": "F#m",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But I couldn't stay away, I couldn't fight it,",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 5
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I had hoped you'd see my face,",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 6
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And that you'd be reminded that for me it isn't over",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 4
+        },
+        {
+          "chord": "D",
+          "col": 36
+        },
+        {
+          "chord": "E",
+          "col": 48
+        },
+        {
+          "chord": "D",
+          "col": 51
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Never mind, I'll find some one like   you,",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 22
+        },
+        {
+          "chord": "F#m",
+          "col": 36
+        },
+        {
+          "chord": "D",
+          "col": 41
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I wish nothing but the best for you, too,",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 7
+        },
+        {
+          "chord": "E",
+          "col": 27
+        },
+        {
+          "chord": "F#m",
+          "col": 32
+        },
+        {
+          "chord": "D",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Don't forget me, I beg,",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 9
+        },
+        {
+          "chord": "E",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I remember you said,",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 4
+        },
+        {
+          "chord": "D",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sometimes it lasts in love,",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But sometimes it hurts instead",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 4
+        },
+        {
+          "chord": "F#m",
+          "col": 25
+        },
+        {
+          "chord": "D",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Nothing compares,",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 2
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "No worries or cares,",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Regrets and mistakes, they're memories made,",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 2
+        },
+        {
+          "chord": "C#",
+          "col": 6
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Who would have known how bittersweet this would taste?",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 31
+        },
+        {
+          "chord": "B",
+          "col": 33
+        },
+        {
+          "chord": "A",
+          "col": 37
+        },
+        {
+          "chord": "C#",
+          "col": 39
+        },
+        {
+          "chord": "D",
+          "col": 48
+        },
+        {
+          "chord": "E",
+          "col": 54
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Never mind, I'll find    someone like   you,",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 22
+        },
+        {
+          "chord": "G#",
+          "col": 24
+        },
+        {
+          "chord": "F#m",
+          "col": 38
+        },
+        {
+          "chord": "D",
+          "col": 43
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I wish nothing but the best for yo_u,",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 7
+        },
+        {
+          "chord": "E",
+          "col": 27
+        },
+        {
+          "chord": "F#m",
+          "col": 32
+        },
+        {
+          "chord": "D",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Don't forget me, I beg,",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 9
+        },
+        {
+          "chord": "E",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I remember you said,",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 4
+        },
+        {
+          "chord": "D",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sometimes it lasts in love,",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But sometimes it hurts instead",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 4
+        },
+        {
+          "chord": "F#m",
+          "col": 25
+        },
+        {
+          "chord": "D",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Never mind, I'll find someone like   you,",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 22
+        },
+        {
+          "chord": "F#m",
+          "col": 35
+        },
+        {
+          "chord": "D",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I wish nothing but the best for you, too,",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 7
+        },
+        {
+          "chord": "E",
+          "col": 27
+        },
+        {
+          "chord": "F#m",
+          "col": 32
+        },
+        {
+          "chord": "D",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Don't forget me, I beg,",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 9
+        },
+        {
+          "chord": "E",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I remember you said,",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 4
+        },
+        {
+          "chord": "D",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sometimes it lasts in love,",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But sometimes it hurts instead",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 4
+        },
+        {
+          "chord": "F#m",
+          "col": 25
+        },
+        {
+          "chord": "D",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sometimes it lasts in love,",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But sometimes it hurts instead",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 4
+        },
+        {
+          "chord": "F#m",
+          "col": 25
+        },
+        {
+          "chord": "D",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 2
+        },
+        {
+          "chord": "D",
+          "col": 4
+        },
+        {
+          "chord": "A",
+          "col": 6
+        },
+        {
+          "chord": "A",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

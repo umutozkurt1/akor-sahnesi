@@ -1,0 +1,229 @@
+{
+  "slug": "toygar-isikli-bana-hersey-uzak2",
+  "artist": "Toygar Işıklı",
+  "title": "Bana Herşey Uzak",
+  "key": "E",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Yine ay doğuyor, yine günler uzak",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 16
+        },
+        {
+          "chord": "Em",
+          "col": 24
+        },
+        {
+          "chord": "Bm",
+          "col": 41
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Uzanır geceler ah hüzüne",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dolanır uykudan sabaha",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 19
+        },
+        {
+          "chord": "Em",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Günler geçiyor, bana her şey uzak",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 16
+        },
+        {
+          "chord": "Em",
+          "col": 24
+        },
+        {
+          "chord": "Bm",
+          "col": 41
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dökülür yeni bir yaprak daha",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Vururken yüzüne sonbahar",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 19
+        },
+        {
+          "chord": "Em",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yarare yararara, yarare yarara",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 16
+        },
+        {
+          "chord": "Em",
+          "col": 24
+        },
+        {
+          "chord": "D",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yarare yararara, yarare yarare yarare",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 17
+        },
+        {
+          "chord": "C",
+          "col": 24
+        },
+        {
+          "chord": "Bm",
+          "col": 37
+        },
+        {
+          "chord": "Em",
+          "col": 46
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Başa döner",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Düşlerim yorgun yılgın, kalbim bir koca çınar",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 21
+        },
+        {
+          "chord": "C",
+          "col": 40
+        },
+        {
+          "chord": "Bm",
+          "col": 53
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Söz yenik uzaklara yakın, kederde yine bu sonbahar",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 21
+        },
+        {
+          "chord": "Bm",
+          "col": 43
+        },
+        {
+          "chord": "Em",
+          "col": 73
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

@@ -1,0 +1,476 @@
+{
+  "slug": "the-beatles-yesterday",
+  "artist": "The Beatles",
+  "title": "Yesterday",
+  "key": "F",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Yesterday   all my troubles seemed so far away",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 2
+        },
+        {
+          "chord": "Em7",
+          "col": 10
+        },
+        {
+          "chord": "A7",
+          "col": 23
+        },
+        {
+          "chord": "Dm",
+          "col": 39
+        },
+        {
+          "chord": "Dm/C",
+          "col": 46
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Now it looks as though they're here to stay oh I believe in yesterday",
+      "chords": [
+        {
+          "chord": "Bb",
+          "col": 0
+        },
+        {
+          "chord": "C7",
+          "col": 9
+        },
+        {
+          "chord": "F",
+          "col": 31
+        },
+        {
+          "chord": "F/E",
+          "col": 43
+        },
+        {
+          "chord": "Dm",
+          "col": 47
+        },
+        {
+          "chord": "G7",
+          "col": 52
+        },
+        {
+          "chord": "Bb",
+          "col": 61
+        },
+        {
+          "chord": "F",
+          "col": 64
+        },
+        {
+          "chord": "F",
+          "col": 66
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Suddenly  I'm not half the man I used to be",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "Em7",
+          "col": 9
+        },
+        {
+          "chord": "A7",
+          "col": 18
+        },
+        {
+          "chord": "Dm",
+          "col": 33
+        },
+        {
+          "chord": "Dm/C",
+          "col": 44
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " there's a shadow hanging over me oh yesterday came suddenly",
+      "chords": [
+        {
+          "chord": "Bb",
+          "col": 0
+        },
+        {
+          "chord": "C7",
+          "col": 11
+        },
+        {
+          "chord": "F",
+          "col": 26
+        },
+        {
+          "chord": "F/E",
+          "col": 34
+        },
+        {
+          "chord": "Dm",
+          "col": 38
+        },
+        {
+          "chord": "G7",
+          "col": 43
+        },
+        {
+          "chord": "Bb",
+          "col": 52
+        },
+        {
+          "chord": "F",
+          "col": 55
+        },
+        {
+          "chord": "F",
+          "col": 57
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Why she  had to   go I don't know she wouldn't say",
+      "chords": [
+        {
+          "chord": "Em7",
+          "col": 0
+        },
+        {
+          "chord": "A7",
+          "col": 4
+        },
+        {
+          "chord": "Dm",
+          "col": 9
+        },
+        {
+          "chord": "Dm/C",
+          "col": 13
+        },
+        {
+          "chord": "Bb",
+          "col": 18
+        },
+        {
+          "chord": "Gm",
+          "col": 29
+        },
+        {
+          "chord": "C",
+          "col": 39
+        },
+        {
+          "chord": "F",
+          "col": 48
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I   said something wrong now I long for yesterday",
+      "chords": [
+        {
+          "chord": "Em7",
+          "col": 0
+        },
+        {
+          "chord": "A7",
+          "col": 4
+        },
+        {
+          "chord": "Dm",
+          "col": 9
+        },
+        {
+          "chord": "Dm/C",
+          "col": 13
+        },
+        {
+          "chord": "Bb",
+          "col": 19
+        },
+        {
+          "chord": "Gm",
+          "col": 31
+        },
+        {
+          "chord": "C",
+          "col": 41
+        },
+        {
+          "chord": "F",
+          "col": 47
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yesterday  love was such an easy game to play",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "Em7",
+          "col": 8
+        },
+        {
+          "chord": "A7",
+          "col": 20
+        },
+        {
+          "chord": "Dm",
+          "col": 33
+        },
+        {
+          "chord": "Dm/C",
+          "col": 45
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " now I need a place to hide away oh I believe in yesterday",
+      "chords": [
+        {
+          "chord": "Bb",
+          "col": 0
+        },
+        {
+          "chord": "C7",
+          "col": 8
+        },
+        {
+          "chord": "F",
+          "col": 23
+        },
+        {
+          "chord": "F/E",
+          "col": 33
+        },
+        {
+          "chord": "Dm",
+          "col": 37
+        },
+        {
+          "chord": "G7",
+          "col": 42
+        },
+        {
+          "chord": "Bb",
+          "col": 50
+        },
+        {
+          "chord": "F",
+          "col": 53
+        },
+        {
+          "chord": "F",
+          "col": 55
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Why she  had to   go I don't know she wouldn't say",
+      "chords": [
+        {
+          "chord": "Em7",
+          "col": 0
+        },
+        {
+          "chord": "A7",
+          "col": 4
+        },
+        {
+          "chord": "Dm",
+          "col": 9
+        },
+        {
+          "chord": "Dm/C",
+          "col": 13
+        },
+        {
+          "chord": "Bb",
+          "col": 18
+        },
+        {
+          "chord": "Gm",
+          "col": 31
+        },
+        {
+          "chord": "C",
+          "col": 40
+        },
+        {
+          "chord": "F",
+          "col": 48
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I   said something wrong now I long for yesterday",
+      "chords": [
+        {
+          "chord": "Em7",
+          "col": 0
+        },
+        {
+          "chord": "A7",
+          "col": 4
+        },
+        {
+          "chord": "Dm",
+          "col": 9
+        },
+        {
+          "chord": "Dm/C",
+          "col": 13
+        },
+        {
+          "chord": "Bb",
+          "col": 19
+        },
+        {
+          "chord": "Gm",
+          "col": 31
+        },
+        {
+          "chord": "C",
+          "col": 41
+        },
+        {
+          "chord": "F",
+          "col": 47
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yesterday  love was such an easy game to play",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "Em7",
+          "col": 9
+        },
+        {
+          "chord": "A7",
+          "col": 20
+        },
+        {
+          "chord": "Dm",
+          "col": 33
+        },
+        {
+          "chord": "Dm/C",
+          "col": 46
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " now I need a place to hide away oh I believe in yesterday",
+      "chords": [
+        {
+          "chord": "Bb",
+          "col": 0
+        },
+        {
+          "chord": "C7",
+          "col": 8
+        },
+        {
+          "chord": "F",
+          "col": 23
+        },
+        {
+          "chord": "F/E",
+          "col": 33
+        },
+        {
+          "chord": "Dm",
+          "col": 37
+        },
+        {
+          "chord": "G7",
+          "col": 42
+        },
+        {
+          "chord": "Bb",
+          "col": 50
+        },
+        {
+          "chord": "F",
+          "col": 53
+        },
+        {
+          "chord": "F",
+          "col": 55
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "mm mm mm mm mm mm mmmmmmmmm",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "G7",
+          "col": 6
+        },
+        {
+          "chord": "Bb",
+          "col": 12
+        },
+        {
+          "chord": "F",
+          "col": 15
+        },
+        {
+          "chord": "F",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

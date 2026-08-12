@@ -1,0 +1,189 @@
+{
+  "slug": "kolpa-bitmeli",
+  "artist": "Kolpa",
+  "title": "Bitmeli",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Tek bakışta yandım, nasıl da aldandım.",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 8
+        },
+        {
+          "chord": "Am",
+          "col": 24
+        },
+        {
+          "chord": "G",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Neler neler gördüm, nasıl da dayandım.",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 12
+        },
+        {
+          "chord": "G",
+          "col": 20
+        },
+        {
+          "chord": "Am",
+          "col": 27
+        },
+        {
+          "chord": "G",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bambaşka biri varmış oysa içinde,",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 16
+        },
+        {
+          "chord": "G",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yalanlara dolanmış bi biçimde.",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 16
+        },
+        {
+          "chord": "E5",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bu aşk bitmeli ya da bitmeli olmaz yaşayamam.",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 7
+        },
+        {
+          "chord": "F",
+          "col": 20
+        },
+        {
+          "chord": "C",
+          "col": 31
+        },
+        {
+          "chord": "G",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kalmadı ki ümitlerim olmaz katlanamam.",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 11
+        },
+        {
+          "chord": "C",
+          "col": 23
+        },
+        {
+          "chord": "G",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bu aşk bitmeli ya da bitmeli olmaz yaşayamam.",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 7
+        },
+        {
+          "chord": "F",
+          "col": 20
+        },
+        {
+          "chord": "C",
+          "col": 31
+        },
+        {
+          "chord": "G",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kalmadı ki ümitlerim olmaz aldatamam...   Kendimi.",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 11
+        },
+        {
+          "chord": "C",
+          "col": 23
+        },
+        {
+          "chord": "G",
+          "col": 33
+        },
+        {
+          "chord": "D5",
+          "col": 38
+        },
+        {
+          "chord": "E5",
+          "col": 45
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

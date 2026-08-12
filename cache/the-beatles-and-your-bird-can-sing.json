@@ -1,0 +1,237 @@
+{
+  "slug": "the-beatles-and-your-bird-can-sing",
+  "artist": "The Beatles",
+  "title": "And your bird can sing",
+  "key": "G",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "You tell me that you've got every thing you want",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 3
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And your bird can sing",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But you don't get me",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 18
+        },
+        {
+          "chord": "C",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You don't get   me",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You say you've seen seven wonders",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And your bird is green",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But you can't see me",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 18
+        },
+        {
+          "chord": "C",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You can't see    me",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "G#m               G5+",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "When your prize posessions",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "DA                EG#",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Start to weigh you down",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Look in my direction",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'll be 'round, I'll be 'round",
+      "chords": [
+        {
+          "chord": "D7",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "G#m               G5+",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "When your bird is broken",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "DA               EG#",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Will it bring you down?",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You may be awoken",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'll be 'round, I'll be 'round",
+      "chords": [
+        {
+          "chord": "D7",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Tell me that you've heard every sound there is",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And your bird can swing",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But you can't hear me",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 19
+        },
+        {
+          "chord": "C",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You can't hear    me",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

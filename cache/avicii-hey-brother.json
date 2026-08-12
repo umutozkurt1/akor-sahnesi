@@ -1,0 +1,243 @@
+{
+  "slug": "avicii-hey-brother",
+  "artist": "Avicii",
+  "title": "Hey Brother",
+  "key": "A#",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Hey brother, there's an endless road to re-discover.",
+      "chords": [
+        {
+          "chord": "A#m",
+          "col": 0
+        },
+        {
+          "chord": "Gb",
+          "col": 27
+        },
+        {
+          "chord": "Db",
+          "col": 37
+        },
+        {
+          "chord": "G#",
+          "col": 47
+        },
+        {
+          "chord": "A#m",
+          "col": 57
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hey sister, know the water's sweet but blood is thicker.",
+      "chords": [
+        {
+          "chord": "A#m",
+          "col": 0
+        },
+        {
+          "chord": "Gb",
+          "col": 24
+        },
+        {
+          "chord": "Db",
+          "col": 39
+        },
+        {
+          "chord": "G#",
+          "col": 56
+        },
+        {
+          "chord": "A#m",
+          "col": 66
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Oh if the sky comes falling down, for you,",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 0
+        },
+        {
+          "chord": "Db",
+          "col": 12
+        },
+        {
+          "chord": "Gb",
+          "col": 22
+        },
+        {
+          "chord": "G#",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "There's nothing in this world I wouldn't do.",
+      "chords": [
+        {
+          "chord": "Db",
+          "col": 8
+        },
+        {
+          "chord": "Gb",
+          "col": 24
+        },
+        {
+          "chord": "A#m",
+          "col": 41
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hey brother, do you still believe in one another?",
+      "chords": [
+        {
+          "chord": "A#m",
+          "col": 0
+        },
+        {
+          "chord": "Gb",
+          "col": 23
+        },
+        {
+          "chord": "Db",
+          "col": 32
+        },
+        {
+          "chord": "G#",
+          "col": 48
+        },
+        {
+          "chord": "A#m",
+          "col": 56
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hey sister, do you still believe in love I wonder?",
+      "chords": [
+        {
+          "chord": "A#m",
+          "col": 0
+        },
+        {
+          "chord": "Gb",
+          "col": 22
+        },
+        {
+          "chord": "Db",
+          "col": 36
+        },
+        {
+          "chord": "G#",
+          "col": 45
+        },
+        {
+          "chord": "A#m",
+          "col": 52
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Nakarat",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "What if I'm far from home?",
+      "chords": [
+        {
+          "chord": "A#m",
+          "col": 0
+        },
+        {
+          "chord": "Gb",
+          "col": 13
+        },
+        {
+          "chord": "Db",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Oh brother I will hear you call.",
+      "chords": [
+        {
+          "chord": "Db",
+          "col": 18
+        },
+        {
+          "chord": "G#",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "What if I lose it all?",
+      "chords": [
+        {
+          "chord": "A#m",
+          "col": 0
+        },
+        {
+          "chord": "Gb",
+          "col": 13
+        },
+        {
+          "chord": "Db",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Oh sister I will help you out!",
+      "chords": [
+        {
+          "chord": "Db",
+          "col": 18
+        },
+        {
+          "chord": "G#",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Nakarat",
+      "chords": [],
+      "section": true,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

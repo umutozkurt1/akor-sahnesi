@@ -1,0 +1,140 @@
+{
+  "slug": "onur-san-can-yarim",
+  "artist": "Onur Şan",
+  "title": "Can Yarim",
+  "key": "G",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "ağlamışsın gözyaşın sileyim",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "söyle derdin nedir ben bileyim",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "eğer yalnızsan sırdaşın olayım",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "a yarim can yarim cananım ol",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 0
+        },
+        {
+          "chord": "G#",
+          "col": 10
+        },
+        {
+          "chord": "Fm",
+          "col": 14
+        },
+        {
+          "chord": "Gm",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "al beni beni beni al yarim canlansın anılar",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "sar beni beni sar yarim kopsun fırtınalar",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 0
+        },
+        {
+          "chord": "G#",
+          "col": 28
+        },
+        {
+          "chord": "Gm",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "gül beni beni gül yarim dinsin gözdeki yaş",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "a yarim can yarim cananım ol",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 0
+        },
+        {
+          "chord": "G#",
+          "col": 9
+        },
+        {
+          "chord": "Fm",
+          "col": 18
+        },
+        {
+          "chord": "Gm",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

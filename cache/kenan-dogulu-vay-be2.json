@@ -1,0 +1,185 @@
+{
+  "slug": "kenan-dogulu-vay-be2",
+  "artist": "Kenan Doğulu",
+  "title": "Vay Be",
+  "key": "F",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Beni bilmemen, görmemen",
+      "chords": [
+        {
+          "chord": "Fmaj7",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sarıpta sevmemen, yazık yazık, yazık, yazık, yazık",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 45
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sende saklı kalbimin tüm umutları",
+      "chords": [
+        {
+          "chord": "Fmaj7",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bölündü uykular kayıp kayıp, kayıp, kayıp, kayıp",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir anahtar açar kalbi, o el çözer düğümleri",
+      "chords": [
+        {
+          "chord": "Fmaj7",
+          "col": 21
+        },
+        {
+          "chord": "G",
+          "col": 67
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Her tarafta yarım sözler, düşünmedim değil vazgeçmeyi",
+      "chords": [
+        {
+          "chord": "Fmaj7",
+          "col": 23
+        },
+        {
+          "chord": "G",
+          "col": 79
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yine sana rastlar, sırtımı da yaslardım",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 18
+        },
+        {
+          "chord": "Am",
+          "col": 45
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yetmiyor ilaçlar, gerekli bir acil yardım",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 18
+        },
+        {
+          "chord": "Am",
+          "col": 44
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Benmişim engel, olaylara gel",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 19
+        },
+        {
+          "chord": "Am",
+          "col": 41
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Benmişim engel, olaylara gel",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 19
+        },
+        {
+          "chord": "Am",
+          "col": 41
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Vay,  vay , vay be vay bee",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 6
+        },
+        {
+          "chord": "Am",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Vay,   vay   vay be",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 6
+        },
+        {
+          "chord": "Am",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

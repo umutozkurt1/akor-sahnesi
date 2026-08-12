@@ -1,0 +1,141 @@
+{
+  "slug": "melihcan-seviyorum-seni",
+  "artist": "MelihCan",
+  "title": "Seviyorum Seni",
+  "key": "G",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Bir saniye sensiz olsa bir ömür gibi gelir bana",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 4
+        },
+        {
+          "chord": "Dm",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dayanamam yokluğuna kül olurum yana yana",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 13
+        },
+        {
+          "chord": "Dm",
+          "col": 50
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yapamam ki sensiz olamam ki",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 5
+        },
+        {
+          "chord": "D#",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yanımdan gidersen yaşayamam ki",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 9
+        },
+        {
+          "chord": "D#",
+          "col": 41
+        },
+        {
+          "chord": "Dm",
+          "col": 50
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Seviyorum seni deliler gibi",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 7
+        },
+        {
+          "chord": "Dm",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Aşkımı anlatmaya kelimeler yetmez ki",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yalvarırım sevgilim bırakma ellerimi",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yıkılırım sensiz sevemem hiç kimseyi",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 6
+        },
+        {
+          "chord": "Dm",
+          "col": 33
+        },
+        {
+          "chord": "Cm",
+          "col": 38
+        },
+        {
+          "chord": "Dm",
+          "col": 49
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

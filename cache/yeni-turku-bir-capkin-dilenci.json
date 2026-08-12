@@ -1,0 +1,441 @@
+{
+  "slug": "yeni-turku-bir-capkin-dilenci",
+  "artist": "Yeni Türkü",
+  "title": "Bir Çapkın Dilenci",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Bir çapkin dilenci,  dansederek gezip durur sehri",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 23
+        },
+        {
+          "chord": "G#",
+          "col": 27
+        },
+        {
+          "chord": "Am",
+          "col": 37
+        },
+        {
+          "chord": "G",
+          "col": 42
+        },
+        {
+          "chord": "Am",
+          "col": 45
+        },
+        {
+          "chord": "F#",
+          "col": 49
+        },
+        {
+          "chord": "F",
+          "col": 52
+        },
+        {
+          "chord": "Dm",
+          "col": 60
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Adiyla seslenir, gülerdi kadinlar.",
+      "chords": [
+        {
+          "chord": "Dm7",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 15
+        },
+        {
+          "chord": "E7",
+          "col": 19
+        },
+        {
+          "chord": "Am",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Özür diler gibi,   sessiz       geçer-di   yillar",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 17
+        },
+        {
+          "chord": "G#",
+          "col": 21
+        },
+        {
+          "chord": "Am",
+          "col": 25
+        },
+        {
+          "chord": "G",
+          "col": 29
+        },
+        {
+          "chord": "Am",
+          "col": 32
+        },
+        {
+          "chord": "F#",
+          "col": 37
+        },
+        {
+          "chord": "F",
+          "col": 40
+        },
+        {
+          "chord": "Dm",
+          "col": 48
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir uzak akrabaydi sonbahar",
+      "chords": [
+        {
+          "chord": "Dm7",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 17
+        },
+        {
+          "chord": "E7",
+          "col": 25
+        },
+        {
+          "chord": "Am",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dört bir yana esip giden rüzgârlardan biri",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 22
+        },
+        {
+          "chord": "G7",
+          "col": 45
+        },
+        {
+          "chord": "C",
+          "col": 63
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir gece koynuna aldi beni",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 25
+        },
+        {
+          "chord": "E7",
+          "col": 41
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Genis kanatlarinda   açildim denizlere,",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Dm7",
+          "col": 25
+        },
+        {
+          "chord": "C",
+          "col": 33
+        },
+        {
+          "chord": "Am",
+          "col": 44
+        },
+        {
+          "chord": "Fm",
+          "col": 49
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yillanmis ne günler bulup çikardim derinde",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 13
+        },
+        {
+          "chord": "Am",
+          "col": 24
+        },
+        {
+          "chord": "C",
+          "col": 30
+        },
+        {
+          "chord": "E7",
+          "col": 39
+        },
+        {
+          "chord": "Am",
+          "col": 59
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir yosun bir sarki, bir    eski kayikhane",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Dm7",
+          "col": 25
+        },
+        {
+          "chord": "C",
+          "col": 35
+        },
+        {
+          "chord": "Am",
+          "col": 45
+        },
+        {
+          "chord": "Fm",
+          "col": 49
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dogdugum sehri buldum gittigim her yerde",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 17
+        },
+        {
+          "chord": "Am",
+          "col": 26
+        },
+        {
+          "chord": "C",
+          "col": 37
+        },
+        {
+          "chord": "E7",
+          "col": 44
+        },
+        {
+          "chord": "Am",
+          "col": 48
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kaybolur aksamlar    sokaklarda,   kaybo-lur   zaman",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 25
+        },
+        {
+          "chord": "G#",
+          "col": 29
+        },
+        {
+          "chord": "Am",
+          "col": 41
+        },
+        {
+          "chord": "G",
+          "col": 45
+        },
+        {
+          "chord": "Am",
+          "col": 48
+        },
+        {
+          "chord": "F#",
+          "col": 52
+        },
+        {
+          "chord": "F",
+          "col": 56
+        },
+        {
+          "chord": "Dm",
+          "col": 65
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ihlamur kokusu  birakip ardindan",
+      "chords": [
+        {
+          "chord": "Dm7",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 16
+        },
+        {
+          "chord": "E7",
+          "col": 20
+        },
+        {
+          "chord": "Am",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir çapkin dilenci    dansederek gezip durur sehri",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 17
+        },
+        {
+          "chord": "G#",
+          "col": 21
+        },
+        {
+          "chord": "Am",
+          "col": 30
+        },
+        {
+          "chord": "G",
+          "col": 36
+        },
+        {
+          "chord": "Am",
+          "col": 41
+        },
+        {
+          "chord": "F#",
+          "col": 46
+        },
+        {
+          "chord": "F",
+          "col": 53
+        },
+        {
+          "chord": "Dm",
+          "col": 60
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Takilir her evde  sureti.",
+      "chords": [
+        {
+          "chord": "Dm7",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 16
+        },
+        {
+          "chord": "E7",
+          "col": 20
+        },
+        {
+          "chord": "Am",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "NAKARAT",
+      "chords": [],
+      "section": true,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

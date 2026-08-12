@@ -1,0 +1,151 @@
+{
+  "slug": "toygar-isikli-ninni",
+  "artist": "Toygar Işıklı",
+  "title": "Ninni",
+  "key": "E",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Yum usulca gözlerini,  uzat üşümüş ellerini",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 31
+        },
+        {
+          "chord": "E",
+          "col": 38
+        },
+        {
+          "chord": "Am",
+          "col": 65
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sakla o masum yüreğini zaman gibi sessiz uyu",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 8
+        },
+        {
+          "chord": "E",
+          "col": 36
+        },
+        {
+          "chord": "Dm",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bu dünya dipsiz bir kuyu",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 17
+        },
+        {
+          "chord": "E",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Pamuktan kalbin solmadan hayat yüzüne vurmadan",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 5
+        },
+        {
+          "chord": "Bb",
+          "col": 39
+        },
+        {
+          "chord": "Am",
+          "col": 50
+        },
+        {
+          "chord": "E",
+          "col": 78
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Uyu yavrum uyu bu dünya dipsiz bir kuyu",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 22
+        },
+        {
+          "chord": "E",
+          "col": 31
+        },
+        {
+          "chord": "F",
+          "col": 43
+        },
+        {
+          "chord": "E",
+          "col": 59
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Uyu melek yüzlüm uyu  bu dünya dipsiz bir kuyu",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 33
+        },
+        {
+          "chord": "E",
+          "col": 38
+        },
+        {
+          "chord": "F",
+          "col": 55
+        },
+        {
+          "chord": "E",
+          "col": 67
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

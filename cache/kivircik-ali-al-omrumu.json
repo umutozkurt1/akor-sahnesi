@@ -1,0 +1,153 @@
+{
+  "slug": "kivircik-ali-al-omrumu",
+  "artist": "Kıvırcık Ali",
+  "title": "Al Ömrümü",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Günü gelir sende benden çekip gidersen",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 42
+        },
+        {
+          "chord": "Cm",
+          "col": 58
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gidipte bir daha dönmeyeceksen",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 29
+        },
+        {
+          "chord": "Cm",
+          "col": 47
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Al ömrümü koy ömrünün üstüne",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "Eb",
+          "col": 18
+        },
+        {
+          "chord": "Db",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Senden gelsin ölüm başım üstüne    x2",
+      "chords": [
+        {
+          "chord": "Bbm",
+          "col": 25
+        },
+        {
+          "chord": "Cm",
+          "col": 41
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ellerini ellerimden alıp gidersen",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 29
+        },
+        {
+          "chord": "Cm",
+          "col": 43
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gidipte bir daha dönmeyeceksen",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 26
+        },
+        {
+          "chord": "Cm",
+          "col": 45
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yüreğini koy avcunun içine",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "Eb",
+          "col": 12
+        },
+        {
+          "chord": "Db",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Senden gelsin ölüm başım üstüne    x2",
+      "chords": [
+        {
+          "chord": "Bbm",
+          "col": 26
+        },
+        {
+          "chord": "Cm",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

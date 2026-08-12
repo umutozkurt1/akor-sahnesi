@@ -1,0 +1,166 @@
+{
+  "slug": "anonim-turkuler-osman-aga",
+  "artist": "Anonim Türküler",
+  "title": "Osman Ağa",
+  "key": "E",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Ne de güzel kaşların var",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 21
+        },
+        {
+          "chord": "F",
+          "col": 27
+        },
+        {
+          "chord": "E",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ne de güzel kaşların var",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 22
+        },
+        {
+          "chord": "F",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Rastık sürmek ister Osman aga",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 23
+        },
+        {
+          "chord": "Dm",
+          "col": 31
+        },
+        {
+          "chord": "E",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sabah olsun çarşıya giderim",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 22
+        },
+        {
+          "chord": "F",
+          "col": 32
+        },
+        {
+          "chord": "E",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sabah olsun çarşıya giderim",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 23
+        },
+        {
+          "chord": "F",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sabahlara dayanamam Osman aga",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 17
+        },
+        {
+          "chord": "Dm",
+          "col": 37
+        },
+        {
+          "chord": "E",
+          "col": 48
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yalancısın inanamam Osman aga",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 16
+        },
+        {
+          "chord": "Dm",
+          "col": 34
+        },
+        {
+          "chord": "E",
+          "col": 43
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

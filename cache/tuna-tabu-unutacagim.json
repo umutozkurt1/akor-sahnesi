@@ -1,0 +1,141 @@
+{
+  "slug": "tuna-tabu-unutacagim",
+  "artist": "Tuna Tabu",
+  "title": "Unutacağım",
+  "key": "D",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Ne olur sağ olsun ayakta duracağım",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Seni hep affettim bu sefer ayrılacağım",
+      "chords": [
+        {
+          "chord": "Eb",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Belkide çocuk gibi oturup ağlayacağım",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ne kadar çok sevsemde seni unutacağım",
+      "chords": [
+        {
+          "chord": "Eb",
+          "col": 7
+        },
+        {
+          "chord": "F",
+          "col": 28
+        },
+        {
+          "chord": "Eb",
+          "col": 31
+        },
+        {
+          "chord": "Dm",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ben sana koştukça sen hep canımı yaktın",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 5
+        },
+        {
+          "chord": "Eb",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ne kadarda farklıydın yalancı nasılda inandım",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 5
+        },
+        {
+          "chord": "Eb",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Belkide çocuk gibi oturup ağlacağım",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 5
+        },
+        {
+          "chord": "Dm",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ne kadar çok sevsemde seni unutacağım",
+      "chords": [
+        {
+          "chord": "Eb",
+          "col": 5
+        },
+        {
+          "chord": "F",
+          "col": 27
+        },
+        {
+          "chord": "Eb",
+          "col": 30
+        },
+        {
+          "chord": "Dm",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

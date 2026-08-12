@@ -1,0 +1,556 @@
+{
+  "slug": "steve-miller-band-serenade",
+  "artist": "Steve Miller Band",
+  "title": "Serenade",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Intro",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 1
+        },
+        {
+          "chord": "F",
+          "col": 6
+        },
+        {
+          "chord": "G",
+          "col": 11
+        },
+        {
+          "chord": "Am",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   Did you see the lights",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "As they fell all a-round you",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 7
+        },
+        {
+          "chord": "Am",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   Did you hear the music",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Serenade from the stars",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 2
+        },
+        {
+          "chord": "Am",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   Wake up, wake up",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Wake up and look a-round you",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 5
+        },
+        {
+          "chord": "Am",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   We're lost in space",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And the time is our own",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 7
+        },
+        {
+          "chord": "Am",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  Whoa.............",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "Gmaj7",
+          "col": 4
+        },
+        {
+          "chord": "Am",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  Whoa.......................",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "Gmaj7",
+          "col": 4
+        },
+        {
+          "chord": "Am",
+          "col": 12
+        },
+        {
+          "chord": "F",
+          "col": 17
+        },
+        {
+          "chord": "G",
+          "col": 21
+        },
+        {
+          "chord": "Am",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Aaaaaahhh..........",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 5
+        },
+        {
+          "chord": "Am",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   Did you feel the wind",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "As it blew all a-round you",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 5
+        },
+        {
+          "chord": "Am",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   Did you feel the love",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "That was in the air",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 7
+        },
+        {
+          "chord": "Am",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   Wake up, wake up",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Wake up and look a-round you",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 5
+        },
+        {
+          "chord": "Am",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   We're lost in space",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And the time is our own",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 7
+        },
+        {
+          "chord": "Am",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  Whoa.............",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "Gmaj7",
+          "col": 4
+        },
+        {
+          "chord": "Am",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  Whoa.......................",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "Gmaj7",
+          "col": 4
+        },
+        {
+          "chord": "Am",
+          "col": 12
+        },
+        {
+          "chord": "F",
+          "col": 17
+        },
+        {
+          "chord": "G",
+          "col": 21
+        },
+        {
+          "chord": "Am",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Aaaaaahhh..........",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 5
+        },
+        {
+          "chord": "Am",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   The sun comes up",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And it shines all a-round you",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 7
+        },
+        {
+          "chord": "Am",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   You're lost in space",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And the earth is your home",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 8
+        },
+        {
+          "chord": "Am",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  Whoa............",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 4
+        },
+        {
+          "chord": "D",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  Whoa.............",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "Gmaj7",
+          "col": 4
+        },
+        {
+          "chord": "D",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  Whoa............",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 4
+        },
+        {
+          "chord": "D",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  Whoa.............",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "Gmaj7",
+          "col": 4
+        },
+        {
+          "chord": "D",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

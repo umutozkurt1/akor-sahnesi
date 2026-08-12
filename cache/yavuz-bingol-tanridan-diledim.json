@@ -1,0 +1,143 @@
+{
+  "slug": "yavuz-bingol-tanridan-diledim",
+  "artist": "Yavuz Bingöl",
+  "title": "Tanrıdan Diledim",
+  "key": "E",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Tanrı'dan diledim bu kadar dilek aman aman bu kadar dilek",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 50
+        },
+        {
+          "chord": "Am",
+          "col": 93
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "O yarin yüzünü bir daha görek aman aman bir daha görek",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 12
+        },
+        {
+          "chord": "E",
+          "col": 19
+        },
+        {
+          "chord": "Dm",
+          "col": 33
+        },
+        {
+          "chord": "E",
+          "col": 60
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gel anam aman yanıma kıyma bu yazık canıma",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 68
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir kara kaşın bir kara gözün, değer dünya malına",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 20
+        },
+        {
+          "chord": "F",
+          "col": 46
+        },
+        {
+          "chord": "E",
+          "col": 67
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bana kısmet değil dizinde yatmak aman aman dizinde yatmak",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 53
+        },
+        {
+          "chord": "Am",
+          "col": 95
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dizinde yatıpta yüzüne bakmak aman aman yüzüne bakmak",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 14
+        },
+        {
+          "chord": "E",
+          "col": 21
+        },
+        {
+          "chord": "Dm",
+          "col": 35
+        },
+        {
+          "chord": "E",
+          "col": 62
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

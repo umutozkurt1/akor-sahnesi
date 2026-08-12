@@ -1,0 +1,213 @@
+{
+  "slug": "multitap-kalbini-bana-ver",
+  "artist": "Multitap",
+  "title": "Kalbini Bana Ver",
+  "key": "G",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Intro: G",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kelimene acıktım, Hikayene susadım,",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gözlerim titriyor.",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Tadı dilimin ucunda, Tenimin içinde",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ellerim üşüyor.",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Karşı konulmazsın, Çarpıyo kalbim bir koooor",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 19
+        },
+        {
+          "chord": "Em",
+          "col": 39
+        },
+        {
+          "chord": "D",
+          "col": 44
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kurtulamazsın, buna engel olamazsın çok zor",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 20
+        },
+        {
+          "chord": "D",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kalbini bana ver",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yırtıp aç içinden çıkaaaar, ihtiyacım var",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 21
+        },
+        {
+          "chord": "C",
+          "col": 27
+        },
+        {
+          "chord": "D",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yeni gün doğmadan tutsak ruhumu kurtaaaaaaar",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 18
+        },
+        {
+          "chord": "Bm",
+          "col": 35
+        },
+        {
+          "chord": "C",
+          "col": 39
+        },
+        {
+          "chord": "D",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir damla kan süzülür boynumdan",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Anlarsın bundan önce kaç hayat var",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 5
+        },
+        {
+          "chord": "Em",
+          "col": 7
+        },
+        {
+          "chord": "Bm",
+          "col": 10
+        },
+        {
+          "chord": "C",
+          "col": 13
+        },
+        {
+          "chord": "D",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

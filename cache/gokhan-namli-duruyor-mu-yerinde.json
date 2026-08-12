@@ -1,0 +1,141 @@
+{
+  "slug": "gokhan-namli-duruyor-mu-yerinde",
+  "artist": "Gökhan Namlı",
+  "title": "Duruyor Mu Yerinde",
+  "key": "C#",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Ne garip bir gece iyiden iyiye",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yaş olup akıyor hasretin gözümden",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "C#m",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Silinmez derine bir yere yazılır bir kere",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 43
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Soyunur koynuma sokulur sen diye",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "C#m",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Duruyor mu yerinde bir yanı biz dolu hikayeler",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 45
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Arayıp soramam, tükendi elimdeki bahaneler",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 44
+        },
+        {
+          "chord": "D",
+          "col": 61
+        },
+        {
+          "chord": "C#m",
+          "col": 68
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kaderin karası yüzündeki gizli saklı cümleler",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 46
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Unutup silemem yaşattığını bana daha neler",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 42
+        },
+        {
+          "chord": "D",
+          "col": 59
+        },
+        {
+          "chord": "C#m",
+          "col": 66
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

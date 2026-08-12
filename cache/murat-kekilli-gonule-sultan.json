@@ -1,0 +1,163 @@
+{
+  "slug": "murat-kekilli-gonule-sultan",
+  "artist": "Murat Kekilli",
+  "title": "Gönüle Sultan",
+  "key": "D",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Gönül’e sultan mı,başa bela mı?",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İnsan olan insan,kesmez selamı.",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 9
+        },
+        {
+          "chord": "Bb",
+          "col": 25
+        },
+        {
+          "chord": "Dm",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Başıma yıkıpta koca dağları,",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 22
+        },
+        {
+          "chord": "Dm",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sen benim ömrümü taşa çevirdin.",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 32
+        },
+        {
+          "chord": "Dm",
+          "col": 44
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yaktın,yıktın beni,viran eyledin.",
+      "chords": [
+        {
+          "chord": "Eb",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 29
+        },
+        {
+          "chord": "Dm",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Nerde benim gibi seven nerede?",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ateş yüreğimde,sanma dilimde.",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 9
+        },
+        {
+          "chord": "Bb",
+          "col": 24
+        },
+        {
+          "chord": "Dm",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Aşkımı kalbine koyacak yerde,",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 22
+        },
+        {
+          "chord": "Dm",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Nakarat",
+      "chords": [],
+      "section": true,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

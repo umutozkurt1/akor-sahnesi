@@ -1,0 +1,168 @@
+{
+  "slug": "pinhani-bana-hediye",
+  "artist": "Pinhani",
+  "title": "Bana Hediye",
+  "key": "D",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Yola çıktım dünyayı ölçmek için",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Benden önce kimler kimler ölçmüş biçmiş her şeyi paylaşmış",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 45
+        },
+        {
+          "chord": "C",
+          "col": 71
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Beni yoldan geri çevirmek için",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kapı dikmiş sınır çizmiş bizi bizden ayırmış",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 39
+        },
+        {
+          "chord": "C",
+          "col": 58
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bana hediye denizdeki dalga, bana hediye",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 20
+        },
+        {
+          "chord": "Gm",
+          "col": 47
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bana hediye önümdeki yolda, bana hediye",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 20
+        },
+        {
+          "chord": "Gm",
+          "col": 48
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Güçlü olan hep haklı çıkarmış",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "En iyisini hep önce kaparmış",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ara sıra da yardım edermiş, acırmış",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 16
+        },
+        {
+          "chord": "C",
+          "col": 44
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

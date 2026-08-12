@@ -1,0 +1,165 @@
+{
+  "slug": "murat-dalkilic-kulah",
+  "artist": "Murat Dalkılıç",
+  "title": "Külah",
+  "key": "F",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Sana bu gönülden çiçekler var",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bana senin rüzgarın gelmiyor",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 7
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Boşuna yola serilmiş emekler var",
+      "chords": [
+        {
+          "chord": "C#",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Biliyorum kimseye değmiyor",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Belki razıyım buna dünden belki hiç değilim",
+      "chords": [
+        {
+          "chord": "C#",
+          "col": 1
+        },
+        {
+          "chord": "D#",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İnan bi farkı yok güzelim zaten",
+      "chords": [
+        {
+          "chord": "C#",
+          "col": 1
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ben aynı ben değilim",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 1
+        },
+        {
+          "chord": "C#",
+          "col": 11
+        },
+        {
+          "chord": "Cm",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sevgimiz yetersiz bence bi süre görüşmeyelim",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 1
+        },
+        {
+          "chord": "Fm",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ayrılık olabilir nedensiz onca yalana ilişmeyelim",
+      "chords": [
+        {
+          "chord": "C#",
+          "col": 3
+        },
+        {
+          "chord": "D#",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bu son sözler imansız senle kötüye dönüşmeyelim",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Belki gemi oluruz limansız sonunda külahı değişmeyelim",
+      "chords": [
+        {
+          "chord": "C#",
+          "col": 8
+        },
+        {
+          "chord": "D#",
+          "col": 38
+        },
+        {
+          "chord": "C#",
+          "col": 48
+        },
+        {
+          "chord": "Cm",
+          "col": 54
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

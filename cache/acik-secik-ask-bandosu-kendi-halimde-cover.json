@@ -1,0 +1,276 @@
+{
+  "slug": "acik-secik-ask-bandosu-kendi-halimde-cover",
+  "artist": "Açık Seçik Aşk Bandosu",
+  "title": "Kendi Halimde (cover)",
+  "key": "D",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 6
+        },
+        {
+          "chord": "A#",
+          "col": 12
+        },
+        {
+          "chord": "Gm",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 6
+        },
+        {
+          "chord": "Gm",
+          "col": 11
+        },
+        {
+          "chord": "Dm",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hiçbirinize değil kırgınlığım, dargınlığım",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 30
+        },
+        {
+          "chord": "Gm",
+          "col": 47
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hiçbir kadına değil yorgunluğum, yalnızlığım",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 35
+        },
+        {
+          "chord": "Gm",
+          "col": 57
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kendi halimde bir derdim var",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Nasıl anlatsam kibar kibar",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Uuu     uuu   uu",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 9
+        },
+        {
+          "chord": "A#",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Duymaz sağır, uydur bağır",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Uuu  uuu  uu",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 6
+        },
+        {
+          "chord": "A#",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Duymaz sağır,uydur bağır",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Intro",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "Kendi başıma değil, sarhoşluğum baygınlığım",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 36
+        },
+        {
+          "chord": "Gm",
+          "col": 58
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hiçbir duruma değil gerginliğim, hoyratlığım",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 35
+        },
+        {
+          "chord": "Gm",
+          "col": 54
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "B bölümü",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Nakarat",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "Son solo :",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 6
+        },
+        {
+          "chord": "Dm",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

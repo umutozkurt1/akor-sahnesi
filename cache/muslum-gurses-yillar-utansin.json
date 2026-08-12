@@ -1,0 +1,205 @@
+{
+  "slug": "muslum-gurses-yillar-utansin",
+  "artist": "Müslüm Gürses",
+  "title": "Yıllar Utansın",
+  "key": "C#",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "İntro",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 7
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "bizim gönlümüze hasret düşüren",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "şu geçit vermeyen dağla utansın",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "bizi bizden alıp yabancı eden",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 27
+        },
+        {
+          "chord": "F#m",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "şu uzayıp giden yollar utansın",
+      "chords": [
+        {
+          "chord": "G#m",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "düşüren kim bu aşkı dillerden dile",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "isyan eder oldum şansa kadere",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "aynalar yaşlanmış gösterse bile",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "yaşanmadan geçen yıllar utansın",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "G#m",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "yar yanımda yoksa en çılgın hasret",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "sevdasız geçecek ömüre hayret",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "gönülde açmazsa solacak elbet",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 27
+        },
+        {
+          "chord": "F#m",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "çiçeklerle dolu dallar utansın",
+      "chords": [
+        {
+          "chord": "G#m",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

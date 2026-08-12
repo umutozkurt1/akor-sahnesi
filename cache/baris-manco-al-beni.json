@@ -1,0 +1,465 @@
+{
+  "slug": "baris-manco-al-beni",
+  "artist": "Barış Manço",
+  "title": "Al Beni",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "İntro:",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 3
+        },
+        {
+          "chord": "A",
+          "col": 6
+        },
+        {
+          "chord": "E",
+          "col": 9
+        },
+        {
+          "chord": "A",
+          "col": 12
+        },
+        {
+          "chord": "E",
+          "col": 15
+        },
+        {
+          "chord": "Am",
+          "col": 18
+        },
+        {
+          "chord": "E",
+          "col": 22
+        },
+        {
+          "chord": "Am",
+          "col": 25
+        },
+        {
+          "chord": "F",
+          "col": 29
+        },
+        {
+          "chord": "E",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir damla suya hasret kurumuş bir dal gibiyim sensiz",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 13
+        },
+        {
+          "chord": "Bm",
+          "col": 19
+        },
+        {
+          "chord": "D",
+          "col": 29
+        },
+        {
+          "chord": "A",
+          "col": 43
+        },
+        {
+          "chord": "E",
+          "col": 55
+        },
+        {
+          "chord": "A",
+          "col": 67
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dalgalara kapılmış küreksiz dümensiz bir sal gibiyim sensiz",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 13
+        },
+        {
+          "chord": "Bm",
+          "col": 24
+        },
+        {
+          "chord": "D",
+          "col": 37
+        },
+        {
+          "chord": "A",
+          "col": 53
+        },
+        {
+          "chord": "E",
+          "col": 65
+        },
+        {
+          "chord": "A",
+          "col": 77
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dinle sevdiceğim gözbebeğim tatlı dillim",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 20
+        },
+        {
+          "chord": "Am",
+          "col": 41
+        },
+        {
+          "chord": "F",
+          "col": 55
+        },
+        {
+          "chord": "E",
+          "col": 58
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bu belki de sana son seslenişim",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 13
+        },
+        {
+          "chord": "Am",
+          "col": 25
+        },
+        {
+          "chord": "F",
+          "col": 40
+        },
+        {
+          "chord": "E",
+          "col": 43
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Al al beni tut elimden al yanına",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "E7",
+          "col": 7
+        },
+        {
+          "chord": "Am",
+          "col": 26
+        },
+        {
+          "chord": "F",
+          "col": 38
+        },
+        {
+          "chord": "E",
+          "col": 41
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sar sar beni sar beni acılarla sar",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "E7",
+          "col": 13
+        },
+        {
+          "chord": "Am",
+          "col": 24
+        },
+        {
+          "chord": "F",
+          "col": 34
+        },
+        {
+          "chord": "E",
+          "col": 37
+        },
+        {
+          "chord": "A",
+          "col": 43
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 2
+        },
+        {
+          "chord": "A",
+          "col": 5
+        },
+        {
+          "chord": "E",
+          "col": 7
+        },
+        {
+          "chord": "A",
+          "col": 9
+        },
+        {
+          "chord": "E",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Çok uzaktan gelen bir ses sanki senden haber gibi bana",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 15
+        },
+        {
+          "chord": "Bm",
+          "col": 26
+        },
+        {
+          "chord": "D",
+          "col": 35
+        },
+        {
+          "chord": "A",
+          "col": 55
+        },
+        {
+          "chord": "E",
+          "col": 70
+        },
+        {
+          "chord": "A",
+          "col": 76
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Akşam vakti dönen kuşlar sanki benden cevap gibi sana",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 15
+        },
+        {
+          "chord": "Bm",
+          "col": 26
+        },
+        {
+          "chord": "D",
+          "col": 35
+        },
+        {
+          "chord": "A",
+          "col": 55
+        },
+        {
+          "chord": "E",
+          "col": 70
+        },
+        {
+          "chord": "A",
+          "col": 77
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dinle sevdiceğim gözbebeğim tatlı dillim",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 20
+        },
+        {
+          "chord": "Am",
+          "col": 41
+        },
+        {
+          "chord": "F",
+          "col": 55
+        },
+        {
+          "chord": "E",
+          "col": 58
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bu belki de sana son seslenişim",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 13
+        },
+        {
+          "chord": "Am",
+          "col": 25
+        },
+        {
+          "chord": "F",
+          "col": 40
+        },
+        {
+          "chord": "E",
+          "col": 43
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Al al beni tut elimden al yanına",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "E7",
+          "col": 7
+        },
+        {
+          "chord": "Am",
+          "col": 26
+        },
+        {
+          "chord": "F",
+          "col": 38
+        },
+        {
+          "chord": "E",
+          "col": 41
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sar sar beni sar beni acılarla sar",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "E7",
+          "col": 13
+        },
+        {
+          "chord": "Am",
+          "col": 24
+        },
+        {
+          "chord": "F",
+          "col": 34
+        },
+        {
+          "chord": "E",
+          "col": 37
+        },
+        {
+          "chord": "A",
+          "col": 43
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

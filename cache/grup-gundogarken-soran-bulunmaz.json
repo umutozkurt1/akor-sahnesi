@@ -1,0 +1,232 @@
+{
+  "slug": "grup-gundogarken-soran-bulunmaz",
+  "artist": "Grup Gündoğarken",
+  "title": "Soran Bulunmaz",
+  "key": "E",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Sabah buradaysak, akşam oradayız.",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "B7",
+          "col": 31
+        },
+        {
+          "chord": "Em",
+          "col": 52
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Günlerin peşinde canım, bir hovardayız.",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 18
+        },
+        {
+          "chord": "F#dim",
+          "col": 37
+        },
+        {
+          "chord": "B7",
+          "col": 45
+        },
+        {
+          "chord": "Em",
+          "col": 50
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bazı mısra gibi dudaklardayız.",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "B7",
+          "col": 19
+        },
+        {
+          "chord": "Am",
+          "col": 23
+        },
+        {
+          "chord": "B7",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bazı kimsin diye canım, soran bulunmaz.",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 17
+        },
+        {
+          "chord": "F#dim",
+          "col": 35
+        },
+        {
+          "chord": "B7",
+          "col": 42
+        },
+        {
+          "chord": "Em",
+          "col": 47
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ne saray, ne hamam, ne han isteriz.",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "B7",
+          "col": 35
+        },
+        {
+          "chord": "Em",
+          "col": 51
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Nerede gün batarsa canım, orada yatarız.",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 22
+        },
+        {
+          "chord": "F#dim",
+          "col": 42
+        },
+        {
+          "chord": "B7",
+          "col": 50
+        },
+        {
+          "chord": "Em",
+          "col": 53
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bazı altımızda kuş tüyü döşek,",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "B7",
+          "col": 17
+        },
+        {
+          "chord": "Am",
+          "col": 21
+        },
+        {
+          "chord": "B7",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bazı örtünecek canım, yorgan bulunmaz.",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 17
+        },
+        {
+          "chord": "F#dim",
+          "col": 34
+        },
+        {
+          "chord": "B7",
+          "col": 42
+        },
+        {
+          "chord": "Em",
+          "col": 47
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bazı kimsin diye canım, soran bulunmaz.",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 17
+        },
+        {
+          "chord": "F#dim",
+          "col": 35
+        },
+        {
+          "chord": "B7",
+          "col": 42
+        },
+        {
+          "chord": "Em",
+          "col": 47
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

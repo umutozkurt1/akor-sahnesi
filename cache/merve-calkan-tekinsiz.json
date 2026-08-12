@@ -1,0 +1,266 @@
+{
+  "slug": "merve-calkan-tekinsiz",
+  "artist": "Merve Çalkan",
+  "title": "Tekinsiz",
+  "key": "E",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "İntro :",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 3
+        },
+        {
+          "chord": "Dm",
+          "col": 6
+        },
+        {
+          "chord": "Em",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Tekinsiz bir ay",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Geceyi dudağında,",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dudağından ısırır",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 5
+        },
+        {
+          "chord": "Am",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Biraz falta düşer",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Son kan damlasıyla",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Putları kalbimin yıkılır",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yok kırma beni, dokun bana",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 12
+        },
+        {
+          "chord": "Dm",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ben seni seviyorum",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ah verilmeyen bir söz gibi",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 7
+        },
+        {
+          "chord": "Dm",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kendimi tutuyorum",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Aşkınla başım dönüyor ah",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bu sarhoş sersem sularda",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 5
+        },
+        {
+          "chord": "Em",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir göstersem nasıl aşık",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Fikrim kör uykularda",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Oysa ki sen  anlamıyor gibisin",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 13
+        },
+        {
+          "chord": "Em",
+          "col": 41
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Anlamıyor gibi ah ne yaman birisin",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 19
+        },
+        {
+          "chord": "Em",
+          "col": 49
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

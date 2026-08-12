@@ -1,0 +1,145 @@
+{
+  "slug": "saudade-son-dans",
+  "artist": "Saudade",
+  "title": "Son Dans",
+  "key": "C#",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Durmuş bütün saatler bizim için   sevgilim",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 50
+        },
+        {
+          "chord": "B",
+          "col": 55
+        },
+        {
+          "chord": "F#m",
+          "col": 64
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Uzaklarda      kal        dı    mutlu luk bize",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "G#m",
+          "col": 12
+        },
+        {
+          "chord": "C#m",
+          "col": 18
+        },
+        {
+          "chord": "G#m",
+          "col": 24
+        },
+        {
+          "chord": "C#m",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yıllar sonra bir an gelirsem ben aklına",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 47
+        },
+        {
+          "chord": "B",
+          "col": 54
+        },
+        {
+          "chord": "F#m",
+          "col": 60
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir tebessüm gönder rüzgarla    bana",
+      "chords": [
+        {
+          "chord": "G#m",
+          "col": 18
+        },
+        {
+          "chord": "C#m",
+          "col": 47
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "- Dün seni gördüm sevgilim",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "- Yanında başka bir adam vardı",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "- Öyle mutluydunuz ki",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "- Bana gitmek düştü",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

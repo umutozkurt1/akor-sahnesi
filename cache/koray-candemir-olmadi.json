@@ -1,0 +1,221 @@
+{
+  "slug": "koray-candemir-olmadi",
+  "artist": "Koray Candemir",
+  "title": "Olmadı",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "hiç olmadık yere çok üzdüm seni",
+      "chords": [
+        {
+          "chord": "Cm9",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 27
+        },
+        {
+          "chord": "A#sus4",
+          "col": 32
+        },
+        {
+          "chord": "A#",
+          "col": 41
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "anlamadım, anlayamadım hislerini",
+      "chords": [
+        {
+          "chord": "Cm9",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 30
+        },
+        {
+          "chord": "A#sus4",
+          "col": 35
+        },
+        {
+          "chord": "A#",
+          "col": 44
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "olmadı yapamadım",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 0
+        },
+        {
+          "chord": "Cm9",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "sevdin mi sevmedin mi",
+      "chords": [
+        {
+          "chord": "Cm9",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "hiç anlatamadın",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 5
+        },
+        {
+          "chord": "A#sus4",
+          "col": 10
+        },
+        {
+          "chord": "A#",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "herşey biterken bile hiç umursamadın",
+      "chords": [
+        {
+          "chord": "Cm9",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 17
+        },
+        {
+          "chord": "A#sus4",
+          "col": 25
+        },
+        {
+          "chord": "A#",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "olmadı yapamadın",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "olmadı yapamadın",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "sevmekse sevdim işte",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "isyan ettim olmadı",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "G#",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "herşeyi ben söyledim",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "hep bekledim olmadı",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "G#",
+          "col": 7
+        },
+        {
+          "chord": "Cm9",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

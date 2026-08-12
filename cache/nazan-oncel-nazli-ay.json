@@ -1,0 +1,224 @@
+{
+  "slug": "nazan-oncel-nazli-ay",
+  "artist": "Nazan Öncel",
+  "title": "Nazlı Ay",
+  "key": "B",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Intro",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 3
+        },
+        {
+          "chord": "Bm",
+          "col": 6
+        },
+        {
+          "chord": "Em",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 3
+        },
+        {
+          "chord": "Bm",
+          "col": 6
+        },
+        {
+          "chord": "A",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Aaaayyyy nazlı ay gelin ay",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 15
+        },
+        {
+          "chord": "G",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Git ona söyle",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Aaaah gücüme gidiyor yalnızlığım böyle",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 6
+        },
+        {
+          "chord": "G",
+          "col": 13
+        },
+        {
+          "chord": "Em",
+          "col": 21
+        },
+        {
+          "chord": "Bm",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ah bu inadından",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Az mı ağladım ben",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Aay Aay Aay nazlı ay",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 4
+        },
+        {
+          "chord": "Em",
+          "col": 8
+        },
+        {
+          "chord": "G",
+          "col": 12
+        },
+        {
+          "chord": "Em",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Git onun ülkesine",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Git onun beldesine",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Aay Aay Aay git söyle",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 4
+        },
+        {
+          "chord": "Em",
+          "col": 8
+        },
+        {
+          "chord": "G",
+          "col": 12
+        },
+        {
+          "chord": "Bm",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

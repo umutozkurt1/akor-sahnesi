@@ -1,0 +1,150 @@
+{
+  "slug": "hayrettin-ara-sira",
+  "artist": "Hayrettin",
+  "title": "Ara Sıra",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Sormuyorum inan",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yine de zaman zaman geliyor haberlerin",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 8
+        },
+        {
+          "chord": "Cm",
+          "col": 43
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Duydum için duman duman",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yok benim de senden eksik kalır yanım",
+      "chords": [
+        {
+          "chord": "Ab",
+          "col": 19
+        },
+        {
+          "chord": "Bb",
+          "col": 59
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "En çok geceleri yanıyor acıyor canım",
+      "chords": [
+        {
+          "chord": "Ab",
+          "col": 35
+        },
+        {
+          "chord": "Eb",
+          "col": 51
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ayrılığı çözdüm ama yalnızlığa bi’ kılıf uyduramadım",
+      "chords": [
+        {
+          "chord": "Ab",
+          "col": 2
+        },
+        {
+          "chord": "Fm",
+          "col": 51
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Açtığın boşluğu hiçbir şeyle dolduramadım",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 7
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ara sıra aklına düşüyor muyum",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hâlâ rüyana giriyor muyum",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sen nasılsın deme bana boşuna",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ben ne yaptığımı biliyor muyum?!",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

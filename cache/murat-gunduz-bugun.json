@@ -1,0 +1,155 @@
+{
+  "slug": "murat-gunduz-bugun",
+  "artist": "Murat Gündüz",
+  "title": "Bugün",
+  "key": "G",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Bugün yari gördüm ben",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Elinde beşaka bir el var",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bugün yari gördüm ben",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yüreğinde başka bir yürek var",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bugün yari gördüm ben",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yar gitmiş elin olmuş",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Azrail kapım dayansın",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 10
+        },
+        {
+          "chord": "Gm",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dostlarım yas tutsun",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 7
+        },
+        {
+          "chord": "A#",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ölüm haberim gelsin",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 2
+        },
+        {
+          "chord": "A#",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yar gitmiş elin olmuş",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

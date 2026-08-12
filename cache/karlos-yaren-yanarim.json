@@ -1,0 +1,216 @@
+{
+  "slug": "karlos-yaren-yanarim",
+  "artist": "Karlos & Yaren",
+  "title": "Yanarım",
+  "key": "A#",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Sen bana aklımla, başım arasındaki mesafe kadar yakınsın",
+      "chords": [
+        {
+          "chord": "A#m",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 20
+        },
+        {
+          "chord": "G#m",
+          "col": 47
+        },
+        {
+          "chord": "A#m",
+          "col": 80
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sen bana aklımla, başım arasındaki mesafe kadar da uzaksın",
+      "chords": [
+        {
+          "chord": "A#m",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 18
+        },
+        {
+          "chord": "G#m",
+          "col": 42
+        },
+        {
+          "chord": "B",
+          "col": 60
+        },
+        {
+          "chord": "A#m",
+          "col": 79
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sen bana haramsın, tövbe tutmaz, iflah olmazsın sen asla",
+      "chords": [
+        {
+          "chord": "A#m",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 18
+        },
+        {
+          "chord": "G#m",
+          "col": 29
+        },
+        {
+          "chord": "A#m",
+          "col": 69
+        },
+        {
+          "chord": "B",
+          "col": 77
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sen benim kanayan yaramsın, kabuk bağlamazsın, kanarsın, kanarım",
+      "chords": [
+        {
+          "chord": "A#m",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 35
+        },
+        {
+          "chord": "G#m",
+          "col": 49
+        },
+        {
+          "chord": "A#m",
+          "col": 78
+        },
+        {
+          "chord": "B",
+          "col": 94
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kanarım kanarım, ateşlere yürürüm yanarım",
+      "chords": [
+        {
+          "chord": "A#m",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 45
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kül olurum, savrulup, denize yağmurlara karışıp yağarım",
+      "chords": [
+        {
+          "chord": "G#m",
+          "col": 23
+        },
+        {
+          "chord": "A#m",
+          "col": 67
+        },
+        {
+          "chord": "Db",
+          "col": 76
+        },
+        {
+          "chord": "B",
+          "col": 82
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yanarım, yanarım ateşlere yürürüm yanarım",
+      "chords": [
+        {
+          "chord": "A#m",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 43
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kül olurum, savrulup denize, yağmurlara karışıp yağarım",
+      "chords": [
+        {
+          "chord": "G#m",
+          "col": 24
+        },
+        {
+          "chord": "A#m",
+          "col": 68
+        },
+        {
+          "chord": "Db",
+          "col": 77
+        },
+        {
+          "chord": "B",
+          "col": 82
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "A#m",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 5
+        },
+        {
+          "chord": "G#m",
+          "col": 8
+        },
+        {
+          "chord": "A#m",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

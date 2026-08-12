@@ -1,0 +1,171 @@
+{
+  "slug": "kardes-turkuler-denize-yakilan-turku2",
+  "artist": "Kardeş Türküler",
+  "title": "Denize Yakılan Türkü",
+  "key": "F",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Gün gelir sevda koyarsa, soluksuz seni",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "G#",
+          "col": 10
+        },
+        {
+          "chord": "A#m",
+          "col": 21
+        },
+        {
+          "chord": "D#",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gün olur yolun düşerse gurbet ellere",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "G#",
+          "col": 11
+        },
+        {
+          "chord": "A#m",
+          "col": 24
+        },
+        {
+          "chord": "D#",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Al bu dertten yüreğimi",
+      "chords": [
+        {
+          "chord": "A#m",
+          "col": 0
+        },
+        {
+          "chord": "G#",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dalgalara sal...",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ara:   Dm, F, Bb, D#",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kederin büyüyorsa kuytuluklarda",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "G#",
+          "col": 8
+        },
+        {
+          "chord": "A#m",
+          "col": 17
+        },
+        {
+          "chord": "D#",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gidecek deniz yoksa, bulamadınsa",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "G#",
+          "col": 8
+        },
+        {
+          "chord": "A#m",
+          "col": 15
+        },
+        {
+          "chord": "D#",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Al bu dertten yüreğimi",
+      "chords": [
+        {
+          "chord": "A#m",
+          "col": 0
+        },
+        {
+          "chord": "G#",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yağmurlara ser...",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

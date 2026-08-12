@@ -1,0 +1,151 @@
+{
+  "slug": "mustafa-sandal-suc-bende",
+  "artist": "Mustafa Sandal",
+  "title": "Suç Bende",
+  "key": "B",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Dur, dur bir dakika dinle ufak ufak benimle",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 23
+        },
+        {
+          "chord": "A",
+          "col": 54
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Paylas bu ani kaybetme",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Belki de yanlisim zaman zaman belki de hasretim o sevgine",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 14
+        },
+        {
+          "chord": "G",
+          "col": 43
+        },
+        {
+          "chord": "Fdim",
+          "col": 65
+        },
+        {
+          "chord": "F#m",
+          "col": 88
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Belki de dogruyum zaman zaman öylesi yalnizim ben her gece",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 15
+        },
+        {
+          "chord": "G",
+          "col": 46
+        },
+        {
+          "chord": "Fdim",
+          "col": 65
+        },
+        {
+          "chord": "F#m",
+          "col": 93
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ama suç bende sever gibiyim",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 8
+        },
+        {
+          "chord": "Dm",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gel benim ol da rahat edeyim ah",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Suç bende sever gibiyim",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gel benim ol da rahat edeyim",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Tekrar",
+      "chords": [],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

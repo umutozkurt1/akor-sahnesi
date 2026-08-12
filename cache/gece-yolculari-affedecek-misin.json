@@ -1,0 +1,168 @@
+{
+  "slug": "gece-yolculari-affedecek-misin",
+  "artist": "Gece Yolcuları",
+  "title": "Affedecek misin",
+  "key": "B",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Çok geç tanıdım seni",
+      "chords": [
+        {
+          "chord": "F#m7",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ne de çabuk kaybettim sanki",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 19
+        },
+        {
+          "chord": "F#m7",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hiç bitmeyecek bir rüyaydın zannettim",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 19
+        },
+        {
+          "chord": "Em",
+          "col": 27
+        },
+        {
+          "chord": "A",
+          "col": 46
+        },
+        {
+          "chord": "F#m7",
+          "col": 57
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Şimdi hasta bir çocuk gibi sokağa hasret",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "F#m7",
+          "col": 45
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dalarak hayallere yaşadım sanıyorum",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "F#m7",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Affedecek misin beni tekrar sevecek misin",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yoksa beni hayatından silecek misin",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 32
+        },
+        {
+          "chord": "F#m",
+          "col": 44
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ya beklerim sonsuza dek ya da biter giderim",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ölüm beni bulmadan gelecek misin",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 28
+        },
+        {
+          "chord": "F#m",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

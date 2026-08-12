@@ -1,0 +1,245 @@
+{
+  "slug": "berkay-karnaval",
+  "artist": "Berkay",
+  "title": "Karnaval",
+  "key": "D",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Şu yanından kimler geçti",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kimler koştu peşinde",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bi’ tanesi mi bile bi’ ben edemedi?",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 30
+        },
+        {
+          "chord": "Am",
+          "col": 41
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kapısını açmak için aşkın",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Soldan sağa üç harf şifre",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İş oraya gelince onu çözemedi",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 28
+        },
+        {
+          "chord": "Am",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yağdım ben üzerine yağdım",
+      "chords": [
+        {
+          "chord": "Bb",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 5
+        },
+        {
+          "chord": "C",
+          "col": 15
+        },
+        {
+          "chord": "F",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sen resmen bulutuma topraksın",
+      "chords": [
+        {
+          "chord": "Bb",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 5
+        },
+        {
+          "chord": "C",
+          "col": 15
+        },
+        {
+          "chord": "F",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Güldüm ikimizi bi’ düşündüm de",
+      "chords": [
+        {
+          "chord": "Bb",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 5
+        },
+        {
+          "chord": "C",
+          "col": 14
+        },
+        {
+          "chord": "F",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Aldım seni canını bıraktım",
+      "chords": [
+        {
+          "chord": "Bb",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 3
+        },
+        {
+          "chord": "C",
+          "col": 13
+        },
+        {
+          "chord": "F",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "O senin haylaz kalbin",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ben elime alıp okuyunca",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Büyükler için yazılmış müstehcen bir masal",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 39
+        },
+        {
+          "chord": "Am",
+          "col": 56
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İster Andersen’den ya da sen nasıl istersen",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Benim yanımda zaten en kötü gün bile karnaval",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 39
+        },
+        {
+          "chord": "Am",
+          "col": 65
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

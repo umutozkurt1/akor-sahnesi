@@ -1,0 +1,110 @@
+{
+  "slug": "tual-kasim",
+  "artist": "Tual",
+  "title": "Kasım",
+  "key": "G",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Bir teselli ver Kırılan gururuma",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir tebessüm et, Unutursun zamanla",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 9
+        },
+        {
+          "chord": "Dm",
+          "col": 46
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yine dalmışım,Aynada yüzüm ağlar",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 8
+        },
+        {
+          "chord": "Dm",
+          "col": 49
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yine dalmışım,Elimde fotoğraflar",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 8
+        },
+        {
+          "chord": "Dm",
+          "col": 46
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yine aylardan Kasım",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sanki sende kaldı bir yarım",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Her nefesim her anım Sanadır Can'ım.",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 16
+        },
+        {
+          "chord": "Dm",
+          "col": 46
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

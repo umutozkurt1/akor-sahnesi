@@ -1,0 +1,169 @@
+{
+  "slug": "turk-sanat-muzigi-avuclarimda-hala-sicakligin-var",
+  "artist": "Türk Sanat Müziği",
+  "title": "Avuçlarımda Hala Sıcaklığın Var",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Avuçlarımda  hala     sıcaklığın",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 6
+        },
+        {
+          "chord": "Am",
+          "col": 10
+        },
+        {
+          "chord": "A#",
+          "col": 16
+        },
+        {
+          "chord": "Am",
+          "col": 19
+        },
+        {
+          "chord": "Dm",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sıcaklığın",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sıcaklığın var,    inan.",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 11
+        },
+        {
+          "chord": "Gm",
+          "col": 14
+        },
+        {
+          "chord": "A#",
+          "col": 17
+        },
+        {
+          "chord": "Am",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Unuttum dese dilim; yalan.",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 11
+        },
+        {
+          "chord": "Am",
+          "col": 16
+        },
+        {
+          "chord": "Dm",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yalan.",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yalan.",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 4
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Billahi yalan,",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 4
+        },
+        {
+          "chord": "Am",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Vallahi yalan.",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 4
+        },
+        {
+          "chord": "Am",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

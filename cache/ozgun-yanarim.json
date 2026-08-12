@@ -1,0 +1,143 @@
+{
+  "slug": "ozgun-yanarim",
+  "artist": "Özgün",
+  "title": "Yanarım",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Gideli kaç yıl oldu şu yüzüm gülmez oldu",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 31
+        },
+        {
+          "chord": "Em",
+          "col": 49
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kuşlar uçtu göç etti yuvaya dönmez oldu",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 34
+        },
+        {
+          "chord": "Em",
+          "col": 51
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yarim beni severdi halimi sormaz oldu",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 19
+        },
+        {
+          "chord": "A",
+          "col": 30
+        },
+        {
+          "chord": "Bm",
+          "col": 43
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ağladım gecelerce sesimi duymaz oldu",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 19
+        },
+        {
+          "chord": "A",
+          "col": 30
+        },
+        {
+          "chord": "Bm",
+          "col": 45
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yanarım ateş olurum kendime yokuş olurum",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 7
+        },
+        {
+          "chord": "Bm",
+          "col": 23
+        },
+        {
+          "chord": "A",
+          "col": 40
+        },
+        {
+          "chord": "Bm",
+          "col": 57
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gecelerde seni ararım gündüze seni sorarım",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 11
+        },
+        {
+          "chord": "Bm",
+          "col": 27
+        },
+        {
+          "chord": "A",
+          "col": 44
+        },
+        {
+          "chord": "Bm",
+          "col": 60
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

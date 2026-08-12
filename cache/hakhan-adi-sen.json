@@ -1,0 +1,280 @@
+{
+  "slug": "hakhan-adi-sen",
+  "artist": "Hakhan",
+  "title": "Adı Sen",
+  "key": "E",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "İntro:",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "F#maj7",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 7
+        },
+        {
+          "chord": "F#maj7",
+          "col": 12
+        },
+        {
+          "chord": "A#m",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Biliyorum sen de ben gibi",
+      "chords": [
+        {
+          "chord": "A#m",
+          "col": 0
+        },
+        {
+          "chord": "F#maj7",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Geçtin aynı yollardan",
+      "chords": [
+        {
+          "chord": "D#m",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Payımıza düşeni aldık",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "F#maj7",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İkimiz de zorlu yıllardan",
+      "chords": [
+        {
+          "chord": "D#m",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Şimdi gel de tut ellerimi öyle kalalım",
+      "chords": [
+        {
+          "chord": "A#m",
+          "col": 0
+        },
+        {
+          "chord": "D#m",
+          "col": 37
+        },
+        {
+          "chord": "Fm",
+          "col": 45
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Zamanı durduralım",
+      "chords": [
+        {
+          "chord": "F#maj7",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bırakalım ne varsa kalsın aşkla yanalım",
+      "chords": [
+        {
+          "chord": "A#m",
+          "col": 0
+        },
+        {
+          "chord": "D#m",
+          "col": 39
+        },
+        {
+          "chord": "Fm",
+          "col": 47
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Beraber yaşlanalım",
+      "chords": [
+        {
+          "chord": "F#maj7",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir dilek tuttum adı sen",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "A#m",
+          "col": 10
+        },
+        {
+          "chord": "Fm",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Her hali sen nasıl sevdim seni bir bilsen",
+      "chords": [
+        {
+          "chord": "A#m",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 10
+        },
+        {
+          "chord": "D#m",
+          "col": 15
+        },
+        {
+          "chord": "Fm",
+          "col": 43
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Neyin varsa al gel ben hazırım yürümeye",
+      "chords": [
+        {
+          "chord": "A#m",
+          "col": 11
+        },
+        {
+          "chord": "D#m",
+          "col": 37
+        },
+        {
+          "chord": "Fm",
+          "col": 50
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Seninle beraber bu yolu",
+      "chords": [
+        {
+          "chord": "F#maj7",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hem hüznüne hem sevincine ortak olmaya",
+      "chords": [
+        {
+          "chord": "A#m",
+          "col": 8
+        },
+        {
+          "chord": "D#m",
+          "col": 48
+        },
+        {
+          "chord": "Fm",
+          "col": 58
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  Söz verelim ömür boyu",
+      "chords": [
+        {
+          "chord": "D#m",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

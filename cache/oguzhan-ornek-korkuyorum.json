@@ -1,0 +1,160 @@
+{
+  "slug": "oguzhan-ornek-korkuyorum",
+  "artist": "Oğuzhan Örnek",
+  "title": "Korkuyorum",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Fmaj7",
+          "col": 0
+        },
+        {
+          "chord": "Em7",
+          "col": 6
+        },
+        {
+          "chord": "Dm7",
+          "col": 10
+        },
+        {
+          "chord": "Cmaj7",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yeniden başlasak mı seninle",
+      "chords": [
+        {
+          "chord": "Am7",
+          "col": 0
+        },
+        {
+          "chord": "Fmaj7",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yoksa üzülür müyüz bu bedende",
+      "chords": [
+        {
+          "chord": "Em7",
+          "col": 18
+        },
+        {
+          "chord": "C",
+          "col": 48
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ne senle oluyor nede sensiz",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 11
+        },
+        {
+          "chord": "Dm7",
+          "col": 46
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Söz vermiştin bana en güzel yeminle",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 13
+        },
+        {
+          "chord": "Cmaj7",
+          "col": 57
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Korkuyorum ben seni yeniden sevmeye",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "Am7",
+          "col": 54
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Niyetim yok bi daha üzülmeye",
+      "chords": [
+        {
+          "chord": "Em7",
+          "col": 0
+        },
+        {
+          "chord": "Cmaj7",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Geri gelmez ki giden unutur mu hiç seven",
+      "chords": [
+        {
+          "chord": "Dm7",
+          "col": 14
+        },
+        {
+          "chord": "Fmaj7",
+          "col": 45
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sen ömrümdün benim eskiden",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 6
+        },
+        {
+          "chord": "Dm7",
+          "col": 29
+        },
+        {
+          "chord": "Am7",
+          "col": 47
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

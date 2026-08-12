@@ -1,0 +1,146 @@
+{
+  "slug": "buyulu-yelken-belki-sen-de-bilirdin",
+  "artist": "Büyülü Yelken",
+  "title": "Belki Sen De Bilirdin",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": " Sevgim dün akşam yağmur oldu,süzüldü sessizce.",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 22
+        },
+        {
+          "chord": "D",
+          "col": 30
+        },
+        {
+          "chord": "E",
+          "col": 43
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Dokunuyordum artık sevgime,hissediyordum yanımda seni",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 1
+        },
+        {
+          "chord": "E",
+          "col": 24
+        },
+        {
+          "chord": "D",
+          "col": 29
+        },
+        {
+          "chord": "E",
+          "col": 46
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Dün akşam...",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Bir,iki,üç desem yanımda bitsen gözgöze gelsek şaşırsan,)",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 1
+        },
+        {
+          "chord": "E",
+          "col": 28
+        },
+        {
+          "chord": "D",
+          "col": 52
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Anlasan aşık olduğumu                                   )",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 1
+        },
+        {
+          "chord": "A",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Anlardın neden soğuk davrandığımı sana,            )",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 1
+        },
+        {
+          "chord": "E",
+          "col": 19
+        },
+        {
+          "chord": "D",
+          "col": 23
+        },
+        {
+          "chord": "E",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Belki sen de bilirdin tek taraflı sevmenin acısını,)",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 1
+        },
+        {
+          "chord": "E",
+          "col": 24
+        },
+        {
+          "chord": "F#m",
+          "col": 46
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

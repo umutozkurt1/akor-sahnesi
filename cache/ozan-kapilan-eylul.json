@@ -1,0 +1,120 @@
+{
+  "slug": "ozan-kapilan-eylul",
+  "artist": "Ozan Kapılan",
+  "title": "Eylül",
+  "key": "B",
+  "capo": 0,
+  "rhythm": "A-A-Y-A-Y-A",
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Gündüzümde gecemde",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Her yanımda ayrı bir düşünce",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yıllardır gitmiyor",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Beynimde bu fısıltı dinmiyor",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gelmiyor gitmiyor bu nasıl evren hiç dönmüyor",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Benim etrafımda",
+      "chords": [
+        {
+          "chord": "F#",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Aylardan hangi ay",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Eylül ayı bu aşkmı aşkmı var",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dökülmüş yaprakların ahı var",
+      "chords": [
+        {
+          "chord": "F#",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

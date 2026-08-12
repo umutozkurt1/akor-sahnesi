@@ -1,0 +1,152 @@
+{
+  "slug": "grup-dus-yeterdi-bana",
+  "artist": "Grup Düş",
+  "title": "Yeterdi Bana",
+  "key": "E",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Bir defaya mahsus başbaşa kalsak",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Mehtabın altında yüzyüze dursak",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Şarkılar söylense aşklara dair",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Karanlık geceden cesaret alsak",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Şarkılar söylense aşklara dair",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Karanlık geceden cesaret alsak",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sesizce ellerimden tutsan",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sıcak nefesin yüzüme vursa",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gözlerin gözlerime baksa yeterdi bana",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 0
+        },
+        {
+          "chord": "B7",
+          "col": 9
+        },
+        {
+          "chord": "Em",
+          "col": 24
+        },
+        {
+          "chord": "Em7",
+          "col": 30
+        },
+        {
+          "chord": "E",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

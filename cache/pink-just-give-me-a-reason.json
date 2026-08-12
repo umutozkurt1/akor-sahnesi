@@ -1,0 +1,933 @@
+{
+  "slug": "pink-just-give-me-a-reason",
+  "artist": "Pink",
+  "title": "Just Give Me A Reason",
+  "key": "D#",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 4
+        },
+        {
+          "chord": "A#",
+          "col": 7
+        },
+        {
+          "chord": "D#",
+          "col": 11
+        },
+        {
+          "chord": "G#",
+          "col": 15
+        },
+        {
+          "chord": "D#",
+          "col": 19
+        },
+        {
+          "chord": "A#",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Right from the start",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You were a thief you stole my heart",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 11
+        },
+        {
+          "chord": "Cm",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And I your willing victim",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 4
+        },
+        {
+          "chord": "D#",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I let you see the parts of me that weren t all that pretty",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 0
+        },
+        {
+          "chord": "G#",
+          "col": 36
+        },
+        {
+          "chord": "Cm",
+          "col": 59
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And with every touch you fixed them",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 9
+        },
+        {
+          "chord": "D#",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Now you ve been talking in your sleep  oh oh",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 4
+        },
+        {
+          "chord": "F",
+          "col": 24
+        },
+        {
+          "chord": "A#",
+          "col": 34
+        },
+        {
+          "chord": "D#",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Things you never say to me  oh oh",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 17
+        },
+        {
+          "chord": "A#",
+          "col": 24
+        },
+        {
+          "chord": "D#",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Tell me that you ve had enough",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 20
+        },
+        {
+          "chord": "A#",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Of our love  our love",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 0
+        },
+        {
+          "chord": "G#",
+          "col": 8
+        },
+        {
+          "chord": "D#",
+          "col": 15
+        },
+        {
+          "chord": "A#sus",
+          "col": 20
+        },
+        {
+          "chord": "A#",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Just give me a reason just a little bit s enough",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 30
+        },
+        {
+          "chord": "D",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Just a second we re not broken just bent",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 7
+        },
+        {
+          "chord": "G#",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And we can learn to love again",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "It s in the stars  It s been written in the scars on our hearts",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 30
+        },
+        {
+          "chord": "D",
+          "col": 34
+        },
+        {
+          "chord": "Cm",
+          "col": 59
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "We re not broken just bent",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And we can learn to love again",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 11
+        },
+        {
+          "chord": "D#",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Im sorry I don t understand where all of this is coming from",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 3
+        },
+        {
+          "chord": "G#",
+          "col": 35
+        },
+        {
+          "chord": "Cm",
+          "col": 51
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I thought that we were fine",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 2
+        },
+        {
+          "chord": "D#",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "(Oh we had everything)",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Your head is running wild again  my dear we still have everything",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 5
+        },
+        {
+          "chord": "G#",
+          "col": 37
+        },
+        {
+          "chord": "Cm",
+          "col": 56
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And its all in your mind",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 4
+        },
+        {
+          "chord": "D#",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "(Yeah but this is happening)",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You ve been having real bad dreams  Oh oh",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 19
+        },
+        {
+          "chord": "A#",
+          "col": 28
+        },
+        {
+          "chord": "D#",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You used to lie so close to me  Oh oh",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 4
+        },
+        {
+          "chord": "F",
+          "col": 19
+        },
+        {
+          "chord": "A#",
+          "col": 28
+        },
+        {
+          "chord": "D#",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "There s nothing more than empty sheets",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 8
+        },
+        {
+          "chord": "F",
+          "col": 26
+        },
+        {
+          "chord": "A#",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Between out love  our love  oh our love  our love",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 2
+        },
+        {
+          "chord": "G#",
+          "col": 13
+        },
+        {
+          "chord": "D#",
+          "col": 20
+        },
+        {
+          "chord": "D#",
+          "col": 25
+        },
+        {
+          "chord": "D",
+          "col": 29
+        },
+        {
+          "chord": "G#",
+          "col": 39
+        },
+        {
+          "chord": "D#",
+          "col": 46
+        },
+        {
+          "chord": "A#",
+          "col": 51
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Just give me a reason just a little bit s enough",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 30
+        },
+        {
+          "chord": "D",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Just a second we re not broken just bent",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 7
+        },
+        {
+          "chord": "G#",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And we can learn to love again",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I never stopped  you re still written in the scars on my heart",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 31
+        },
+        {
+          "chord": "D",
+          "col": 35
+        },
+        {
+          "chord": "Cm",
+          "col": 61
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You re not broken just bent",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And we can learn to love again",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 11
+        },
+        {
+          "chord": "Cm",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Oh tears ducts and rust",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 19
+        },
+        {
+          "chord": "D",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I ll fix it for us",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "We re collecting dust but our love s enough",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You re holding it in  You re pouring a drink",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 18
+        },
+        {
+          "chord": "D",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "No nothing is as bad as it seems",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 18
+        },
+        {
+          "chord": "A#sus",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "We ll come clean",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Just give me a reason",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Just a little bit s enough",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Just a second we re not broken just bent",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And we can learn to love again",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "It s in the stars",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "It s been written in the scars on our hearts",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "We re not broken just bent",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And we can learn to love again...",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Just give me a reason just a little bit s enough",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 30
+        },
+        {
+          "chord": "D",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Just a second we re not broken just bent",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 7
+        },
+        {
+          "chord": "G#",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And we can learn to love again",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "It s in the stars  It s been written in the scars on our hearts",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 30
+        },
+        {
+          "chord": "D",
+          "col": 34
+        },
+        {
+          "chord": "Cm",
+          "col": 59
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "We re not broken just bent",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And we can learn to love again",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 11
+        },
+        {
+          "chord": "D#",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "ohhh we can learn to love again",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 4
+        },
+        {
+          "chord": "D",
+          "col": 8
+        },
+        {
+          "chord": "Cm",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "ohhhhh we can learn to love again",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 6
+        },
+        {
+          "chord": "A#",
+          "col": 15
+        },
+        {
+          "chord": "D#",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "    ohh",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 4
+        },
+        {
+          "chord": "Cm",
+          "col": 7
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "That we re not broken just bent and we can learn to love again",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "G#",
+          "col": 28
+        },
+        {
+          "chord": "A#",
+          "col": 44
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 4
+        },
+        {
+          "chord": "A#",
+          "col": 7
+        },
+        {
+          "chord": "D#",
+          "col": 11
+        },
+        {
+          "chord": "G#",
+          "col": 15
+        },
+        {
+          "chord": "D#",
+          "col": 19
+        },
+        {
+          "chord": "A#",
+          "col": 23
+        },
+        {
+          "chord": "D#",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

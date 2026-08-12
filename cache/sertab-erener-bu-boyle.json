@@ -1,0 +1,189 @@
+{
+  "slug": "sertab-erener-bu-boyle",
+  "artist": "Sertab Erener",
+  "title": "Bu Böyle",
+  "key": "F#",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "O zor günler solan güller eskidendi geçti",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 3
+        },
+        {
+          "chord": "C#m",
+          "col": 48
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "O zaman aşık olduğum rüzgarlar esti esti geçti",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 19
+        },
+        {
+          "chord": "D",
+          "col": 64
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Aşk seni bulabilir de uzakta durabilir de",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 20
+        },
+        {
+          "chord": "C#m",
+          "col": 52
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Samimi oluyor derken mesafe koyabilir de",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 22
+        },
+        {
+          "chord": "D",
+          "col": 63
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bu böyle vurabilir de ilgisiz durabilir de",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 21
+        },
+        {
+          "chord": "C#m",
+          "col": 46
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Onu sana katıyor derken tuzaklar kurabilir de, bu böyle",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 24
+        },
+        {
+          "chord": "D",
+          "col": 65
+        },
+        {
+          "chord": "F#m",
+          "col": 86
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Başa döner",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Geriye sadece yarım yarım sevgiler",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 16
+        },
+        {
+          "chord": "C#m",
+          "col": 49
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yüzüme inceden uzun uzun çizgiler",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 17
+        },
+        {
+          "chord": "Bm",
+          "col": 48
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Öznesi kalan süresi kısalan cümleler",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 15
+        },
+        {
+          "chord": "Bm",
+          "col": 24
+        },
+        {
+          "chord": "C#m",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yalan dolan birkaç resim kaldı",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 9
+        },
+        {
+          "chord": "C#m",
+          "col": 20
+        },
+        {
+          "chord": "Bm",
+          "col": 27
+        },
+        {
+          "chord": "C#m",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

@@ -1,0 +1,125 @@
+{
+  "slug": "zakkum-kursunlar",
+  "artist": "Zakkum",
+  "title": "Kurşunlar",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Hiç bilmesen de",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bu senin şarkın",
+      "chords": [
+        {
+          "chord": "C#",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Üzemez beni kimse,",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Tüm hakları sende kullandım",
+      "chords": [
+        {
+          "chord": "C#",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kırdığım kalplerin hepsini sana saydım",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bütün yalanlarımı senin hanene yazdım",
+      "chords": [
+        {
+          "chord": "C#",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Tüm silahlarımı seninleyken kuşandım",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kurşunların üstüne senin adını yazdım",
+      "chords": [
+        {
+          "chord": "C#",
+          "col": 0
+        },
+        {
+          "chord": "A#m",
+          "col": 14
+        },
+        {
+          "chord": "C#",
+          "col": 19
+        },
+        {
+          "chord": "D#",
+          "col": 25
+        },
+        {
+          "chord": "C#",
+          "col": 29
+        },
+        {
+          "chord": "Cm",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

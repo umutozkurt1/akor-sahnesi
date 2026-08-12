@@ -1,0 +1,737 @@
+{
+  "slug": "haloo-helsinki-pulp-fiction",
+  "artist": "Haloo Helsinki!",
+  "title": "Pulp Fiction",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Mä astun baariin sisään,",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "ei missään juuri ketään",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "ja kävelen suoraan jukeboksin luo",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Laitoin biisin soimaan,",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "sä ilmestyit sanoen ''Hymy mulle suo''",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 3
+        },
+        {
+          "chord": "F",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Chuck Berry alkoi tunnelmoimaan,",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "mä sanoin sulle ''Moi vaan''",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "ja hain vesilasin",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 2
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kun mä tulin takaisin",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 7
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "sä olit jo tosi sekaisin",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 3
+        },
+        {
+          "chord": "F",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Mut sit mä hiffasin sen,",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "oot ollu samanlainen syntymästä asti",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Nielaisit sävelen,",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "otit mun kämmenen",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "ja veit mua niin taitavasti",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 3
+        },
+        {
+          "chord": "G",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Tanssi mun kanssa,",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "tanssi tiukemmin",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Niin kuin Pulp Fictionissa,",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "mutta hurjemmin",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Mä oon Uma sä oot John,",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "tää liike on levoton, mutta olkoon",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Tanssin sun kanssa,",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "vielä seuraavan",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Niin kuin Greasessa",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "mut sitten katoan",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Mä oon Olivia sä oot John,",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "tää elämä on levoton, mutta olkoon",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 3
+        },
+        {
+          "chord": "G",
+          "col": 5
+        },
+        {
+          "chord": "Em",
+          "col": 7
+        },
+        {
+          "chord": "F",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Siihen alkoi jengii kerääntyy,",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 7
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "mä mietin pitäsköhän perääntyy",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "mut ympyrä sulkeutui",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 4
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Keskellä vaan me kaks",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "ja meidän jalat geeteessä ui",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 3
+        },
+        {
+          "chord": "F",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sit teit jotain radikaalii,",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "otit taskusta uuvee maalii",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "ja rupesit ilmaa fistaamaan",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 3
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Mä nostin oikeen käden",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "ja sitten vasemman",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "ja lanne alkoi twistaamaan",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 3
+        },
+        {
+          "chord": "G",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Tanssi mun kanssa,",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "tanssi tiukemmin",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Niin kuin Pulp Fictionissa,",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "mutta hurjemmin",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Mä oon Uma sä oot John,",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "tää liike on levoton, mutta olkoon",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Tanssin sun kanssa,",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "vielä seuraavan",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Niin kuin Greasessa",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "mut sitten katoan",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Mä oon Olivia sä oot John,",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "tää elämä on levoton, mutta olkoon",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 4
+        },
+        {
+          "chord": "C",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 4
+        },
+        {
+          "chord": "C",
+          "col": 8
+        },
+        {
+          "chord": "D",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Tanssi mun kanssa,",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "tanssi tiukemmin",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Niin kuin Pulp Fictionissa,",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "mutta hurjemmin",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Mä oon Uma sä oot John,",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "tää liike on levoton, mutta olkoon",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Tanssin sun kanssa,",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "vielä seuraavan",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Niin kuin Greasessa",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "mut sitten katoan",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Mä oon Olivia sä oot John,",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "tää elämä on levoton, mutta olkoon",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

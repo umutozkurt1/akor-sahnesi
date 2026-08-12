@@ -1,0 +1,739 @@
+{
+  "slug": "santana-game-of-love",
+  "artist": "Santana",
+  "title": "Game Of Love",
+  "key": "G",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "[VERSG 1:]",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Tell me just what you want me to be",
+      "chords": [
+        {
+          "chord": "Gm7",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 10
+        },
+        {
+          "chord": "Gm7",
+          "col": 23
+        },
+        {
+          "chord": "F",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "One kiss and boom you're the only one for me",
+      "chords": [
+        {
+          "chord": "Gm7",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 11
+        },
+        {
+          "chord": "Gm7",
+          "col": 30
+        },
+        {
+          "chord": "F",
+          "col": 44
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "So please tell me wh--y don't you come around no more",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "Gm7",
+          "col": 18
+        },
+        {
+          "chord": "F",
+          "col": 24
+        },
+        {
+          "chord": "A#",
+          "col": 41
+        },
+        {
+          "chord": "C",
+          "col": 55
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Cause right now I'm cry--ing outside the door of your candy store",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "Gm7",
+          "col": 21
+        },
+        {
+          "chord": "F",
+          "col": 27
+        },
+        {
+          "chord": "A#",
+          "col": 34
+        },
+        {
+          "chord": "C",
+          "col": 56
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "[Nak.:]",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "It just takes a little bit of this",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "Gm7",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "A little bit of that",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "It started with a kiss",
+      "chords": [
+        {
+          "chord": "Gm7",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Now we're up to bat",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "A little bit of laughs",
+      "chords": [
+        {
+          "chord": "Gm7",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "A little bit of pain",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'm telling you, my babe",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "It's all in the game of love",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "Gm7",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "[VERSG 2:]",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "This, whatever you make it to be",
+      "chords": [
+        {
+          "chord": "Gm7",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 7
+        },
+        {
+          "chord": "Gm7",
+          "col": 19
+        },
+        {
+          "chord": "F",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sunshine set on this cold lonely sea",
+      "chords": [
+        {
+          "chord": "Gm7",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 9
+        },
+        {
+          "chord": "Gm7",
+          "col": 21
+        },
+        {
+          "chord": "F",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "So please baby tr--y and use me for what I'm good for",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "Gm7",
+          "col": 15
+        },
+        {
+          "chord": "F",
+          "col": 20
+        },
+        {
+          "chord": "A#",
+          "col": 36
+        },
+        {
+          "chord": "C",
+          "col": 54
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "It ain't sayin' goodb--ye that's knocking down the door of your candy store",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "Gm7",
+          "col": 20
+        },
+        {
+          "chord": "F",
+          "col": 25
+        },
+        {
+          "chord": "A#",
+          "col": 43
+        },
+        {
+          "chord": "C",
+          "col": 66
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "[Nak.:]",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "It just takes a little bit of this",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "Gm7",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "A little bit of that",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "It started with a kiss",
+      "chords": [
+        {
+          "chord": "Gm7",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Now we're up to bat",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "A little bit of laughs",
+      "chords": [
+        {
+          "chord": "Gm7",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "A little bit of pain",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'm telling you, my babe",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "It's all in the game of love",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "Gm7",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "It's all in this game of love",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 6
+        },
+        {
+          "chord": "A#",
+          "col": 26
+        },
+        {
+          "chord": "C",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You roll me",
+      "chords": [
+        {
+          "chord": "Gm7",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Control me",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Console me",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Please hold me",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You guide me",
+      "chords": [
+        {
+          "chord": "Gm7",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Divide me",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Into what...",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 13
+        },
+        {
+          "chord": "C",
+          "col": 15
+        },
+        {
+          "chord": "C",
+          "col": 17
+        },
+        {
+          "chord": "C",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gm7 F A# [A](REPEAT :  )",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "[GİTAR SOLO]",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Make me feel good, yeah",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "Gm7",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gm7 F A# [A](Tekrar :  )",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "So please tell me wh--y don't you come around no more",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "Gm7",
+          "col": 18
+        },
+        {
+          "chord": "F",
+          "col": 23
+        },
+        {
+          "chord": "A#",
+          "col": 40
+        },
+        {
+          "chord": "C",
+          "col": 55
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Cause right now I'm dy-ing outside the door of your loving store",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "Gm7",
+          "col": 20
+        },
+        {
+          "chord": "F",
+          "col": 25
+        },
+        {
+          "chord": "A#",
+          "col": 31
+        },
+        {
+          "chord": "C",
+          "col": 54
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "[Nak. Tekrar:]",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "It's all in the game of love",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "Gm7",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "It's all in this game of love",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 6
+        },
+        {
+          "chord": "A#",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "It's all in this game of love",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "Gm7",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yeah, in the game of lo--ve",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 22
+        },
+        {
+          "chord": "C",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Roll me",
+      "chords": [
+        {
+          "chord": "Gm7",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Control me",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Please hold me (make me feel good, yeah)",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 18
+        },
+        {
+          "chord": "Gm7",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

@@ -1,0 +1,714 @@
+{
+  "slug": "bon-jovi-never-say-goodbye",
+  "artist": "Bon Jovi",
+  "title": "Never Say Goodbye",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Intro :",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "C#m7",
+          "col": 2
+        },
+        {
+          "chord": "D",
+          "col": 7
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " As I sit in this smokey room",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "    The night about to end",
+      "chords": [
+        {
+          "chord": "C#m7",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " I pass my time with strangers",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But this bottle's my only friend",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Remember when we used to park",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "On    Butler Street out in the dark",
+      "chords": [
+        {
+          "chord": "C#m7",
+          "col": 2
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Remember when we lost the keys",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And you lost more than that in my backseat baby",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 3
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Remember how we used to talk",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "About    busting out, we'd break their hearts",
+      "chords": [
+        {
+          "chord": "C#m7",
+          "col": 5
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Together, forever",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 2
+        },
+        {
+          "chord": "D",
+          "col": 4
+        },
+        {
+          "chord": "G",
+          "col": 12
+        },
+        {
+          "chord": "D",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Never say goodbye, never say goodbye",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 6
+        },
+        {
+          "chord": "C#m7",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You and me and my old friends",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hoping it would never end",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Say goodbye, never say goodbye",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "C#m7",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Holdin' on, we got to try",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Holdin' on to never say goodbye",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "C#m7",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 5
+        },
+        {
+          "chord": "Dm",
+          "col": 7
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Remember days of skipping school",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Racing cars and being cool",
+      "chords": [
+        {
+          "chord": "C#m7",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "With a six pack and the radio",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 7
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "We didn't need no place to go",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 2
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Remember at the prom that night",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You and me we had a fight",
+      "chords": [
+        {
+          "chord": "C#m7",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But the band they played our favorite song",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And I held you in my arms so strong",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 5
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "We danced so close",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 3
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "We danced so slow",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And I swore    I'd never let you go",
+      "chords": [
+        {
+          "chord": "C#m7",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Together, forever",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 2
+        },
+        {
+          "chord": "D",
+          "col": 4
+        },
+        {
+          "chord": "G",
+          "col": 12
+        },
+        {
+          "chord": "D",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Never say goodbye, never say goodbye",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 6
+        },
+        {
+          "chord": "C#m7",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You and me and my old friends",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hoping it would never end",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Say goodbye, never say goodbye",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "C#m7",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Holdin' on, we got to try",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Holdin' on to never say goodbye",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 23
+        },
+        {
+          "chord": "C#m7",
+          "col": 31
+        },
+        {
+          "chord": "D",
+          "col": 36
+        },
+        {
+          "chord": "F",
+          "col": 38
+        },
+        {
+          "chord": "G",
+          "col": 40
+        },
+        {
+          "chord": "A",
+          "col": 42
+        },
+        {
+          "chord": "C#m7",
+          "col": 44
+        },
+        {
+          "chord": "D",
+          "col": 49
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 2
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And I guess you'd say we used to talk",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 6
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "About busting out",
+      "chords": [
+        {
+          "chord": "C#m7",
+          "col": 6
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "We'd break their hearts",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Together, forever",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 2
+        },
+        {
+          "chord": "D",
+          "col": 4
+        },
+        {
+          "chord": "G",
+          "col": 12
+        },
+        {
+          "chord": "D",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Never say goodbye, never say goodbye",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 6
+        },
+        {
+          "chord": "C#m7",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You and me and my old friends",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hoping it would never end",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Say goodbye, never say goodbye",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "C#m7",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Holdin' on, we got to try",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Holdin' on to never say goodbye",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "C#m7",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 5
+        },
+        {
+          "chord": "Dm",
+          "col": 7
+        },
+        {
+          "chord": "A",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "C#m7",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 5
+        },
+        {
+          "chord": "Dm",
+          "col": 7
+        },
+        {
+          "chord": "A",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

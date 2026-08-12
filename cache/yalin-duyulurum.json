@@ -1,0 +1,135 @@
+{
+  "slug": "yalin-duyulurum",
+  "artist": "Yalın",
+  "title": "Duyulurum",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Çalar saat çalıp kaçmış çalmıyor artık",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sessizliğin bir telaşmış koymuyor artık",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Düğüm düğüm şu hayatım beğendiğim masallarım var",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 23
+        },
+        {
+          "chord": "E",
+          "col": 46
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Parça parça rüyalarım yarım kalmış hayallerim var",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 24
+        },
+        {
+          "chord": "E",
+          "col": 47
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Benim aslım bu kadarmış",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Duyulurum sussam daha çok duyulurum",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gitsem bile ben her güzel şeyin yerine konulurum",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 16
+        },
+        {
+          "chord": "E",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Duyulurum sussam daha çok duyulurum",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sesim kaf dağının ardından bile gelse kalbine dokunurum",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 18
+        },
+        {
+          "chord": "E",
+          "col": 34
+        },
+        {
+          "chord": "Am",
+          "col": 52
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

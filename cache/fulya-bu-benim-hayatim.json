@@ -1,0 +1,157 @@
+{
+  "slug": "fulya-bu-benim-hayatim",
+  "artist": "Fulya",
+  "title": "Bu Benim Hayatım",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Dikenli yollarda yürüyorum, düşmekten usanmıyorum",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 52
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Göze gelmiş yarınlarım var ama isyan etmiyorum",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 11
+        },
+        {
+          "chord": "Gm",
+          "col": 51
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yine kendi bildiğimi okuyorum, korkmuyorum gelse sonum",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 60
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bile bile arkasında durmam, ah zor durum",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 7
+        },
+        {
+          "chord": "Gm",
+          "col": 46
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Aşkımdan yere göğe sığdıramadığım, toz konduramadığım sen",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 18
+        },
+        {
+          "chord": "Gm",
+          "col": 68
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Mutluluğa aşka tövbe mi ettin, beni sırtımdan vururken",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 49
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Çıktığım yolun yarısında kaldım, anladım ki sen bana yalandın",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 48
+        },
+        {
+          "chord": "G#",
+          "col": 73
+        },
+        {
+          "chord": "Fm",
+          "col": 88
+        },
+        {
+          "chord": "Gm",
+          "col": 95
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gelsen de gelmesen de farketmez, bu benim hayatım",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 20
+        },
+        {
+          "chord": "A#",
+          "col": 49
+        },
+        {
+          "chord": "G#",
+          "col": 58
+        },
+        {
+          "chord": "Fm",
+          "col": 75
+        },
+        {
+          "chord": "Gm",
+          "col": 82
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

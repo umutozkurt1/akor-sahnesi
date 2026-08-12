@@ -1,0 +1,150 @@
+{
+  "slug": "yeninur-ada-eftelya",
+  "artist": "Yeninur Ada",
+  "title": "Eftelya",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Bir el uzanır bana, sınırların ardında",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Büyümeli sevdamız, kardeşlik toprağında",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Eb",
+          "col": 15
+        },
+        {
+          "chord": "Bbm",
+          "col": 19
+        },
+        {
+          "chord": "Cm",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ver elini ver bana Eftelya, uzansın elimiz Eftelya",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 19
+        },
+        {
+          "chord": "Cm",
+          "col": 28
+        },
+        {
+          "chord": "Db",
+          "col": 43
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Benim divane gönlüm, hep seni ister Eftelya",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 10
+        },
+        {
+          "chord": "Bbm",
+          "col": 21
+        },
+        {
+          "chord": "Cm",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Aynı topraktan geldik, biz bize benzeriz",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sevdalıklar dururken, neden kavga ederiz",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Eb",
+          "col": 17
+        },
+        {
+          "chord": "Bbm",
+          "col": 22
+        },
+        {
+          "chord": "Cm",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ver elini ver bana Eftelya...",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

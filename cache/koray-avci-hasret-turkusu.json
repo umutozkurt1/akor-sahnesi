@@ -1,0 +1,248 @@
+{
+  "slug": "koray-avci-hasret-turkusu",
+  "artist": "Koray Avcı",
+  "title": "Hasret Türküsü",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Uzundur bu yollar, giderim gözüm kara",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 7
+        },
+        {
+          "chord": "G",
+          "col": 22
+        },
+        {
+          "chord": "Am",
+          "col": 35
+        },
+        {
+          "chord": "G",
+          "col": 55
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sanma ki dönmem sana, beni bekle seni ben alam",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 13
+        },
+        {
+          "chord": "Am",
+          "col": 31
+        },
+        {
+          "chord": "G",
+          "col": 49
+        },
+        {
+          "chord": "Em",
+          "col": 55
+        },
+        {
+          "chord": "Am",
+          "col": 68
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ola ki vurulmuşum, senden beterim yalnız",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 8
+        },
+        {
+          "chord": "G",
+          "col": 23
+        },
+        {
+          "chord": "Am",
+          "col": 42
+        },
+        {
+          "chord": "G",
+          "col": 62
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kurulmuşum dağ başına, nöbetteyim sevdalı",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 14
+        },
+        {
+          "chord": "Am",
+          "col": 32
+        },
+        {
+          "chord": "G",
+          "col": 50
+        },
+        {
+          "chord": "Em",
+          "col": 56
+        },
+        {
+          "chord": "Am",
+          "col": 62
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yaralıdır canı yüreğim, hasretinle erir giderim",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 29
+        },
+        {
+          "chord": "Am",
+          "col": 46
+        },
+        {
+          "chord": "G",
+          "col": 60
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Seni nasıl unutsun bedenim, gözüm dalar gariplenirim",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 10
+        },
+        {
+          "chord": "Am",
+          "col": 24
+        },
+        {
+          "chord": "G",
+          "col": 58
+        },
+        {
+          "chord": "Am",
+          "col": 76
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 4
+        },
+        {
+          "chord": "Am",
+          "col": 7
+        },
+        {
+          "chord": "G",
+          "col": 11
+        },
+        {
+          "chord": "Dm",
+          "col": 14
+        },
+        {
+          "chord": "Am",
+          "col": 18
+        },
+        {
+          "chord": "G",
+          "col": 22
+        },
+        {
+          "chord": "Am",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Vurulmuşum besbelli, dolanmışım yar beline",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 10
+        },
+        {
+          "chord": "G",
+          "col": 31
+        },
+        {
+          "chord": "Am",
+          "col": 45
+        },
+        {
+          "chord": "G",
+          "col": 66
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir türkü tutturmuşum, ağlamaklı hasrete",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 13
+        },
+        {
+          "chord": "Am",
+          "col": 25
+        },
+        {
+          "chord": "G",
+          "col": 47
+        },
+        {
+          "chord": "Em",
+          "col": 51
+        },
+        {
+          "chord": "Am",
+          "col": 57
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

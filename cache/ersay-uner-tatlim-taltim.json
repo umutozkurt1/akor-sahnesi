@@ -1,0 +1,152 @@
+{
+  "slug": "ersay-uner-tatlim-taltim",
+  "artist": "Ersay Üner",
+  "title": "Tatlım Tatlım",
+  "key": "D",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 4
+        },
+        {
+          "chord": "Dm",
+          "col": 8
+        },
+        {
+          "chord": "Em",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bitti sanırım zor toplanırız bu defa",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 43
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Belki iyi gelecektir ikimize bu veda",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 43
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Oysa ne hayaller kuruldu aşkla, kaç fırtına duruldu",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Her şey bir anda unutuldu mu, bu mu",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ah tatlım tatlım tatlım",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 5
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bak ne yaptın, yırtıp attın sayfa sayfa",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 14
+        },
+        {
+          "chord": "Am",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dağıttın yetmedi yaktın",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Haybeden bir gerçek üstü aşktın",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 22
+        },
+        {
+          "chord": "Em",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

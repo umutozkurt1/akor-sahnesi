@@ -1,0 +1,151 @@
+{
+  "slug": "murat-boz-geri-donus-olsa",
+  "artist": "Murat Boz",
+  "title": "Geri Dönüş Olsa",
+  "key": "Db",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Bak bize, gerek yok söze",
+      "chords": [
+        {
+          "chord": "Bbm",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Her bakış yüzünde, ayrılık kokuyor",
+      "chords": [
+        {
+          "chord": "Bbm",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 33
+        },
+        {
+          "chord": "Ab",
+          "col": 44
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kalbinde bir çölde aşk yangın da sönmüyor",
+      "chords": [
+        {
+          "chord": "Gb",
+          "col": 0
+        },
+        {
+          "chord": "Ebm",
+          "col": 29
+        },
+        {
+          "chord": "Ab",
+          "col": 62
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ardında korkular sinmiyor",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 24
+        },
+        {
+          "chord": "Gb",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yaşlardan bir gölde aşk ömründen süzülmüyor",
+      "chords": [
+        {
+          "chord": "Ebm",
+          "col": 33
+        },
+        {
+          "chord": "Ab",
+          "col": 71
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İçinde dinmiyor",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Geri dönüş olsa kalp sana geri dönmez mi",
+      "chords": [
+        {
+          "chord": "Gb",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gidilen o yolda kaderi de yenmez mi",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gerçeği aşksa bir bakışa değmez mi",
+      "chords": [
+        {
+          "chord": "Gb",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yalanı da olsa yazısını silmez mi",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

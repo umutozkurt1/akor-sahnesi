@@ -1,0 +1,170 @@
+{
+  "slug": "emre-aydin-donersen",
+  "artist": "Emre Aydın",
+  "title": "Dönersen",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 4
+        },
+        {
+          "chord": "Fm",
+          "col": 7
+        },
+        {
+          "chord": "G#",
+          "col": 11
+        },
+        {
+          "chord": "A#",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Üç ayaklı sandalyem,daha fazla dayanmaz",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Susarsan kırılır gider",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Aslında çok zor değil,gerçekler çelimsiz",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İstersen yeniden",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kalbim kırık,kapılar açık,.......aynı şarkıyı söylüyorum",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 9
+        },
+        {
+          "chord": "Fm",
+          "col": 22
+        },
+        {
+          "chord": "Fsus",
+          "col": 26
+        },
+        {
+          "chord": "G#",
+          "col": 32
+        },
+        {
+          "chord": "A#",
+          "col": 40
+        },
+        {
+          "chord": "Cm",
+          "col": 52
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yolum ince yolum uzun,.......yalnızlığımda yürüyorum",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 8
+        },
+        {
+          "chord": "Fm",
+          "col": 18
+        },
+        {
+          "chord": "Fsus",
+          "col": 22
+        },
+        {
+          "chord": "G#",
+          "col": 28
+        },
+        {
+          "chord": "A#",
+          "col": 39
+        },
+        {
+          "chord": "Cm",
+          "col": 48
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

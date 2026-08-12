@@ -1,0 +1,290 @@
+{
+  "slug": "nickel-back-hero",
+  "artist": "Nickel Back",
+  "title": "Hero",
+  "key": "E",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "I am so high i can here heavean",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "E2",
+          "col": 5
+        },
+        {
+          "chord": "Em",
+          "col": 14
+        },
+        {
+          "chord": "E2",
+          "col": 22
+        },
+        {
+          "chord": "C",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I am so high I can hear heaven",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "E2",
+          "col": 5
+        },
+        {
+          "chord": "Em",
+          "col": 14
+        },
+        {
+          "chord": "E2",
+          "col": 22
+        },
+        {
+          "chord": "C",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But heaven no heaven dont hear me",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 12
+        },
+        {
+          "chord": "C",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "CHorus",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "And they say that a hero could save us",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Im not gonna stand here and wait",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ill hold on to the wings of the eagles",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "watch as we all fly away",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "verse two",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "someone told me love will not save us",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "E2",
+          "col": 3
+        },
+        {
+          "chord": "Em",
+          "col": 15
+        },
+        {
+          "chord": "E2",
+          "col": 23
+        },
+        {
+          "chord": "C",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "how can that be look what love gave us",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "E2",
+          "col": 4
+        },
+        {
+          "chord": "Em",
+          "col": 15
+        },
+        {
+          "chord": "E2",
+          "col": 24
+        },
+        {
+          "chord": "C",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I world full of killing and blood spilling",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "that world wont end",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "now that the world isnt ending",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "its love that Im sending to you",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "It isnt the love of a hero",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "and thats why I fear it wont do",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

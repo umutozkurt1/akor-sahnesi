@@ -1,0 +1,253 @@
+{
+  "slug": "ferhat-gocer-ruya",
+  "artist": "Ferhat Göçer",
+  "title": "Rüya",
+  "key": "G",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Yollara gömülürken adımlarım",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Beyhude çığlıklarım",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ateşimden yanarken sokaklar dökesim yoktu bir damla su",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 59
+        },
+        {
+          "chord": "Am",
+          "col": 93
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ki koşmam diyordum ben bundan böyle",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 4
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Maceralar peşinde",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İnan artık aşktan hiç bahsetmek de içimden gelmiyordu",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 61
+        },
+        {
+          "chord": "C",
+          "col": 73
+        },
+        {
+          "chord": "Bm",
+          "col": 86
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ta ki sen gelene dek",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 4
+        },
+        {
+          "chord": "Em",
+          "col": 6
+        },
+        {
+          "chord": "Bm",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İster yansın ister sönsün umrumda mı dünya",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 2
+        },
+        {
+          "chord": "D",
+          "col": 12
+        },
+        {
+          "chord": "C",
+          "col": 19
+        },
+        {
+          "chord": "Bm",
+          "col": 30
+        },
+        {
+          "chord": "Am",
+          "col": 52
+        },
+        {
+          "chord": "D",
+          "col": 61
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İster dursun ister dönsün seni buldum ya",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 2
+        },
+        {
+          "chord": "Bm",
+          "col": 14
+        },
+        {
+          "chord": "Am",
+          "col": 20
+        },
+        {
+          "chord": "Bm",
+          "col": 29
+        },
+        {
+          "chord": "Am",
+          "col": 42
+        },
+        {
+          "chord": "Bm",
+          "col": 52
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Umudumun yoldaşım ol",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 2
+        },
+        {
+          "chord": "D",
+          "col": 10
+        },
+        {
+          "chord": "C",
+          "col": 23
+        },
+        {
+          "chord": "Bm",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Razıyım her acıya",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 15
+        },
+        {
+          "chord": "D",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gel benimle kal bir ömür, sürsün bu rüya",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 10
+        },
+        {
+          "chord": "Am",
+          "col": 17
+        },
+        {
+          "chord": "G",
+          "col": 25
+        },
+        {
+          "chord": "Am",
+          "col": 35
+        },
+        {
+          "chord": "Bm",
+          "col": 53
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

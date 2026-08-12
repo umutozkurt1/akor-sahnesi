@@ -1,0 +1,757 @@
+{
+  "slug": "ansizin-bi-infilak-alice-harikalar-diyarinda",
+  "artist": "Ansızın Bi' İnfilak",
+  "title": "Alice Harikalar Diyarında",
+  "key": "D",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Intro",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "Bb",
+          "col": 5
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "A7",
+          "col": 5
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Verse 1",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bilmem neden? Herkes deli!",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "Bb",
+          "col": 3
+        },
+        {
+          "chord": "Dm",
+          "col": 6
+        },
+        {
+          "chord": "Bb",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Belki de burdan gitmeli..",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "Bb",
+          "col": 3
+        },
+        {
+          "chord": "Gm",
+          "col": 7
+        },
+        {
+          "chord": "A7",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hangi yolu Seçmem gerek?",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "Bb",
+          "col": 3
+        },
+        {
+          "chord": "Dm",
+          "col": 6
+        },
+        {
+          "chord": "Bb",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Doğrusu tavşanı izlemek..",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "Bb",
+          "col": 3
+        },
+        {
+          "chord": "Gm",
+          "col": 7
+        },
+        {
+          "chord": "A7",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Pre Chorus",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Alice Harikalar Diyarında",
+      "chords": [
+        {
+          "chord": "Fmaj",
+          "col": 0
+        },
+        {
+          "chord": "Fmaj",
+          "col": 5
+        },
+        {
+          "chord": "E",
+          "col": 10
+        },
+        {
+          "chord": "A7",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Alice Harikalar Diyarında..",
+      "chords": [
+        {
+          "chord": "Fmaj",
+          "col": 0
+        },
+        {
+          "chord": "Fmaj",
+          "col": 5
+        },
+        {
+          "chord": "E",
+          "col": 10
+        },
+        {
+          "chord": "A7",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Chorus",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "Koştum, baktım girdim delikten,",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "Bbmaj",
+          "col": 4
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Buralar başka bir alem,",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "Bbmaj",
+          "col": 4
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Enteresan renksiz bir dünya,",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "Bbmaj",
+          "col": 4
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "sanki senle ben.",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "A7",
+          "col": 6
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kaçmış herkes bir yerden,",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "Bbmaj",
+          "col": 4
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Onlar çılgın hafiften,",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "Bbmaj",
+          "col": 4
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sadece senle ben varmışız gibi",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "Bbmaj",
+          "col": 4
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "davransak yeter.",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "A7",
+          "col": 7
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gitar Solo",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "Bb",
+          "col": 5
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "A7",
+          "col": 5
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Verse 2",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bilmem neden ?  Geldik geri",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "Bb",
+          "col": 3
+        },
+        {
+          "chord": "Dm",
+          "col": 6
+        },
+        {
+          "chord": "Bb",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Belki de böylesi daha iyi..",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "Bb",
+          "col": 3
+        },
+        {
+          "chord": "Gm",
+          "col": 7
+        },
+        {
+          "chord": "A7",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hangi yolu Seçmem gerek?",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "Bb",
+          "col": 3
+        },
+        {
+          "chord": "Dm",
+          "col": 6
+        },
+        {
+          "chord": "Bb",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Doğrusu kendini dinlemek.",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "Bb",
+          "col": 3
+        },
+        {
+          "chord": "Gm",
+          "col": 7
+        },
+        {
+          "chord": "A7",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Pre Chorus",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Alice Harikalar Diyarında",
+      "chords": [
+        {
+          "chord": "Fmaj",
+          "col": 0
+        },
+        {
+          "chord": "Fmaj",
+          "col": 5
+        },
+        {
+          "chord": "E",
+          "col": 10
+        },
+        {
+          "chord": "A7",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Alice Harikalar Diyarında..",
+      "chords": [
+        {
+          "chord": "Fmaj",
+          "col": 0
+        },
+        {
+          "chord": "Fmaj",
+          "col": 5
+        },
+        {
+          "chord": "E",
+          "col": 10
+        },
+        {
+          "chord": "A7",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Chorus",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "Koştum, baktım girdim delikten,",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "Bbmaj",
+          "col": 4
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Buralar başka bir alem,",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "Bbmaj",
+          "col": 4
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Enteresan renksiz bir dünya,",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "Bbmaj",
+          "col": 4
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "sanki senle ben.",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "A7",
+          "col": 6
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kaçmış herkes bir yerden,",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "Bbmaj",
+          "col": 4
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Onlar çılgın hafiften,",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "Bbmaj",
+          "col": 4
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sadece senle ben varmışız gibi",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "Bbmaj",
+          "col": 4
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "davransak yeter.",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "A7",
+          "col": 7
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bridge",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "Bbmaj",
+          "col": 4
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "A7",
+          "col": 7
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Klavye Solo",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "Bbmaj",
+          "col": 4
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "A7",
+          "col": 7
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "Bbmaj",
+          "col": 4
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "A7",
+          "col": 7
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Chorus",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "Son",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gm  - A7 x 4",
+      "chords": [],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

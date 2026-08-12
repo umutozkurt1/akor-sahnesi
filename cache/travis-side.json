@@ -1,0 +1,788 @@
+{
+  "slug": "travis-side",
+  "artist": "Travis",
+  "title": "Side",
+  "key": "D",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "TRAVİS SİDC",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Intro & Outro for Guitar 1°:",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "With capo in the 3°.",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Just repeat this some more times:",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You need to find the rhythm of this.",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "D#m",
+          "col": 7
+        },
+        {
+          "chord": "A#5",
+          "col": 11
+        },
+        {
+          "chord": "D#",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "G---0-0-0-0-0-0-0----0-0-0-0-0-0-0---",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "D---0-0-0-0-0-0-0----0-0-0-0-0-0-0---",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bb---0-0-0-0-0-0-0----0-0-0-0-0-0-0---",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "F---3-5-5-3-3-3-5----3-5-5-3-3-3-5---",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "C---3-3-3-3-3-3-3----3-3-3-3-3-3-3---",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "G---0-0-0-0-0-0-0----0-0-0-0-0-0-0---",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "G-------------------------------------------------------------------",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "D----8-5-3-5---8-5-3-5-----8-5-3-5---8-5-3-5-----8-5-3-5---8-5-3-5--",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bb---4---------4-----------4---------4-----------4---------4---------",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "F-------------------------------------------------------------------",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "C-------------------------------------------------------------------",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "G-------------------------------------------------------------------",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "G-----------------------",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "D----8-5-3-5---8-5-3-5--",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bb---4---------4---------",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "F-----------------------",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "C-----------------------",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "G-----------------------",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Verse:",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "Well I believe there's someone watching over you",
+      "chords": [
+        {
+          "chord": "D#m",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "They're watching every single thing you say",
+      "chords": [
+        {
+          "chord": "C#",
+          "col": 7
+        },
+        {
+          "chord": "D#m",
+          "col": 41
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And when you die they'll sit you down and take you through",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 48
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You'll realise one day",
+      "chords": [
+        {
+          "chord": "C#",
+          "col": 7
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "-=-=-=-",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "That the grass is always greener on the other side",
+      "chords": [
+        {
+          "chord": "Gb",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "    C#F",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "The neighbour's got a new car that you want to drive",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And the time is running out",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You wanna stay alive",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "We all live under the same sky",
+      "chords": [
+        {
+          "chord": "C#",
+          "col": 3
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "We all will live we all will die",
+      "chords": [
+        {
+          "chord": "Gb",
+          "col": 3
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "There is no wrong there is no right",
+      "chords": [
+        {
+          "chord": "C#",
+          "col": 3
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "The circle only has one side...side...side",
+      "chords": [
+        {
+          "chord": "Gb",
+          "col": 3
+        },
+        {
+          "chord": "D#m",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Intro both guitars X 2.",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Verse II:",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "-=-=-=-=-",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "We all try to live our lives in harmony",
+      "chords": [
+        {
+          "chord": "D#m",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "For fear of falling swiftly overboard",
+      "chords": [
+        {
+          "chord": "C#",
+          "col": 4
+        },
+        {
+          "chord": "D#m",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But life is both a major and a minor key",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Just open up the chord",
+      "chords": [
+        {
+          "chord": "C#",
+          "col": 4
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "-=-=-=-",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "That the grass is always greener on the other side",
+      "chords": [
+        {
+          "chord": "Gb",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "    C#F",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "The neighbour's got a new car that you want to drive",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And the time is running out",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You wanna stay alive",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "We all live under the same sky",
+      "chords": [
+        {
+          "chord": "C#",
+          "col": 3
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "We all will live we all will die",
+      "chords": [
+        {
+          "chord": "Gb",
+          "col": 3
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "There is no wrong there is no right",
+      "chords": [
+        {
+          "chord": "C#",
+          "col": 3
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "The circle only has one side...side...side",
+      "chords": [
+        {
+          "chord": "Gb",
+          "col": 3
+        },
+        {
+          "chord": "D#m",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bridge:",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "-=-=-=-",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "G-------------------------------------------------------------------",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "D----8-5-3-5---8-5-3-5-----8-5-3-5---8-5-3-5-----8-5-3-5---8-5-3-5--",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bb---4---------4-----------4---------4-----------4---------4---------",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "F-------------------------------------------------------------------",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "C-------------------------------------------------------------------",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "G-------------------------------------------------------------------",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "G------------------------",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "D----8-5-3-5---8-5-3-5---",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bb---4---------4----------",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "F------------------------",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "C------------------------",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "G------------------------",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Solo at [2:01]:",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "D#-----------------------------------------------------------------------",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "A#--- 12-10-8-7-5-1----12-10-8-7-5-1-----12-10-8-7-5-1----12-10-8-7-5-1--",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gb--9--9--9-9----0---9--9--9-9----0----9--9--9-9----0-- -9--9--9-9---0-",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "C#-----------------------------------------------------------------------",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "G#-----------------------------------------------------------------------",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "D# ----------------------------------------------------------------------",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Solo ending chord: B",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "-=-=-=-",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "That the grass is always greener on the other side",
+      "chords": [
+        {
+          "chord": "Gb",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "    C#F",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "The neighbour's got a new car that you want to drive",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And the time is running out",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You wanna stay alive",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "We all live under the same sky",
+      "chords": [
+        {
+          "chord": "C#",
+          "col": 3
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "We all will live we all will die",
+      "chords": [
+        {
+          "chord": "Gb",
+          "col": 3
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "There is no wrong there is no right",
+      "chords": [
+        {
+          "chord": "C#",
+          "col": 3
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "That the grass is always greener on the other side",
+      "chords": [
+        {
+          "chord": "Gb",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "    C#F",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "The neighbour's got a new car that you want to drive",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And the time is running out",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You wanna stay alive",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "We all live under the same sky",
+      "chords": [
+        {
+          "chord": "C#",
+          "col": 3
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "We all will live we all will die",
+      "chords": [
+        {
+          "chord": "Gb",
+          "col": 3
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "There is no wrong there is no right",
+      "chords": [
+        {
+          "chord": "C#",
+          "col": 3
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   Gb                      Gm(intro both guitars)",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "The circle only has one side...side...side...side",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Outro: Like intro both guitars.",
+      "chords": [],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

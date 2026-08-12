@@ -1,0 +1,604 @@
+{
+  "slug": "faber-drive-when-im-with-you",
+  "artist": "Faber Drive",
+  "title": "When I'm With You",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Saw you walk in to the room",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "Am7",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Thought i'd try to talk to you",
+      "chords": [
+        {
+          "chord": "Gsus4",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Babe, am i ever glad you wanted me to",
+      "chords": [
+        {
+          "chord": "Fadd9",
+          "col": 10
+        },
+        {
+          "chord": "C",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Its been two years to the day",
+      "chords": [
+        {
+          "chord": "Am7",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "half the time I've been away",
+      "chords": [
+        {
+          "chord": "Gsus4",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I know I'm not there enough",
+      "chords": [
+        {
+          "chord": "Fadd9",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "but that's gonna change",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "cause I'm coming back",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "to show you that",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'm keeping the promise that i made",
+      "chords": [
+        {
+          "chord": "Fadd9",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "When i'm with you",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'll make every second count",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "cause i miss you, whenever you're not around",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 7
+        },
+        {
+          "chord": "Fadd9",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "when i kiss you",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 6
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "i still get butterflies",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 1
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "years from now,",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'll make every second count",
+      "chords": [
+        {
+          "chord": "Fadd9",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "when I'm with you",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "(na na na na na nananananana) (na na na na na nananananana)",
+      "chords": [
+        {
+          "chord": "Gsus4",
+          "col": 0
+        },
+        {
+          "chord": "Am7",
+          "col": 6
+        },
+        {
+          "chord": "Fadd9",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "yeah we've had our ups and downs",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "Am7",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "but we've always worked them out",
+      "chords": [
+        {
+          "chord": "Gsus4",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "babe am i ever glad we got this far now",
+      "chords": [
+        {
+          "chord": "Fadd9",
+          "col": 9
+        },
+        {
+          "chord": "C",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "still i'm lying here tonight",
+      "chords": [
+        {
+          "chord": "Am7",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "wishing i was by your side",
+      "chords": [
+        {
+          "chord": "Gsus4",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "cause when i'm not there enough",
+      "chords": [
+        {
+          "chord": "Fadd9",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "nothing feels right",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "so i'm coming back to show you that",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'll love you the rest of my life",
+      "chords": [
+        {
+          "chord": "Fadd9",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "When i'm with you",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'll make every second count",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "cause i miss you, whenever you're not around",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 7
+        },
+        {
+          "chord": "F",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "when i kiss you",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 6
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "i still get butterflies",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 1
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "years from now,",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'll make every second count",
+      "chords": [
+        {
+          "chord": "Fadd9",
+          "col": 9
+        },
+        {
+          "chord": "Fadd9",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "When i'm with you",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 8
+        },
+        {
+          "chord": "G",
+          "col": 11
+        },
+        {
+          "chord": "F",
+          "col": 13
+        },
+        {
+          "chord": "C",
+          "col": 15
+        },
+        {
+          "chord": "Am",
+          "col": 17
+        },
+        {
+          "chord": "G",
+          "col": 20
+        },
+        {
+          "chord": "F",
+          "col": 22
+        },
+        {
+          "chord": "C",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "whatever it takes",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "im not gonna break the promise i made",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 16
+        },
+        {
+          "chord": "A#",
+          "col": 21
+        },
+        {
+          "chord": "F",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "When i'm with you",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'll make every second count",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "cause i miss you, whenever you're not around",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 7
+        },
+        {
+          "chord": "F",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "when i kiss you",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 6
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "i still get butterflies",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 1
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "years from now,",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'll make every second count",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 9
+        },
+        {
+          "chord": "F",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "when i'm with you",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 8
+        },
+        {
+          "chord": "G",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

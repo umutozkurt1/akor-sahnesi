@@ -1,0 +1,151 @@
+{
+  "slug": "halit-nart-sen-ya-da-hic",
+  "artist": "Halit Nart",
+  "title": "Sen Ya Da Hiç",
+  "key": "D#",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Kırgınım yorgunum hasretim sana gel",
+      "chords": [
+        {
+          "chord": "D#m",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 10
+        },
+        {
+          "chord": "C#m",
+          "col": 18
+        },
+        {
+          "chord": "D#m",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dargınım küskünüm ah bu hasret yeter",
+      "chords": [
+        {
+          "chord": "D#m",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 10
+        },
+        {
+          "chord": "C#m",
+          "col": 18
+        },
+        {
+          "chord": "E",
+          "col": 25
+        },
+        {
+          "chord": "D#m",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yalnızım beklerim asırlar geçsede",
+      "chords": [
+        {
+          "chord": "D#m",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 10
+        },
+        {
+          "chord": "C#m",
+          "col": 18
+        },
+        {
+          "chord": "D#m",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yılmadan usanmadan seni arar gözlerim",
+      "chords": [
+        {
+          "chord": "D#m",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 11
+        },
+        {
+          "chord": "C#m",
+          "col": 19
+        },
+        {
+          "chord": "E",
+          "col": 26
+        },
+        {
+          "chord": "D#m",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ölüm sen yada hiç gülüm sen yada hiç",
+      "chords": [
+        {
+          "chord": "D#m",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 15
+        },
+        {
+          "chord": "F#",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ah ya gel ya da git ya sev ya da sil bu özlem yeter",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 16
+        },
+        {
+          "chord": "C#m",
+          "col": 32
+        },
+        {
+          "chord": "D#m",
+          "col": 48
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

@@ -1,0 +1,277 @@
+{
+  "slug": "leyla-the-band-ask-bitti",
+  "artist": "Leyla The Band",
+  "title": "Aşk Bitti",
+  "key": "C",
+  "capo": 0,
+  "rhythm": "A-A-Y-Y-A-Y",
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "ORJİNAL TONU: B",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Korkma benden, gidiyorum",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "G#m",
+          "col": 16
+        },
+        {
+          "chord": "F#m",
+          "col": 26
+        },
+        {
+          "chord": "G",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sen uyurken, ölüyorum",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "G#m",
+          "col": 5
+        },
+        {
+          "chord": "F#m",
+          "col": 18
+        },
+        {
+          "chord": "G",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yakın değilsin, göremezsin",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "G#m",
+          "col": 8
+        },
+        {
+          "chord": "F#m",
+          "col": 20
+        },
+        {
+          "chord": "G",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Masum değilsin, ağlayamazsın",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "G#m",
+          "col": 12
+        },
+        {
+          "chord": "F#m",
+          "col": 24
+        },
+        {
+          "chord": "G",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Oyun değil ki, dönemem biliyorum",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "G#m",
+          "col": 12
+        },
+        {
+          "chord": "A#",
+          "col": 18
+        },
+        {
+          "chord": "Cm",
+          "col": 44
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Pişman değilim, sonunu görüyorum",
+      "chords": [
+        {
+          "chord": "G#m",
+          "col": 17
+        },
+        {
+          "chord": "A#",
+          "col": 23
+        },
+        {
+          "chord": "Cm",
+          "col": 49
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Paramparça bir taş, yerini arıyorum",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "G#",
+          "col": 12
+        },
+        {
+          "chord": "A#",
+          "col": 28
+        },
+        {
+          "chord": "Cm",
+          "col": 47
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Karanlıkta düşerse, kaybolur biliyorum",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "G#",
+          "col": 10
+        },
+        {
+          "chord": "A#",
+          "col": 30
+        },
+        {
+          "chord": "Cm",
+          "col": 52
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kaybolsun, dert değil, kaybolsun, taş benim",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 10
+        },
+        {
+          "chord": "Gm",
+          "col": 17
+        },
+        {
+          "chord": "G#",
+          "col": 23
+        },
+        {
+          "chord": "Fm",
+          "col": 28
+        },
+        {
+          "chord": "A#",
+          "col": 38
+        },
+        {
+          "chord": "Gm",
+          "col": 43
+        },
+        {
+          "chord": "G#",
+          "col": 49
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kaybolsun, toprak olsun, kaybolsun, aşk bitti",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 11
+        },
+        {
+          "chord": "Gm",
+          "col": 16
+        },
+        {
+          "chord": "G#",
+          "col": 27
+        },
+        {
+          "chord": "Fm",
+          "col": 34
+        },
+        {
+          "chord": "A#",
+          "col": 43
+        },
+        {
+          "chord": "Gm",
+          "col": 49
+        },
+        {
+          "chord": "G#",
+          "col": 56
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

@@ -1,0 +1,181 @@
+{
+  "slug": "orhan-olmez-bana-birak",
+  "artist": "Orhan Ölmez",
+  "title": "Bana Bırak",
+  "key": "B",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Bana bırak sevdayı giderken sadece",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 10
+        },
+        {
+          "chord": "G",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bana bırak acısını hallederim içimde",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 10
+        },
+        {
+          "chord": "G",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ben senden önce de yaşıyordum, senden sonra da yaşarım",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 19
+        },
+        {
+          "chord": "A",
+          "col": 49
+        },
+        {
+          "chord": "F#m",
+          "col": 73
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hiç düşünme tüm dünyayla, tek başıma savaşırım",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 24
+        },
+        {
+          "chord": "Em",
+          "col": 48
+        },
+        {
+          "chord": "F#m",
+          "col": 66
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ben zaten hep savaşıyorum, senden sonra da savaşırım",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 15
+        },
+        {
+          "chord": "A",
+          "col": 46
+        },
+        {
+          "chord": "F#m",
+          "col": 76
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hiç düşünme hayatımla elbet bir gün uzlaşırım",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 24
+        },
+        {
+          "chord": "Em",
+          "col": 40
+        },
+        {
+          "chord": "F#m",
+          "col": 59
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bana bırak söndürürüm içimdeki yangınını",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 11
+        },
+        {
+          "chord": "F#m",
+          "col": 30
+        },
+        {
+          "chord": "G",
+          "col": 46
+        },
+        {
+          "chord": "A",
+          "col": 60
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bana bırak ben hallederim aşkımın acısını",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 12
+        },
+        {
+          "chord": "A",
+          "col": 38
+        },
+        {
+          "chord": "G",
+          "col": 50
+        },
+        {
+          "chord": "F#m",
+          "col": 62
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

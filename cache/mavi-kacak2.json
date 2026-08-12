@@ -1,0 +1,587 @@
+{
+  "slug": "mavi-kacak2",
+  "artist": "Mavi",
+  "title": "Kaçak",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Intro:",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 4
+        },
+        {
+          "chord": "Dm",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 4
+        },
+        {
+          "chord": "Dm",
+          "col": 9
+        },
+        {
+          "chord": "Am",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Geri dönme artık",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 5
+        },
+        {
+          "chord": "Em",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Oldum başka biri",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 2
+        },
+        {
+          "chord": "F",
+          "col": 9
+        },
+        {
+          "chord": "Em",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Zor oldu başardım",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 2
+        },
+        {
+          "chord": "F",
+          "col": 7
+        },
+        {
+          "chord": "Em",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sildim izlerini",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 4
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İs-yan boşuna",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 5
+        },
+        {
+          "chord": "Em",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Küssem kaç yazar",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 3
+        },
+        {
+          "chord": "F",
+          "col": 8
+        },
+        {
+          "chord": "Em",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "En mutlu günümde",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 3
+        },
+        {
+          "chord": "F",
+          "col": 8
+        },
+        {
+          "chord": "Em",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bitiyormuş azar azar",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 4
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Anladım artık ellerin benden uzak",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 2
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sen hep kaçaktın gözlerin bana tuzak",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 1
+        },
+        {
+          "chord": "Dm",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Anladım artık yerin dolmayacak",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 2
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sakın çıkarma hatırandır bu bıçak",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 1
+        },
+        {
+          "chord": "Dm",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kötü şeyler söyledim yalandan biraz da",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 2
+        },
+        {
+          "chord": "Em",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kimseler duymasın nasıl aşığım hala",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 3
+        },
+        {
+          "chord": "Em",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Nefesim tükendi yaşlandım üç ayda",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 2
+        },
+        {
+          "chord": "Em",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Git yollar senin bizi ne olur unutma",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 1
+        },
+        {
+          "chord": "Em",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Nolur unutma",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gün kalmadı",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 5
+        },
+        {
+          "chord": "Em",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Geceyi avutacak",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 7
+        },
+        {
+          "chord": "Em",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yalanlar tükendi",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 6
+        },
+        {
+          "chord": "Em",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kalbimi yatıştıracak",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 4
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gözümün feri",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 5
+        },
+        {
+          "chord": "Em",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Günden güne sönüyor",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 2
+        },
+        {
+          "chord": "F",
+          "col": 9
+        },
+        {
+          "chord": "Em",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sessizce ölüyorum",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 3
+        },
+        {
+          "chord": "F",
+          "col": 8
+        },
+        {
+          "chord": "Em",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hiç kimse görmüyor",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 4
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Anladım artık ellerin benden uzak",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 2
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sen hep kaçaktın gözlerin bana tuzak",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 1
+        },
+        {
+          "chord": "Dm",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Anladım artık yerin dolmayacak",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 2
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sakın çıkarma hatırandır bu bıçak",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 1
+        },
+        {
+          "chord": "Dm",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kötü şeyler söyledim yalandan biraz da",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 2
+        },
+        {
+          "chord": "Em",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kimseler duymasın nasıl aşığım hala",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 3
+        },
+        {
+          "chord": "Em",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Nefesim tükendi yaşlandım üç ayda",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 2
+        },
+        {
+          "chord": "Em",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Git yollar senin bizi ne olur unutma",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 1
+        },
+        {
+          "chord": "Em",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Nolur unutma",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

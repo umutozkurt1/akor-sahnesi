@@ -1,0 +1,968 @@
+{
+  "slug": "carly-rae-jepsen-call-me-maybe",
+  "artist": "Carly Rae Jepsen",
+  "title": "Call Me Maybe",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "I threw a wish in the well",
+      "chords": [
+        {
+          "chord": "Fadd9",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Don't ask me, I'll never tell",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I looked at you as it fell",
+      "chords": [
+        {
+          "chord": "Am7",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And now you're in my way",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "Gsus4",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'd trade my soul for a wish",
+      "chords": [
+        {
+          "chord": "Fadd9",
+          "col": 1
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Pennies and dimes for a kiss",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I wasn't looking for this",
+      "chords": [
+        {
+          "chord": "Am7",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But now you're in my way",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "Gsus4",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Your stare was holding, ripped jeans - skin was showin'",
+      "chords": [
+        {
+          "chord": "Fadd9",
+          "col": 1
+        },
+        {
+          "chord": "C",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hot night, wind was blowin'",
+      "chords": [
+        {
+          "chord": "Am7",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Where you think you're going, baby?",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "Gsus4",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hey I just met you and this is crazy",
+      "chords": [
+        {
+          "chord": "Fadd9",
+          "col": 1
+        },
+        {
+          "chord": "C",
+          "col": 10
+        },
+        {
+          "chord": "G",
+          "col": 19
+        },
+        {
+          "chord": "Gsus4",
+          "col": 41
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But here's my number - so, call me maybe?",
+      "chords": [
+        {
+          "chord": "Fadd9",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 10
+        },
+        {
+          "chord": "G",
+          "col": 32
+        },
+        {
+          "chord": "Gsus4",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "It's hard to look right at you, baby",
+      "chords": [
+        {
+          "chord": "Fadd9",
+          "col": 1
+        },
+        {
+          "chord": "C",
+          "col": 12
+        },
+        {
+          "chord": "G",
+          "col": 28
+        },
+        {
+          "chord": "Gsus4",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But here's my number - so, call me maybe?",
+      "chords": [
+        {
+          "chord": "Fadd9",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 9
+        },
+        {
+          "chord": "G",
+          "col": 29
+        },
+        {
+          "chord": "Gsus4",
+          "col": 43
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hey, I just met you and this is crazy",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But here's my number - so, call me maybe?",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And all the other boys try to chase me",
+      "chords": [
+        {
+          "chord": "Fadd9",
+          "col": 1
+        },
+        {
+          "chord": "C",
+          "col": 12
+        },
+        {
+          "chord": "G",
+          "col": 26
+        },
+        {
+          "chord": "Gsus4",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But here's my number - so, call me maybe?",
+      "chords": [
+        {
+          "chord": "Fadd9",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 12
+        },
+        {
+          "chord": "G",
+          "col": 32
+        },
+        {
+          "chord": "Gsus4",
+          "col": 41
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You took your time with the call",
+      "chords": [
+        {
+          "chord": "Fadd9",
+          "col": 1
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I took no time with the fall",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You gave me nothing at all",
+      "chords": [
+        {
+          "chord": "Am7",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But still you're in my way",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "Gsus4",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I beg and borrow and steal",
+      "chords": [
+        {
+          "chord": "Fadd9",
+          "col": 1
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Have foresight and it's real",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I didn't know I would feel it",
+      "chords": [
+        {
+          "chord": "Am7",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But it's in my way",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "Dsus7",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Your stare was holding, ripped jeans - skin was showin'",
+      "chords": [
+        {
+          "chord": "Fadd9",
+          "col": 1
+        },
+        {
+          "chord": "C",
+          "col": 64
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hot night, wind was blowin'",
+      "chords": [
+        {
+          "chord": "Am7",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Where you think you're going, baby?",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "Gsus4",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hey I just met you and this is crazy",
+      "chords": [
+        {
+          "chord": "Fadd9",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 10
+        },
+        {
+          "chord": "G",
+          "col": 21
+        },
+        {
+          "chord": "Gsus4",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But here's my number - so, call me maybe?",
+      "chords": [
+        {
+          "chord": "Fadd9",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 9
+        },
+        {
+          "chord": "G",
+          "col": 30
+        },
+        {
+          "chord": "Gsus4",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "It's hard to look right at you, baby",
+      "chords": [
+        {
+          "chord": "Fadd9",
+          "col": 1
+        },
+        {
+          "chord": "C",
+          "col": 11
+        },
+        {
+          "chord": "G",
+          "col": 23
+        },
+        {
+          "chord": "Gsus4",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But here's my number - so, call me maybe?",
+      "chords": [
+        {
+          "chord": "Fadd9",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 8
+        },
+        {
+          "chord": "G",
+          "col": 28
+        },
+        {
+          "chord": "Gsus4",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hey, I just met you and this is crazy",
+      "chords": [
+        {
+          "chord": "Fadd9",
+          "col": 1
+        },
+        {
+          "chord": "C",
+          "col": 11
+        },
+        {
+          "chord": "G",
+          "col": 20
+        },
+        {
+          "chord": "Gsus4",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But here's my number - so, call me maybe?",
+      "chords": [
+        {
+          "chord": "Fadd9",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 11
+        },
+        {
+          "chord": "G",
+          "col": 32
+        },
+        {
+          "chord": "Gsus4",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And all the other boys try to chase me",
+      "chords": [
+        {
+          "chord": "Fadd9",
+          "col": 1
+        },
+        {
+          "chord": "C",
+          "col": 10
+        },
+        {
+          "chord": "G",
+          "col": 22
+        },
+        {
+          "chord": "Gsus4",
+          "col": 41
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But here's my number - so, call me maybe?",
+      "chords": [
+        {
+          "chord": "Fadd9",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 9
+        },
+        {
+          "chord": "G",
+          "col": 31
+        },
+        {
+          "chord": "Gsus4",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Before you came into my life",
+      "chords": [
+        {
+          "chord": "Fadd9",
+          "col": 1
+        },
+        {
+          "chord": "C",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I missed you so bad, I missed you so bad",
+      "chords": [
+        {
+          "chord": "Am7",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I missed you so, so bad",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "Gsus4",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Before you came into my life",
+      "chords": [
+        {
+          "chord": "Fadd9",
+          "col": 1
+        },
+        {
+          "chord": "C",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I missed you so bad and you should know that",
+      "chords": [
+        {
+          "chord": "Am7",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I missed you so, so bad",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "Gsus4",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Fadd9",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 6
+        },
+        {
+          "chord": "Am7",
+          "col": 8
+        },
+        {
+          "chord": "G",
+          "col": 12
+        },
+        {
+          "chord": "Gsus4",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "It's hard to look right at you, baby",
+      "chords": [
+        {
+          "chord": "Fadd9",
+          "col": 1
+        },
+        {
+          "chord": "C",
+          "col": 8
+        },
+        {
+          "chord": "G",
+          "col": 26
+        },
+        {
+          "chord": "Gsus4",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But here's my number - so, call me maybe?",
+      "chords": [
+        {
+          "chord": "Fadd9",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 9
+        },
+        {
+          "chord": "G",
+          "col": 32
+        },
+        {
+          "chord": "Gsus4",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hey, I just met you and this is crazy",
+      "chords": [
+        {
+          "chord": "Fadd9",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 8
+        },
+        {
+          "chord": "G",
+          "col": 23
+        },
+        {
+          "chord": "Gsus4",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But here's my number - so, call me maybe?",
+      "chords": [
+        {
+          "chord": "Fadd9",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 8
+        },
+        {
+          "chord": "G",
+          "col": 30
+        },
+        {
+          "chord": "Gsus4",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And all the other boys try to chase me",
+      "chords": [
+        {
+          "chord": "Fadd9",
+          "col": 1
+        },
+        {
+          "chord": "C",
+          "col": 9
+        },
+        {
+          "chord": "G",
+          "col": 32
+        },
+        {
+          "chord": "Gsus4",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But here's my number - so, call me maybe?",
+      "chords": [
+        {
+          "chord": "Fadd9",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 9
+        },
+        {
+          "chord": "G",
+          "col": 30
+        },
+        {
+          "chord": "Gsus4",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Before you came into my life",
+      "chords": [
+        {
+          "chord": "Fadd9",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I missed you so bad, I missed you so bad",
+      "chords": [
+        {
+          "chord": "Am7",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I missed you so, so bad",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "Gsus4",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Before you came into my life",
+      "chords": [
+        {
+          "chord": "Fadd9",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I missed you so bad and you should know that",
+      "chords": [
+        {
+          "chord": "Am7",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "So, call me maybe?",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "Fadd9",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

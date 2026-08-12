@@ -1,0 +1,126 @@
+{
+  "slug": "goksin-derin-depresif",
+  "artist": "Gökşin Derin",
+  "title": "Depresif",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Am                         GB           d",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ölmedim, bir yağmurdun gözlerimde dinmedin sen dinmedin hiç",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dinledim, söylerdi yıldızlar nerdesin, kimdesin.",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Gb",
+          "col": 13
+        },
+        {
+          "chord": "Db",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kaçtığımı sundu hayat bıkmışım ben de baya",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Gb",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Çok var mı? Bence az kaldı.",
+      "chords": [
+        {
+          "chord": "Db",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Depresif bu halim ondan hep kesik şu kalbim bolca",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Gb",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir şey vardı, içince patlardı.",
+      "chords": [
+        {
+          "chord": "Db",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Düşlerimde kal sen kördüğümde bu aşk hep,",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yaşlandı hislerim ve kalbim geç değildi geç.",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Gb",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

@@ -1,0 +1,216 @@
+{
+  "slug": "cesitli-bekleme",
+  "artist": "Çeşitli",
+  "title": "Bekleme",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": " Bir  fırtınaydı  savrulup gitti",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 1
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Zor gibi kor gibi yakıp da geçti",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 1
+        },
+        {
+          "chord": "Dm",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Ne karmaşaydı çözmem gerekti",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 1
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Her biri sevgiyi yıkıp da geçti",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 1
+        },
+        {
+          "chord": "C",
+          "col": 10
+        },
+        {
+          "chord": "Gm",
+          "col": 17
+        },
+        {
+          "chord": "Am",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Günleri  günlere  ekleyerek",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Sevdayı hasrete  yükleyerek",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Yolları  gözleyip  gel  diyerek",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 1
+        },
+        {
+          "chord": "Dm",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   bekleme  gelmeyeceğim",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 1
+        },
+        {
+          "chord": "Gm",
+          "col": 19
+        },
+        {
+          "chord": "Am",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Varsın  olsun  yalan  olsun",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 1
+        },
+        {
+          "chord": "Am",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Sen  aslında  biliyorsun",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 1
+        },
+        {
+          "chord": "Dm",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Varsın  olsun  yalan  olsun",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Sevdiğimi  biliyorsun",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 1
+        },
+        {
+          "chord": "Dm",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Yalanınla  yangınınla  gel yine belki de bekleyeceğim",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 1
+        },
+        {
+          "chord": "Am",
+          "col": 12
+        },
+        {
+          "chord": "Gm",
+          "col": 24
+        },
+        {
+          "chord": "C",
+          "col": 33
+        },
+        {
+          "chord": "Gm",
+          "col": 42
+        },
+        {
+          "chord": "Am",
+          "col": 51
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

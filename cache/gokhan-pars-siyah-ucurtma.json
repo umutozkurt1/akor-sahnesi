@@ -1,0 +1,124 @@
+{
+  "slug": "gokhan-pars-siyah-ucurtma",
+  "artist": "Gökhan Pars",
+  "title": "Siyah Uçurtma",
+  "key": "B",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Zaman Dursa bu son olsa yalan yoksa sakın korkma",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "Ab",
+          "col": 20
+        },
+        {
+          "chord": "Gb",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sevip durmuş kırık kalbim düşermiydi",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "Ab",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kanatlansa dilim yangın müsaadenle",
+      "chords": [
+        {
+          "chord": "Ab",
+          "col": 0
+        },
+        {
+          "chord": "Gb",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Zehir akmasa en çok kimi sevdin diye sorsan bak aynaya",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 10
+        },
+        {
+          "chord": "Gm",
+          "col": 16
+        },
+        {
+          "chord": "Ab",
+          "col": 26
+        },
+        {
+          "chord": "Gb",
+          "col": 34
+        },
+        {
+          "chord": "Fm",
+          "col": 41
+        },
+        {
+          "chord": "Gb",
+          "col": 48
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir tek seni sevdim seni yazdım o siyah uçurtmaya",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "Ab",
+          "col": 16
+        },
+        {
+          "chord": "Gb",
+          "col": 22
+        },
+        {
+          "chord": "Fm",
+          "col": 32
+        },
+        {
+          "chord": "Bm",
+          "col": 43
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

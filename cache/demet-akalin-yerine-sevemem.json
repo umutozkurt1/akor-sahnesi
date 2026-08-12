@@ -1,0 +1,154 @@
+{
+  "slug": "demet-akalin-yerine-sevemem",
+  "artist": "Demet Akalın",
+  "title": "Yerine Sevemem",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Bilmiyorum neden gitmemi istedin",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yokluğun elimde, kaldım yarım.",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yeri nerde bulun, sonu yok ki bunun.",
+      "chords": [
+        {
+          "chord": "Dmaj7",
+          "col": 0
+        },
+        {
+          "chord": "C#m",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Biliyosun istemem",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gideni durdurmak hayır",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yerini doldurmak mı nasipte kaldı",
+      "chords": [
+        {
+          "chord": "Dmaj7",
+          "col": 51
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İleri gitmek çok zor yetindim kaldım.",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 51
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Seviyorum anla şu halimi gülemem",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yerine sevemem, istediğin gibi, istedigin gibi olamam",
+      "chords": [
+        {
+          "chord": "Dmaj7",
+          "col": 47
+        },
+        {
+          "chord": "C#m",
+          "col": 78
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bırakırım sanma öylece gidemem. Dile düşüremem",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kimsenin elini, ellerin gibi tutamam, yapamam.",
+      "chords": [
+        {
+          "chord": "Dmaj7",
+          "col": 17
+        },
+        {
+          "chord": "C#m",
+          "col": 48
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

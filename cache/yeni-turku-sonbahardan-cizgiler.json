@@ -1,0 +1,184 @@
+{
+  "slug": "yeni-turku-sonbahardan-cizgiler",
+  "artist": "Yeni Türkü",
+  "title": "Sonbahardan Çizgiler",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Geldiğimizde otlar yemyeşildi",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 15
+        },
+        {
+          "chord": "C",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ve kuzeydeydi güneş",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kömür deposu boşaldı işte",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 21
+        },
+        {
+          "chord": "C",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Mamak'a sonbahar geldi",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Güneş altında tutsaklar",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 22
+        },
+        {
+          "chord": "Am",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Geçen sonbahara bakıyorlar",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 23
+        },
+        {
+          "chord": "Am",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Şirin mi şirin gecekondu evleri",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 19
+        },
+        {
+          "chord": "C",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Samsun asfaltında otomobiller",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 22
+        },
+        {
+          "chord": "C",
+          "col": 48
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ne güzeldir yollarda olmak şimdi",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 17
+        },
+        {
+          "chord": "C",
+          "col": 38
+        },
+        {
+          "chord": "G",
+          "col": 41
+        },
+        {
+          "chord": "Am",
+          "col": 51
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

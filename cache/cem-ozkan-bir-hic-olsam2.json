@@ -1,0 +1,181 @@
+{
+  "slug": "cem-ozkan-bir-hic-olsam2",
+  "artist": "Cem Özkan",
+  "title": "Bir Hiç Olsam",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "  Hep dipteydim",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  Hiç düzlük görmedim hayatta",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 13
+        },
+        {
+          "chord": "Cm",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  Elimden tutmayınca kafadan malup oldum",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 10
+        },
+        {
+          "chord": "G#",
+          "col": 23
+        },
+        {
+          "chord": "A#",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  Kimileri yaşarken insan gibi ben bakar oldum",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 13
+        },
+        {
+          "chord": "G#",
+          "col": 28
+        },
+        {
+          "chord": "A#",
+          "col": 43
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  Bir hiç olsam yine de sever miydin beni ?",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 12
+        },
+        {
+          "chord": "Cm",
+          "col": 20
+        },
+        {
+          "chord": "G",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  Hayata en baştan başlar mıydık yapabilseydik ?",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 9
+        },
+        {
+          "chord": "Cm",
+          "col": 22
+        },
+        {
+          "chord": "G",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  Bir hiç olsam yine de sever miydin beni ?",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 12
+        },
+        {
+          "chord": "Cm",
+          "col": 20
+        },
+        {
+          "chord": "G",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  Hayata en baştan başlar mıydın benimle ?",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 9
+        },
+        {
+          "chord": "Cm",
+          "col": 22
+        },
+        {
+          "chord": "G",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

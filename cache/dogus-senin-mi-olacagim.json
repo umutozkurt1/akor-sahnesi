@@ -1,0 +1,187 @@
+{
+  "slug": "dogus-senin-mi-olacagim",
+  "artist": "Doğuş",
+  "title": "Senin Mi Olacağım",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "kapo 3",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dikenli bu yollar",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "G#m",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ne huzur ne gül var",
+      "chords": [
+        {
+          "chord": "G#m",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dikenli bu yollar",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "G#m",
+          "col": 14
+        },
+        {
+          "chord": "A",
+          "col": 18
+        },
+        {
+          "chord": "G#m",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Senin mi olacağım",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sana mı kalacağım",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ne teselli verdin bana",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "G#m",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Umudumu çaldın beni benden aldın",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kendimi tanımaz oldum yalancı",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 14
+        },
+        {
+          "chord": "G#m",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sanma sana kalacağımı",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Aldanma boş yere kanma",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yerin yok ki bu dünyada",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Toprak bile kabullenmez seni",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "G#m",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

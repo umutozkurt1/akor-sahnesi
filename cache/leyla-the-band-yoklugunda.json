@@ -1,0 +1,225 @@
+{
+  "slug": "leyla-the-band-yoklugunda",
+  "artist": "Leyla The Band",
+  "title": "Yokluğunda",
+  "key": "A",
+  "capo": 0,
+  "rhythm": "A-A-Y-A-Y-Y-A-Y-Y-A-Y-A-A-A-Y-Y-Y-A-A-Y-A-K-Y-Y-A-A-Y-Y-A-K-A-Y-Y-A-A-Y-A-Y-A-Y-A-Y-A-Y-A",
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "     Kaybet, öfkeni içinde sakladığın.",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 9
+        },
+        {
+          "chord": "F",
+          "col": 19
+        },
+        {
+          "chord": "G",
+          "col": 29
+        },
+        {
+          "chord": "Am",
+          "col": 45
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "    Terket, o derdini benden almadığın.",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 6
+        },
+        {
+          "chord": "F",
+          "col": 22
+        },
+        {
+          "chord": "G",
+          "col": 32
+        },
+        {
+          "chord": "Am",
+          "col": 48
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "    Sabret, sonu aynı değil söylüyorum.",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 8
+        },
+        {
+          "chord": "F",
+          "col": 24
+        },
+        {
+          "chord": "G",
+          "col": 31
+        },
+        {
+          "chord": "Am",
+          "col": 48
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "    Dinle, rüyalarım her gün aynı olmayacak.",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 7
+        },
+        {
+          "chord": "F",
+          "col": 19
+        },
+        {
+          "chord": "G",
+          "col": 31
+        },
+        {
+          "chord": "Am",
+          "col": 57
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "    Şimdi vazgeçersen, geriye döneceksin.",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 6
+        },
+        {
+          "chord": "F",
+          "col": 17
+        },
+        {
+          "chord": "G",
+          "col": 36
+        },
+        {
+          "chord": "Am",
+          "col": 54
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "    Gitme, Kaybedince daha çok seveceksin.",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 6
+        },
+        {
+          "chord": "F",
+          "col": 23
+        },
+        {
+          "chord": "G",
+          "col": 38
+        },
+        {
+          "chord": "Am",
+          "col": 56
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "    Biliyorum hiç bir anlamı yok.",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 10
+        },
+        {
+          "chord": "F",
+          "col": 26
+        },
+        {
+          "chord": "G",
+          "col": 30
+        },
+        {
+          "chord": "Am",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "    Yokluğunda yokluğunda",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 7
+        },
+        {
+          "chord": "F",
+          "col": 18
+        },
+        {
+          "chord": "G",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

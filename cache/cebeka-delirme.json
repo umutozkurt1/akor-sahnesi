@@ -1,0 +1,213 @@
+{
+  "slug": "cebeka-delirme",
+  "artist": "Cebeka",
+  "title": "Delirme",
+  "key": "E",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Intro:",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 6
+        },
+        {
+          "chord": "C",
+          "col": 12
+        },
+        {
+          "chord": "Am",
+          "col": 18
+        },
+        {
+          "chord": "Bm",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bitti",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ellerin eline düştü",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Söyledim ya",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Seni kim düşünür bu kadar",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 8
+        },
+        {
+          "chord": "Bm",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hala yangın yeri evimin içi",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Aşk iki kalbe muhtaç ya",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bizde öldü birisi",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 13
+        },
+        {
+          "chord": "Bm",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Delirme",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Aklım hep sende",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kızdığıma bakma zaafım güzel yüzüne",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 24
+        },
+        {
+          "chord": "Am",
+          "col": 52
+        },
+        {
+          "chord": "Bm",
+          "col": 57
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gel etme",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Aşk gururdan öte",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Nefret ede ede sever mi insan böyle",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 20
+        },
+        {
+          "chord": "Am",
+          "col": 51
+        },
+        {
+          "chord": "Bm",
+          "col": 56
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

@@ -1,0 +1,125 @@
+{
+  "slug": "cem-cinar-sen-de-unutamazsin",
+  "artist": "Cem Çınar",
+  "title": "Sen de Unutamazsın",
+  "key": "C#",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Sen de özlüyor musun beni",
+      "chords": [
+        {
+          "chord": "D#m",
+          "col": 0
+        },
+        {
+          "chord": "C#m",
+          "col": 18
+        },
+        {
+          "chord": "G#m",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yoksa unuttun mu söyle her şeyi",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 13
+        },
+        {
+          "chord": "C#m",
+          "col": 25
+        },
+        {
+          "chord": "G#m",
+          "col": 53
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ölüm gibi ayrılık",
+      "chords": [
+        {
+          "chord": "D#m",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Neden bu yanlızlık haketmiyorum (  )",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "G#m",
+          "col": 51
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sen de unutamazsın",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yerimi böyle dolduramazsın",
+      "chords": [
+        {
+          "chord": "G#m",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Pişmanlığınla üzülecek ve ağlayacaksın (  )",
+      "chords": [
+        {
+          "chord": "F#",
+          "col": 14
+        },
+        {
+          "chord": "Emaj7",
+          "col": 61
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir gün",
+      "chords": [
+        {
+          "chord": "F#maj7",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

@@ -1,0 +1,138 @@
+{
+  "slug": "ahmet-kaya-yuregim-yaniyor",
+  "artist": "Ahmet Kaya",
+  "title": "Yüreğim Yanıyor",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Sakin göllerin kuğusuyduk",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "C#",
+          "col": 15
+        },
+        {
+          "chord": "Cm",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "em                   Cm",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Salınarak mavzer yatağında",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yarılan ekmeğin buğusuyduk",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "Eb",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Göğsüm daralıyor, yüreğim yanıyor",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "Eb",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Olmasaydı sonumuz böyle",
+      "chords": [
+        {
+          "chord": "C#",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dağlarda çoban ateşiydik",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "C#",
+          "col": 15
+        },
+        {
+          "chord": "Cm",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dağılarak mavzer yatağında",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ceylanın pınara inişiydik",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "Eb",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

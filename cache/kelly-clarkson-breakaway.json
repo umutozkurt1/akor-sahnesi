@@ -1,0 +1,557 @@
+{
+  "slug": "kelly-clarkson-breakaway",
+  "artist": "Kelly Clarkson",
+  "title": "Breakaway",
+  "key": "E",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 7
+        },
+        {
+          "chord": "D",
+          "col": 10
+        },
+        {
+          "chord": "G",
+          "col": 12
+        },
+        {
+          "chord": "C",
+          "col": 14
+        },
+        {
+          "chord": "Em",
+          "col": 16
+        },
+        {
+          "chord": "D",
+          "col": 19
+        },
+        {
+          "chord": "C",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "verse:",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "grew up in a small town",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And when the rain would fall down",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "i'd just stare out my window",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 10
+        },
+        {
+          "chord": "C",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "dreaming of what could be",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ang if i end up happy",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I would pray",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 3
+        },
+        {
+          "chord": "C",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Trying hard to reach out",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But when i try to speak out",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Felt like no one could hear me",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 10
+        },
+        {
+          "chord": "C",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Wanted to belong here",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But something felt so wrong here",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "so i pray",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 3
+        },
+        {
+          "chord": "C",
+          "col": 5
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "refrain:",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "i could breakaway",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 7
+        },
+        {
+          "chord": "D",
+          "col": 10
+        },
+        {
+          "chord": "A",
+          "col": 12
+        },
+        {
+          "chord": "A",
+          "col": 14
+        },
+        {
+          "chord": "C",
+          "col": 16
+        },
+        {
+          "chord": "D",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "i'll spread my wings",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "and i'll learn how to fly",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "i'll do what it takes",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 4
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "'till i touch the sky",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 6
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "make a wish, take a chance",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "make a change",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "and breakaway",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 4
+        },
+        {
+          "chord": "D",
+          "col": 8
+        },
+        {
+          "chord": "C",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "out of the darkness",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "and into the sun",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 4
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "but i won't forget",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "all the ones that i love",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 4
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "i'll take a risk, take a chance",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 5
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Make a change",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "and break away",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 4
+        },
+        {
+          "chord": "D",
+          "col": 8
+        },
+        {
+          "chord": "C",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "verse2: same as verse1",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "chorus: same as first chorus",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "bridge:",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "Buildings with a hundred doors",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "swinging 'round revolving doors",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Maybe i don't know",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "where they'll take me",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "but gotta keep movin' on, movin' on",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 4
+        },
+        {
+          "chord": "G",
+          "col": 15
+        },
+        {
+          "chord": "C",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Fly away",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

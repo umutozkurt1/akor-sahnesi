@@ -1,0 +1,97 @@
+{
+  "slug": "cocuk-sarkilari-gosterelim-mantarlar",
+  "artist": "Çocuk Şarkıları",
+  "title": "Gösterelim Mantarlar",
+  "key": "B",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Gösterelim mantarlar nasıl büyüyorlar",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 21
+        },
+        {
+          "chord": "Bm",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Tatlı tatlı uyuyorlar yeşiller içinde",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 12
+        },
+        {
+          "chord": "C",
+          "col": 22
+        },
+        {
+          "chord": "Bm",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yaz yağmuru yağınca sonra güneş açınca",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 20
+        },
+        {
+          "chord": "Bm",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İşte bakın ne kadar çok mantar varmış ormanda",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 11
+        },
+        {
+          "chord": "C",
+          "col": 24
+        },
+        {
+          "chord": "Bm",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

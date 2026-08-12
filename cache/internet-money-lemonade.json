@@ -1,0 +1,841 @@
+{
+  "slug": "internet-money-lemonade",
+  "artist": "Internet Money",
+  "title": "Lemonade",
+  "key": "C#",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Intro",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 4
+        },
+        {
+          "chord": "G#m",
+          "col": 7
+        },
+        {
+          "chord": "A",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  Xanny bars, suicide door, brand new bag",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  College girls give a nigga head in my Rafs",
+      "chords": [
+        {
+          "chord": "G#m",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  Rockstar life, so much money it'll make you laugh, hey",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  These bitches, they hate, and you can't miss what you never had, hey, hey",
+      "chords": [
+        {
+          "chord": "G#m",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  Off the juice (Juice), codeine got me trippin' (Juice)",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  Copped the coupe (Coupe), woke up, roof is missin' (Yeah)",
+      "chords": [
+        {
+          "chord": "G#m",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  Ice (Ice), lemonade, my neck was drippin'",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  Ice (Ice), lemonade, my neck was drippin'",
+      "chords": [
+        {
+          "chord": "G#m",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Addy boys, got some sixties in my bag (Oh, yeah)",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  Lips sealed, I ain't pillow talkin', I'm not rat (No)",
+      "chords": [
+        {
+          "chord": "G#m",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  In my earlobe, got two karats, VVS (Bling)",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  Got a penthouse near Rodeo off of strips (Strips)",
+      "chords": [
+        {
+          "chord": "G#m",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  All this money, when I grew up, I had nothin' (Nothin')",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  Filled with backstabbers, my old life was disgustin' (Disgustin')",
+      "chords": [
+        {
+          "chord": "G#m",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  Can't believe it, gotta thank God that I'm livin' comfortably (Thank God)",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  Getting checks, I don't believe her, she say she done with me",
+      "chords": [
+        {
+          "chord": "G#m",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  Burned some bridges and I let the fire light the way (Oh-woah)",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  Kickin' my feet up, left the PJ's on a PJ (PJ)",
+      "chords": [
+        {
+          "chord": "G#m",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  Yeah, I'm a big dog, and I walk around with no leash (Oh)",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  I got water on me, yeah, everythin' on Fiji",
+      "chords": [
+        {
+          "chord": "G#m",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  Xanny bars, suicide door, brand new bag",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  College girls give a nigga head in my Rafs",
+      "chords": [
+        {
+          "chord": "G#m",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  Rockstar life, so much money it'll make you laugh, hey",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  These bitches, they hate, and you can't miss what you never had, hey, hey",
+      "chords": [
+        {
+          "chord": "G#m",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  Off the juice (Juice), codeine got me trippin' (Juice)",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  Copped the coupe (Coupe), woke up, roof is missin' (Yeah)",
+      "chords": [
+        {
+          "chord": "G#m",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  Ice (Ice), lemonade, my neck was drippin'",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  Ice (Ice), lemonade, my neck was drippin'",
+      "chords": [
+        {
+          "chord": "G#m",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  I'm a rockstar, play guitars, sippin' 'Wock, hey (Hey)",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  Adderall, Fentanyl, Xanax bars, ayy (Hey)",
+      "chords": [
+        {
+          "chord": "G#m",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  I was fifteen, I was sippin' codeine with my dawg, ayy (Codeine)",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  Did a Percocet, Promethazine, I feel nauseous (Promethazine)",
+      "chords": [
+        {
+          "chord": "G#m",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  Put up a stick and I hop on a plane",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  I'm still in my war ways (War ways)",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  Shit is so risky, I gotta be gifted",
+      "chords": [
+        {
+          "chord": "G#m",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "He blessed me with fortune and fame (Fortune and fame, nice)",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  I made my first fifty, I couldn't go back empty",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I knew I was stuck to the game (Stuck)",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'm loyal and I'll never change",
+      "chords": [
+        {
+          "chord": "G#m",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'm never gon' go against the grain (Go 'gainst the grain)",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'm never gon' be one turn on my brother when polices got us detained (Nah)",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  I won't never love a bitch more than my mother",
+      "chords": [
+        {
+          "chord": "G#m",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And that's on my government name (Nah)",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  I can't be no sucker, ain't hatin' on no one",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I wish everybody get paid (Paid)",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  'Cause we countin' up every day (Every day)",
+      "chords": [
+        {
+          "chord": "G#m",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gettin' high 'til I land in the grave",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  Xanny bars, suicide door, brand new bag",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  College girls give a nigga head in my Rafs",
+      "chords": [
+        {
+          "chord": "G#m",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  Rockstar life, so much money it'll make you laugh, hey",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  These bitches, they hate, and you can't miss what you never had, hey, hey",
+      "chords": [
+        {
+          "chord": "G#m",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  Off the juice (Juice), codeine got me trippin' (Juice)",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  Copped the coupe (Coupe), woke up, roof is missin' (Yeah)",
+      "chords": [
+        {
+          "chord": "G#m",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  Ice (Ice), lemonade, my neck was drippin'",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  Ice (Ice), lemonade, my neck was drippin'",
+      "chords": [
+        {
+          "chord": "G#m",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "     Yeah, yeah, yeah",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 5
+        },
+        {
+          "chord": "G#m",
+          "col": 21
+        },
+        {
+          "chord": "A",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 4
+        },
+        {
+          "chord": "G#m",
+          "col": 7
+        },
+        {
+          "chord": "A",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

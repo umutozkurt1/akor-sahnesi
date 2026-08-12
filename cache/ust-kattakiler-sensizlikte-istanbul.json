@@ -1,0 +1,225 @@
+{
+  "slug": "ust-kattakiler-sensizlikte-istanbul",
+  "artist": "Üst Kattakiler",
+  "title": "Sensizlikte İstanbul",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Bugün sensiz dolaştım İstanbulu",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir hüzün bin hüzün gibi çöktü üstüme",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 13
+        },
+        {
+          "chord": "Cm",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bulutlar beyaz değildi",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Islaktı sokaklar ve de insanlar",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 11
+        },
+        {
+          "chord": "Cm",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bugün yağmurluydu İstanbul",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 11
+        },
+        {
+          "chord": "Cm",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ve de sensizdi bardaktan boşalırcasına",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 10
+        },
+        {
+          "chord": "G",
+          "col": 20
+        },
+        {
+          "chord": "Cm",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İstanbul hiç bu kadar boş olmadı benim için",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 22
+        },
+        {
+          "chord": "Cm",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir yalnızlık bin yalnızlık gibi çöktü üstüme",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 17
+        },
+        {
+          "chord": "Cm",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bu koskoca kentte bugün ben",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sensiz ellerinsiz ve de keyifsiz",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 24
+        },
+        {
+          "chord": "Cm",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bugün soğuktu İstanbul",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 10
+        },
+        {
+          "chord": "Cm",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ve de kalabalıktı sensizliğim kadar",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 10
+        },
+        {
+          "chord": "G",
+          "col": 24
+        },
+        {
+          "chord": "Cm",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

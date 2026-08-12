@@ -1,0 +1,237 @@
+{
+  "slug": "bahadir-tatlioz-bekliyorum",
+  "artist": "Bahadır Tatlıöz",
+  "title": "Bekliyorum",
+  "key": "G",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Yine boş odamdayım",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yalnızlığım bir de çayım elimde",
+      "chords": [
+        {
+          "chord": "Ebmaj7",
+          "col": 55
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Resminin önünde dertlenmişim",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 11
+        },
+        {
+          "chord": "Gm",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Sana son kez sarılalı",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kim bilir kaç mevsim geçti",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Özlemişim, hem de nasıl özlemişim",
+      "chords": [
+        {
+          "chord": "Ebmaj7",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 29
+        },
+        {
+          "chord": "Gm",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Beni hayata bağlayan bir sen varsın",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 43
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sana bir gün kavuşmanın umudu var",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 20
+        },
+        {
+          "chord": "Gm",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ölmedik ya biraz daha sabır lazım",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 17
+        },
+        {
+          "chord": "Ebmaj7",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Senden gelecek bir müjdenin umudu var",
+      "chords": [
+        {
+          "chord": "Cm7",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 16
+        },
+        {
+          "chord": "Gm",
+          "col": 50
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir gün gelecek ki canın yanacak",
+      "chords": [
+        {
+          "chord": "Bb",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 26
+        },
+        {
+          "chord": "Cm",
+          "col": 52
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kalbin seni zorlayacak bu hasrete son vereceksin",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 12
+        },
+        {
+          "chord": "Ebmaj7",
+          "col": 24
+        },
+        {
+          "chord": "Dm",
+          "col": 37
+        },
+        {
+          "chord": "Gm",
+          "col": 47
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir gün gelecek ki kapım çalacak",
+      "chords": [
+        {
+          "chord": "Bb",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 27
+        },
+        {
+          "chord": "Eb",
+          "col": 49
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ardında sen olacaksın hiç şüphem yok bekliyorum",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 6
+        },
+        {
+          "chord": "Cm",
+          "col": 27
+        },
+        {
+          "chord": "Dm7",
+          "col": 40
+        },
+        {
+          "chord": "Gm",
+          "col": 58
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

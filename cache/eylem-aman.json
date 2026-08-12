@@ -1,0 +1,511 @@
+{
+  "slug": "eylem-aman",
+  "artist": "Eylem",
+  "title": "Aman",
+  "key": "D",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "INTRO:",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 3
+        },
+        {
+          "chord": "F",
+          "col": 6
+        },
+        {
+          "chord": "D#",
+          "col": 8
+        },
+        {
+          "chord": "Dm",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bütün dünyanın yükü bende olsa...",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 2
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bugün aşkım beni bıraksa...",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kalbimi bin defa daha kırsa...",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 46
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yeniden yeniden düşüp kalksam...",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 50
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İnancım yıkılsa...",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 1
+        },
+        {
+          "chord": "Gm",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bildiğim doğrular yalan olsa...",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 2
+        },
+        {
+          "chord": "D#",
+          "col": 22
+        },
+        {
+          "chord": "F",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ah yalan olsa....",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 6
+        },
+        {
+          "chord": "Dm",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Can bu can benim can,",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 10
+        },
+        {
+          "chord": "Gm",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yapılacak tek şey,",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 5
+        },
+        {
+          "chord": "Gm",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " unut herşeyi,",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 5
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " salla dertleri,",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 5
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " nasıl olursa yeni bir gün doğacak.",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 5
+        },
+        {
+          "chord": "D#",
+          "col": 21
+        },
+        {
+          "chord": "Dm",
+          "col": 44
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bak gör sen,",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " unut herşeyi,",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 7
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " salla dertleri,",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 7
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " tatlı düşünüp herşey güzel olacak.",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 7
+        },
+        {
+          "chord": "D#",
+          "col": 22
+        },
+        {
+          "chord": "Dm",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bak görsen",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "ah ah aaaaaah",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Artık dünyamda değilsin,",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Umrumda hiç değilsin,",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Üzülmem boş konulara,",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Anlamsız anılara,",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 4
+        },
+        {
+          "chord": "Cm",
+          "col": 14
+        },
+        {
+          "chord": "Dm",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ne olmuş seni sevdiysem,",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bak yeniden doğdum ben,",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Seni çok sevmiştim ben,",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Canımdan çok sevdim ben...",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 13
+        },
+        {
+          "chord": "Cm",
+          "col": 21
+        },
+        {
+          "chord": "Gm",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İnancım yıkılsa",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 1
+        },
+        {
+          "chord": "Gm",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bildiğim doğrular yalan olsa,",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 8
+        },
+        {
+          "chord": "D#",
+          "col": 21
+        },
+        {
+          "chord": "F",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ah yalan olsa",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 4
+        },
+        {
+          "chord": "Dm",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Nak....",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ammaaaaan",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 4
+        },
+        {
+          "chord": "D#",
+          "col": 6
+        },
+        {
+          "chord": "Dm",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 3
+        },
+        {
+          "chord": "Cm",
+          "col": 5
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

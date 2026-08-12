@@ -1,0 +1,156 @@
+{
+  "slug": "recebim-gel",
+  "artist": "Recebim",
+  "title": "Gel",
+  "key": "E",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Basit oldu şimdi sevmeler",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ayrılıyorlar birer birer",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Nerde deli gibi sevenler",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hepsi ayrı ayrı yerdeler",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 12
+        },
+        {
+          "chord": "Em",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Canıma can olacaksan olur gel",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kainata kurda kuşa duyur gel",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İyi günde kötü günde her demde",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 44
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hep Yanımda olacaksan buyur gel",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 23
+        },
+        {
+          "chord": "Em",
+          "col": 51
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Seviyorsak dürüst olalım",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Birbirine rol yapmayalım",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Günümüzde olduğu gibi",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bizde ayrılanlardan olmayalım",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

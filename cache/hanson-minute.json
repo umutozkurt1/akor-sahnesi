@@ -1,0 +1,536 @@
+{
+  "slug": "hanson-minute",
+  "artist": "Hanson",
+  "title": "Minute",
+  "key": "F",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "F2",
+          "col": 8
+        },
+        {
+          "chord": "F",
+          "col": 12
+        },
+        {
+          "chord": "F2",
+          "col": 15
+        },
+        {
+          "chord": "F",
+          "col": 19
+        },
+        {
+          "chord": "A#2",
+          "col": 22
+        },
+        {
+          "chord": "A#",
+          "col": 27
+        },
+        {
+          "chord": "A#2",
+          "col": 31
+        },
+        {
+          "chord": "A#",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Verse 1:",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Well I woke up this morning     and the night had been so long",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 7
+        },
+        {
+          "chord": "F2",
+          "col": 27
+        },
+        {
+          "chord": "F",
+          "col": 30
+        },
+        {
+          "chord": "A#2",
+          "col": 40
+        },
+        {
+          "chord": "A#",
+          "col": 44
+        },
+        {
+          "chord": "A#2",
+          "col": 60
+        },
+        {
+          "chord": "A#",
+          "col": 64
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "It seems that I had had my mind on you",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 14
+        },
+        {
+          "chord": "C",
+          "col": 28
+        },
+        {
+          "chord": "C2",
+          "col": 33
+        },
+        {
+          "chord": "C",
+          "col": 36
+        },
+        {
+          "chord": "C2",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Well the day     it has begun",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "A#2",
+          "col": 9
+        },
+        {
+          "chord": "A#",
+          "col": 13
+        },
+        {
+          "chord": "C",
+          "col": 16
+        },
+        {
+          "chord": "F",
+          "col": 18
+        },
+        {
+          "chord": "A#2",
+          "col": 26
+        },
+        {
+          "chord": "A#",
+          "col": 30
+        },
+        {
+          "chord": "C",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And I can't get a minute, can't get a minute without you",
+      "chords": [
+        {
+          "chord": "F2",
+          "col": 4
+        },
+        {
+          "chord": "F",
+          "col": 7
+        },
+        {
+          "chord": "A#2",
+          "col": 26
+        },
+        {
+          "chord": "A#",
+          "col": 30
+        },
+        {
+          "chord": "C",
+          "col": 55
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Prechorus:",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Cause you're always on my mind you're always in my head",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 13
+        },
+        {
+          "chord": "A#2",
+          "col": 27
+        },
+        {
+          "chord": "A#",
+          "col": 31
+        },
+        {
+          "chord": "C",
+          "col": 41
+        },
+        {
+          "chord": "Am",
+          "col": 54
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And I can't live, I can't live another day without you",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 0
+        },
+        {
+          "chord": "A#2",
+          "col": 13
+        },
+        {
+          "chord": "A#",
+          "col": 17
+        },
+        {
+          "chord": "C",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Cause when the minutes seem like hours and the hours seem like days",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 33
+        },
+        {
+          "chord": "A#",
+          "col": 63
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Then a week goes by you know it takes my breath away",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "All the minutes in the world could never take your place",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 23
+        },
+        {
+          "chord": "A#",
+          "col": 57
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "There's one-thousand-four-hundred-forty hours in my day",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 34
+        },
+        {
+          "chord": "F",
+          "col": 55
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Verse 2:",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I've been trying to call you all day",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 13
+        },
+        {
+          "chord": "F",
+          "col": 19
+        },
+        {
+          "chord": "F2",
+          "col": 23
+        },
+        {
+          "chord": "F",
+          "col": 26
+        },
+        {
+          "chord": "F2",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Cause I've go so many things that I want to say",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "A#2",
+          "col": 22
+        },
+        {
+          "chord": "A#",
+          "col": 26
+        },
+        {
+          "chord": "C",
+          "col": 46
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Prechorus:",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'm going crazy cause all my thoughts are filled with you",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 11
+        },
+        {
+          "chord": "A#",
+          "col": 30
+        },
+        {
+          "chord": "Dm",
+          "col": 47
+        },
+        {
+          "chord": "Am",
+          "col": 51
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "There's got to be some way I can get through to you oh",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 0
+        },
+        {
+          "chord": "A#2",
+          "col": 23
+        },
+        {
+          "chord": "A#",
+          "col": 27
+        },
+        {
+          "chord": "C",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Repeat chorus: but from last line go into the intro",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Lead in to bridge : A#  F  Gm",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bridge:",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "Well I can't keep myself from thinking about you",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 13
+        },
+        {
+          "chord": "F",
+          "col": 31
+        },
+        {
+          "chord": "F2",
+          "col": 38
+        },
+        {
+          "chord": "F",
+          "col": 41
+        },
+        {
+          "chord": "F2",
+          "col": 43
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "It's because I love you and I know that that is true oh",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 15
+        },
+        {
+          "chord": "F",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Call it desperation, can't you see it in my eyes",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 14
+        },
+        {
+          "chord": "Am",
+          "col": 32
+        },
+        {
+          "chord": "Dm",
+          "col": 44
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "That I want to be with you until the sun falls from the sky",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 15
+        },
+        {
+          "chord": "C",
+          "col": 38
+        },
+        {
+          "chord": "F",
+          "col": 47
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

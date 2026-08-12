@@ -1,0 +1,118 @@
+{
+  "slug": "nahid-babasli-daglar-daglar",
+  "artist": "Nahidə Babaşli",
+  "title": "Dağlar Dağlar",
+  "key": "G",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": " Ellerimle büyüttügüm solar iken dirilttigim",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 1
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Çiçegimi kopardin sen, ellere verdin",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 1
+        },
+        {
+          "chord": "Ab",
+          "col": 10
+        },
+        {
+          "chord": "Gm",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "    Daglar daglar",
+      "chords": [
+        {
+          "chord": "Bb",
+          "col": 4
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "    Kurban olam yol ver geçem",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 4
+        },
+        {
+          "chord": "Gm",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "    Sevdigimi son bir olsun yakindan görem",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 4
+        },
+        {
+          "chord": "Ab",
+          "col": 14
+        },
+        {
+          "chord": "Gm",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Kuslar ötmez, güller soldu yüce daglar duman oldu",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 1
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Belli ki gittigin yerden kara haber var",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 1
+        },
+        {
+          "chord": "Ab",
+          "col": 13
+        },
+        {
+          "chord": "Gm",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

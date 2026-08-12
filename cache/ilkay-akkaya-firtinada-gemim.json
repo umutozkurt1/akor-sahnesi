@@ -1,0 +1,181 @@
+{
+  "slug": "ilkay-akkaya-firtinada-gemim",
+  "artist": "İlkay Akkaya",
+  "title": "Fırtınada Gemim",
+  "key": "E",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Önce düşler terk etti bu kenti",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 13
+        },
+        {
+          "chord": "C",
+          "col": 30
+        },
+        {
+          "chord": "Em",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sonra anılar birer birer",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 9
+        },
+        {
+          "chord": "C",
+          "col": 15
+        },
+        {
+          "chord": "Em",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Fırtınada gemim aldanmışım",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 19
+        },
+        {
+          "chord": "G",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kırılgan çaresiz çocuklarmışım",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 18
+        },
+        {
+          "chord": "D",
+          "col": 24
+        },
+        {
+          "chord": "Em",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Fırtınada gemim aldanmışım",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 20
+        },
+        {
+          "chord": "G",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yıkılıp savrulan dünyalarmışım",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 20
+        },
+        {
+          "chord": "D",
+          "col": 24
+        },
+        {
+          "chord": "Em",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Önce kuşlar terk etti bu kenti",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 12
+        },
+        {
+          "chord": "C",
+          "col": 29
+        },
+        {
+          "chord": "Em",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sonra insanlar birer birer",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 11
+        },
+        {
+          "chord": "C",
+          "col": 18
+        },
+        {
+          "chord": "Em",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

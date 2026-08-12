@@ -1,0 +1,168 @@
+{
+  "slug": "gokhan-turkmen-illa",
+  "artist": "Gökhan Türkmen",
+  "title": "İlla",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "İlla senin için mi yazmam gerekiyor bütün sözleri,",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 21
+        },
+        {
+          "chord": "F",
+          "col": 55
+        },
+        {
+          "chord": "Em",
+          "col": 76
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Her şey senin için mi sanıyorsun?",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 15
+        },
+        {
+          "chord": "Em",
+          "col": 30
+        },
+        {
+          "chord": "Am",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sıkıldım bu bencil tavırlarından,",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 22
+        },
+        {
+          "chord": "F",
+          "col": 41
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Başkasını sevemez miyim,",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yapamaz mıyım gerçekten?",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 18
+        },
+        {
+          "chord": "Am",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yardım et ne olur, kurtulmak istiyorum senden",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 22
+        },
+        {
+          "chord": "Em",
+          "col": 66
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ne var sanki unutabilsem seni, bana küfür etsen",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 19
+        },
+        {
+          "chord": "Em",
+          "col": 65
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yok yok iyi davran bana, yoksa unutamam seni",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 19
+        },
+        {
+          "chord": "Em",
+          "col": 60
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hak ettim ben bunu artık sevemem kimseyi",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 19
+        },
+        {
+          "chord": "Dm",
+          "col": 47
+        },
+        {
+          "chord": "Am",
+          "col": 63
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

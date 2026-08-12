@@ -1,0 +1,282 @@
+{
+  "slug": "ege-kalamam",
+  "artist": "Ege",
+  "title": "Kalamam",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 6
+        },
+        {
+          "chord": "G",
+          "col": 12
+        },
+        {
+          "chord": "C",
+          "col": 16
+        },
+        {
+          "chord": "F",
+          "col": 20
+        },
+        {
+          "chord": "Dm",
+          "col": 24
+        },
+        {
+          "chord": "E",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gece çökmüş hayallerime",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 3
+        },
+        {
+          "chord": "Dm",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Tek dostum koyu bir kahve",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir titreme ellerimde",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Veda etmek inan çok zor geliyor",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 30
+        },
+        {
+          "chord": "E",
+          "col": 43
+        },
+        {
+          "chord": "Am",
+          "col": 47
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sen sevdirdin şarkıları",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sen sevdirdin kitapları",
+      "chords": [
+        {
+          "chord": "G7",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 22
+        },
+        {
+          "chord": "Em",
+          "col": 36
+        },
+        {
+          "chord": "F",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Düşe kalka gitar çalmayı",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sen öğrettin bana aşık olmayı",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 32
+        },
+        {
+          "chord": "E",
+          "col": 47
+        },
+        {
+          "chord": "F",
+          "col": 52
+        },
+        {
+          "chord": "E",
+          "col": 56
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bakışınla yandı gönlüm",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gidişinle bitti ömrüm",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Buralarda artık durmam duramam",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 44
+        },
+        {
+          "chord": "G7",
+          "col": 46
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Şarkıları sevmez oldum",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kitapları açmaz oldum",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gitarıma dert yanmak mı yanamam",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 46
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bana düşen çekip gitmek",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Seni hepten yok farz etmek",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Seninle aynı kentte kalamam",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 10
+        },
+        {
+          "chord": "E",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

@@ -1,0 +1,185 @@
+{
+  "slug": "athena-macera",
+  "artist": "Athena",
+  "title": "Macera",
+  "key": "D",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "ORJİNAL TONU: C",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Her yeni başlayan macera, heyecan dolu çilek kokar",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 33
+        },
+        {
+          "chord": "Gm",
+          "col": 73
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gelip geçici bir hevesti, bazen uzun bazen kısa",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 35
+        },
+        {
+          "chord": "Cm",
+          "col": 43
+        },
+        {
+          "chord": "Gm",
+          "col": 60
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Aşk olayını hiç açmasak, konuşmadan yaşasak",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 29
+        },
+        {
+          "chord": "Gm",
+          "col": 69
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sonra büyüsü bozulunca, uzatmadan yalanlasak",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 35
+        },
+        {
+          "chord": "Cm",
+          "col": 43
+        },
+        {
+          "chord": "Gm",
+          "col": 60
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Artık anlıyorum her şeyi",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Oyun zamanı sona erdi",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Aşkı ödünç almıştım zaten",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Budur en güzeli, en güzeli",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 21
+        },
+        {
+          "chord": "A#",
+          "col": 26
+        },
+        {
+          "chord": "D",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Her yeni başlayan macera, heyecan dolu çilek kokar",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 33
+        },
+        {
+          "chord": "Gm",
+          "col": 73
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gelip geçici bir hevesti, bazen uzun bazen kısa",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 35
+        },
+        {
+          "chord": "Cm",
+          "col": 43
+        },
+        {
+          "chord": "Gm",
+          "col": 60
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

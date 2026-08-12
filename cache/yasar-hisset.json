@@ -1,0 +1,137 @@
+{
+  "slug": "yasar-hisset",
+  "artist": "Yaşar",
+  "title": "Hisset",
+  "key": "D",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Ne varki geriye kalan",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Elinde avucunda",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Zaten sevdin bir defa",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gerisi rüyalarda",
+      "chords": [
+        {
+          "chord": "Bb",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hisset yürürken beni kaldırımlarda",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "Bb",
+          "col": 12
+        },
+        {
+          "chord": "Dm",
+          "col": 30
+        },
+        {
+          "chord": "A",
+          "col": 46
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hisset yürürken boş sokaklarda",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 24
+        },
+        {
+          "chord": "Dm",
+          "col": 45
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Anlat yalansız dolansız olsun",
+      "chords": [
+        {
+          "chord": "Bb",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 22
+        },
+        {
+          "chord": "A",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Adı masum kendi mahsun bu hikayeyi",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 64
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

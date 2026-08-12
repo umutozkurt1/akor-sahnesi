@@ -1,0 +1,235 @@
+{
+  "slug": "crossfade-invincible",
+  "artist": "Crossfade",
+  "title": "Invincible",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "I memorized all the words for you",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But if you only knew",
+      "chords": [
+        {
+          "chord": "F#m7",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "How much that's just not like me",
+      "chords": [
+        {
+          "chord": "D9",
+          "col": 0
+        },
+        {
+          "chord": "Esus4",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I wait up late every night",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Just to hear your voice",
+      "chords": [
+        {
+          "chord": "F#m7",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But you don't know that's nothing like me",
+      "chords": [
+        {
+          "chord": "D9",
+          "col": 0
+        },
+        {
+          "chord": "Esus4",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You know I wonder how you already figured out",
+      "chords": [
+        {
+          "chord": "F#",
+          "col": 12
+        },
+        {
+          "chord": "E",
+          "col": 39
+        },
+        {
+          "chord": "C#",
+          "col": 46
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "All these things that I try to hide",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "D9",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "All this time i've been hoping you don't find out",
+      "chords": [
+        {
+          "chord": "F#",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 31
+        },
+        {
+          "chord": "C#",
+          "col": 48
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "All these things that I hide on the inside",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 6
+        },
+        {
+          "chord": "D9",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Nak.:",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I can't be held responsible",
+      "chords": [
+        {
+          "chord": "F#",
+          "col": 15
+        },
+        {
+          "chord": "G#m",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "This is all so new to me",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Just when I think I'm invincible",
+      "chords": [
+        {
+          "chord": "F#",
+          "col": 0
+        },
+        {
+          "chord": "G#m",
+          "col": 17
+        },
+        {
+          "chord": "A",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You come and happen to me.",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "feel free to move them around!",
+      "chords": [],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

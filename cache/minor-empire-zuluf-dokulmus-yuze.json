@@ -1,0 +1,219 @@
+{
+  "slug": "minor-empire-zuluf-dokulmus-yuze",
+  "artist": "Minor Empire",
+  "title": "Zülüf Dökülmüş Yüze",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Zülüf dökülmüş yüze aman,",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 11
+        },
+        {
+          "chord": "F",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kaşlar yakışmış göze aman aman.",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "A#m",
+          "col": 7
+        },
+        {
+          "chord": "C7",
+          "col": 13
+        },
+        {
+          "chord": "Fm",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Usandım bu canımdan aman aman,",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "C7",
+          "col": 11
+        },
+        {
+          "chord": "Fm",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dert ile geze geze.",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 6
+        },
+        {
+          "chord": "Db",
+          "col": 11
+        },
+        {
+          "chord": "C",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "A#m",
+          "col": 0
+        },
+        {
+          "chord": "Db",
+          "col": 5
+        },
+        {
+          "chord": "C",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bu ellerde gez gayrı aman,",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 11
+        },
+        {
+          "chord": "F",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kâtip ol da yaz gayrı aman aman.",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "A#m",
+          "col": 6
+        },
+        {
+          "chord": "C7",
+          "col": 13
+        },
+        {
+          "chord": "Fm",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir kazma al bir kürek aman aman,",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "C7",
+          "col": 13
+        },
+        {
+          "chord": "Fm",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Mezarımı kaz gayrı.",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 4
+        },
+        {
+          "chord": "Db",
+          "col": 9
+        },
+        {
+          "chord": "C",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "A#m",
+          "col": 0
+        },
+        {
+          "chord": "Db",
+          "col": 5
+        },
+        {
+          "chord": "C",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

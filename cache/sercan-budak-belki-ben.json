@@ -1,0 +1,161 @@
+{
+  "slug": "sercan-budak-belki-ben",
+  "artist": "Sercan Budak",
+  "title": "Belki Ben",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Belki ben kurumuş , meyvesiz bir dal parçası",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Belki ben erimiş ,uçmuş ,kurumuş kar tanesi olmuşum , doğmuşum da dert dünyaya yük , körpe ziyan.",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 45
+        },
+        {
+          "chord": "F",
+          "col": 56
+        },
+        {
+          "chord": "Am",
+          "col": 85
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir bakın burada çok olur benim gibilerden ki biz göremeyiz hiç güneşi; biz sığmayız hiçbir yere.",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 17
+        },
+        {
+          "chord": "Am",
+          "col": 44
+        },
+        {
+          "chord": "F",
+          "col": 60
+        },
+        {
+          "chord": "Dm",
+          "col": 79
+        },
+        {
+          "chord": "Am",
+          "col": 90
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Halim yok çok zor geliyor kalkmak ayağa",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 18
+        },
+        {
+          "chord": "Am",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hayat çok yordu beni mecalim yok yeniden başlamaya (silip silip yazmaya)",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 29
+        },
+        {
+          "chord": "Am",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Belki ben yaşarım gülemem hayatım hep böyle",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Söylerim duyulmaz sesim acım çok içeride",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yorgunum kör bıçakmış umutlarım hep boşa faydası yok",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 14
+        },
+        {
+          "chord": "F",
+          "col": 41
+        },
+        {
+          "chord": "Am",
+          "col": 49
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

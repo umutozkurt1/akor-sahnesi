@@ -1,0 +1,111 @@
+{
+  "slug": "melihcan-cantanem",
+  "artist": "MelihCan",
+  "title": "Cantanem",
+  "key": "F",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Cantanem bu şarkım sana kulak ver bu aşka",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 2
+        },
+        {
+          "chord": "Cm",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sen benim her şeyimsin en derinden nefesimsin",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 6
+        },
+        {
+          "chord": "Cm",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İyi ki varsın canım can yoldaşım arkadaşım",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 10
+        },
+        {
+          "chord": "C#",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sensizlik zor gelir artık bana",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 6
+        },
+        {
+          "chord": "C#",
+          "col": 16
+        },
+        {
+          "chord": "Cm",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sensiz olamam ben artık sensiz yaşayamam",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sensiz kalbim atmaz artık yürek yaram",
+      "chords": [
+        {
+          "chord": "C#",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 26
+        },
+        {
+          "chord": "Fm",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

@@ -1,0 +1,362 @@
+{
+  "slug": "u2-elevation",
+  "artist": "U2",
+  "title": "Elevation",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "High, higher than the sun, you shoot me from a gun",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 1
+        },
+        {
+          "chord": "G",
+          "col": 5
+        },
+        {
+          "chord": "D",
+          "col": 22
+        },
+        {
+          "chord": "A",
+          "col": 49
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I need you to elevate me here",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 2
+        },
+        {
+          "chord": "D",
+          "col": 15
+        },
+        {
+          "chord": "A",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "At the corner of your lips, as the order of your hips",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 6
+        },
+        {
+          "chord": "D",
+          "col": 23
+        },
+        {
+          "chord": "A",
+          "col": 51
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Eclipse",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 2
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You elevate my soul",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 4
+        },
+        {
+          "chord": "A",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I've got no self-control, been living like a mole",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 5
+        },
+        {
+          "chord": "D",
+          "col": 20
+        },
+        {
+          "chord": "A",
+          "col": 48
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Now going down excavation",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 6
+        },
+        {
+          "chord": "D",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I and I in the sky, you make me feel like I can fly so high",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 1
+        },
+        {
+          "chord": "G",
+          "col": 9
+        },
+        {
+          "chord": "D",
+          "col": 17
+        },
+        {
+          "chord": "A",
+          "col": 49
+        },
+        {
+          "chord": "G",
+          "col": 56
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Elevation",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 1
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "D-[A](3x)",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Elevation",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 1
+        },
+        {
+          "chord": "G",
+          "col": 4
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "(do c.p. A-G-D)",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "A star lit up like a cigar",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Strung out like a guitar",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Maybe you can educate my mind",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Explain all these controls",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Can't sing but I've got soul",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "The goal is elevation",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "(do c.p. A-G-D)",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "A mole digging in a hole",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Digging up my soul now going down excavation",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I and I in the sky",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You make me feel like I can fly",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "So high",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Elevation",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "D-[A](7x)",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Elevation",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 3
+        },
+        {
+          "chord": "D",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Love, lift me up out of these blues",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Won't you tell me something true",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I believe in you",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "(do c.p. A-G-D)",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "A mole digging in a hole",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Digging up my soul now going down excavation",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I and I in the sky",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You make me feel like I can fly",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "So high",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Elevation",
+      "chords": [],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

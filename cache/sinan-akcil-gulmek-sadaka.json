@@ -1,0 +1,658 @@
+{
+  "slug": "sinan-akcil-gulmek-sadaka",
+  "artist": "Sinan Akçıl",
+  "title": "Gülmek Sadaka",
+  "key": "E",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Intro:",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 3
+        },
+        {
+          "chord": "C#m",
+          "col": 6
+        },
+        {
+          "chord": "A",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Güneşe bak, aya da bak",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Denize bak yağmurlara bak",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ne güzel hayat bu, maşallah…",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 10
+        },
+        {
+          "chord": "C#m",
+          "col": 24
+        },
+        {
+          "chord": "A",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sağına bak, soluna bak",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İnsanlara mutlulukla bak",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ne güzel hayat bu maşallah…",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 10
+        },
+        {
+          "chord": "C#m",
+          "col": 24
+        },
+        {
+          "chord": "A",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  Hadi sende bir dene",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 9
+        },
+        {
+          "chord": "C#m",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  Koy elini kalbine…",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 6
+        },
+        {
+          "chord": "E",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  Gül her ne olursa",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 6
+        },
+        {
+          "chord": "C#m",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  Gülmek sadaka",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 2
+        },
+        {
+          "chord": "E",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  Gel katıl sen bize…",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 6
+        },
+        {
+          "chord": "C#m",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  Koy elini kalbine",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 7
+        },
+        {
+          "chord": "E",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  Gülmek sadaka",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 2
+        },
+        {
+          "chord": "C#m",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  Gülmek sadaka",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 2
+        },
+        {
+          "chord": "E",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 3
+        },
+        {
+          "chord": "C#m",
+          "col": 6
+        },
+        {
+          "chord": "A",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 3
+        },
+        {
+          "chord": "C#m",
+          "col": 6
+        },
+        {
+          "chord": "A",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Aç kalbini herkese nolur",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sonu elbet mutluluk olur…",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gülmek sana yakıstı masallah…",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 10
+        },
+        {
+          "chord": "C#m",
+          "col": 24
+        },
+        {
+          "chord": "A",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kollarını açsana nolur…",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kenetlenir herkes bir olur",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bu güzel dünyada, maşallah…",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 10
+        },
+        {
+          "chord": "C#m",
+          "col": 24
+        },
+        {
+          "chord": "A",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  Hadi sende bir dene",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 9
+        },
+        {
+          "chord": "C#m",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  Koy elini kalbine…",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 6
+        },
+        {
+          "chord": "E",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  Gül her ne olursa",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 6
+        },
+        {
+          "chord": "C#m",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  Gülmek sadaka",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 2
+        },
+        {
+          "chord": "E",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  Gel katıl sen bize…",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 6
+        },
+        {
+          "chord": "C#m",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  Koy elini kalbine",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 7
+        },
+        {
+          "chord": "E",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  Gülmek sadaka",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 2
+        },
+        {
+          "chord": "C#m",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  Gülmek sadaka",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 2
+        },
+        {
+          "chord": "E",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 3
+        },
+        {
+          "chord": "C#m",
+          "col": 6
+        },
+        {
+          "chord": "A",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 3
+        },
+        {
+          "chord": "C#m",
+          "col": 6
+        },
+        {
+          "chord": "A",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Maşallah maşallah sana",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 8
+        },
+        {
+          "chord": "C#m",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Her gün mutlu olsana…",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 8
+        },
+        {
+          "chord": "E",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Demişki resullallah…",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 5
+        },
+        {
+          "chord": "E",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gülmek sadaka…",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

@@ -1,0 +1,140 @@
+{
+  "slug": "gorkem-balkis-agla",
+  "artist": "Görkem Balkış",
+  "title": "Ağla",
+  "key": "G",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Bazen öylece bakar ve mehtaba dalarsın.",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "Eb",
+          "col": 36
+        },
+        {
+          "chord": "Gm",
+          "col": 59
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bazen bir şarkı çalar geçmişi anarsın.",
+      "chords": [
+        {
+          "chord": "Eb",
+          "col": 4
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bırakıp gittin diye üzülemem",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kaybettin bu yüzden",
+      "chords": [
+        {
+          "chord": "Eb",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sen Ağla",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ağla ki silinsin bu kara yazın",
+      "chords": [
+        {
+          "chord": "Eb",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 41
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sel olup önüne dökülsün göz yaşların",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Eb",
+          "col": 57
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Unutma ki giden sensin",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir yalnızlık daha eklensin",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

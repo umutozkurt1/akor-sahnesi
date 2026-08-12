@@ -1,0 +1,191 @@
+{
+  "slug": "ilyas-yalcintas-gel-be-gokyuzum",
+  "artist": "İlyas Yalçıntaş",
+  "title": "Gel Be Gökyüzüm",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Güneş doğdu ama yasta",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Mevsimi hep hasta, yoksun oralarda",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 30
+        },
+        {
+          "chord": "Eb",
+          "col": 58
+        },
+        {
+          "chord": "Gm",
+          "col": 62
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bi ses bin yol olur anla",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kaybedilen aşka, bahçeleri gonca",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 25
+        },
+        {
+          "chord": "Eb",
+          "col": 53
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Belki affeder bizi, onca hatıra gibi",
+      "chords": [
+        {
+          "chord": "Bb",
+          "col": 0
+        },
+        {
+          "chord": "Ab",
+          "col": 8
+        },
+        {
+          "chord": "Cm",
+          "col": 18
+        },
+        {
+          "chord": "Bb",
+          "col": 22
+        },
+        {
+          "chord": "Ab",
+          "col": 29
+        },
+        {
+          "chord": "Cm",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gel be gökyüzüm",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kıyıya vurdu aşklarım",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ya beni öldür ya anla",
+      "chords": [
+        {
+          "chord": "Ab",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Nefesim ol günahı boynuma",
+      "chords": [
+        {
+          "chord": "Eb",
+          "col": 15
+        },
+        {
+          "chord": "Bb",
+          "col": 31
+        },
+        {
+          "chord": "Fm",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 4
+        },
+        {
+          "chord": "Ab",
+          "col": 8
+        },
+        {
+          "chord": "Eb",
+          "col": 12
+        },
+        {
+          "chord": "Bb",
+          "col": 16
+        },
+        {
+          "chord": "Fm",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

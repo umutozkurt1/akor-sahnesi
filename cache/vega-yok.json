@@ -1,0 +1,200 @@
+{
+  "slug": "vega-yok",
+  "artist": "Vega",
+  "title": "Yok",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Kaç kaç benden kaç açılmaz sandığın o kapıyı yavaşça açtın",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bilmiyorsun ki sen ta içimdeki keskin bir şeyleri yerinden oynattın",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 47
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sesimi duyma bu rüzgara karışma diyeceksen",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Eğer hiç tadını duyma hayatı acı tatlı içmiyceksen her an",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Koş git buradan kaç git buradan şimdi asla hiç adını sormam",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 14
+        },
+        {
+          "chord": "Fm",
+          "col": 30
+        },
+        {
+          "chord": "A#",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yoksam ben yoksam sende yalnızlığa yerini sormam",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 14
+        },
+        {
+          "chord": "Fm",
+          "col": 30
+        },
+        {
+          "chord": "A#",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hiç yoksam hiç olmadıysam ağlamam ağlamıycam",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 14
+        },
+        {
+          "chord": "Fm",
+          "col": 30
+        },
+        {
+          "chord": "A#",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yok sen beni kurtaramasın kurtaramamış kimse kimseyi",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 52
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yüzümü tutup kaldıran elin o kadar güzel o kadar arsız",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sen senin adın ellerin gözlerin umduğun dudakların",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İçimdeki karanlığı yeniden kararttın",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 5
+        },
+        {
+          "chord": "Fm",
+          "col": 9
+        },
+        {
+          "chord": "A#",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

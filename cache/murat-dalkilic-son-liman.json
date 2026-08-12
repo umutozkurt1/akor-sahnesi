@@ -1,0 +1,267 @@
+{
+  "slug": "murat-dalkilic-son-liman",
+  "artist": "Murat Dalkılıç",
+  "title": "Son Liman",
+  "key": "D",
+  "capo": 0,
+  "rhythm": "A-A-Y-Y-A-Y",
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Intro:",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "Süren doldu mu seni alır giderler",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 3
+        },
+        {
+          "chord": "F#m",
+          "col": 20
+        },
+        {
+          "chord": "E",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bu kalpten götürürler",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 5
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Aklını çelen bazı düşünceler",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 10
+        },
+        {
+          "chord": "E",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Tamamen silinirler",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 2
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Senden kalanlara dokunmadım",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 13
+        },
+        {
+          "chord": "E",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Asla soluma koymadım",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 2
+        },
+        {
+          "chord": "D",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Aklımdan geçenleri tek tek",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 11
+        },
+        {
+          "chord": "E",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hiç yüzüne yüzüne okumadım",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 13
+        },
+        {
+          "chord": "D",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ağla kalbinden kelimeler dökülsün",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 13
+        },
+        {
+          "chord": "E",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sana söz bile yok",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yalvar yakar bu beden de çok zor",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 13
+        },
+        {
+          "chord": "E",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Artık etkilenmiyorum",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 4
+        },
+        {
+          "chord": "D",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Deniz bu elbet dalgalanır durulur",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 10
+        },
+        {
+          "chord": "E",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Senle yol almak çok zor",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 3
+        },
+        {
+          "chord": "D",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kalbi kırık olanlara",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 4
+        },
+        {
+          "chord": "E",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "O zaman bu liman son",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 4
+        },
+        {
+          "chord": "E",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

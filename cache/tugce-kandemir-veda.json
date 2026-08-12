@@ -1,0 +1,69 @@
+{
+  "slug": "tugce-kandemir-veda",
+  "artist": "Tuğçe Kandemir",
+  "title": "Veda",
+  "key": "Ab",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Suç bende ya da, ya da yalanlarda",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 4
+        },
+        {
+          "chord": "G",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ya da yanıp kül olmuş yangınlarda",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir bendim kendimden geçtim",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Arkamda elveda",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

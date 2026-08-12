@@ -1,0 +1,212 @@
+{
+  "slug": "piiz-firtinam",
+  "artist": "Piiz",
+  "title": "Fırtınam",
+  "key": "E",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Nasıl sevmişiz öyle kanattık sonunda",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Nasıl da yendiniz biraz hakettiniz galiba",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 40
+        },
+        {
+          "chord": "C",
+          "col": 59
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Şimdi sen gidince peki çaresiz kalır mı melekler",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 65
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kırılırsak dökülürsek gelirler mi bir araya",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 54
+        },
+        {
+          "chord": "C",
+          "col": 64
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "E5",
+          "col": 0
+        },
+        {
+          "chord": "F#5",
+          "col": 5
+        },
+        {
+          "chord": "G5",
+          "col": 11
+        },
+        {
+          "chord": "B5",
+          "col": 16
+        },
+        {
+          "chord": "E5",
+          "col": 30
+        },
+        {
+          "chord": "F#5",
+          "col": 35
+        },
+        {
+          "chord": "G5",
+          "col": 40
+        },
+        {
+          "chord": "C5",
+          "col": 45
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Şimdi kendi kendime bi kentin yollarında yürürüm hem de keyifsiz",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 34
+        },
+        {
+          "chord": "Am",
+          "col": 66
+        },
+        {
+          "chord": "Bm",
+          "col": 101
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Elimde az biraz düşüncesiz bi fırtına dönersek kaybederiz",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 24
+        },
+        {
+          "chord": "Am",
+          "col": 74
+        },
+        {
+          "chord": "Bm",
+          "col": 90
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Şimdi kendi kendime bi kentin yollarında yürürüm hem de keyifsiz",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 34
+        },
+        {
+          "chord": "Am",
+          "col": 66
+        },
+        {
+          "chord": "Bm",
+          "col": 101
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Elimde az biraz düşüncesiz bi gururla dönersen kaybederiz",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 24
+        },
+        {
+          "chord": "Am",
+          "col": 74
+        },
+        {
+          "chord": "Bm",
+          "col": 90
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

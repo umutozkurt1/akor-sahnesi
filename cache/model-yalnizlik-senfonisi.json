@@ -1,0 +1,252 @@
+{
+  "slug": "model-yalnizlik-senfonisi",
+  "artist": "Model",
+  "title": "Yalnızlık Senfonisi",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Anladım sonu yok yalnızlığın, her gün çoğalacak",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 22
+        },
+        {
+          "chord": "Am",
+          "col": 36
+        },
+        {
+          "chord": "Dm",
+          "col": 47
+        },
+        {
+          "chord": "E",
+          "col": 64
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Her zaman böyle miydi bilmiyorum",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 29
+        },
+        {
+          "chord": "Am",
+          "col": 47
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sanki dokunulmazdı çocukken ağlamak",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 39
+        },
+        {
+          "chord": "E",
+          "col": 59
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Alışır her insan, alışır zamanla kırılıp incinmeye",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 55
+        },
+        {
+          "chord": "Am",
+          "col": 66
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Çünkü olağan yıkılıp yıkılıp yeniden ayağa kalkmak",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 17
+        },
+        {
+          "chord": "F",
+          "col": 28
+        },
+        {
+          "chord": "Dm",
+          "col": 38
+        },
+        {
+          "chord": "E",
+          "col": 49
+        },
+        {
+          "chord": "Am",
+          "col": 71
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yalnızlığım yollarıma pusu kurmuş beklemekte",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 30
+        },
+        {
+          "chord": "F",
+          "col": 53
+        },
+        {
+          "chord": "Dm",
+          "col": 72
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Acılar gözlerini dikmiş üstüme nöbette",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 14
+        },
+        {
+          "chord": "G",
+          "col": 34
+        },
+        {
+          "chord": "E",
+          "col": 46
+        },
+        {
+          "chord": "Am",
+          "col": 59
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bekliyorum bekliyorum bekliyorum",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 36
+        },
+        {
+          "chord": "F",
+          "col": 57
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hadi gelin üstüme korkmuyorum",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 4
+        },
+        {
+          "chord": "E",
+          "col": 24
+        },
+        {
+          "chord": "Am",
+          "col": 48
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Başa döner",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bulutlar yüklü ha yağdı ha yağacak üstümüze hasret",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 84
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yokluğunla ben başbaşayız nihayet",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 11
+        },
+        {
+          "chord": "E",
+          "col": 40
+        },
+        {
+          "chord": "Am",
+          "col": 52
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

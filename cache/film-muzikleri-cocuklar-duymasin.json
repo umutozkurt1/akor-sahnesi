@@ -1,0 +1,214 @@
+{
+  "slug": "film-muzikleri-cocuklar-duymasin",
+  "artist": "Film Müzikleri",
+  "title": "Çocuklar Duymasın",
+  "key": "D",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 3
+        },
+        {
+          "chord": "A",
+          "col": 8
+        },
+        {
+          "chord": "D",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Aynı gemide yol alır",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ayrı dümen tutarız bu evde",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sır dolu şu halimiz oynatır bizi",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Her gün yeni bir oyun içinde",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Aah her gün yeni kurnazlık peşinde",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 4
+        },
+        {
+          "chord": "D",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Aman şşt sakın kimse uyanmasın",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gizlice ayrılalım çocuklar duymasın",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 9
+        },
+        {
+          "chord": "A",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Aman şşt sakın kimse uyanmasın",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gizlice ayrılalım çocuklar duymasın",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 9
+        },
+        {
+          "chord": "A",
+          "col": 20
+        },
+        {
+          "chord": "D",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 3
+        },
+        {
+          "chord": "Bm",
+          "col": 7
+        },
+        {
+          "chord": "Em",
+          "col": 12
+        },
+        {
+          "chord": "A",
+          "col": 17
+        },
+        {
+          "chord": "D",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

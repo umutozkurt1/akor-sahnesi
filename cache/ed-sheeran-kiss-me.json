@@ -1,0 +1,502 @@
+{
+  "slug": "ed-sheeran-kiss-me",
+  "artist": "Ed Sheeran",
+  "title": "Kiss Me",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "VERSE 1",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Settle down with me, and cover me up, cuddle me in.",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 1
+        },
+        {
+          "chord": "G",
+          "col": 7
+        },
+        {
+          "chord": "G",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Lie down with me and, and hold me, in your arms.",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 10
+        },
+        {
+          "chord": "Em",
+          "col": 14
+        },
+        {
+          "chord": "D",
+          "col": 26
+        },
+        {
+          "chord": "C",
+          "col": 28
+        },
+        {
+          "chord": "C",
+          "col": 35
+        },
+        {
+          "chord": "G",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "BRIDGE 1",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And your heart's against my chest, your lips pressed to my neck.",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 32
+        },
+        {
+          "chord": "G",
+          "col": 62
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And I'm falling for your eyes, but they don't know me yet.",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 26
+        },
+        {
+          "chord": "C",
+          "col": 54
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And with this feeling I'll forget, I'm in love now",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "tabchorus",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kiss me like you wanna be loved, you wanna be loved, you wanna be loved",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 15
+        },
+        {
+          "chord": "G",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 17
+        },
+        {
+          "chord": "Em",
+          "col": 24
+        },
+        {
+          "chord": "D",
+          "col": 34
+        },
+        {
+          "chord": "C",
+          "col": 41
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "This feels like falling in love, falling in love, falling in love",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 7
+        },
+        {
+          "chord": "G",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "tab",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "VERSE 2",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Settle down with me, and I'll be your safety, and you'll be my lady.",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 19
+        },
+        {
+          "chord": "G",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I was made, to keep your body warm",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 11
+        },
+        {
+          "chord": "Em",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But I'm cold as the wind blows, so hold me in your arms",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 1
+        },
+        {
+          "chord": "C",
+          "col": 4
+        },
+        {
+          "chord": "G",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "BRIDGE 2",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Oh no, my hearts against your chest, your lips pressed to my neck.",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 30
+        },
+        {
+          "chord": "G",
+          "col": 64
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And I'm falling for your eyes, but they don't know me yet,",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 26
+        },
+        {
+          "chord": "C",
+          "col": 54
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And with this feeling I'll forget, I'm in love now",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "tabchorus",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kiss me like wanna be loved, wanna be loved, wanna be loved",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 2
+        },
+        {
+          "chord": "G",
+          "col": 7
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "This feels like falling in love, falling in love, falling in love",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 7
+        },
+        {
+          "chord": "G",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "tab",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "SOLO",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "AD  (  )",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 3
+        },
+        {
+          "chord": "Em",
+          "col": 6
+        },
+        {
+          "chord": "D",
+          "col": 10
+        },
+        {
+          "chord": "C",
+          "col": 13
+        },
+        {
+          "chord": "C",
+          "col": 16
+        },
+        {
+          "chord": "G",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "BRIDGE 3",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yeah I been feeling, everything, from hate to love from love to lust from lust to truth",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 2
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I guess that's I know you, so I'll hold you, close, to help you give up",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 2
+        },
+        {
+          "chord": "C",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "tabchorus",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "So kiss me like you wanna be loved, wanna be loved, wanna be loved",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 9
+        },
+        {
+          "chord": "G",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "This feels like falling in love, we're falling in love, we're falling in love  now...",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 16
+        },
+        {
+          "chord": "G",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "OUTTRO",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kiss me like you wanna be loved, you wanna be loved, you wanna be loved",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 15
+        },
+        {
+          "chord": "G",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "This feels like falling in love, we're falling in love, we're falling in love",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 16
+        },
+        {
+          "chord": "G",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

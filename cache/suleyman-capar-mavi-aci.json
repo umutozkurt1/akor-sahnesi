@@ -1,0 +1,133 @@
+{
+  "slug": "suleyman-capar-mavi-aci",
+  "artist": "Süleyman Çapar",
+  "title": "Mavi Acı",
+  "key": "B",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Uzun sessiz yolculuk var",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 0
+        },
+        {
+          "chord": "G#m",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Mavi sular altında",
+      "chords": [
+        {
+          "chord": "F#",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Neden aldı hayat seni",
+      "chords": [
+        {
+          "chord": "G#m",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 8
+        },
+        {
+          "chord": "F#",
+          "col": 12
+        },
+        {
+          "chord": "E",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dalgalar arasına",
+      "chords": [
+        {
+          "chord": "F#",
+          "col": 0
+        },
+        {
+          "chord": "G#m",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Geri dönsen şimdi",
+      "chords": [
+        {
+          "chord": "F#",
+          "col": 0
+        },
+        {
+          "chord": "G#m",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Denizde bir acı var",
+      "chords": [
+        {
+          "chord": "F#",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Onur’umuzu yitirdik herşey güzeldi",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "F#",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Geri dön lütfen",
+      "chords": [
+        {
+          "chord": "G#m",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

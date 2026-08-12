@@ -1,0 +1,137 @@
+{
+  "slug": "dogus-uzulursun",
+  "artist": "Doğuş",
+  "title": "Üzülürsün",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Dayanamam diyordun ayrılamam",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yaşayamam diyordun yaşıyorsun bensiz",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dayanamam diyordun ayrılamam",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Katlanamam diyordun yaşıyorsun bensiz",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Benden ayrıldığına üzülürsün üzülürsün ağlarsın",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 49
+        },
+        {
+          "chord": "G#",
+          "col": 66
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Üzülürsün üzülürsün yanarsın",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 20
+        },
+        {
+          "chord": "Gm",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yalancısın biliyorsun senden ne istedim",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 53
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Güvendiğim dağlardaki kardan farklı değilsin",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 17
+        },
+        {
+          "chord": "Gm",
+          "col": 54
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

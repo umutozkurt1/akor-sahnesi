@@ -1,0 +1,226 @@
+{
+  "slug": "ozlem-ozdil-surgun",
+  "artist": "Özlem Özdil",
+  "title": "Sürgün",
+  "key": "G#",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "İntro:",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "G#m",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 4
+        },
+        {
+          "chord": "A",
+          "col": 6
+        },
+        {
+          "chord": "F#m",
+          "col": 8
+        },
+        {
+          "chord": "A",
+          "col": 12
+        },
+        {
+          "chord": "G#m",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gideceğim Yerler Çok Uzak Gülüm",
+      "chords": [
+        {
+          "chord": "G#m",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Rüzgarlardan Bile Dost Olmaz",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gideceğim Yerler Kapkara Zulüm",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 4
+        },
+        {
+          "chord": "B",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ne Kadar Çeksem Çilem Dolmaz",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "G#m",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hislerimi Dizelere Yazan",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kalemler Ağlasın Bana",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kalpleri Aşk İle Yanan",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sevenler Ağlasın Yar",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "G#m",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gideceğim Sürgün Mecburdur Gülüm",
+      "chords": [
+        {
+          "chord": "G#m",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sen Sormazsan Başka Soranım Olmaz",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gideceğim Yerler Sonsuzdur Gülüm",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 4
+        },
+        {
+          "chord": "B",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sen Duymazsan Beni Duyan Olmaz",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "G#m",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

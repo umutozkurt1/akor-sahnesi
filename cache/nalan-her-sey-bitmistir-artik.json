@@ -1,0 +1,197 @@
+{
+  "slug": "nalan-her-sey-bitmistir-artik",
+  "artist": "Nalan",
+  "title": "Her Şey Bitmiştir Artık",
+  "key": "D",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Her şey bitmiştir artık, yolumuz ayrılıyor",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 17
+        },
+        {
+          "chord": "Am",
+          "col": 26
+        },
+        {
+          "chord": "Dm",
+          "col": 41
+        },
+        {
+          "chord": "C",
+          "col": 51
+        },
+        {
+          "chord": "E",
+          "col": 57
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Senin de benim gibi, içerin kan ağlıyor",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 24
+        },
+        {
+          "chord": "G",
+          "col": 31
+        },
+        {
+          "chord": "C",
+          "col": 48
+        },
+        {
+          "chord": "E",
+          "col": 54
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Çok yalvardım bir zaman",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dinlemedin hiç beni",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 25
+        },
+        {
+          "chord": "E",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gururumla oynadın",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Artık affetmem seni",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 11
+        },
+        {
+          "chord": "Am",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sakın çıkma karşıma, dönemem sana artık",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 13
+        },
+        {
+          "chord": "Am",
+          "col": 22
+        },
+        {
+          "chord": "Dm",
+          "col": 41
+        },
+        {
+          "chord": "C",
+          "col": 55
+        },
+        {
+          "chord": "E",
+          "col": 60
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ne güzel anlaşırken, bu aşk da bitti yazık",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 24
+        },
+        {
+          "chord": "G",
+          "col": 31
+        },
+        {
+          "chord": "C",
+          "col": 48
+        },
+        {
+          "chord": "E",
+          "col": 52
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

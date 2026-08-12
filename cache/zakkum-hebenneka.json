@@ -1,0 +1,206 @@
+{
+  "slug": "zakkum-hebenneka",
+  "artist": "Zakkum",
+  "title": "Hebenneka",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Topuklu kırmızı ayakkabına",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "G7",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sokak boyuncaki çalımlarına",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Lavanta kokulu o gerdanına",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Biraz da laftan anlasan ya",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 0
+        },
+        {
+          "chord": "G7",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   Herkesi öpme",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 3
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   Mahallede söz olur",
+      "chords": [
+        {
+          "chord": "G7",
+          "col": 3
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   Herkesi sevme",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 3
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   Hafifmesrep olur",
+      "chords": [
+        {
+          "chord": "G7",
+          "col": 3
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   Herkese verme gönlünü",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 3
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   Ayıp olur",
+      "chords": [
+        {
+          "chord": "G7",
+          "col": 3
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   Sen yine hebenneka",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 3
+        },
+        {
+          "chord": "G7",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hesap kitap nedir bilemezsin",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "G7",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Giydigini tekrar giyemezsin",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Rujunu tasırmadan süremezsin",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bu gidisle gelinlik giyemezsin",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 0
+        },
+        {
+          "chord": "G7",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

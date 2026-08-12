@@ -1,0 +1,221 @@
+{
+  "slug": "ozan-yilmazoglu-ruyaya-inandim",
+  "artist": "Ozan Yılmazoğlu",
+  "title": "Rüyaya İnandım",
+  "key": "F#",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "İntro :",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 5
+        },
+        {
+          "chord": "D",
+          "col": 8
+        },
+        {
+          "chord": "E",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "        Kalbin bi yalandı",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "        Bi açık bi kapandı",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "       Duymadım ömrümde",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "        Bu nasıl bi masaldı",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "       Rüyaya inandım",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "       Hep mutsuz uyandım",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "       Kaç günde unuttun sen",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 10
+        },
+        {
+          "chord": "D",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "       Ben geçmişte kaldım",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ya çekil yanımdan, ya da tut elimi",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 21
+        },
+        {
+          "chord": "F#m",
+          "col": 45
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ya geri ver beni, ya da hayallerimi",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 24
+        },
+        {
+          "chord": "F#m",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sensiz dur diyemem akan gözyaşıma",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 27
+        },
+        {
+          "chord": "F#m",
+          "col": 54
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bi kalbin içinde iki sevda taşıma",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 22
+        },
+        {
+          "chord": "F#m",
+          "col": 48
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

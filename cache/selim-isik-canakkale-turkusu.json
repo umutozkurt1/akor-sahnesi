@@ -1,0 +1,258 @@
+{
+  "slug": "selim-isik-canakkale-turkusu",
+  "artist": "Selim Işık",
+  "title": "Çanakkale Türküsü",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "İntro:",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "C#m7",
+          "col": 4
+        },
+        {
+          "chord": "Emaj7",
+          "col": 9
+        },
+        {
+          "chord": "C#m",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "C#m7",
+          "col": 4
+        },
+        {
+          "chord": "Emaj7",
+          "col": 9
+        },
+        {
+          "chord": "F#sus2",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "F#sus2",
+          "col": 4
+        },
+        {
+          "chord": "Em",
+          "col": 11
+        },
+        {
+          "chord": "B11",
+          "col": 15
+        },
+        {
+          "chord": "Em",
+          "col": 20
+        },
+        {
+          "chord": "C#m",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Çanakkale içinde    aynalı      çarşı",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "C#m7",
+          "col": 13
+        },
+        {
+          "chord": "Emaj7",
+          "col": 24
+        },
+        {
+          "chord": "F#sus2",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ana ben gidiyom         düşmana karşı, of, gençliğim eyvah",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "B11",
+          "col": 26
+        },
+        {
+          "chord": "Em",
+          "col": 30
+        },
+        {
+          "chord": "C#m",
+          "col": 35
+        },
+        {
+          "chord": "Emaj7",
+          "col": 46
+        },
+        {
+          "chord": "C#m",
+          "col": 58
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Çanakkale içinde bir uzun selvi",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "C#m7",
+          "col": 13
+        },
+        {
+          "chord": "Emaj7",
+          "col": 21
+        },
+        {
+          "chord": "F#sus2",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kimimiz nişanlı,             kimimiz   evli,  of, gençliğim eyvah",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "B11",
+          "col": 24
+        },
+        {
+          "chord": "Em",
+          "col": 28
+        },
+        {
+          "chord": "C#m",
+          "col": 35
+        },
+        {
+          "chord": "Emaj7",
+          "col": 45
+        },
+        {
+          "chord": "C#m",
+          "col": 57
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Çanakkale içinde    vurdular beni",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "C#m7",
+          "col": 15
+        },
+        {
+          "chord": "Emaj7",
+          "col": 23
+        },
+        {
+          "chord": "F#sus2",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ölmeden   mezara         koydular beni of, gençligim eyvah",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "B11",
+          "col": 29
+        },
+        {
+          "chord": "Em",
+          "col": 33
+        },
+        {
+          "chord": "C#m",
+          "col": 37
+        },
+        {
+          "chord": "Emaj7",
+          "col": 47
+        },
+        {
+          "chord": "C#m",
+          "col": 59
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

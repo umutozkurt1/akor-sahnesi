@@ -1,0 +1,188 @@
+{
+  "slug": "murat-dalkilic-yudum-yudum",
+  "artist": "Murat Dalkılıç",
+  "title": "Yudum Yudum",
+  "key": "D",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "İntro :",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 5
+        },
+        {
+          "chord": "Gm",
+          "col": 10
+        },
+        {
+          "chord": "D#",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dön Bir Bak Nasıl Gülerdik Eskiden",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Karanlık Bu Aşkın Tabiatında Yokken",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Tarifsiz Acılar Bile Hep Sende Son Bulurken",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İkimiz De Bak Aşkı içimizde Yaşıyor Olduk",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 10
+        },
+        {
+          "chord": "D",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir Yanım Sana Fena Kızgın Bir Yanım Sana Hala Fena",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 11
+        },
+        {
+          "chord": "F",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ee Arada Bir Sor Bari Gerekenlerini Yerine Getirelim Aşkın",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 13
+        },
+        {
+          "chord": "D",
+          "col": 46
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sana Çok Kızmış Olsam Da Seni Geri Çeviremiyorum",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Öfkeyle Kalkıp Otursam Da Zararını Seviyorum",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yar Elinden Aşk Canımı Yaksa Da Yudum Yudum",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bu Çıldırmış Hikayelerin Bir Mutlu Sonu Var Mı (Bu Bize Uyar Mı)",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 39
+        },
+        {
+          "chord": "Fm",
+          "col": 45
+        },
+        {
+          "chord": "Gm",
+          "col": 59
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

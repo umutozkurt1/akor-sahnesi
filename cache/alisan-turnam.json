@@ -1,0 +1,173 @@
+{
+  "slug": "alisan-turnam",
+  "artist": "Alişan",
+  "title": "Turnam",
+  "key": "B",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "  başım darda benim şu garip diyarda benim",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 26
+        },
+        {
+          "chord": "Bm",
+          "col": 45
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Bir sevenim var mı bilmem gözden ıraklarda benim",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 1
+        },
+        {
+          "chord": "D",
+          "col": 19
+        },
+        {
+          "chord": "A",
+          "col": 33
+        },
+        {
+          "chord": "G",
+          "col": 47
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Gözden ıraklarda benim",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 1
+        },
+        {
+          "chord": "G",
+          "col": 9
+        },
+        {
+          "chord": "Bm",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Çekerim derdi sineye derdi sineye",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 1
+        },
+        {
+          "chord": "D",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Bu yıl bize gülmek haram belki seneye",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 1
+        },
+        {
+          "chord": "G",
+          "col": 21
+        },
+        {
+          "chord": "A",
+          "col": 26
+        },
+        {
+          "chord": "Bm",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Başım öne eğdirdiler yüzüm yere değdirdiler",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 1
+        },
+        {
+          "chord": "Em",
+          "col": 23
+        },
+        {
+          "chord": "Bm",
+          "col": 41
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Saçıma kar yağdırdılar yaz ile baharda benim",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 1
+        },
+        {
+          "chord": "D",
+          "col": 15
+        },
+        {
+          "chord": "A",
+          "col": 30
+        },
+        {
+          "chord": "G",
+          "col": 43
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Yaz ile baharda benim",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 1
+        },
+        {
+          "chord": "G",
+          "col": 10
+        },
+        {
+          "chord": "Bm",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

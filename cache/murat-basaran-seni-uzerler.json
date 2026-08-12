@@ -1,0 +1,107 @@
+{
+  "slug": "murat-basaran-seni-uzerler",
+  "artist": "Murat Başaran",
+  "title": "Seni Üzerler",
+  "key": "E",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Seni üzerler  seni gözlerin ağlar görürüm sızlar yüreğim",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 15
+        },
+        {
+          "chord": "C7",
+          "col": 31
+        },
+        {
+          "chord": "C",
+          "col": 44
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Seni üzerler gülüm gözlerin ağlar görürüm sızlar yüreğim",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 3
+        },
+        {
+          "chord": "D",
+          "col": 18
+        },
+        {
+          "chord": "C7",
+          "col": 34
+        },
+        {
+          "chord": "C",
+          "col": 47
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ne kadar yakarsın içimi  bilirim  dokunmam bir o kadar yasak",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 2
+        },
+        {
+          "chord": "C",
+          "col": 41
+        },
+        {
+          "chord": "C",
+          "col": 54
+        },
+        {
+          "chord": "D",
+          "col": 56
+        },
+        {
+          "chord": "Bm",
+          "col": 58
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ne kadar yakınsın bana bilirim  ama bir o kadar uzak",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 2
+        },
+        {
+          "chord": "C",
+          "col": 41
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "A X 2",
+      "chords": [],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

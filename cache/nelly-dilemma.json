@@ -1,0 +1,65 @@
+{
+  "slug": "nelly-dilemma",
+  "artist": "Nelly",
+  "title": "Dilemma",
+  "key": "B",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "The song isn't hard to figure out. But for the timing-impaired, here's a sample:",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "'No matter what I do, all I think about is you'",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 4
+        },
+        {
+          "chord": "E",
+          "col": 18
+        },
+        {
+          "chord": "C#m",
+          "col": 28
+        },
+        {
+          "chord": "F#m",
+          "col": 44
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "'Even when I'm with my boo, boy you know I'm crazy over you.'",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 6
+        },
+        {
+          "chord": "E",
+          "col": 23
+        },
+        {
+          "chord": "C#m",
+          "col": 45
+        },
+        {
+          "chord": "F#m",
+          "col": 57
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

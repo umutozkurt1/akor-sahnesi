@@ -1,0 +1,207 @@
+{
+  "slug": "semicenk-mesafe",
+  "artist": "Semicenk",
+  "title": "Mesafe",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Bir zamanlar sevdiğin, aşkı bildiğin günler oldu mu ?",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 44
+        },
+        {
+          "chord": "E",
+          "col": 70
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bana güller verdiğin, tatlı nameler gerçek oldu mu  ?",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 42
+        },
+        {
+          "chord": "E",
+          "col": 70
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir zamanlar sevdiğin, aşkı bildiğin günler oldu mu ?",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 44
+        },
+        {
+          "chord": "E",
+          "col": 70
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bana güller verdiğin, tatlı nameler mevsim oldu mu  ?",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 42
+        },
+        {
+          "chord": "E",
+          "col": 70
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hiç yüzünden darılmak, her güzel şeye alınmak,",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bitik ve mutsuz anılmak, alın yazımsa, sildim çoktan",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 80
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Peşimden gelirsen, aşk için direnirsen",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Nerede yanlış bilirsen, çözmeyi düşünürsen",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Belki bir gün bulursun, ama sen onu da unutursun, boşver",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 91
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yüreğinden yaralı, bizim hikayemiz",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 21
+        },
+        {
+          "chord": "G",
+          "col": 51
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kaderimden kalanı, silsem de gitmiyor",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 23
+        },
+        {
+          "chord": "Am",
+          "col": 60
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İki sohbet aralı, bütün mesafemiz",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 18
+        },
+        {
+          "chord": "E",
+          "col": 49
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Geldim anlamıyor (Sevdim anlamıyor)",
+      "chords": [
+        {
+          "chord": "E7",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

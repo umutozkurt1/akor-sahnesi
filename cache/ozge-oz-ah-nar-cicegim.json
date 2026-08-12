@@ -1,0 +1,178 @@
+{
+  "slug": "ozge-oz-ah-nar-cicegim",
+  "artist": "Özge Öz",
+  "title": "ah nar çiçeğim",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "İNTRO",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "C - Dm - G - F - A# - Dm - G - Em (X2)",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sevdadır adın zamana boyun eğmez",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yıllar geçip gitse bile gitmez bıraktığı izler",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 27
+        },
+        {
+          "chord": "Em",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Her bahar aşkın bahtına bir ümit düşer",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Onunla başlar ama kırılır inceldiği yerden",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 22
+        },
+        {
+          "chord": "Em",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ah nar çiçeğim",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sevsem de hayal bilirim",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 6
+        },
+        {
+          "chord": "G",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gözlerimde resmin",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kalır emanet izlerin",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ah nazlı Zeynebim",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Beni sevmen hayal bilirim",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 5
+        },
+        {
+          "chord": "Dm",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ilık rüzgar savurur",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Saçların bahar mevsimim",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 5
+        },
+        {
+          "chord": "Em",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

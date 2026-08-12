@@ -1,0 +1,809 @@
+{
+  "slug": "toto-africa",
+  "artist": "Toto",
+  "title": "Africa",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "C#m",
+          "col": 4
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I hear the drums echoing tonight",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 20
+        },
+        {
+          "chord": "Am",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "She hears only whispers of some quiet conversa - tion",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 18
+        },
+        {
+          "chord": "Dm",
+          "col": 32
+        },
+        {
+          "chord": "Am",
+          "col": 44
+        },
+        {
+          "chord": "A#",
+          "col": 50
+        },
+        {
+          "chord": "Dm",
+          "col": 53
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "She's coming in twelve thirty flight   the moonlit wings",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 17
+        },
+        {
+          "chord": "Am",
+          "col": 31
+        },
+        {
+          "chord": "C",
+          "col": 44
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Reflect the stars that guide me toward salva-tion",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 0
+        },
+        {
+          "chord": "Dm7",
+          "col": 23
+        },
+        {
+          "chord": "Am",
+          "col": 41
+        },
+        {
+          "chord": "A#",
+          "col": 47
+        },
+        {
+          "chord": "Dm",
+          "col": 50
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I stopped an old man along the way",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 15
+        },
+        {
+          "chord": "Am",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hoping to find some long forgotten words or ancient melo-dies",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 21
+        },
+        {
+          "chord": "Dm",
+          "col": 35
+        },
+        {
+          "chord": "Am",
+          "col": 52
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "He turned to me as if to say hurry boy, it's waiting there for you",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 15
+        },
+        {
+          "chord": "Am",
+          "col": 25
+        },
+        {
+          "chord": "A#",
+          "col": 45
+        },
+        {
+          "chord": "Dm",
+          "col": 62
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gonna take a lot to drag me away from you",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 14
+        },
+        {
+          "chord": "A#",
+          "col": 30
+        },
+        {
+          "chord": "F",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "There's nothing that a hundred men or more could ever do",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 24
+        },
+        {
+          "chord": "A#",
+          "col": 38
+        },
+        {
+          "chord": "F",
+          "col": 52
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I bless the rains down in  Africa",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 13
+        },
+        {
+          "chord": "A#",
+          "col": 25
+        },
+        {
+          "chord": "F",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gonna take some time to do the things we never  had",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 16
+        },
+        {
+          "chord": "A#",
+          "col": 32
+        },
+        {
+          "chord": "Dm",
+          "col": 41
+        },
+        {
+          "chord": "F",
+          "col": 45
+        },
+        {
+          "chord": "Gm",
+          "col": 47
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "The wild dogs cry out in the night",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 14
+        },
+        {
+          "chord": "Am",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "As they grow restless longing for some solitary compa-ny",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 22
+        },
+        {
+          "chord": "Dm",
+          "col": 39
+        },
+        {
+          "chord": "Am",
+          "col": 48
+        },
+        {
+          "chord": "A#",
+          "col": 54
+        },
+        {
+          "chord": "Dm",
+          "col": 57
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I know that I must do what's right",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 12
+        },
+        {
+          "chord": "Am",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "As sure as Kilimanjaro rises like Olympus above the Serengeti",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 23
+        },
+        {
+          "chord": "Dm",
+          "col": 34
+        },
+        {
+          "chord": "Am",
+          "col": 52
+        },
+        {
+          "chord": "A#",
+          "col": 59
+        },
+        {
+          "chord": "Dm",
+          "col": 62
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I seek to cure what's deep inside",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 10
+        },
+        {
+          "chord": "Am",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Frightened of this thing that I've become",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 19
+        },
+        {
+          "chord": "Dm",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gonna take a lot to drag me away from you",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 12
+        },
+        {
+          "chord": "A#",
+          "col": 26
+        },
+        {
+          "chord": "F",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "There's nothing that a hundred men or more could ever do",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 22
+        },
+        {
+          "chord": "A#",
+          "col": 36
+        },
+        {
+          "chord": "F",
+          "col": 50
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I bless the rains down in  Africa",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 11
+        },
+        {
+          "chord": "A#",
+          "col": 25
+        },
+        {
+          "chord": "F",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gonna take some time to do the things we never  had",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 14
+        },
+        {
+          "chord": "A#",
+          "col": 29
+        },
+        {
+          "chord": "Dm",
+          "col": 38
+        },
+        {
+          "chord": "F",
+          "col": 42
+        },
+        {
+          "chord": "Gm",
+          "col": 44
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "[Interlude]",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 4
+        },
+        {
+          "chord": "Am",
+          "col": 10
+        },
+        {
+          "chord": "C",
+          "col": 16
+        },
+        {
+          "chord": "A#",
+          "col": 20
+        },
+        {
+          "chord": "Dm",
+          "col": 24
+        },
+        {
+          "chord": "Am",
+          "col": 30
+        },
+        {
+          "chord": "A#",
+          "col": 37
+        },
+        {
+          "chord": "Dm",
+          "col": 41
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "          hurry boy, it's waiting there for you",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "E7",
+          "col": 3
+        },
+        {
+          "chord": "Am",
+          "col": 8
+        },
+        {
+          "chord": "A#",
+          "col": 25
+        },
+        {
+          "chord": "Dm",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "[OutroChorus]",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gonna take a lot to drag me away from you",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 12
+        },
+        {
+          "chord": "A#",
+          "col": 26
+        },
+        {
+          "chord": "F",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "There's nothing that a hundred men or more could ever do",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 22
+        },
+        {
+          "chord": "A#",
+          "col": 36
+        },
+        {
+          "chord": "F",
+          "col": 50
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I bless the rains down in  Africa",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 11
+        },
+        {
+          "chord": "A#",
+          "col": 25
+        },
+        {
+          "chord": "F",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I bless the rains down in  Africa",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 11
+        },
+        {
+          "chord": "A#",
+          "col": 25
+        },
+        {
+          "chord": "F",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I bless the rains down in  Africa",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 11
+        },
+        {
+          "chord": "A#",
+          "col": 25
+        },
+        {
+          "chord": "F",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I bless the rains down in   Africa",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 11
+        },
+        {
+          "chord": "A#",
+          "col": 25
+        },
+        {
+          "chord": "F",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I bless the rains down in  Africa",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 11
+        },
+        {
+          "chord": "A#",
+          "col": 25
+        },
+        {
+          "chord": "F",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gonna take some time to do the things we never  had",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 14
+        },
+        {
+          "chord": "A#",
+          "col": 29
+        },
+        {
+          "chord": "Dm",
+          "col": 38
+        },
+        {
+          "chord": "F",
+          "col": 42
+        },
+        {
+          "chord": "Gm",
+          "col": 44
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

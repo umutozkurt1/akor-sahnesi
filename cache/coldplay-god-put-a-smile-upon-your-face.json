@@ -1,0 +1,913 @@
+{
+  "slug": "coldplay-god-put-a-smile-upon-your-face",
+  "artist": "Coldplay",
+  "title": "God Put A Smile Upon Your Face",
+  "key": "C#",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Intro",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "C#",
+          "col": 0
+        },
+        {
+          "chord": "E6",
+          "col": 3
+        },
+        {
+          "chord": "D#7",
+          "col": 6
+        },
+        {
+          "chord": "D#7",
+          "col": 10
+        },
+        {
+          "chord": "Dmaj7",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "C#",
+          "col": 0
+        },
+        {
+          "chord": "E6",
+          "col": 3
+        },
+        {
+          "chord": "D#7",
+          "col": 6
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Dmaj7",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  Where do we go, no bo dy knows",
+      "chords": [
+        {
+          "chord": "C#",
+          "col": 0
+        },
+        {
+          "chord": "E6",
+          "col": 14
+        },
+        {
+          "chord": "D#7",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "            I've got to say I'm on my way   down",
+      "chords": [
+        {
+          "chord": "D#7",
+          "col": 0
+        },
+        {
+          "chord": "Dmaj7",
+          "col": 4
+        },
+        {
+          "chord": "C#",
+          "col": 10
+        },
+        {
+          "chord": "E6",
+          "col": 24
+        },
+        {
+          "chord": "D#7",
+          "col": 41
+        },
+        {
+          "chord": "Dmaj7",
+          "col": 48
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  God give me style and give me grace",
+      "chords": [
+        {
+          "chord": "C#",
+          "col": 0
+        },
+        {
+          "chord": "E6",
+          "col": 14
+        },
+        {
+          "chord": "D#7",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "            God put a smile up on my face",
+      "chords": [
+        {
+          "chord": "D#7",
+          "col": 0
+        },
+        {
+          "chord": "Dmaj7",
+          "col": 4
+        },
+        {
+          "chord": "C#",
+          "col": 10
+        },
+        {
+          "chord": "E6",
+          "col": 22
+        },
+        {
+          "chord": "D#7",
+          "col": 41
+        },
+        {
+          "chord": "Dmaj7",
+          "col": 45
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "C#",
+          "col": 0
+        },
+        {
+          "chord": "E6",
+          "col": 3
+        },
+        {
+          "chord": "D#7",
+          "col": 6
+        },
+        {
+          "chord": "D#7",
+          "col": 10
+        },
+        {
+          "chord": "Dmaj7",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "C#",
+          "col": 0
+        },
+        {
+          "chord": "E6",
+          "col": 3
+        },
+        {
+          "chord": "D#7",
+          "col": 6
+        },
+        {
+          "chord": "Dmaj7",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  Where do we go to draw the line",
+      "chords": [
+        {
+          "chord": "C#",
+          "col": 0
+        },
+        {
+          "chord": "E6",
+          "col": 14
+        },
+        {
+          "chord": "D#7",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "            I've got to say I wasted all   your time",
+      "chords": [
+        {
+          "chord": "D#7",
+          "col": 0
+        },
+        {
+          "chord": "Dmaj7",
+          "col": 4
+        },
+        {
+          "chord": "C#",
+          "col": 10
+        },
+        {
+          "chord": "E6",
+          "col": 24
+        },
+        {
+          "chord": "D#7",
+          "col": 40
+        },
+        {
+          "chord": "Dmaj7",
+          "col": 52
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Oh ho ney ho ney",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  Where do I go to fall from grace",
+      "chords": [
+        {
+          "chord": "C#",
+          "col": 0
+        },
+        {
+          "chord": "E6",
+          "col": 13
+        },
+        {
+          "chord": "D#7",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "            God put a smile up on your face   yeah",
+      "chords": [
+        {
+          "chord": "D#7",
+          "col": 0
+        },
+        {
+          "chord": "Dmaj7",
+          "col": 4
+        },
+        {
+          "chord": "C#",
+          "col": 10
+        },
+        {
+          "chord": "E6",
+          "col": 22
+        },
+        {
+          "chord": "D#7",
+          "col": 43
+        },
+        {
+          "chord": "Dmaj7",
+          "col": 50
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And ah, when you work  it out I'm worse than you",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "E6",
+          "col": 21
+        },
+        {
+          "chord": "F#",
+          "col": 34
+        },
+        {
+          "chord": "A",
+          "col": 48
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ye ah, when you work  it out I wanted to",
+      "chords": [
+        {
+          "chord": "E6",
+          "col": 20
+        },
+        {
+          "chord": "F#",
+          "col": 31
+        },
+        {
+          "chord": "A",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And ah, when you work  out where to draw the line",
+      "chords": [
+        {
+          "chord": "E6",
+          "col": 21
+        },
+        {
+          "chord": "F#",
+          "col": 36
+        },
+        {
+          "chord": "A",
+          "col": 49
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Your guess is as good  as  mine",
+      "chords": [
+        {
+          "chord": "E6",
+          "col": 21
+        },
+        {
+          "chord": "F#",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "C#",
+          "col": 0
+        },
+        {
+          "chord": "E6",
+          "col": 3
+        },
+        {
+          "chord": "D#7",
+          "col": 6
+        },
+        {
+          "chord": "D#7",
+          "col": 10
+        },
+        {
+          "chord": "Dmaj7",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "C#",
+          "col": 0
+        },
+        {
+          "chord": "E6",
+          "col": 3
+        },
+        {
+          "chord": "D#7",
+          "col": 6
+        },
+        {
+          "chord": "Dmaj7",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  Where do we go, no bo dy knows",
+      "chords": [
+        {
+          "chord": "C#",
+          "col": 0
+        },
+        {
+          "chord": "E6",
+          "col": 14
+        },
+        {
+          "chord": "D#7",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "            Don't ever say you're on your way   down     when",
+      "chords": [
+        {
+          "chord": "D#7",
+          "col": 0
+        },
+        {
+          "chord": "Dmaj7",
+          "col": 4
+        },
+        {
+          "chord": "C#",
+          "col": 10
+        },
+        {
+          "chord": "E6",
+          "col": 23
+        },
+        {
+          "chord": "D#7",
+          "col": 45
+        },
+        {
+          "chord": "Dmaj7",
+          "col": 52
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  God gave you style and gave you grace",
+      "chords": [
+        {
+          "chord": "C#",
+          "col": 0
+        },
+        {
+          "chord": "E6",
+          "col": 15
+        },
+        {
+          "chord": "D#7",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "            And put a smile up on your face   oh yeah",
+      "chords": [
+        {
+          "chord": "D#7",
+          "col": 0
+        },
+        {
+          "chord": "Dmaj7",
+          "col": 4
+        },
+        {
+          "chord": "C#",
+          "col": 10
+        },
+        {
+          "chord": "E6",
+          "col": 22
+        },
+        {
+          "chord": "D#7",
+          "col": 43
+        },
+        {
+          "chord": "Dmaj7",
+          "col": 53
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And ah, when you work  it out I'm worse than you",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "E6",
+          "col": 21
+        },
+        {
+          "chord": "F#",
+          "col": 34
+        },
+        {
+          "chord": "A",
+          "col": 48
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ye ah, when you work  it out I wanted to",
+      "chords": [
+        {
+          "chord": "E6",
+          "col": 20
+        },
+        {
+          "chord": "F#",
+          "col": 31
+        },
+        {
+          "chord": "A",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And ah, when you work  out where to draw the line",
+      "chords": [
+        {
+          "chord": "E6",
+          "col": 21
+        },
+        {
+          "chord": "F#",
+          "col": 36
+        },
+        {
+          "chord": "A",
+          "col": 49
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Your guess is as good  as  mine",
+      "chords": [
+        {
+          "chord": "E6",
+          "col": 21
+        },
+        {
+          "chord": "F#",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "         It's as good as mine,         It's as good as mine",
+      "chords": [
+        {
+          "chord": "C#",
+          "col": 0
+        },
+        {
+          "chord": "E6",
+          "col": 3
+        },
+        {
+          "chord": "D#7",
+          "col": 6
+        },
+        {
+          "chord": "Dmaj7",
+          "col": 17
+        },
+        {
+          "chord": "C#",
+          "col": 30
+        },
+        {
+          "chord": "E6",
+          "col": 33
+        },
+        {
+          "chord": "D#7",
+          "col": 36
+        },
+        {
+          "chord": "Dmaj7",
+          "col": 47
+        },
+        {
+          "chord": "C#",
+          "col": 59
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "      It's as good as mine",
+      "chords": [
+        {
+          "chord": "E6",
+          "col": 0
+        },
+        {
+          "chord": "D#7",
+          "col": 3
+        },
+        {
+          "chord": "Dmaj7",
+          "col": 14
+        },
+        {
+          "chord": "C#",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Na  na na na na na na na na na",
+      "chords": [
+        {
+          "chord": "E6",
+          "col": 2
+        },
+        {
+          "chord": "D#7",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "As good as mine",
+      "chords": [
+        {
+          "chord": "Dmaj7",
+          "col": 3
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "E6",
+          "col": 2
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "As good as mine",
+      "chords": [
+        {
+          "chord": "F#",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 11
+        },
+        {
+          "chord": "E6",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "As good as mine",
+      "chords": [
+        {
+          "chord": "F#",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 11
+        },
+        {
+          "chord": "E6",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "As good as mine",
+      "chords": [
+        {
+          "chord": "F#",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 11
+        },
+        {
+          "chord": "E6",
+          "col": 15
+        },
+        {
+          "chord": "F#",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  Where do we go, no bo dy knows",
+      "chords": [
+        {
+          "chord": "C#",
+          "col": 0
+        },
+        {
+          "chord": "E6",
+          "col": 14
+        },
+        {
+          "chord": "D#7",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "            Don't ever say you're on your way   down     when",
+      "chords": [
+        {
+          "chord": "D#7",
+          "col": 0
+        },
+        {
+          "chord": "Dmaj7",
+          "col": 4
+        },
+        {
+          "chord": "C#",
+          "col": 10
+        },
+        {
+          "chord": "E6",
+          "col": 23
+        },
+        {
+          "chord": "D#7",
+          "col": 45
+        },
+        {
+          "chord": "Dmaj7",
+          "col": 52
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  God gave you style and gave you grace",
+      "chords": [
+        {
+          "chord": "C#",
+          "col": 0
+        },
+        {
+          "chord": "E6",
+          "col": 15
+        },
+        {
+          "chord": "D#7",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "            And put a smile up on your face",
+      "chords": [
+        {
+          "chord": "D#7",
+          "col": 0
+        },
+        {
+          "chord": "Dmaj7",
+          "col": 4
+        },
+        {
+          "chord": "C#",
+          "col": 10
+        },
+        {
+          "chord": "E6",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "D#7",
+          "col": 0
+        },
+        {
+          "chord": "Dmaj7",
+          "col": 4
+        },
+        {
+          "chord": "C#",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

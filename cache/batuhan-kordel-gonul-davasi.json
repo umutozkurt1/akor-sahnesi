@@ -1,0 +1,282 @@
+{
+  "slug": "batuhan-kordel-gonul-davasi",
+  "artist": "Batuhan Kordel",
+  "title": "Gönül Davası",
+  "key": "G",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Ben senin kasvetinde asıl mevzu değilim aaa değilim",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 34
+        },
+        {
+          "chord": "Eb",
+          "col": 65
+        },
+        {
+          "chord": "Gm",
+          "col": 70
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ben senin meclisinde mebus muyum değilim aaa değilim",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 35
+        },
+        {
+          "chord": "Eb",
+          "col": 72
+        },
+        {
+          "chord": "Gm",
+          "col": 79
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Canım yandı camı açtım dumanından haberin olmadı aaa",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 40
+        },
+        {
+          "chord": "Bb",
+          "col": 78
+        },
+        {
+          "chord": "Cm",
+          "col": 89
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kravatlı birkaç isyan astım duvarına uzatmadım aaa",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 33
+        },
+        {
+          "chord": "Bb",
+          "col": 62
+        },
+        {
+          "chord": "Cm",
+          "col": 78
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir gönül davası anlatsam ağlarsın",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 21
+        },
+        {
+          "chord": "Cm",
+          "col": 43
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Şişelere deniz koy gemiler batsın",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "Bb",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir gönül davası anlatsam ağlarsın",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 18
+        },
+        {
+          "chord": "Cm",
+          "col": 43
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Şişelere deniz koy gemiler batsın (boğazımıza)",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "Bb",
+          "col": 32
+        },
+        {
+          "chord": "Gm",
+          "col": 72
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir gönül davası anlatsam ağlarsın",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 6
+        },
+        {
+          "chord": "F",
+          "col": 12
+        },
+        {
+          "chord": "Bb",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Şişelere deniz koy gemiler batsın",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir gönül davası anlatsam ağlarsın",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Şişelere deniz koy gemiler batsın aaaa",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 22
+        },
+        {
+          "chord": "Bm",
+          "col": 38
+        },
+        {
+          "chord": "Em",
+          "col": 44
+        },
+        {
+          "chord": "A",
+          "col": 50
+        },
+        {
+          "chord": "D",
+          "col": 56
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Başa döner",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Boğazımıza  (şarkının sonunda)",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 9
+        },
+        {
+          "chord": "A",
+          "col": 15
+        },
+        {
+          "chord": "D",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

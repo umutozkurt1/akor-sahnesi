@@ -1,0 +1,157 @@
+{
+  "slug": "melek-mosso-golgen-yeter",
+  "artist": "Melek Mosso",
+  "title": "Gölgen Yeter",
+  "key": "E",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Bir gülücük uçur yüzünden",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kıyılarıma vursun dalgalar gibi",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 47
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gitmenin zamanı değil",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 5
+        },
+        {
+          "chord": "B",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yerli yerinde sevme",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bırakma beni, canımı kaçırma gözlerimden",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 24
+        },
+        {
+          "chord": "Em",
+          "col": 58
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Çekip gitme gidersen peşimde hüzün ve keder",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 25
+        },
+        {
+          "chord": "Em",
+          "col": 60
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Beni senden çıkarma, yanı başımda dur gölgen yeter",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 25
+        },
+        {
+          "chord": "Bm",
+          "col": 53
+        },
+        {
+          "chord": "Em",
+          "col": 76
+        },
+        {
+          "chord": "E",
+          "col": 80
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Beni senden koparma, yanı başımda dur gölgen yeter",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 25
+        },
+        {
+          "chord": "Bm",
+          "col": 53
+        },
+        {
+          "chord": "Em",
+          "col": 76
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

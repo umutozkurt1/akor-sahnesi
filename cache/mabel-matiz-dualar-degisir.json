@@ -1,0 +1,207 @@
+{
+  "slug": "mabel-matiz-dualar-degisir",
+  "artist": "Mabel Matiz",
+  "title": "Dualar Değişir",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Isırılmış yerlerinden gülüyorsun bana,",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 13
+        },
+        {
+          "chord": "Dm",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Metalin, betonun, asfaltın bu korkunç ormanında",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 20
+        },
+        {
+          "chord": "Dm",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ben de sıkıldım bu seslerden, yollarımızdaki kafeslerden",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 19
+        },
+        {
+          "chord": "Dm",
+          "col": 30
+        },
+        {
+          "chord": "Em",
+          "col": 47
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Anlamıyorsan bile olsun gel, sıyrılalım örtümüzden",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 18
+        },
+        {
+          "chord": "Dm",
+          "col": 29
+        },
+        {
+          "chord": "Em",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Geeel, sarıl son bir defa",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Soruyor değilim, fazlasını cümleler",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 13
+        },
+        {
+          "chord": "Em",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Uzak dilimlenik ama, insan bu alışır",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 5
+        },
+        {
+          "chord": "F",
+          "col": 18
+        },
+        {
+          "chord": "G",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dualar değişir, sarılıp yükümden",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 12
+        },
+        {
+          "chord": "Em",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir şarkı   yazarız belki...",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 7
+        },
+        {
+          "chord": "Em",
+          "col": 13
+        },
+        {
+          "chord": "Am",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 5
+        },
+        {
+          "chord": "Dm",
+          "col": 10
+        },
+        {
+          "chord": "Em",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

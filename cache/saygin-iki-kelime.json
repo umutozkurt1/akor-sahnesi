@@ -1,0 +1,211 @@
+{
+  "slug": "saygin-iki-kelime",
+  "artist": "Saygın",
+  "title": "İki Kelime",
+  "key": "Bb",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Senden daha kıymetlisi var mı bu dünyada",
+      "chords": [
+        {
+          "chord": "Bbm",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 24
+        },
+        {
+          "chord": "Db",
+          "col": 42
+        },
+        {
+          "chord": "B",
+          "col": 48
+        },
+        {
+          "chord": "Bbm",
+          "col": 55
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sen varsan uyandırmasın, kimse bu rüyadan",
+      "chords": [
+        {
+          "chord": "Bbm",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 23
+        },
+        {
+          "chord": "Db",
+          "col": 47
+        },
+        {
+          "chord": "B",
+          "col": 53
+        },
+        {
+          "chord": "Bbm",
+          "col": 59
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Al kalbim senin, dolmaz ki yerin",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 6
+        },
+        {
+          "chord": "Db",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Mekanın cehennem olsa, gelirim dönmem geri",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 5
+        },
+        {
+          "chord": "Abm",
+          "col": 36
+        },
+        {
+          "chord": "Db",
+          "col": 47
+        },
+        {
+          "chord": "B",
+          "col": 54
+        },
+        {
+          "chord": "Bbm",
+          "col": 66
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gel kırma beni, oldum bak deli",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 13
+        },
+        {
+          "chord": "Db",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dünyalara bedeldir, saçının tek teli",
+      "chords": [
+        {
+          "chord": "Ebm",
+          "col": 7
+        },
+        {
+          "chord": "B",
+          "col": 19
+        },
+        {
+          "chord": "Db",
+          "col": 35
+        },
+        {
+          "chord": "B",
+          "col": 42
+        },
+        {
+          "chord": "Bbm",
+          "col": 47
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İki kelimemden biri sensin, düşünebilir misin beni sensiz",
+      "chords": [
+        {
+          "chord": "Ebm",
+          "col": 2
+        },
+        {
+          "chord": "B",
+          "col": 27
+        },
+        {
+          "chord": "Db",
+          "col": 51
+        },
+        {
+          "chord": "Bbm",
+          "col": 73
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sana olan aşkımı bir görsen inanmazsın ki deli dersin",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 1
+        },
+        {
+          "chord": "Abm",
+          "col": 29
+        },
+        {
+          "chord": "Db",
+          "col": 53
+        },
+        {
+          "chord": "B",
+          "col": 59
+        },
+        {
+          "chord": "Abm",
+          "col": 63
+        },
+        {
+          "chord": "Bbm",
+          "col": 68
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Başa döner",
+      "chords": [],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

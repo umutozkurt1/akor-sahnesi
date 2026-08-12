@@ -1,0 +1,210 @@
+{
+  "slug": "piyaf-seyri-alem",
+  "artist": "Piyaf",
+  "title": "Seyri Alem",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "İntro",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Fm7",
+          "col": 4
+        },
+        {
+          "chord": "Bb",
+          "col": 8
+        },
+        {
+          "chord": "Eb",
+          "col": 12
+        },
+        {
+          "chord": "G",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Nasıl gelirim şu acının üstesinden",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 12
+        },
+        {
+          "chord": "Cm",
+          "col": 25
+        },
+        {
+          "chord": "Bb",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "nasıl siner bu dert rüzgara",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 9
+        },
+        {
+          "chord": "Fm",
+          "col": 22
+        },
+        {
+          "chord": "Cm",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "aşkımın gölgesinde",
+      "chords": [
+        {
+          "chord": "Bb",
+          "col": 7
+        },
+        {
+          "chord": "Cm",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Fm7",
+          "col": 4
+        },
+        {
+          "chord": "Bb",
+          "col": 8
+        },
+        {
+          "chord": "Eb",
+          "col": 12
+        },
+        {
+          "chord": "G",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "gideceğim ufuklara  doğru",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 27
+        },
+        {
+          "chord": "Cm",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "doğru  ama durmaya değer bir rüya",
+      "chords": [
+        {
+          "chord": "Bb",
+          "col": 15
+        },
+        {
+          "chord": "Cm",
+          "col": 20
+        },
+        {
+          "chord": "Fm",
+          "col": 36
+        },
+        {
+          "chord": "Cm",
+          "col": 47
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "görülür mü pencerenden",
+      "chords": [
+        {
+          "chord": "Bb",
+          "col": 12
+        },
+        {
+          "chord": "Cm",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Fm7",
+          "col": 4
+        },
+        {
+          "chord": "Bb",
+          "col": 8
+        },
+        {
+          "chord": "Eb",
+          "col": 12
+        },
+        {
+          "chord": "G",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

@@ -1,0 +1,99 @@
+{
+  "slug": "besiktas-sen-bizim-yarinlarimiz",
+  "artist": "Beşiktaş",
+  "title": "Sen Bizim Yarınlarımız",
+  "key": "D",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Bazıları kupalara,",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bazıları şampiyonluğa,",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bizim bu büyük aşkımız,",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sadece Beşiktaş'ımıza",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Şampiyon olmasan﻿ bile,",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Seveceğiz seni yine de,",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sen bizim yarınlarımız,",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Tüm hayatımızsın beşiktaş!",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

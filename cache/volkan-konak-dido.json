@@ -1,0 +1,189 @@
+{
+  "slug": "volkan-konak-dido",
+  "artist": "Volkan Konak",
+  "title": "Dido",
+  "key": "D",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Dağlarda gezen kartalım, kırıldı mı kanatların",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 43
+        },
+        {
+          "chord": "Cm",
+          "col": 56
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Can mı çıktı boğazından, niye düştün düz tarlaya",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "Eb",
+          "col": 20
+        },
+        {
+          "chord": "Cm",
+          "col": 39
+        },
+        {
+          "chord": "Dm",
+          "col": 53
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Tut elimden, kalk gidelim, oy gidelim Ziganaya",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 46
+        },
+        {
+          "chord": "Cm",
+          "col": 61
+        },
+        {
+          "chord": "Dm",
+          "col": 68
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Tut elimden, kalk gidelim, oy gidelim Ziganaya",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 23
+        },
+        {
+          "chord": "D#",
+          "col": 41
+        },
+        {
+          "chord": "Cm",
+          "col": 56
+        },
+        {
+          "chord": "Bb",
+          "col": 63
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Nanina dido, dido anam dido",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 15
+        },
+        {
+          "chord": "D#",
+          "col": 21
+        },
+        {
+          "chord": "F",
+          "col": 41
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dido babam dido, dido nanina",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "Eb",
+          "col": 20
+        },
+        {
+          "chord": "Cm",
+          "col": 27
+        },
+        {
+          "chord": "Bb",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kalk ayağa çık dağlara, uğrama hiç şehirlere",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 39
+        },
+        {
+          "chord": "Cm",
+          "col": 55
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bilmezler ne gelmiş başa, burda ağlamak bile yasak",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "Eb",
+          "col": 20
+        },
+        {
+          "chord": "Cm",
+          "col": 39
+        },
+        {
+          "chord": "Dm",
+          "col": 62
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

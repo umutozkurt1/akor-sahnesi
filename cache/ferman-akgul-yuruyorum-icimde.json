@@ -1,0 +1,261 @@
+{
+  "slug": "ferman-akgul-yuruyorum-icimde",
+  "artist": "Ferman Akgül",
+  "title": "Yürüyorum İçimde",
+  "key": "A",
+  "capo": 0,
+  "rhythm": "A-Y-Y-A-Y-Y-A-A-Y",
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Intro   :",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 4
+        },
+        {
+          "chord": "C#m",
+          "col": 8
+        },
+        {
+          "chord": "E",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Mor bir sabaha uyandım",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Başka bir zamanda yürüyor gibi",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dönüşü olmayan bir yola girdim",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir yokluk girdabında, kalbimde yoruldu aşk",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 31
+        },
+        {
+          "chord": "E",
+          "col": 50
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gün sessizliği kovalarken",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Aklıevvel bir bakış aradı ıssız gözlerimi",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 26
+        },
+        {
+          "chord": "E",
+          "col": 56
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Umudun günlüğü kayıp",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Çırılçıplak bir gerçeğin ortasında",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 24
+        },
+        {
+          "chord": "C#m",
+          "col": 49
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Görenler mutlu sansa da",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Göç çoktan başladı ruhumda, kim farkında derdimin",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 24
+        },
+        {
+          "chord": "C#m",
+          "col": 37
+        },
+        {
+          "chord": "E",
+          "col": 59
+        },
+        {
+          "chord": "Bm",
+          "col": 73
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Zamanın dili lal, kalbimde çöl sessizliği var",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 22
+        },
+        {
+          "chord": "C#m",
+          "col": 27
+        },
+        {
+          "chord": "E",
+          "col": 55
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Efkarı çalınmış şehrimin, arka sokaklarında geçiyor ömrüm",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 12
+        },
+        {
+          "chord": "C#m",
+          "col": 26
+        },
+        {
+          "chord": "E",
+          "col": 33
+        },
+        {
+          "chord": "Bm",
+          "col": 55
+        },
+        {
+          "chord": "F#m",
+          "col": 74
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gözlerim kapalı, yürüyorum içimde",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

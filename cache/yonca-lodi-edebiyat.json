@@ -1,0 +1,183 @@
+{
+  "slug": "yonca-lodi-edebiyat",
+  "artist": "Yonca Lodi",
+  "title": "Edebiyat",
+  "key": "B",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Git de diyemem, kıyamam Kal da diyemem",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 0
+        },
+        {
+          "chord": "D#m",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "olmaz Senle olamaz, biliyorum Böyle süremez",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "F#",
+          "col": 21
+        },
+        {
+          "chord": "D#m",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gitme diyemem, yapamam Sözüm yok sana",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 0
+        },
+        {
+          "chord": "D#m",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "olmaz Senle olamaz, bile bile Böyle süremez",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "F#",
+          "col": 20
+        },
+        {
+          "chord": "D#m",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gidene kal denir Acımak böyledir",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bunun adı aşık olmak değil",
+      "chords": [
+        {
+          "chord": "F#",
+          "col": 0
+        },
+        {
+          "chord": "D#m",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Edebiyat denir Masallar kalptedir",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kitap biter, hep sonu gelir",
+      "chords": [
+        {
+          "chord": "D#m",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 14
+        },
+        {
+          "chord": "D#m",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yollarımız ayrı ayrı İnan bana son defaydı",
+      "chords": [
+        {
+          "chord": "D#m",
+          "col": 0
+        },
+        {
+          "chord": "G#m",
+          "col": 16
+        },
+        {
+          "chord": "E",
+          "col": 23
+        },
+        {
+          "chord": "F#",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bu acıyı, bu cefayı Çekmem artık ben",
+      "chords": [
+        {
+          "chord": "D#m",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 14
+        },
+        {
+          "chord": "C#m",
+          "col": 22
+        },
+        {
+          "chord": "D#m",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

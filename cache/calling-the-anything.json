@@ -1,0 +1,641 @@
+{
+  "slug": "calling-the-anything",
+  "artist": "Calling, The",
+  "title": "Anything",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 7
+        },
+        {
+          "chord": "D",
+          "col": 9
+        },
+        {
+          "chord": "F#m",
+          "col": 11
+        },
+        {
+          "chord": "E",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I will be there",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Always waiting",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Waiting for you",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "to let me inside",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 7
+        },
+        {
+          "chord": "D",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Where your fire burns",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "In a city of angels",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Well just like a river rushing straight into the sea",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 18
+        },
+        {
+          "chord": "E",
+          "col": 35
+        },
+        {
+          "chord": "D",
+          "col": 51
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'm the one thing meant for you and you for me",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 8
+        },
+        {
+          "chord": "E",
+          "col": 30
+        },
+        {
+          "chord": "D",
+          "col": 46
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Refrão",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Whatever you want",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Whatever you need",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Whatever it takes",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'd do anything",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 5
+        },
+        {
+          "chord": "D",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And as you sleep",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Eyes through the window",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'm watching you dream",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Well are you dreaming of me?",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 15
+        },
+        {
+          "chord": "D",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yeah, so why can't you see",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You're all that matters",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You know if this earth should crack",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 19
+        },
+        {
+          "chord": "E",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'll be your solid ground",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yeah, I will be there to catch you when you fall down",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 18
+        },
+        {
+          "chord": "E",
+          "col": 33
+        },
+        {
+          "chord": "D",
+          "col": 51
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Whatever you want",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Whatever you need",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Whatever it takes",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'd do anything",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 5
+        },
+        {
+          "chord": "D",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "If I had to crawl",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Get down on my knees",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Whatever it takes",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'd do anything",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 5
+        },
+        {
+          "chord": "D",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Oh, I'd take the stars right out of the sky for you",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 9
+        },
+        {
+          "chord": "C",
+          "col": 24
+        },
+        {
+          "chord": "F#m",
+          "col": 48
+        },
+        {
+          "chord": "C",
+          "col": 53
+        },
+        {
+          "chord": "F#m",
+          "col": 55
+        },
+        {
+          "chord": "A",
+          "col": 59
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'd end the world, give you the sun and the moon",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 5
+        },
+        {
+          "chord": "C",
+          "col": 25
+        },
+        {
+          "chord": "F#m",
+          "col": 45
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "For all of time",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 5
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Forever loving you",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 5
+        },
+        {
+          "chord": "A",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Whatever you need",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Whatever it takes",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'd do anything",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 5
+        },
+        {
+          "chord": "D",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "If i had to crawl,",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Get down on my knees",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Whatever it takes",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'd do anything",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 5
+        },
+        {
+          "chord": "A",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Whatever you want",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Whatever you need",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Whatever it takes",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'd do anything",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 5
+        },
+        {
+          "chord": "A",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": ", anything.",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 5
+        },
+        {
+          "chord": "A",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

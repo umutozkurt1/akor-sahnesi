@@ -1,0 +1,184 @@
+{
+  "slug": "cem-belevi-yedi-duvel",
+  "artist": "Cem Belevi",
+  "title": "Yedi düvel",
+  "key": "F",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Bir deli dağ gibiydim, yıkılmazdım",
+      "chords": [
+        {
+          "chord": "Fmaj7",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 46
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Savrulmazdım, rüzgarlardan",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 6
+        },
+        {
+          "chord": "Am",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yedi düvel gelse sarsılmazdım",
+      "chords": [
+        {
+          "chord": "Fmaj7",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dağılmazdım, olanlardan",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bilirim kendimi, alimi zalimi",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Görmüş geçmişi",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ne zaman nefesime işledi rüzgarın",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Anladım, geçmişi",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Alırsan aşkını, benden geriye ne kalır?",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 13
+        },
+        {
+          "chord": "Em",
+          "col": 53
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bilmem karanlığa sensiz nasıl alışılır?",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 18
+        },
+        {
+          "chord": "Em",
+          "col": 53
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Alışsan aşkını benden geriye ne kalır?",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 13
+        },
+        {
+          "chord": "Em",
+          "col": 57
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yaşarım belki, gözlerim kör kulağım",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "sağır",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

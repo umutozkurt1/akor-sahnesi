@@ -1,0 +1,164 @@
+{
+  "slug": "funda-arar-yak-gel",
+  "artist": "Funda Arar",
+  "title": "Yak Gel",
+  "key": "C#",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Uzun oldu, ne zor oldu, kalp yoruldu dön gel",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 16
+        },
+        {
+          "chord": "E",
+          "col": 35
+        },
+        {
+          "chord": "F#m",
+          "col": 60
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Her şey kalsın, yalnız aşkla, yalnız aşkla dön gel",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 16
+        },
+        {
+          "chord": "D",
+          "col": 38
+        },
+        {
+          "chord": "A",
+          "col": 57
+        },
+        {
+          "chord": "Bm",
+          "col": 67
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Affettim, kendini akla, yalnız aşkla, yalnız aşkla dön gel",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 26
+        },
+        {
+          "chord": "D",
+          "col": 48
+        },
+        {
+          "chord": "A",
+          "col": 68
+        },
+        {
+          "chord": "Bm",
+          "col": 76
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yak gel bildiğin ne varsa",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sat gel, gözüm yok para pulda",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yalnız sanadır bu hasretim",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dön gel vaktimiz daraldı",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Zaten şu yalan dünyada",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yen inadı sevdiğim",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 9
+        },
+        {
+          "chord": "C#m",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

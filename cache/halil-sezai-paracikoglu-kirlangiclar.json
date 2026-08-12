@@ -1,0 +1,105 @@
+{
+  "slug": "halil-sezai-paracikoglu-kirlangiclar",
+  "artist": "Halil Sezai Paracıkoğlu",
+  "title": "Kırlangıçlar",
+  "key": "B",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "ister at ister anlat",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "ister sonradan vur kaçınca",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 7
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "kırlangıçları dinledim",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "yaşarken yaşatırken uyan uyan",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "sizi aşka inandıran aşk öldü",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "öldüde gömüldü",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "acayip şeyler oldu çözüldü",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "karıştı birseylere...",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

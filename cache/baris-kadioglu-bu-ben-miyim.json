@@ -1,0 +1,165 @@
+{
+  "slug": "baris-kadioglu-bu-ben-miyim",
+  "artist": "Barış Kadıoğlu",
+  "title": "Bu Ben Miyim",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Bu ben miyim senden nefret eden",
+      "chords": [
+        {
+          "chord": "A#m",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Seni sevdiğimi inkar eden",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 10
+        },
+        {
+          "chord": "D#m",
+          "col": 24
+        },
+        {
+          "chord": "A#m",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bu ben miyim, seni özlemeyen",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Nasıl olur da seni istemem",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 15
+        },
+        {
+          "chord": "D#m",
+          "col": 23
+        },
+        {
+          "chord": "A#m",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Neden kalbim atmıyor dün gibi",
+      "chords": [
+        {
+          "chord": "D#m",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 22
+        },
+        {
+          "chord": "A#m",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Neden kimse sevmiyor sen gibi",
+      "chords": [
+        {
+          "chord": "D#m",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 22
+        },
+        {
+          "chord": "A#m",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Şimdi bambaşka biri olsam da",
+      "chords": [
+        {
+          "chord": "A#m",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sebepsizce aklımda sen, aldırma gel",
+      "chords": [
+        {
+          "chord": "D#m",
+          "col": 35
+        },
+        {
+          "chord": "A#m",
+          "col": 51
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kimle olursan ol, kimin hayatında",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bu adamın rüyasında sen, her yerde sen",
+      "chords": [
+        {
+          "chord": "D#m",
+          "col": 37
+        },
+        {
+          "chord": "A#m",
+          "col": 55
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "B bölümü",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Başa döner",
+      "chords": [],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

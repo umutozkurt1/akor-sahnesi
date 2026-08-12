@@ -1,0 +1,176 @@
+{
+  "slug": "hadise-hay-hay",
+  "artist": "Hadise",
+  "title": "Hay Hay",
+  "key": "C#",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "İntro :",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 5
+        },
+        {
+          "chord": "C#m",
+          "col": 8
+        },
+        {
+          "chord": "A",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "yok böyle bir acı varsa verin ilacı susayım",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "içime içime dökülen gözyaşımı kurutayım kurutayım",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 4
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "çok canım acısasa geriliyo yeni yola hazırım",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "geliyor gelmekte olan sanırım sona yakınım yakınım",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 6
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "hay hay hadi ayıralım yolları bye bye",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "nasıl unuturuz o günleri say say",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 48
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "şimdi tamam ama sonrasında hep vay ki ne vay",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "ikimizde bir aşkla tutuştuk o zamanlar özeldi",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "ne değiştide herşeye sustuk",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "konuşulsa yeterdi",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "bu hikayeyi en başa sarsak",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "sonumuz değişir mi",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "iyi geldi mi bize bunu yapmak",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "nasıl böyle güzel mi",
+      "chords": [],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

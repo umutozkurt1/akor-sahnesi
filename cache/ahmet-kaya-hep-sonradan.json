@@ -1,0 +1,184 @@
+{
+  "slug": "ahmet-kaya-hep-sonradan",
+  "artist": "Ahmet Kaya",
+  "title": "Hep Sonradan",
+  "key": "C",
+  "capo": 0,
+  "rhythm": "A-A-Y-Y-A-Y-A",
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Ne sen Leyla'sın ne de ben Mecnun",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ne sen yorgun ne de ben yorgun",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kederli bir akşam içmişiz sarhoşuz hepsi bu",
+      "chords": [
+        {
+          "chord": "Bb",
+          "col": 0
+        },
+        {
+          "chord": "Ab",
+          "col": 42
+        },
+        {
+          "chord": "Cm",
+          "col": 66
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hep sonradan gelir aklım başıma hep sonradan sonradan",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 56
+        },
+        {
+          "chord": "Eb",
+          "col": 88
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hep sonradan gelir aklım başıma hep sonradan",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 22
+        },
+        {
+          "chord": "Cm",
+          "col": 53
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hep sonradan gelir aklıma hep sonradan, sonradan",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 40
+        },
+        {
+          "chord": "Eb",
+          "col": 77
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hep sonradan gelir aklım başıma, hep sonradan",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 22
+        },
+        {
+          "chord": "Cm",
+          "col": 55
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 6
+        },
+        {
+          "chord": "G",
+          "col": 12
+        },
+        {
+          "chord": "Cm",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ne sen bulutsun ne de ben yağmur",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ne sen mağrur ne de ben mağrur",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hüzünlü bir akşam susmuşuz durgunuz hepsi bu",
+      "chords": [
+        {
+          "chord": "Bb",
+          "col": 0
+        },
+        {
+          "chord": "Ab",
+          "col": 50
+        },
+        {
+          "chord": "Cm",
+          "col": 75
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

@@ -1,0 +1,186 @@
+{
+  "slug": "the-beatles-and-your-bird-can-singver2",
+  "artist": "The Beatles",
+  "title": "And your bird can sing(ver.2)",
+  "key": "D",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "you tell me that you've got everything you want",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 1
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And your bird can sing",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But you don't get me,you don't get me",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You say you've seen seven wonders and your bird is green",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 25
+        },
+        {
+          "chord": "F",
+          "col": 50
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "but you don't get me, you don't get me",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 22
+        },
+        {
+          "chord": "D",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "When your prized possesions start wear you down",
+      "chords": [
+        {
+          "chord": "A#7",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Look in my direction i'll be round, i'll be round",
+      "chords": [
+        {
+          "chord": "C7",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 21
+        },
+        {
+          "chord": "C7",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "when your bird is broken will it bring you down",
+      "chords": [
+        {
+          "chord": "A#7",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You may be awoken i'll be round, i'll be round",
+      "chords": [
+        {
+          "chord": "C7",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 18
+        },
+        {
+          "chord": "C7",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You tell me that you heard every sound there is",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "and your bird can swing but you cant here me, you cant here me",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 18
+        },
+        {
+          "chord": "G",
+          "col": 42
+        },
+        {
+          "chord": "D",
+          "col": 60
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

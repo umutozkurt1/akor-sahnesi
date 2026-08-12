@@ -1,0 +1,924 @@
+{
+  "slug": "sia-dusk-till-dawn",
+  "artist": "Sia",
+  "title": "Dusk Till Dawn",
+  "key": "B",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Intro",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Bm7",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 4
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "      Not tryna be indie",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "Bm7",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Not tryna be cool",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Just tryna be in this",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "                AC#",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Tell me how you choose",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Can you feel why you're in this",
+      "chords": [
+        {
+          "chord": "Bm7",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Can you feel it through",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "All of the windows",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "            AC#",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Inside this room",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "'Cause I  wanna touch you, baby",
+      "chords": [
+        {
+          "chord": "Bm7",
+          "col": 7
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "AndI wanna feel you, too",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "D                                AC#",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I wanna see the sunrise and your sins",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Just me and you",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Light it up, on the run",
+      "chords": [
+        {
+          "chord": "Bm7",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Let's make love, tonight",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Make it up, fall in love, try",
+      "chords": [
+        {
+          "chord": "Bm7",
+          "col": 4
+        },
+        {
+          "chord": "G",
+          "col": 16
+        },
+        {
+          "chord": "D",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   But you'll never be alone",
+      "chords": [
+        {
+          "chord": "Bm7",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'll be with you from dusk till dawn",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "                                AC#",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'll be with you from dusk till dawn",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Baby, I'm right here",
+      "chords": [
+        {
+          "chord": "Bm7",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'll hold you when things go wrong",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'll be with you from dusk till dawn",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "                                AC#",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'll be with you from dusk till dawn",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Baby, I'm right here",
+      "chords": [
+        {
+          "chord": "Bm7",
+          "col": 20
+        },
+        {
+          "chord": "G",
+          "col": 24
+        },
+        {
+          "chord": "D",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "                                AC#",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'll be with you from dusk till dawn",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Baby, I'm right here",
+      "chords": [
+        {
+          "chord": "Bm7",
+          "col": 20
+        },
+        {
+          "chord": "G",
+          "col": 24
+        },
+        {
+          "chord": "D",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "                                AC#",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'll be with you from dusk till dawn",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Baby, I'm right here",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "We were shut like a jacket",
+      "chords": [
+        {
+          "chord": "Bm7",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "So do your zip",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "We will roll down the rapids",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "                    AC#",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "To find a wave that fits",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Can you feel where the wind is",
+      "chords": [
+        {
+          "chord": "Bm7",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Can you feel it through",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "All of the windows",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "            AC#",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Inside this room",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "'Cause I  wanna touch you, baby",
+      "chords": [
+        {
+          "chord": "Bm7",
+          "col": 7
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I wanna feel you, too",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "D                                AC#",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I wanna see the sunrise and your sins",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Just me and you",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Light it up, on the run",
+      "chords": [
+        {
+          "chord": "Bm7",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "D                      AC#",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Let's make love tonight",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Make it up, fall in love, try",
+      "chords": [
+        {
+          "chord": "Bm7",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 12
+        },
+        {
+          "chord": "D",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   But you'll never be alone",
+      "chords": [
+        {
+          "chord": "Bm7",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'll be with you from dusk till dawn",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "                                AC#",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'll be with you from dusk till dawn",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Baby, I'm right here",
+      "chords": [
+        {
+          "chord": "Bm7",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'll hold you when things go wrong",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'll be with you from dusk till dawn",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "                                AC#",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'll be with you from dusk till dawn",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Baby, I'm right here",
+      "chords": [
+        {
+          "chord": "Bm7",
+          "col": 20
+        },
+        {
+          "chord": "G",
+          "col": 24
+        },
+        {
+          "chord": "D",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "                                AC#",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'll be with you from dusk till dawn",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Baby, I'm right here",
+      "chords": [
+        {
+          "chord": "Bm7",
+          "col": 20
+        },
+        {
+          "chord": "G",
+          "col": 24
+        },
+        {
+          "chord": "D",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "                                AC#",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'll be with you from dusk till dawn",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Baby, I'm right here",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Go, give love to your body",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "It'sonly you that can stop it",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Go, give love to your body",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "It'sonly you that can stop it",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 23
+        },
+        {
+          "chord": "G",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Go, give love to your body",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "It'sonly you that can stop it",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Go, give love to your body",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Go, give love to your body",
+      "chords": [
+        {
+          "chord": "Bm7",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But you'll never be alone",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'll be with you from dusk till dawn",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "                                AC#",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'll be with you from dusk till dawn",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Baby, I'm right here",
+      "chords": [
+        {
+          "chord": "Bm7",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'll hold you when things go wrong",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'll be with you from dusk till dawn",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "                                AC#",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'll be with you from dusk till dawn",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Baby, I'm right here",
+      "chords": [
+        {
+          "chord": "Bm7",
+          "col": 20
+        },
+        {
+          "chord": "G",
+          "col": 24
+        },
+        {
+          "chord": "D",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "                                AC#",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'll be with you from dusk till dawn",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Baby, I'm right here",
+      "chords": [
+        {
+          "chord": "Bm7",
+          "col": 20
+        },
+        {
+          "chord": "G",
+          "col": 24
+        },
+        {
+          "chord": "D",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "                                AC#",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'll be with you from dusk till dawn",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Baby, I'm right here",
+      "chords": [],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

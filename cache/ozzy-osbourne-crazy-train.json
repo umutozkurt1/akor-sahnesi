@@ -1,0 +1,902 @@
+{
+  "slug": "ozzy-osbourne-crazy-train",
+  "artist": "Ozzy Osbourne",
+  "title": "Crazy Train",
+  "key": "F#",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Intro",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "       Ay, Ay, Ay, Ay, Ay, Ay, Ay, Ay, Ay, Ay, Ay",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 2
+        },
+        {
+          "chord": "F#m",
+          "col": 4
+        },
+        {
+          "chord": "D",
+          "col": 19
+        },
+        {
+          "chord": "E",
+          "col": 27
+        },
+        {
+          "chord": "F#m",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 2
+        },
+        {
+          "chord": "F#m",
+          "col": 4
+        },
+        {
+          "chord": "D",
+          "col": 8
+        },
+        {
+          "chord": "E",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 4
+        },
+        {
+          "chord": "E",
+          "col": 6
+        },
+        {
+          "chord": "F#m",
+          "col": 8
+        },
+        {
+          "chord": "D",
+          "col": 12
+        },
+        {
+          "chord": "E",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 4
+        },
+        {
+          "chord": "E",
+          "col": 6
+        },
+        {
+          "chord": "F#m",
+          "col": 8
+        },
+        {
+          "chord": "D",
+          "col": 12
+        },
+        {
+          "chord": "E",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Crazy, but that's how it goes",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Millions of people living as foes",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Maybe it's not too late",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "To learn how to love",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And forget how to hate",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Mental wounds not healing",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Life's a bitter shame",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'm going off the rails on a crazy train",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 4
+        },
+        {
+          "chord": "E",
+          "col": 18
+        },
+        {
+          "chord": "F#m",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'm going off the rails on a crazy train",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 4
+        },
+        {
+          "chord": "E",
+          "col": 18
+        },
+        {
+          "chord": "F#m",
+          "col": 37
+        },
+        {
+          "chord": "A",
+          "col": 41
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "         Let's Go!",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 2
+        },
+        {
+          "chord": "D",
+          "col": 6
+        },
+        {
+          "chord": "E",
+          "col": 8
+        },
+        {
+          "chord": "A",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I've listened to preachers",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 5
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I've listened to fools",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I've watched all the dropouts",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Who make their own rules",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "One person conditioned",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "To rule and control",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "The media sells it",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And you live the role",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Mental wounds still screaming",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Driving me insane",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'm going off the rails on a crazy train",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 4
+        },
+        {
+          "chord": "E",
+          "col": 18
+        },
+        {
+          "chord": "F#m",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'm going off the rails on a crazy train",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 4
+        },
+        {
+          "chord": "E",
+          "col": 18
+        },
+        {
+          "chord": "F#m",
+          "col": 37
+        },
+        {
+          "chord": "A",
+          "col": 41
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 2
+        },
+        {
+          "chord": "D",
+          "col": 6
+        },
+        {
+          "chord": "E",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   I know that things are going wrong for me",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 15
+        },
+        {
+          "chord": "E",
+          "col": 28
+        },
+        {
+          "chord": "F#m",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "       You gotta listen to my words",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 2
+        },
+        {
+          "chord": "F#m",
+          "col": 4
+        },
+        {
+          "chord": "A",
+          "col": 17
+        },
+        {
+          "chord": "E",
+          "col": 24
+        },
+        {
+          "chord": "F#m",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yeah! Yeah! Yeah!",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 6
+        },
+        {
+          "chord": "F#m",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 2
+        },
+        {
+          "chord": "F#m",
+          "col": 5
+        },
+        {
+          "chord": "D",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 3
+        },
+        {
+          "chord": "D",
+          "col": 7
+        },
+        {
+          "chord": "Bm",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 4
+        },
+        {
+          "chord": "Bm",
+          "col": 6
+        },
+        {
+          "chord": "E",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 4
+        },
+        {
+          "chord": "E",
+          "col": 6
+        },
+        {
+          "chord": "F#m",
+          "col": 8
+        },
+        {
+          "chord": "D",
+          "col": 12
+        },
+        {
+          "chord": "E",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 4
+        },
+        {
+          "chord": "E",
+          "col": 6
+        },
+        {
+          "chord": "F#m",
+          "col": 8
+        },
+        {
+          "chord": "D",
+          "col": 12
+        },
+        {
+          "chord": "E",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Heirs of a cold war",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "That's what we've become",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Inheriting troubles",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'm mentally numb",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Crazy, I just can not bear",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'm living with something",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "That just isn't fair",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Mental wounds not healing",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Who and what's to blame",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'm going off the rails on a crazy train",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 4
+        },
+        {
+          "chord": "E",
+          "col": 18
+        },
+        {
+          "chord": "F#m",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'm going off the rails on a crazy train",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 4
+        },
+        {
+          "chord": "E",
+          "col": 18
+        },
+        {
+          "chord": "F#m",
+          "col": 37
+        },
+        {
+          "chord": "A",
+          "col": 41
+        },
+        {
+          "chord": "E",
+          "col": 43
+        },
+        {
+          "chord": "F#m",
+          "col": 45
+        },
+        {
+          "chord": "D",
+          "col": 49
+        },
+        {
+          "chord": "E",
+          "col": 51
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 4
+        },
+        {
+          "chord": "E",
+          "col": 6
+        },
+        {
+          "chord": "F#m",
+          "col": 8
+        },
+        {
+          "chord": "D",
+          "col": 12
+        },
+        {
+          "chord": "E",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 4
+        },
+        {
+          "chord": "E",
+          "col": 6
+        },
+        {
+          "chord": "F#m",
+          "col": 8
+        },
+        {
+          "chord": "D",
+          "col": 12
+        },
+        {
+          "chord": "E",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 4
+        },
+        {
+          "chord": "E",
+          "col": 6
+        },
+        {
+          "chord": "F#m",
+          "col": 8
+        },
+        {
+          "chord": "D",
+          "col": 12
+        },
+        {
+          "chord": "E",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

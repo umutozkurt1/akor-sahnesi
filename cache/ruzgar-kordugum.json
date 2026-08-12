@@ -1,0 +1,173 @@
+{
+  "slug": "ruzgar-kordugum",
+  "artist": "Rüzgar",
+  "title": "Kördüğüm",
+  "key": "D",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Sen yine vurdun kıyılarıma",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "En uykusuz sabahlarıma",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sil gözyaşlarını ağlama",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yüreğim dayanmaz acılarına",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir yanım yok ki bedenimde",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 10
+        },
+        {
+          "chord": "C#m",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hapsolup kaldı düşlerine",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 6
+        },
+        {
+          "chord": "C#m",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sen yalnızlığımdaki",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Çözülmeyen kördüğüm",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sen benim ölümümsün",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 13
+        },
+        {
+          "chord": "E",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sen düştüğüm girdapsın",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir değil bin kez öldüğüm",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bin kez daha da ölürüm",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 17
+        },
+        {
+          "chord": "C#m",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

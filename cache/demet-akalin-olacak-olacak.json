@@ -1,0 +1,149 @@
+{
+  "slug": "demet-akalin-olacak-olacak",
+  "artist": "Demet Akalın",
+  "title": "Olacak Olacak",
+  "key": "F#",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Sindiremiyorum bu ihaneti içimde bi nefret",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "C#m",
+          "col": 45
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Beklemiyordum bu felaketi yüreğim sabret",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "C#m",
+          "col": 48
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hazmedemiyorum yok oluşları kaçıyor korkak",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "C#m",
+          "col": 49
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yok sayamıyorum bu cehaleti yok öyle susmak",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "C#m",
+          "col": 55
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Çok vurdum duymaz, bu kadar olmaz",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "C#m",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kendi düşen ağlamaz",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Unutup acımı alıcam öcümü, asıl o zaman görecek gücümü",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "C#m",
+          "col": 24
+        },
+        {
+          "chord": "D",
+          "col": 46
+        },
+        {
+          "chord": "C#m",
+          "col": 65
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Onun da yerini biri dolduracak, kadere inanırım olacak olacak",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "C#m",
+          "col": 24
+        },
+        {
+          "chord": "D",
+          "col": 46
+        },
+        {
+          "chord": "C#m",
+          "col": 65
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

@@ -1,0 +1,197 @@
+{
+  "slug": "toygar-isikli-kalbimdeki-sanci",
+  "artist": "Toygar Işıklı",
+  "title": "Kalbimdeki Sancı",
+  "key": "G",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Gönlümdeki küçük bir aşk oyunu mu",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 10
+        },
+        {
+          "chord": "Gm",
+          "col": 46
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Böyle gitmez bilmiyorum ben sonumu",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 10
+        },
+        {
+          "chord": "Gm",
+          "col": 49
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dudaklarımda aşk kalbimde bir sızı",
+      "chords": [
+        {
+          "chord": "Ab",
+          "col": 13
+        },
+        {
+          "chord": "Fm",
+          "col": 29
+        },
+        {
+          "chord": "Gm",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Her günüm gözyaşı her anım ah acı",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Ab",
+          "col": 18
+        },
+        {
+          "chord": "Fm",
+          "col": 29
+        },
+        {
+          "chord": "Gm",
+          "col": 43
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bekliyorum gelir misin söyle",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "Ab",
+          "col": 9
+        },
+        {
+          "chord": "Fm",
+          "col": 14
+        },
+        {
+          "chord": "Gm",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ağlıyorum bile bile yanıyorum",
+      "chords": [
+        {
+          "chord": "Ab",
+          "col": 12
+        },
+        {
+          "chord": "Fm",
+          "col": 19
+        },
+        {
+          "chord": "Gm",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yine bana kalır senden çektiğim acı",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Bb",
+          "col": 6
+        },
+        {
+          "chord": "Ab",
+          "col": 13
+        },
+        {
+          "chord": "Bb",
+          "col": 18
+        },
+        {
+          "chord": "Ab",
+          "col": 29
+        },
+        {
+          "chord": "Gm",
+          "col": 41
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Neden beni bulur bitmek bilmeyen sancı",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Bb",
+          "col": 10
+        },
+        {
+          "chord": "Ab",
+          "col": 19
+        },
+        {
+          "chord": "Cm",
+          "col": 24
+        },
+        {
+          "chord": "Bb",
+          "col": 33
+        },
+        {
+          "chord": "Gm",
+          "col": 43
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

@@ -1,0 +1,749 @@
+{
+  "slug": "ed-sheeran-afire-love",
+  "artist": "Ed Sheeran",
+  "title": "Afire Love",
+  "key": "B",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Things were all good yesterday",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And then the devil took your memory",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 33
+        },
+        {
+          "chord": "G",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And if you fell to your death today,",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 26
+        },
+        {
+          "chord": "G",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I hope that heaven is your resting place",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I heard the doctors put your chest in pain",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 38
+        },
+        {
+          "chord": "D",
+          "col": 41
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "then that could've been the medicine",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 35
+        },
+        {
+          "chord": "G",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And now you're lying in the bed again",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Either way I'll cry with the rest of them",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Pre-Chorus",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And my father told me so",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 7
+        },
+        {
+          "chord": "Bm",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "It's not his fault he doesn't know your face",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And you're not the only one",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 10
+        },
+        {
+          "chord": "Bm",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Although my grandma used to say, he used to see",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 12
+        },
+        {
+          "chord": "D",
+          "col": 20
+        },
+        {
+          "chord": "A",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Chorus",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "Darling hold me in arms the way you did last night",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And your life inside, a little while with you more",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I could look into your eyes until the sun comes up",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And we're wrapped in light, in life and love",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Put your open lips on mine, slowly let them shut",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "for they're designed to be together",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "With your body next to mine our hearts will beat as one",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And we'll set alight, we're afire love",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 4
+        },
+        {
+          "chord": "G",
+          "col": 10
+        },
+        {
+          "chord": "A",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Verse",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "Things were all good yesterday",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And then the devil took your breath away",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 38
+        },
+        {
+          "chord": "G",
+          "col": 41
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And now we're left here in pain",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 27
+        },
+        {
+          "chord": "G",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Black suit black tie standing in the rain",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And now my family is one again",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 29
+        },
+        {
+          "chord": "D",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Stapled together with the strangers and a friend",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 45
+        },
+        {
+          "chord": "G",
+          "col": 47
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Came to my mind I should paint it with a pen",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 43
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Six years old I remember when",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Pre-Chorus",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And my father told me so",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 7
+        },
+        {
+          "chord": "Bm",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "It's not his fault he doesn't know your face",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And you're not the only one",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 10
+        },
+        {
+          "chord": "Bm",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Although my grandma used to say, he used to see",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 12
+        },
+        {
+          "chord": "D",
+          "col": 20
+        },
+        {
+          "chord": "A",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Chorus",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "Darling hold me in arms the way you did last night",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And your life inside, a little while with you more",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I could look into your eyes until the sun comes up",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And we're wrapped in light, in life and love",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Put your open lips on mine, slowly let them shut",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "for they're designed to be together",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "With your body next to mine our hearts will beat as one",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And we'll set alight, we're afire love",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 5
+        },
+        {
+          "chord": "Em",
+          "col": 10
+        },
+        {
+          "chord": "A",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "My father, and all of my family",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "rise from their seats to sing hallelujah",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 17
+        },
+        {
+          "chord": "A",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And my brother and all of my family",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 7
+        },
+        {
+          "chord": "G",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "rise from their seats to sing hallelujah",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 16
+        },
+        {
+          "chord": "A",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

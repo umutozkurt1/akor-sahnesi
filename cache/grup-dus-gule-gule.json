@@ -1,0 +1,207 @@
+{
+  "slug": "grup-dus-gule-gule",
+  "artist": "Grup Düş",
+  "title": "Güle Güle",
+  "key": "E",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Sil göz yaşlarını",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İnan deymez bu aşka",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 1
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Nasil olsa bitecekti",
+      "chords": [
+        {
+          "chord": "Fadd9",
+          "col": 0
+        },
+        {
+          "chord": "D7",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Eninde sonunda",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 1
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kadere karşı gelinmez",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 1
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Birdaha yazmak çocukça",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 1
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yazılan silinmiyor öğrendim sonunda",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 1
+        },
+        {
+          "chord": "G",
+          "col": 17
+        },
+        {
+          "chord": "E7",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kadere karşı gelinmez",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 1
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Birdaha yazmak saçma",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 1
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Alışırız bu ayrılığa zamanla",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 1
+        },
+        {
+          "chord": "E7",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hdi dön ve git beni unut,zaten zordu biliyorduk",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 4
+        },
+        {
+          "chord": "Em",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İmkansız bir aşktan mucizeler bekliyorduk",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 1
+        },
+        {
+          "chord": "D7",
+          "col": 18
+        },
+        {
+          "chord": "G",
+          "col": 25
+        },
+        {
+          "chord": "E7",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bilki kolay değil ağlamamak,inan çok zor dayanmak",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 1
+        },
+        {
+          "chord": "Em",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ölümüne sevrem bile güle güle",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 1
+        },
+        {
+          "chord": "E7",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

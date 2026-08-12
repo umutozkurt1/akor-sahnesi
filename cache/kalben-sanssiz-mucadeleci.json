@@ -1,0 +1,258 @@
+{
+  "slug": "kalben-sanssiz-mucadeleci",
+  "artist": "Kalben",
+  "title": "Şanssız Mücadeleci",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "İntro :",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 3
+        },
+        {
+          "chord": "Ab",
+          "col": 7
+        },
+        {
+          "chord": "Cm",
+          "col": 11
+        },
+        {
+          "chord": "Fm",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "kim derdi ki onca insan arasında büyüyen azgın yangınım",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "beni mahfedecek cehenneme sürükleyecek",
+      "chords": [
+        {
+          "chord": "Ab",
+          "col": 9
+        },
+        {
+          "chord": "Gm",
+          "col": 54
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "dans ettik karanlıkta bakıştık usulca",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "güya bişey yok aramızda",
+      "chords": [
+        {
+          "chord": "Ab",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "herşey aramızda",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "herkesin koltuğu ayrılmış",
+      "chords": [
+        {
+          "chord": "Bb",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "bana gidecek tek bir yer kalmamış",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "oOooO  oOooO",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "Ab",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "dostlarım vardı hep mahfolmuş",
+      "chords": [
+        {
+          "chord": "Bb",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "acımadan halleri yokmuş kapımı çalmaya",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 59
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Aaah",
+      "chords": [
+        {
+          "chord": "Ab",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "ben başlamadan bitmişti",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "sen ağlarken gitmişti",
+      "chords": [
+        {
+          "chord": "Eb",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "şanssız mücadeleci..",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 7
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "şanssız mücadeleci..",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "sabah olup geceyi hatırlamam",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "dünden kalırımda unutamam",
+      "chords": [
+        {
+          "chord": "Eb",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "kırık çiçek yüzünü",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 3
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "kırgın çiçek yüzünü",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 5
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

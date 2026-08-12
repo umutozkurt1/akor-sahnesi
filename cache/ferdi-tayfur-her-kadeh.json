@@ -1,0 +1,199 @@
+{
+  "slug": "ferdi-tayfur-her-kadeh",
+  "artist": "Ferdi Tayfur",
+  "title": "Her Kadeh",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": " Seni çok seviyorum seni çok özlüyorum",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 1
+        },
+        {
+          "chord": "A#",
+          "col": 6
+        },
+        {
+          "chord": "A",
+          "col": 17
+        },
+        {
+          "chord": "A",
+          "col": 20
+        },
+        {
+          "chord": "Gm",
+          "col": 26
+        },
+        {
+          "chord": "A",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Kavuşmamız imkansız imkansız biliyorum",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 1
+        },
+        {
+          "chord": "A",
+          "col": 6
+        },
+        {
+          "chord": "Gm",
+          "col": 12
+        },
+        {
+          "chord": "A",
+          "col": 21
+        },
+        {
+          "chord": "C",
+          "col": 30
+        },
+        {
+          "chord": "A",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Her kadeh tutuşumda bir lokma kaşığımda",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 1
+        },
+        {
+          "chord": "Gm",
+          "col": 11
+        },
+        {
+          "chord": "A",
+          "col": 18
+        },
+        {
+          "chord": "Dm",
+          "col": 21
+        },
+        {
+          "chord": "Gm",
+          "col": 31
+        },
+        {
+          "chord": "Dm",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İstesemde istemesemde seni bulurum karşımda",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 1
+        },
+        {
+          "chord": "F",
+          "col": 11
+        },
+        {
+          "chord": "A#",
+          "col": 23
+        },
+        {
+          "chord": "A",
+          "col": 28
+        },
+        {
+          "chord": "E",
+          "col": 36
+        },
+        {
+          "chord": "A",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Geçen yıllarıma inanki yanmıyorum",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 1
+        },
+        {
+          "chord": "A#",
+          "col": 7
+        },
+        {
+          "chord": "A",
+          "col": 14
+        },
+        {
+          "chord": "A",
+          "col": 17
+        },
+        {
+          "chord": "Gm",
+          "col": 23
+        },
+        {
+          "chord": "A",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Kestim senden ümidi ben kendimi arıyorum",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 1
+        },
+        {
+          "chord": "A",
+          "col": 8
+        },
+        {
+          "chord": "Gm",
+          "col": 15
+        },
+        {
+          "chord": "A",
+          "col": 21
+        },
+        {
+          "chord": "C",
+          "col": 33
+        },
+        {
+          "chord": "A",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

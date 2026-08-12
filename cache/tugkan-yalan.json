@@ -1,0 +1,400 @@
+{
+  "slug": "tugkan-yalan",
+  "artist": "Tuğkan",
+  "title": "Yalan",
+  "key": "F",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Fmaj7",
+          "col": 0
+        },
+        {
+          "chord": "E7",
+          "col": 8
+        },
+        {
+          "chord": "F#m9",
+          "col": 12
+        },
+        {
+          "chord": "Fmaj7",
+          "col": 18
+        },
+        {
+          "chord": "Bm6",
+          "col": 26
+        },
+        {
+          "chord": "F#m",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ansızın Tarifsiz gelir ya o zamanlar",
+      "chords": [
+        {
+          "chord": "Fmaj7",
+          "col": 0
+        },
+        {
+          "chord": "E7",
+          "col": 8
+        },
+        {
+          "chord": "F#m9",
+          "col": 19
+        },
+        {
+          "chord": "E6",
+          "col": 31
+        },
+        {
+          "chord": "D",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sormaya cürretin kalmaz olanından",
+      "chords": [
+        {
+          "chord": "E7",
+          "col": 11
+        },
+        {
+          "chord": "F#m",
+          "col": 30
+        },
+        {
+          "chord": "E7",
+          "col": 39
+        },
+        {
+          "chord": "D",
+          "col": 50
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "feri soluk Niyeti kayıp dardayım",
+      "chords": [
+        {
+          "chord": "E7",
+          "col": 5
+        },
+        {
+          "chord": "F#m",
+          "col": 20
+        },
+        {
+          "chord": "E6",
+          "col": 46
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " aşk nefrete ne yakınsın..",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 16
+        },
+        {
+          "chord": "F#m",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "kim   kırdı her okşamak istediğimde seni",
+      "chords": [
+        {
+          "chord": "Fmaj7",
+          "col": 0
+        },
+        {
+          "chord": "E7",
+          "col": 9
+        },
+        {
+          "chord": "F#m",
+          "col": 22
+        },
+        {
+          "chord": "E6",
+          "col": 52
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "elimi gözlerimi gömdüm tebessüme",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "E7",
+          "col": 14
+        },
+        {
+          "chord": "F#m",
+          "col": 23
+        },
+        {
+          "chord": "C#7",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "yalnız kendine inkarın sadece senden kaçarsın",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "E7",
+          "col": 17
+        },
+        {
+          "chord": "F#m",
+          "col": 36
+        },
+        {
+          "chord": "E6",
+          "col": 62
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "halin ele verir anlamazsın",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 19
+        },
+        {
+          "chord": "F#m",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " yalan söyleme bana gözlerin anlatıyor herşeyi",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 14
+        },
+        {
+          "chord": "F#m",
+          "col": 30
+        },
+        {
+          "chord": "E6",
+          "col": 56
+        },
+        {
+          "chord": "D",
+          "col": 69
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " yalan söyleme bana...",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 14
+        },
+        {
+          "chord": "F#m",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "yalan söyleme bana gözlerin anlatıyor herşeyi",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 13
+        },
+        {
+          "chord": "F#m",
+          "col": 34
+        },
+        {
+          "chord": "E",
+          "col": 57
+        },
+        {
+          "chord": "D",
+          "col": 70
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "zaten yoktur nedeni",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 12
+        },
+        {
+          "chord": "F#m",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " uzak    düşmüşüm kendimden aklım fikrimden",
+      "chords": [
+        {
+          "chord": "Fmaj7",
+          "col": 0
+        },
+        {
+          "chord": "E7",
+          "col": 8
+        },
+        {
+          "chord": "F#m",
+          "col": 18
+        },
+        {
+          "chord": "E6",
+          "col": 34
+        },
+        {
+          "chord": "D",
+          "col": 41
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "çaresiz sürükleniyorum bilerek peşinden",
+      "chords": [
+        {
+          "chord": "E7",
+          "col": 9
+        },
+        {
+          "chord": "F#m",
+          "col": 31
+        },
+        {
+          "chord": "E7",
+          "col": 37
+        },
+        {
+          "chord": "D",
+          "col": 60
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "yalnız kendine inkarın sadece senden kaçarsın",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "E7",
+          "col": 16
+        },
+        {
+          "chord": "F#m",
+          "col": 37
+        },
+        {
+          "chord": "E6",
+          "col": 63
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "halin ele verir anlamazsın",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 21
+        },
+        {
+          "chord": "F#m",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

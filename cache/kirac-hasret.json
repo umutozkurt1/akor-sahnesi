@@ -1,0 +1,197 @@
+{
+  "slug": "kirac-hasret",
+  "artist": "Kıraç",
+  "title": "Hasret",
+  "key": "D",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "O gözler bana, eskisinden yabancı",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "Eb",
+          "col": 33
+        },
+        {
+          "chord": "G",
+          "col": 49
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gönlümdeki bu sevda, hiç dinmeyen bir acı",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "Bb",
+          "col": 33
+        },
+        {
+          "chord": "Gm",
+          "col": 46
+        },
+        {
+          "chord": "Am",
+          "col": 55
+        },
+        {
+          "chord": "Dm",
+          "col": 59
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ruhumun kederinden, gözlerim yaşla doldu",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 9
+        },
+        {
+          "chord": "Cm",
+          "col": 42
+        },
+        {
+          "chord": "G",
+          "col": 62
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İnliyorum derinden, bana bilmem ne oldu",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 9
+        },
+        {
+          "chord": "Bb",
+          "col": 25
+        },
+        {
+          "chord": "G",
+          "col": 42
+        },
+        {
+          "chord": "Am",
+          "col": 53
+        },
+        {
+          "chord": "Dm",
+          "col": 59
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "En candan arkadaşım, ruhumu saran gece",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "Eb",
+          "col": 36
+        },
+        {
+          "chord": "G",
+          "col": 64
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ben kime bağlanmışım, ağlıyorum gizlice",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "Bb",
+          "col": 30
+        },
+        {
+          "chord": "Gm",
+          "col": 43
+        },
+        {
+          "chord": "Am",
+          "col": 50
+        },
+        {
+          "chord": "Dm",
+          "col": 54
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kimsesiz karanlıklar, derdime şifa verin",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 9
+        },
+        {
+          "chord": "Cm",
+          "col": 42
+        },
+        {
+          "chord": "G",
+          "col": 55
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kalbimdeki yaralar, daha çok daha derin",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 11
+        },
+        {
+          "chord": "Bb",
+          "col": 23
+        },
+        {
+          "chord": "G",
+          "col": 40
+        },
+        {
+          "chord": "Am",
+          "col": 46
+        },
+        {
+          "chord": "Dm",
+          "col": 52
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

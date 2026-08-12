@@ -1,0 +1,528 @@
+{
+  "slug": "simon-garfunkel-the-sound-of-silence",
+  "artist": "Simon & Garfunkel",
+  "title": "The Sound Of Silence",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "   Hello darkness, my old friend,",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I've come to talk with you again,",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Because a vision softly creeping,",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 21
+        },
+        {
+          "chord": "D#",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Left its seeds while I was sleeping,",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 23
+        },
+        {
+          "chord": "D#",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And the vision that was planted in my brain",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 8
+        },
+        {
+          "chord": "D#",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "            D#D  Cm",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Still remains",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Within the sound of silence.",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 12
+        },
+        {
+          "chord": "Cm",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "In restless dreams I walked alone",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Narrow streets of cobblestone,",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "'neath the halo of a street lamp,",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 19
+        },
+        {
+          "chord": "D#",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I turned my collar to the cold and damp",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 26
+        },
+        {
+          "chord": "D#",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "When my eyes were stabbed by the flash of a neon light",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 8
+        },
+        {
+          "chord": "D#",
+          "col": 49
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "                    D#D  Cm",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "That split the night",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And touched the sound of silence.",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 1
+        },
+        {
+          "chord": "A#",
+          "col": 16
+        },
+        {
+          "chord": "Cm",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And in the naked light I saw",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ten thousand people, maybe more.",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "People talking without speaking,",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 19
+        },
+        {
+          "chord": "D#",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "People hearing without listening,",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 19
+        },
+        {
+          "chord": "D#",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "People writing songs that voices never share",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 15
+        },
+        {
+          "chord": "D#",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "              D#D  Cm",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And no one dare",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Disturb the sound of silence.",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 12
+        },
+        {
+          "chord": "Cm",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "[Verse 4]",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Fools said I, you do not know",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Silence like a cancer grows.",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hear my words that I might teach you,",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 21
+        },
+        {
+          "chord": "D#",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Take my arms that I might reach you.",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 20
+        },
+        {
+          "chord": "D#",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But my words like silent raindrops fell,",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 7
+        },
+        {
+          "chord": "D#",
+          "col": 35
+        },
+        {
+          "chord": "Cm",
+          "col": 43
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And echoed",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 3
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "In the wells of silence",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 7
+        },
+        {
+          "chord": "Cm",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "[Verse 5]",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And the people bowed and prayed",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "To the neon God they made.",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And the sign flashed out its warning,",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 25
+        },
+        {
+          "chord": "D#",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "In the words that it was forming.",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 22
+        },
+        {
+          "chord": "D#",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And the sign said, the words of the prophets",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Are written on the subway walls",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And tenement halls.",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 13
+        },
+        {
+          "chord": "Cm",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And whisper'd in the sounds of silence.",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 9
+        },
+        {
+          "chord": "A#",
+          "col": 21
+        },
+        {
+          "chord": "Cm",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

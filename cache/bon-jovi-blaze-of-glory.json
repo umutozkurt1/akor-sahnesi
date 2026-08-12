@@ -1,0 +1,771 @@
+{
+  "slug": "bon-jovi-blaze-of-glory",
+  "artist": "Bon Jovi",
+  "title": "Blaze Of Glory",
+  "key": "D",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Intro",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I wake up in the morning",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 2
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And I raise my weary head",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 6
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I've got an old coat for a pillow",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And the earth was last night's bed",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I don't know where I'm going",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 2
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Only God knows where I've been",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'm a devil on the run",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 6
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "A sixgun lover",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "A candle in the wind, yeah",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 2
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "When you're brought into this world",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "They say you're born in sin",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 5
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Well, at least they gave me something",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I didn't have to steal or have to win",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 2
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Well, they tell me that I'm wanted",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yeah, I'm a wanted man",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 6
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'm a colt in your stable",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 6
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'm what Cain was to Abel",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Mister, catch me if you can",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'm going down in a blaze of glory",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 10
+        },
+        {
+          "chord": "D",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Take me now but know the truth",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 8
+        },
+        {
+          "chord": "D",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'm going out in a blaze of glory",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 10
+        },
+        {
+          "chord": "D",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And, Lord, I never drew first",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But I drew first blood",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'm no one's son",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 4
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Call me young gun",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You ask about my conscience",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 4
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And I offer you my soul",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 6
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You ask if I'll grow to be a wise man",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 16
+        },
+        {
+          "chord": "Dm",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Well, I ask if I'll grow old",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You ask me if I've known love",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 4
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And what it's like to sing songs in the rain",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Well, I've seen love come",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I've seen it shot down",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I've seen it die in vain",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 5
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Shot down in a blaze of glory",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 5
+        },
+        {
+          "chord": "D",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Take me now but know the truth",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 8
+        },
+        {
+          "chord": "D",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "'Cause I'm going out in a blaze of glory",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 17
+        },
+        {
+          "chord": "D",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Oh, Lord, I never drew first",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But I drew first blood",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'm the devil's son",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Call me young gun, yeah",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 2
+        },
+        {
+          "chord": "G",
+          "col": 4
+        },
+        {
+          "chord": "D",
+          "col": 6
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 2
+        },
+        {
+          "chord": "F",
+          "col": 4
+        },
+        {
+          "chord": "G",
+          "col": 6
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Each night I go to bed",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 5
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I pray the Lord my soul to keep",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "No, I ain't looking for forgiveness",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But before I'm sixfoot deep",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 6
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Lord, I gotta ask a favor",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 5
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And I'll hope you'll understand",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "'Cause I've lived life to the fullest",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Let this boy  die like a man",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Staring down a bullet",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Let me make  my final stand",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Shot down in a blaze of glory",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 5
+        },
+        {
+          "chord": "D",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Take me now but know the truth",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 8
+        },
+        {
+          "chord": "D",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'm going out in a blaze of glory",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 10
+        },
+        {
+          "chord": "D",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Lord, I never drew first",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But I drew first blood",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And I'm no one's son",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Call me young gun",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 14
+        },
+        {
+          "chord": "C",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'm a young gun, yeah",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 16
+        },
+        {
+          "chord": "D",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Young gun, yeah, yeah",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Young gun",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 6
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

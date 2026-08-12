@@ -1,0 +1,126 @@
+{
+  "slug": "cem-yildiz-yarim-biraktin",
+  "artist": "Cem Yıldız",
+  "title": "Yarım Bıraktın",
+  "key": "C#",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Bugünüm senden geçti",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Zaman geçmeyecek artık",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bugün senden geçti",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Zaman geçmeyecek artık",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ellerim kesik, bedenim hissiz",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "C#m",
+          "col": 23
+        },
+        {
+          "chord": "D",
+          "col": 31
+        },
+        {
+          "chord": "A",
+          "col": 41
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yarım kalmış bir cümleyim artık",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 30
+        },
+        {
+          "chord": "C#m",
+          "col": 47
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yarım bıraktın, yarsız bıraktın beni",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "C#m",
+          "col": 13
+        },
+        {
+          "chord": "F#m",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yalnız değil ıssız bıraktın beni",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "C#m",
+          "col": 8
+        },
+        {
+          "chord": "Bm",
+          "col": 14
+        },
+        {
+          "chord": "C#m",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

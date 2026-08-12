@@ -1,0 +1,133 @@
+{
+  "slug": "hekimhan-hekimoglu-yok-olmaz",
+  "artist": "Hekimhan Hekimoğlu",
+  "title": "Yok Olmaz",
+  "key": "E",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "İntro: E",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dünyanın Öbür Ucuna Gönderseler",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ben Yne Senden Vazgeçmem          X2",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 16
+        },
+        {
+          "chord": "A",
+          "col": 19
+        },
+        {
+          "chord": "E",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ben Hergün Öldürseler",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Senden Başkasını Sevmem",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 14
+        },
+        {
+          "chord": "A",
+          "col": 18
+        },
+        {
+          "chord": "E",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yok Olmaz    Yok Yok Olmaz",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 6
+        },
+        {
+          "chord": "E",
+          "col": 13
+        },
+        {
+          "chord": "B",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yok Olmaz    Yok Yok Olmaz",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 6
+        },
+        {
+          "chord": "E",
+          "col": 13
+        },
+        {
+          "chord": "B",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

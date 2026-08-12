@@ -1,0 +1,233 @@
+{
+  "slug": "gulsen-gel-carem",
+  "artist": "Gülşen",
+  "title": "Gel Çarem",
+  "key": "D",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Kapılar açılır gül bahçesine",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 8
+        },
+        {
+          "chord": "C",
+          "col": 14
+        },
+        {
+          "chord": "Dm",
+          "col": 18
+        },
+        {
+          "chord": "C",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Tutamam acıtır dikenleri",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 8
+        },
+        {
+          "chord": "C",
+          "col": 20
+        },
+        {
+          "chord": "Bb",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kanayan yaramın izleri geçmedi",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 9
+        },
+        {
+          "chord": "C",
+          "col": 22
+        },
+        {
+          "chord": "Dm",
+          "col": 29
+        },
+        {
+          "chord": "C",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sevemem başka birini",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 8
+        },
+        {
+          "chord": "C",
+          "col": 19
+        },
+        {
+          "chord": "Dm",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Güneşim sıvanır mı çamurla",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yangınım söner mi umutla",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hadi gel çarem hadi sev çarem",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 8
+        },
+        {
+          "chord": "C",
+          "col": 18
+        },
+        {
+          "chord": "Dm",
+          "col": 25
+        },
+        {
+          "chord": "C",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bırakma beni sonsuzluğa",
+      "chords": [
+        {
+          "chord": "Bb",
+          "col": 5
+        },
+        {
+          "chord": "Am",
+          "col": 16
+        },
+        {
+          "chord": "Dm",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hisset beni teninde",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 4
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dayan yüreğim sensizliğe",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 41
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Haykırırım sana, aşkına kana kana",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 11
+        },
+        {
+          "chord": "Gm",
+          "col": 20
+        },
+        {
+          "chord": "F",
+          "col": 32
+        },
+        {
+          "chord": "Gm",
+          "col": 47
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İsyanım sana, yanlızlığa",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 6
+        },
+        {
+          "chord": "Eb",
+          "col": 17
+        },
+        {
+          "chord": "Dm",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

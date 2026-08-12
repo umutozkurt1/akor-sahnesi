@@ -1,0 +1,238 @@
+{
+  "slug": "yasli-amca-oyle-biri-degil",
+  "artist": "Yaşlı Amca",
+  "title": "Öyle Biri Değil",
+  "key": "G",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Sonradan anladım",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Düşündüğünüz gibi, öyle biri değil",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 16
+        },
+        {
+          "chord": "Gm",
+          "col": 30
+        },
+        {
+          "chord": "Bb",
+          "col": 45
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yürür benle her yolu, istediği için",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 3
+        },
+        {
+          "chord": "Gm",
+          "col": 17
+        },
+        {
+          "chord": "Eb",
+          "col": 30
+        },
+        {
+          "chord": "D",
+          "col": 35
+        },
+        {
+          "chord": "Gm",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hızlanır tutar beni",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Uçtuğum için",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "Bb",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gün gelir çeker beni",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Düştüğüm için",
+      "chords": [
+        {
+          "chord": "Eb",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 8
+        },
+        {
+          "chord": "Gm",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ne    uğruna inanmadım onlara",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 4
+        },
+        {
+          "chord": "F",
+          "col": 9
+        },
+        {
+          "chord": "Cm",
+          "col": 14
+        },
+        {
+          "chord": "Gm",
+          "col": 29
+        },
+        {
+          "chord": "F",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sakladım ruhumu sana",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 12
+        },
+        {
+          "chord": "F",
+          "col": 17
+        },
+        {
+          "chord": "Bb",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ehvenişer mazinde",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gezmeden görmeden tanımadan yaftaladılar",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "Bb",
+          "col": 15
+        },
+        {
+          "chord": "Cm",
+          "col": 35
+        },
+        {
+          "chord": "Gm",
+          "col": 48
+        },
+        {
+          "chord": "Eb",
+          "col": 58
+        },
+        {
+          "chord": "D",
+          "col": 62
+        },
+        {
+          "chord": "Gm",
+          "col": 65
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

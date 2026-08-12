@@ -1,0 +1,160 @@
+{
+  "slug": "umut-kaya-senin",
+  "artist": "Umut Kaya",
+  "title": "Senin",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Kendime baktım bugün birşeyler değişmiş,",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 15
+        },
+        {
+          "chord": "A#",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gözlerim eskisi kadar renksiz değilmiş.",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 0
+        },
+        {
+          "chord": "G#",
+          "col": 16
+        },
+        {
+          "chord": "A#",
+          "col": 26
+        },
+        {
+          "chord": "Cm",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bildiğim tüm herşeyi hep onlar söylemiş,",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 15
+        },
+        {
+          "chord": "A#",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sen gelince sustular.",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 0
+        },
+        {
+          "chord": "G#",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yoksa senin Senin",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gözlerin mi aldı durmadan yakıp giden",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 2
+        },
+        {
+          "chord": "A#",
+          "col": 17
+        },
+        {
+          "chord": "Fm",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yılları yüzümden?",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ellerin mi aldı balon olmuş ruhumu",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 18
+        },
+        {
+          "chord": "Fm",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Onların elinden?",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

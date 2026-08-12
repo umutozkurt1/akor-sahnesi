@@ -1,0 +1,238 @@
+{
+  "slug": "sila-uzuldugun-seye-bak",
+  "artist": "Sıla",
+  "title": "Üzüldüğün Şeye Bak",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Aşk  rüyadır çok  zaman, olduğu gibi bırak    x2",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 4
+        },
+        {
+          "chord": "C",
+          "col": 14
+        },
+        {
+          "chord": "Am",
+          "col": 24
+        },
+        {
+          "chord": "C",
+          "col": 31
+        },
+        {
+          "chord": "Am",
+          "col": 54
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Tek  sen   misin   ayrılan, üzüldüğün  şeye bak    x2",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 4
+        },
+        {
+          "chord": "Dm",
+          "col": 13
+        },
+        {
+          "chord": "C",
+          "col": 19
+        },
+        {
+          "chord": "C",
+          "col": 31
+        },
+        {
+          "chord": "Dm",
+          "col": 42
+        },
+        {
+          "chord": "C",
+          "col": 46
+        },
+        {
+          "chord": "Am",
+          "col": 54
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bakıp bakıp  resmine   x2",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Bb",
+          "col": 7
+        },
+        {
+          "chord": "C",
+          "col": 16
+        },
+        {
+          "chord": "Am",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Türkü  yakıp ismine   x2",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Bb",
+          "col": 8
+        },
+        {
+          "chord": "F",
+          "col": 16
+        },
+        {
+          "chord": "C",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dert  ekleyip    derdine, üzüldüğün şeye bak    x2",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 5
+        },
+        {
+          "chord": "Dm",
+          "col": 9
+        },
+        {
+          "chord": "C",
+          "col": 14
+        },
+        {
+          "chord": "C",
+          "col": 28
+        },
+        {
+          "chord": "Dm",
+          "col": 39
+        },
+        {
+          "chord": "C",
+          "col": 43
+        },
+        {
+          "chord": "Am",
+          "col": 50
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Olmasa da  çok  güzel, sevgisi sana yeter    x2",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 5
+        },
+        {
+          "chord": "C",
+          "col": 13
+        },
+        {
+          "chord": "Am",
+          "col": 24
+        },
+        {
+          "chord": "C",
+          "col": 28
+        },
+        {
+          "chord": "Am",
+          "col": 53
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yok   yok deyip    bir haber, üzüldüğün  şeye bak    x2",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 5
+        },
+        {
+          "chord": "Dm",
+          "col": 13
+        },
+        {
+          "chord": "C",
+          "col": 18
+        },
+        {
+          "chord": "C",
+          "col": 36
+        },
+        {
+          "chord": "Dm",
+          "col": 47
+        },
+        {
+          "chord": "C",
+          "col": 51
+        },
+        {
+          "chord": "Am",
+          "col": 59
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

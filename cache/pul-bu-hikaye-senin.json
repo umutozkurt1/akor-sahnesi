@@ -1,0 +1,124 @@
+{
+  "slug": "pul-bu-hikaye-senin",
+  "artist": "Pul",
+  "title": "Bu Hikaye Senin",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "ORJİNAL TONU: A",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yüzünde donuk izler var, bakışlarından belirsiz",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "G#maj7",
+          "col": 41
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ah kendime bakmaya yüzüm yok",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "G#maj7",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bütün o hayallerin avuçlarımdan kayıp giderken",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "G#maj7",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Zafer kazanmış bir sen gözlerinden dökülen",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "G#maj7",
+          "col": 45
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Paramparça olmayan hislerinden korkmayan",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "G#maj7",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Senin değil benim olan ruhumu geri ver",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 45
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ah bu hikaye senin  x3",
+      "chords": [
+        {
+          "chord": "G#maj7",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

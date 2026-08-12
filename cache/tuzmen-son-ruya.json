@@ -1,0 +1,192 @@
+{
+  "slug": "tuzmen-son-ruya",
+  "artist": "Tüzmen",
+  "title": "Son Rüya",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Hasretin sonsuz bir karanlık",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 12
+        },
+        {
+          "chord": "G",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Nerede yitirdim seninle bilemem",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 4
+        },
+        {
+          "chord": "A#",
+          "col": 14
+        },
+        {
+          "chord": "G#",
+          "col": 23
+        },
+        {
+          "chord": "Fm",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Aşkın yollarında söz vermiştin bana",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 1
+        },
+        {
+          "chord": "G",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Haykırsam duyar mısın?",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 1
+        },
+        {
+          "chord": "Cm",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ağlarken sevgilim",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 1
+        },
+        {
+          "chord": "G",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ellerin ellerimi ararken yokluğunda",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 8
+        },
+        {
+          "chord": "A#",
+          "col": 17
+        },
+        {
+          "chord": "D#",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bu gece gölgeler benimle kolkola",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 10
+        },
+        {
+          "chord": "G",
+          "col": 18
+        },
+        {
+          "chord": "G7",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kaybolan sevgimizi terkettin sonsuza",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 9
+        },
+        {
+          "chord": "A#",
+          "col": 17
+        },
+        {
+          "chord": "D#",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bu gece son defa bu gece son rüya",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 9
+        },
+        {
+          "chord": "G",
+          "col": 18
+        },
+        {
+          "chord": "G7",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

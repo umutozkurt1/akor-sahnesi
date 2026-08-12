@@ -1,0 +1,208 @@
+{
+  "slug": "cem-adrian-derya-bedavaci-viran",
+  "artist": "Cem Adrian & Derya Bedavacı",
+  "title": "Viran",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Artık sessizce damlayan o gözyaşımda sen",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Eb",
+          "col": 15
+        },
+        {
+          "chord": "Ab",
+          "col": 35
+        },
+        {
+          "chord": "Cm",
+          "col": 59
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yaprak yaprak dökülende dallarımda sen",
+      "chords": [
+        {
+          "chord": "Bb",
+          "col": 19
+        },
+        {
+          "chord": "Ab",
+          "col": 38
+        },
+        {
+          "chord": "Cm",
+          "col": 60
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Geçtiğim yol,",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İçtiğim su,düştüğüm yer hepsi sen, hepsi senden",
+      "chords": [
+        {
+          "chord": "Eb",
+          "col": 12
+        },
+        {
+          "chord": "Ab",
+          "col": 34
+        },
+        {
+          "chord": "Bb",
+          "col": 53
+        },
+        {
+          "chord": "Cm",
+          "col": 71
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Virane, divane, harabe ben",
+      "chords": [
+        {
+          "chord": "Bb",
+          "col": 7
+        },
+        {
+          "chord": "Ab",
+          "col": 17
+        },
+        {
+          "chord": "Cm",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kırılıp gidiyor kalbimden, kalbimin en derini",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Bb",
+          "col": 13
+        },
+        {
+          "chord": "Ab",
+          "col": 30
+        },
+        {
+          "chord": "Gm",
+          "col": 48
+        },
+        {
+          "chord": "Cm",
+          "col": 59
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Vurulup ölüyor... Kalbimden, kalbimin en derini",
+      "chords": [
+        {
+          "chord": "Bb",
+          "col": 21
+        },
+        {
+          "chord": "Ab",
+          "col": 42
+        },
+        {
+          "chord": "Gm",
+          "col": 60
+        },
+        {
+          "chord": "Cm",
+          "col": 71
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kırılıp gidiyor kalbimden, kalbimin en derini",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Bb",
+          "col": 13
+        },
+        {
+          "chord": "Ab",
+          "col": 30
+        },
+        {
+          "chord": "Gm",
+          "col": 48
+        },
+        {
+          "chord": "Cm",
+          "col": 59
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Vurulup ölüyor... Kalbimden, kalbimin en derininden",
+      "chords": [
+        {
+          "chord": "Bb",
+          "col": 21
+        },
+        {
+          "chord": "Ab",
+          "col": 42
+        },
+        {
+          "chord": "Gm",
+          "col": 60
+        },
+        {
+          "chord": "Cm",
+          "col": 71
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

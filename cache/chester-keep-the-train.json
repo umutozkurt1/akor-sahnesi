@@ -1,0 +1,175 @@
+{
+  "slug": "chester-keep-the-train",
+  "artist": "Chester",
+  "title": "Keep The Train",
+  "key": "D",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "Dmaj7",
+          "col": 2
+        },
+        {
+          "chord": "D7",
+          "col": 8
+        },
+        {
+          "chord": "G",
+          "col": 11
+        },
+        {
+          "chord": "D",
+          "col": 13
+        },
+        {
+          "chord": "A",
+          "col": 15
+        },
+        {
+          "chord": "G",
+          "col": 17
+        },
+        {
+          "chord": "D",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I cant see   i cant speak only actions seem to make the world spin",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "my memories keep the train on the rails",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Shes nothing   shes no-one  something tells me that its time to move on",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "but my memories keep the train off the rails",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "ooohhh my life feels such a mess",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 9
+        },
+        {
+          "chord": "A",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "and i feel im outta luck",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "i dont know which way im goin",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 18
+        },
+        {
+          "chord": "Asus4",
+          "col": 22
+        },
+        {
+          "chord": "A",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "i sing a song to make me smile",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 6
+        },
+        {
+          "chord": "A",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "cos i`ll be a little while before i can move on",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 14
+        },
+        {
+          "chord": "Em",
+          "col": 21
+        },
+        {
+          "chord": "A",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

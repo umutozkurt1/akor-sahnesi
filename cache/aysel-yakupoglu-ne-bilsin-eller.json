@@ -1,0 +1,134 @@
+{
+  "slug": "aysel-yakupoglu-ne-bilsin-eller",
+  "artist": "Aysel Yakupoğlu",
+  "title": "Ne Bilsin Eller",
+  "key": "G",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Sabahın seheri esiyor yeller",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "Bb",
+          "col": 11
+        },
+        {
+          "chord": "F",
+          "col": 21
+        },
+        {
+          "chord": "Eb",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Benim sana yandığımı ne bilsin eller",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "Eb",
+          "col": 18
+        },
+        {
+          "chord": "F",
+          "col": 35
+        },
+        {
+          "chord": "Dm",
+          "col": 54
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ne bilsin eller, ne bilsin eller, bilmesin  eller",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 48
+        },
+        {
+          "chord": "Cm",
+          "col": 58
+        },
+        {
+          "chord": "Dm",
+          "col": 62
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sevdana düşeli geçmiyor günler",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "Bb",
+          "col": 12
+        },
+        {
+          "chord": "F",
+          "col": 21
+        },
+        {
+          "chord": "Eb",
+          "col": 46
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "NAKARAT",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "Duydum ki hep beni konuşur diller",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "Bb",
+          "col": 11
+        },
+        {
+          "chord": "F",
+          "col": 21
+        },
+        {
+          "chord": "Eb",
+          "col": 50
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

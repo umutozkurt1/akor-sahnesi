@@ -1,0 +1,125 @@
+{
+  "slug": "ahmet-kaya-yakamoz",
+  "artist": "Ahmet Kaya",
+  "title": "Yakamoz",
+  "key": "C",
+  "capo": 0,
+  "rhythm": "A-Y-Y-A-Y-Y-A-Y-A-Y",
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Yağmur yağar ıslanırsın vay aman",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Bb",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Günes doğar kaybolursun vay aman",
+      "chords": [
+        {
+          "chord": "Ab",
+          "col": 47
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ay ışığı  der durursun vay aman",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yakamozsun sen",
+      "chords": [
+        {
+          "chord": "Bb",
+          "col": 0
+        },
+        {
+          "chord": "Ab",
+          "col": 12
+        },
+        {
+          "chord": "Gm",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sessiz sessiz ağlar gibisin vay aman",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Bb",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Zaman geldi gidecek misin vay aman",
+      "chords": [
+        {
+          "chord": "Ab",
+          "col": 48
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bırak ay gitsin sen kal bu gece vay aman",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 54
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Umudumsun sen",
+      "chords": [
+        {
+          "chord": "Bb",
+          "col": 0
+        },
+        {
+          "chord": "Ab",
+          "col": 11
+        },
+        {
+          "chord": "Gm",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

@@ -1,0 +1,227 @@
+{
+  "slug": "mustafa-cihat-gulmeyenler-bahcesi",
+  "artist": "Mustafa Cihat",
+  "title": "Gülmeyenler Bahçesi",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Gülmeyenler bahcesinde bir gül ile dertlestim",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "C#",
+          "col": 14
+        },
+        {
+          "chord": "A#m",
+          "col": 23
+        },
+        {
+          "chord": "D#",
+          "col": 37
+        },
+        {
+          "chord": "Cm",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dedim nedir pürmelalin yalnizligimi sectin",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "C#",
+          "col": 6
+        },
+        {
+          "chord": "A#m",
+          "col": 23
+        },
+        {
+          "chord": "D#",
+          "col": 31
+        },
+        {
+          "chord": "Cm",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dedi bende bir gülüm isterdim hep gülmeyi",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 13
+        },
+        {
+          "chord": "C#",
+          "col": 23
+        },
+        {
+          "chord": "A#m",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gülistanda dem tutup sevmeyi sevilmeyi",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 0
+        },
+        {
+          "chord": "C#",
+          "col": 13
+        },
+        {
+          "chord": "D#",
+          "col": 24
+        },
+        {
+          "chord": "Cm",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dedi bende bir gülüm isterdim hep gülmeyi",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 13
+        },
+        {
+          "chord": "C#",
+          "col": 23
+        },
+        {
+          "chord": "A#m",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gülistanda dem tutup sevmeyi sevilmeyi",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 0
+        },
+        {
+          "chord": "C#",
+          "col": 13
+        },
+        {
+          "chord": "A#m",
+          "col": 24
+        },
+        {
+          "chord": "D#",
+          "col": 31
+        },
+        {
+          "chord": "Cm",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Aglamam ondan",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gözyasim ondan",
+      "chords": [
+        {
+          "chord": "C#",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yapayalniz kalmisim",
+      "chords": [
+        {
+          "chord": "C#",
+          "col": 0
+        },
+        {
+          "chord": "A#m",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dertlerim ondan",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 0
+        },
+        {
+          "chord": "C#",
+          "col": 10
+        },
+        {
+          "chord": "Cm",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

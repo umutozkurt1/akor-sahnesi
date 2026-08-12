@@ -1,0 +1,471 @@
+{
+  "slug": "vega-sokaklar-tekin-degil",
+  "artist": "Vega",
+  "title": "Sokaklar Tekin Değil",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "C5",
+          "col": 0
+        },
+        {
+          "chord": "F5",
+          "col": 3
+        },
+        {
+          "chord": "C5",
+          "col": 6
+        },
+        {
+          "chord": "F5",
+          "col": 9
+        },
+        {
+          "chord": "C5",
+          "col": 12
+        },
+        {
+          "chord": "F5",
+          "col": 15
+        },
+        {
+          "chord": "C5",
+          "col": 18
+        },
+        {
+          "chord": "A#5",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 2
+        },
+        {
+          "chord": "F",
+          "col": 4
+        },
+        {
+          "chord": "G#",
+          "col": 6
+        },
+        {
+          "chord": "F",
+          "col": 9
+        },
+        {
+          "chord": "D",
+          "col": 11
+        },
+        {
+          "chord": "D#",
+          "col": 14
+        },
+        {
+          "chord": "D",
+          "col": 18
+        },
+        {
+          "chord": "D#",
+          "col": 21
+        },
+        {
+          "chord": "C",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "dışarda seni gördüm beni sordun",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 7
+        },
+        {
+          "chord": "F",
+          "col": 14
+        },
+        {
+          "chord": "G#",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "bakarken acıtıyordun",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 6
+        },
+        {
+          "chord": "D",
+          "col": 10
+        },
+        {
+          "chord": "C",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "sokaklar tekin değil",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 4
+        },
+        {
+          "chord": "G#",
+          "col": 8
+        },
+        {
+          "chord": "F",
+          "col": 13
+        },
+        {
+          "chord": "D",
+          "col": 16
+        },
+        {
+          "chord": "D#",
+          "col": 19
+        },
+        {
+          "chord": "D",
+          "col": 23
+        },
+        {
+          "chord": "D#",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "buz gibi kapıları sabırla kapatırken",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 2
+        },
+        {
+          "chord": "F",
+          "col": 4
+        },
+        {
+          "chord": "G#",
+          "col": 6
+        },
+        {
+          "chord": "F",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "ağlıyorum yavaş yavaş karanlığa boğulurken",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 2
+        },
+        {
+          "chord": "F",
+          "col": 4
+        },
+        {
+          "chord": "G#",
+          "col": 6
+        },
+        {
+          "chord": "F",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "benim diye bu evde yerim ve karnım tok",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 7
+        },
+        {
+          "chord": "F",
+          "col": 14
+        },
+        {
+          "chord": "G#",
+          "col": 18
+        },
+        {
+          "chord": "F",
+          "col": 31
+        },
+        {
+          "chord": "D",
+          "col": 34
+        },
+        {
+          "chord": "D#",
+          "col": 37
+        },
+        {
+          "chord": "D",
+          "col": 41
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "ve aynada bu aynada yine kısme yok yine kımse yok",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 2
+        },
+        {
+          "chord": "G",
+          "col": 9
+        },
+        {
+          "chord": "F",
+          "col": 16
+        },
+        {
+          "chord": "G#",
+          "col": 20
+        },
+        {
+          "chord": "F",
+          "col": 39
+        },
+        {
+          "chord": "D",
+          "col": 43
+        },
+        {
+          "chord": "D#",
+          "col": 46
+        },
+        {
+          "chord": "D",
+          "col": 50
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 7
+        },
+        {
+          "chord": "F",
+          "col": 14
+        },
+        {
+          "chord": "G#",
+          "col": 18
+        },
+        {
+          "chord": "F",
+          "col": 35
+        },
+        {
+          "chord": "D",
+          "col": 38
+        },
+        {
+          "chord": "D#",
+          "col": 41
+        },
+        {
+          "chord": "D",
+          "col": 45
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "silah sesleri geliyor içinden hiç yokken",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "süpe ediyorum elerimden elerimden",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 7
+        },
+        {
+          "chord": "F",
+          "col": 14
+        },
+        {
+          "chord": "G#",
+          "col": 18
+        },
+        {
+          "chord": "F",
+          "col": 35
+        },
+        {
+          "chord": "D",
+          "col": 38
+        },
+        {
+          "chord": "D#",
+          "col": 41
+        },
+        {
+          "chord": "D",
+          "col": 45
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "C5",
+          "col": 0
+        },
+        {
+          "chord": "C#",
+          "col": 3
+        },
+        {
+          "chord": "C5",
+          "col": 6
+        },
+        {
+          "chord": "C#",
+          "col": 9
+        },
+        {
+          "chord": "C5",
+          "col": 12
+        },
+        {
+          "chord": "C#",
+          "col": 15
+        },
+        {
+          "chord": "C5",
+          "col": 18
+        },
+        {
+          "chord": "C#",
+          "col": 21
+        },
+        {
+          "chord": "C5",
+          "col": 24
+        },
+        {
+          "chord": "C#",
+          "col": 27
+        },
+        {
+          "chord": "C5",
+          "col": 30
+        },
+        {
+          "chord": "C#",
+          "col": 33
+        },
+        {
+          "chord": "C5",
+          "col": 36
+        },
+        {
+          "chord": "C#",
+          "col": 39
+        },
+        {
+          "chord": "C5",
+          "col": 42
+        },
+        {
+          "chord": "C#",
+          "col": 45
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

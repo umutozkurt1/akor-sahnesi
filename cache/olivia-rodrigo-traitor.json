@@ -1,0 +1,773 @@
+{
+  "slug": "olivia-rodrigo-traitor",
+  "artist": "Olivia Rodrigo",
+  "title": "Traitor",
+  "key": "G",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Brown guilty eyes and little white lies",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 1
+        },
+        {
+          "chord": "G",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yeah, I played dumb but I always knew",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 9
+        },
+        {
+          "chord": "Fmaj7",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "That you talk to her, maybe did even worse",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 6
+        },
+        {
+          "chord": "G",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I kept quiet so I could keep you",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 8
+        },
+        {
+          "chord": "Fmaj7",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And ain't it funny",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "How you ran to her",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "The second that we called it quits",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 6
+        },
+        {
+          "chord": "Fmaj7",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And ain't it funny",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "How you said you were friends",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Now it sure as hell don't look like it",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 8
+        },
+        {
+          "chord": "Fmaj7",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You betrayed me",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 6
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And I know that you'll never feel sorry",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 4
+        },
+        {
+          "chord": "Am",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "For the way I hurt, yeah",
+      "chords": [
+        {
+          "chord": "Fmaj7",
+          "col": 3
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You talked to her",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 1
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "When we were together",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 5
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Loved you at your worst",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 6
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But that didn't matter",
+      "chords": [
+        {
+          "chord": "Fmaj7",
+          "col": 4
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "It took you two weeks",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 4
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "To go off and date her",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 3
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Guess you didn't cheat",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 6
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But you're still a traitor",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Now you bring her around",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Just to shut me down",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 5
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Show her off like she's a new trophy",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 9
+        },
+        {
+          "chord": "Fmaj7",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And I know if you were true",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "There's no damn way that you",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Could fall in love with somebody that quickly",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 15
+        },
+        {
+          "chord": "Fmaj7",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ain't it funny",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "All the twisted games",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 5
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "All the questions you used to avoid?",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 10
+        },
+        {
+          "chord": "Fmaj7",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ain't it funny?",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Remember I brought her up",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And you told me I was paranoid",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 9
+        },
+        {
+          "chord": "Fmaj7",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You betrayed me",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 6
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And I know that you'll never feel sorry",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 4
+        },
+        {
+          "chord": "Am",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "For the way I hurt, yeah",
+      "chords": [
+        {
+          "chord": "Fmaj7",
+          "col": 3
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You talked to her",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 1
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "When we were together",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 5
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Loved you at your worst",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 6
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But that didn't matter",
+      "chords": [
+        {
+          "chord": "Fmaj7",
+          "col": 4
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "It took you two weeks",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 4
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "To go off and date her",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 3
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Guess you didn't cheat",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 7
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But you're still a traitor",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " (Ah, ah, ah, ah) God, I wish that you had thought this through",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 6
+        },
+        {
+          "chord": "Am",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Before I went and fell in love with you",
+      "chords": [
+        {
+          "chord": "Fmaj7",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " (Ah, ah, ah, ah)  When she's sleeping in the bed we made",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 6
+        },
+        {
+          "chord": "Am",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Don't you dare forget about the way",
+      "chords": [
+        {
+          "chord": "Fmaj7",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You betrayed me",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 6
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Cuz I know that you'll never feel sorry",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 4
+        },
+        {
+          "chord": "Am",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "For the way I hurt, yeah",
+      "chords": [
+        {
+          "chord": "Fmaj7",
+          "col": 3
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You talked to her",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 1
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "When we were together",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 5
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You gave me your word",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 5
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But that didn't matter",
+      "chords": [
+        {
+          "chord": "Fmaj7",
+          "col": 4
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "It took you two weeks",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 4
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "To go off and date her",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 3
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Guess you didn't cheat",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 6
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But you're still, you're still a traitor (Ah, ah, ah, ah)",
+      "chords": [
+        {
+          "chord": "Fmaj7",
+          "col": 4
+        },
+        {
+          "chord": "C",
+          "col": 33
+        },
+        {
+          "chord": "G",
+          "col": 36
+        },
+        {
+          "chord": "Am",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yeah, you're still a traitor",
+      "chords": [
+        {
+          "chord": "Fmaj7",
+          "col": 6
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Oh, oh, oh God, I wish that you had thought this through",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 5
+        },
+        {
+          "chord": "Am",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "before I went and fell in love with you",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 1
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

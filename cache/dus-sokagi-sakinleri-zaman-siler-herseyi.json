@@ -1,0 +1,131 @@
+{
+  "slug": "dus-sokagi-sakinleri-zaman-siler-herseyi",
+  "artist": "Düş Sokağı Sakinleri",
+  "title": "Zaman Siler Herşeyi",
+  "key": "Db",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": " Gece örter üstümü",
+      "chords": [
+        {
+          "chord": "Db",
+          "col": 1
+        },
+        {
+          "chord": "Ab",
+          "col": 9
+        },
+        {
+          "chord": "Bbm",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Sesim çoğalır su olur",
+      "chords": [
+        {
+          "chord": "Gb",
+          "col": 1
+        },
+        {
+          "chord": "Ab",
+          "col": 14
+        },
+        {
+          "chord": "Db",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Zaman siler herşeyi",
+      "chords": [
+        {
+          "chord": "Db",
+          "col": 1
+        },
+        {
+          "chord": "Ab",
+          "col": 13
+        },
+        {
+          "chord": "Bbm",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Geride kalır sesim",
+      "chords": [
+        {
+          "chord": "Gb",
+          "col": 1
+        },
+        {
+          "chord": "Ab",
+          "col": 13
+        },
+        {
+          "chord": "Db",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Birden sen gelirsin aklıma",
+      "chords": [
+        {
+          "chord": "Db",
+          "col": 1
+        },
+        {
+          "chord": "Bbm",
+          "col": 9
+        },
+        {
+          "chord": "Db",
+          "col": 23
+        },
+        {
+          "chord": "Ab",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Zaman siler herşeyi",
+      "chords": [
+        {
+          "chord": "Gb",
+          "col": 1
+        },
+        {
+          "chord": "Ab",
+          "col": 16
+        },
+        {
+          "chord": "Db",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

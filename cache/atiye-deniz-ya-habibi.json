@@ -1,0 +1,175 @@
+{
+  "slug": "atiye-deniz-ya-habibi",
+  "artist": "Atiye Deniz",
+  "title": "Ya Habibi",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Bir gözüm görmüyor, bir kulağım duymuyor",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Am7",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir elim tutmuyor hayat sensiz bir yarım",
+      "chords": [
+        {
+          "chord": "Dm7",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 20
+        },
+        {
+          "chord": "Am7",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Koşuyorum sebepsiz, nefesim yetersiz",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Am7",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kaldım ben sensiz yarım",
+      "chords": [
+        {
+          "chord": "Dm7",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 12
+        },
+        {
+          "chord": "Am7",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ya habibi, bekletme sevdiğini",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dünya dönüyor ama günler dönmüyor geri",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ya habibi kaybetme sevdiğini",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dünya dönüyor aşka haydi sende dön geri",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ya habibi (Ooo) kalbimin sahibi",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 2
+        },
+        {
+          "chord": "Am",
+          "col": 9
+        },
+        {
+          "chord": "A#",
+          "col": 17
+        },
+        {
+          "chord": "C",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ya habibi",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

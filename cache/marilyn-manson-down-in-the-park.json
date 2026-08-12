@@ -1,0 +1,499 @@
+{
+  "slug": "marilyn-manson-down-in-the-park",
+  "artist": "Marilyn Manson",
+  "title": "Down In The Park",
+  "key": "E",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "E5",
+          "col": 0
+        },
+        {
+          "chord": "F#5",
+          "col": 9
+        },
+        {
+          "chord": "D5",
+          "col": 18
+        },
+        {
+          "chord": "A5",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "E5",
+          "col": 0
+        },
+        {
+          "chord": "F#5",
+          "col": 9
+        },
+        {
+          "chord": "C#5",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Down in the Park where the MachMen meet",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "the machines play kill-by-number",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Down in the Park with a friend called 5",
+      "chords": [
+        {
+          "chord": "E5",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I was in a car crash",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "F#",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "or was it the war?",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "but i never been quite the same",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " little white lies like I was there",
+      "chords": [
+        {
+          "chord": "F#",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 14
+        },
+        {
+          "chord": "C#",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "C#5",
+          "col": 0
+        },
+        {
+          "chord": "B5",
+          "col": 9
+        },
+        {
+          "chord": "A5",
+          "col": 18
+        },
+        {
+          "chord": "A5",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Come to ZomZom's",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "F#",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "a place to eat",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "like it was built in one day",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " you can watch the humans try to run",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "F#",
+          "col": 19
+        },
+        {
+          "chord": "C#",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "oh look theres a rape machine",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "F#",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "i'd go outside if he'd look the other way",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 7
+        },
+        {
+          "chord": "A",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " wouldn't believe the things they'd do",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "F#",
+          "col": 17
+        },
+        {
+          "chord": "C#",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "C#5",
+          "col": 0
+        },
+        {
+          "chord": "B5",
+          "col": 13
+        },
+        {
+          "chord": "A5",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "we're not lovers",
+      "chords": [
+        {
+          "chord": "C#",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "we're not romantics",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "we are here to serve you",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "F#5",
+          "col": 0
+        },
+        {
+          "chord": "E5",
+          "col": 10
+        },
+        {
+          "chord": "D5",
+          "col": 18
+        },
+        {
+          "chord": "A5",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "F#5",
+          "col": 0
+        },
+        {
+          "chord": "E5",
+          "col": 10
+        },
+        {
+          "chord": "C#5",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Down in the Park where the chant is death",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "death until the sun cries mourning",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Down in the Park with friends of mine",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 30
+        },
+        {
+          "chord": "E",
+          "col": 33
+        },
+        {
+          "chord": "E",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "we're not lovers",
+      "chords": [
+        {
+          "chord": "E5",
+          "col": 0
+        },
+        {
+          "chord": "F#5",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "we're not romantics",
+      "chords": [
+        {
+          "chord": "D5",
+          "col": 12
+        },
+        {
+          "chord": "A5",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "we are here to serve you",
+      "chords": [
+        {
+          "chord": "E5",
+          "col": 16
+        },
+        {
+          "chord": "F#5",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "(a different face but the words never change!)",
+      "chords": [
+        {
+          "chord": "C#5",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "C#5",
+          "col": 0
+        },
+        {
+          "chord": "B5",
+          "col": 5
+        },
+        {
+          "chord": "A5",
+          "col": 9
+        },
+        {
+          "chord": "A5",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " we're not lovers",
+      "chords": [
+        {
+          "chord": "C#5",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "we're not romantics",
+      "chords": [
+        {
+          "chord": "B5",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "we are here to serve you",
+      "chords": [
+        {
+          "chord": "A5",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

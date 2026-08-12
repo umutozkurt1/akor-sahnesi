@@ -1,0 +1,167 @@
+{
+  "slug": "the-beatles-because",
+  "artist": "The Beatles",
+  "title": "Because",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Because the world is round it turns me on,",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 2
+        },
+        {
+          "chord": "Fm",
+          "col": 39
+        },
+        {
+          "chord": "G7",
+          "col": 43
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "because the world is round.    Ah__.",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 2
+        },
+        {
+          "chord": "Cm",
+          "col": 12
+        },
+        {
+          "chord": "G#",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Because the wind is high it blows my mind,",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 2
+        },
+        {
+          "chord": "Fm",
+          "col": 37
+        },
+        {
+          "chord": "G7",
+          "col": 43
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "because the wind is high.    Ah__.",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 2
+        },
+        {
+          "chord": "Cm",
+          "col": 12
+        },
+        {
+          "chord": "G#",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Love is old, love is new, love is all, love is you.",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 21
+        },
+        {
+          "chord": "G7",
+          "col": 44
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Because the sky is blue it makes me cry,",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 2
+        },
+        {
+          "chord": "Fm",
+          "col": 36
+        },
+        {
+          "chord": "G7",
+          "col": 41
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "because the sky is blue.    Ah__.",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 2
+        },
+        {
+          "chord": "Cm",
+          "col": 12
+        },
+        {
+          "chord": "G#",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 5
+        },
+        {
+          "chord": "Am",
+          "col": 8
+        },
+        {
+          "chord": "B7",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "repeat the song twice",
+      "chords": [],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

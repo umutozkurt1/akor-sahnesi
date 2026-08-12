@@ -1,0 +1,208 @@
+{
+  "slug": "duman-istanbul",
+  "artist": "Duman",
+  "title": "İstanbul",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Bu şehir rakıyla yaşar",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 1
+        },
+        {
+          "chord": "A#",
+          "col": 18
+        },
+        {
+          "chord": "Cm",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bu şehir cigarayı çeker",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 4
+        },
+        {
+          "chord": "A#",
+          "col": 21
+        },
+        {
+          "chord": "Cm",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bu şehir gündüzü yaşar",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 4
+        },
+        {
+          "chord": "A#",
+          "col": 22
+        },
+        {
+          "chord": "Cm",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bu şehir her geceyi sever",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 4
+        },
+        {
+          "chord": "A#",
+          "col": 22
+        },
+        {
+          "chord": "Cm",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bu şehirin adamı söver",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 4
+        },
+        {
+          "chord": "A#",
+          "col": 21
+        },
+        {
+          "chord": "Cm",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bu şehir  kadının döver",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 4
+        },
+        {
+          "chord": "A#",
+          "col": 20
+        },
+        {
+          "chord": "Cm",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bu şehir kanımızı emer",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 4
+        },
+        {
+          "chord": "A#",
+          "col": 20
+        },
+        {
+          "chord": "Cm",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bu şehir için ölmeye değer",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 4
+        },
+        {
+          "chord": "A#",
+          "col": 21
+        },
+        {
+          "chord": "Cm",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Istanbul elinden öper",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

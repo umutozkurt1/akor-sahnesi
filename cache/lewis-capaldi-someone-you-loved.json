@@ -1,0 +1,563 @@
+{
+  "slug": "lewis-capaldi-someone-you-loved",
+  "artist": "Lewis Capaldi",
+  "title": "Someone You Loved",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "INTRO",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 4
+        },
+        {
+          "chord": "Am",
+          "col": 8
+        },
+        {
+          "chord": "F",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'm going under and this time I fear there's no one to save me",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 27
+        },
+        {
+          "chord": "Am",
+          "col": 58
+        },
+        {
+          "chord": "F",
+          "col": 65
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "This all or nothing really got a way of driving me crazy",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 29
+        },
+        {
+          "chord": "Am",
+          "col": 54
+        },
+        {
+          "chord": "F",
+          "col": 61
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I need somebody to heal, somebody to know, somebody to have, somebody to hold",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 21
+        },
+        {
+          "chord": "G",
+          "col": 39
+        },
+        {
+          "chord": "Am",
+          "col": 56
+        },
+        {
+          "chord": "F",
+          "col": 74
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "It's easy to say, but it's never the same",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 14
+        },
+        {
+          "chord": "G",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I guess I kinda liked the way you numbed all the pain",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 16
+        },
+        {
+          "chord": "F",
+          "col": 50
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Now the day bleeds into nightfall",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 16
+        },
+        {
+          "chord": "G",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And you're not here to get me through it all",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 17
+        },
+        {
+          "chord": "F",
+          "col": 44
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I let my guard down, and then you pulled the rug",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 18
+        },
+        {
+          "chord": "G",
+          "col": 45
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I was getting kinda used to being someone you loved",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 20
+        },
+        {
+          "chord": "F",
+          "col": 47
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'm going under and this time I fear there's no one to turn to",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 29
+        },
+        {
+          "chord": "Am",
+          "col": 61
+        },
+        {
+          "chord": "F",
+          "col": 68
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "This all or nothing way of lovin' got me sleepin' without you",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 29
+        },
+        {
+          "chord": "Am",
+          "col": 57
+        },
+        {
+          "chord": "F",
+          "col": 64
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Now, I need somebody to know, somebody to heal, somebody to have, just to know how it feels",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 25
+        },
+        {
+          "chord": "G",
+          "col": 43
+        },
+        {
+          "chord": "Am",
+          "col": 60
+        },
+        {
+          "chord": "F",
+          "col": 87
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "It's easy to say, but it's never the same",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 14
+        },
+        {
+          "chord": "G",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I guess I kinda liked the way you helped me escape",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 16
+        },
+        {
+          "chord": "F",
+          "col": 47
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Now the day bleeds into nightfall",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 15
+        },
+        {
+          "chord": "G",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And you're not here to get me through it all",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 17
+        },
+        {
+          "chord": "F",
+          "col": 43
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I let my guard down, and then you pulled the rug",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 18
+        },
+        {
+          "chord": "G",
+          "col": 45
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I was getting kinda used to being someone you loved",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 20
+        },
+        {
+          "chord": "F",
+          "col": 47
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And I tend to close my eyes but it hurts sometimes",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 4
+        },
+        {
+          "chord": "Am",
+          "col": 17
+        },
+        {
+          "chord": "G",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I fall into your arms",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 10
+        },
+        {
+          "chord": "Dm",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'll be safe in your sound 'til I come back around",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 9
+        },
+        {
+          "chord": "G",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "For now the day bleeds into nightfall",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 21
+        },
+        {
+          "chord": "G",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And you're not here to get me through it all",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 17
+        },
+        {
+          "chord": "F",
+          "col": 43
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I let my guard down, and then you pulled the rug",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 18
+        },
+        {
+          "chord": "G",
+          "col": 45
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I was getting kinda used to being someone you loved",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 20
+        },
+        {
+          "chord": "F",
+          "col": 47
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But now the day bleeds into nightfall",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 20
+        },
+        {
+          "chord": "G",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And you're not here to get me through it all",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 17
+        },
+        {
+          "chord": "F",
+          "col": 43
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I let my guard down, and then you pulled the rug",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 18
+        },
+        {
+          "chord": "G",
+          "col": 45
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I was getting kinda used to being someone you loved",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 20
+        },
+        {
+          "chord": "F",
+          "col": 47
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I let my guard down, and then you pulled the rug",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 18
+        },
+        {
+          "chord": "G",
+          "col": 47
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I was getting kinda used to being someone you loved",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 20
+        },
+        {
+          "chord": "F",
+          "col": 47
+        },
+        {
+          "chord": "C",
+          "col": 53
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

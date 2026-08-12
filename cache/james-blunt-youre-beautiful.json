@@ -1,0 +1,629 @@
+{
+  "slug": "james-blunt-youre-beautiful",
+  "artist": "James Blunt",
+  "title": "You're Beautiful",
+  "key": "G",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Intro",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "Em7",
+          "col": 11
+        },
+        {
+          "chord": "Csus2",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "Em7",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Csus2",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " My life is brilliant.",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Em7",
+          "col": 9
+        },
+        {
+          "chord": "Csus2",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " My life is brilliant.",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 1
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dadd11F#",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "         My love is pure.",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   I saw an angel.",
+      "chords": [
+        {
+          "chord": "Em7",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "     Of that I'm sure.",
+      "chords": [
+        {
+          "chord": "Csus2",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "She smiled at me on the subway.",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "        Dadd11F#",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "She was with     another man.",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But I  won't lose no sleep on that,",
+      "chords": [
+        {
+          "chord": "Em7",
+          "col": 4
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "'Cause I've got a plan.",
+      "chords": [
+        {
+          "chord": "Csus2",
+          "col": 7
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "     You're beautiful.     You're beautiful.",
+      "chords": [
+        {
+          "chord": "Csus2",
+          "col": 0
+        },
+        {
+          "chord": "Dadd11",
+          "col": 19
+        },
+        {
+          "chord": "G",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "     You're beautiful, it's true.",
+      "chords": [
+        {
+          "chord": "Csus2",
+          "col": 0
+        },
+        {
+          "chord": "Dadd11",
+          "col": 19
+        },
+        {
+          "chord": "G",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I saw     your face      in a crowded",
+      "chords": [
+        {
+          "chord": "Csus2",
+          "col": 5
+        },
+        {
+          "chord": "Dadd11",
+          "col": 19
+        },
+        {
+          "chord": "G",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "        place, And I don't know what      to do,",
+      "chords": [
+        {
+          "chord": "Em7",
+          "col": 4
+        },
+        {
+          "chord": "Csus2",
+          "col": 20
+        },
+        {
+          "chord": "Dadd11",
+          "col": 35
+        },
+        {
+          "chord": "Em7",
+          "col": 47
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "'Cause I'll never be      with you.",
+      "chords": [
+        {
+          "chord": "Csus2",
+          "col": 12
+        },
+        {
+          "chord": "Dadd11",
+          "col": 20
+        },
+        {
+          "chord": "G",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "                   Yeah, she caught my eye,",
+      "chords": [
+        {
+          "chord": "Em7",
+          "col": 9
+        },
+        {
+          "chord": "Csus2",
+          "col": 13
+        },
+        {
+          "chord": "G",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "      Dadd11F#",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "As we walked   on by.",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "She could see from my face that I was,",
+      "chords": [
+        {
+          "chord": "Em7",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "     Fucking high,",
+      "chords": [
+        {
+          "chord": "Csus2",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "     G                      Dadd11F#",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And I don't think that I'll see      her again,",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But we shared a moment that will last     till the end.",
+      "chords": [
+        {
+          "chord": "Em7",
+          "col": 4
+        },
+        {
+          "chord": "Csus2",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "     You're beautiful.     You're beautiful.",
+      "chords": [
+        {
+          "chord": "Csus2",
+          "col": 0
+        },
+        {
+          "chord": "Dadd11",
+          "col": 19
+        },
+        {
+          "chord": "G",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "     You're beautiful, it's true.",
+      "chords": [
+        {
+          "chord": "Csus2",
+          "col": 0
+        },
+        {
+          "chord": "Dadd11",
+          "col": 19
+        },
+        {
+          "chord": "G",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I saw     your face      in a crowded",
+      "chords": [
+        {
+          "chord": "Csus2",
+          "col": 5
+        },
+        {
+          "chord": "Dadd11",
+          "col": 19
+        },
+        {
+          "chord": "G",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "        place, And I don't know what      to do,",
+      "chords": [
+        {
+          "chord": "Em7",
+          "col": 4
+        },
+        {
+          "chord": "Csus2",
+          "col": 20
+        },
+        {
+          "chord": "Dadd11",
+          "col": 35
+        },
+        {
+          "chord": "Em7",
+          "col": 47
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "'Cause I'll never be      with you.",
+      "chords": [
+        {
+          "chord": "Csus2",
+          "col": 12
+        },
+        {
+          "chord": "Dadd11",
+          "col": 20
+        },
+        {
+          "chord": "G",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "     Na na na   na",
+      "chords": [
+        {
+          "chord": "Csus2",
+          "col": 0
+        },
+        {
+          "chord": "Em7",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "     Na na na   na",
+      "chords": [
+        {
+          "chord": "Csus2",
+          "col": 0
+        },
+        {
+          "chord": "Em7",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "     Na na na   na Na",
+      "chords": [
+        {
+          "chord": "Csus2",
+          "col": 0
+        },
+        {
+          "chord": "Em7",
+          "col": 13
+        },
+        {
+          "chord": "Dadd9",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "     You're beautiful.     You're beautiful.",
+      "chords": [
+        {
+          "chord": "Csus2",
+          "col": 0
+        },
+        {
+          "chord": "Dadd11",
+          "col": 19
+        },
+        {
+          "chord": "G",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "     You're beautiful, it's true.",
+      "chords": [
+        {
+          "chord": "Csus2",
+          "col": 0
+        },
+        {
+          "chord": "Dadd11",
+          "col": 19
+        },
+        {
+          "chord": "G",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "There must     be an angel with a smile on her face,",
+      "chords": [
+        {
+          "chord": "Csus2",
+          "col": 10
+        },
+        {
+          "chord": "Dadd11",
+          "col": 23
+        },
+        {
+          "chord": "G",
+          "col": 34
+        },
+        {
+          "chord": "Em7",
+          "col": 51
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "When she thought up that I should be with you.",
+      "chords": [
+        {
+          "chord": "Csus2",
+          "col": 9
+        },
+        {
+          "chord": "Dadd11",
+          "col": 46
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "          But it's time to face      the truth,",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "Em7",
+          "col": 6
+        },
+        {
+          "chord": "Csus2",
+          "col": 18
+        },
+        {
+          "chord": "Dadd11",
+          "col": 30
+        },
+        {
+          "chord": "Em7",
+          "col": 46
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I will never be      with you.",
+      "chords": [
+        {
+          "chord": "Csus2",
+          "col": 7
+        },
+        {
+          "chord": "Dadd11",
+          "col": 15
+        },
+        {
+          "chord": "G",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

@@ -1,0 +1,205 @@
+{
+  "slug": "yuzyuzeyken-konusuruz-salon",
+  "artist": "Yüzyüzeyken Konuşuruz",
+  "title": "Salon",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Her şehir kendi içinde biraz hüzün barındırır",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 16
+        },
+        {
+          "chord": "D",
+          "col": 36
+        },
+        {
+          "chord": "A",
+          "col": 55
+        },
+        {
+          "chord": "E",
+          "col": 66
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Şehirlerin, hüzünlerini sokak kedileri taşır",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 19
+        },
+        {
+          "chord": "D",
+          "col": 38
+        },
+        {
+          "chord": "A",
+          "col": 46
+        },
+        {
+          "chord": "E",
+          "col": 56
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Saat tam olsa bile ama çok geç kalınmıştır",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 7
+        },
+        {
+          "chord": "E",
+          "col": 20
+        },
+        {
+          "chord": "D",
+          "col": 35
+        },
+        {
+          "chord": "F#m",
+          "col": 48
+        },
+        {
+          "chord": "E",
+          "col": 57
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ama boşver sen üzülme ben bazen bir arabayımdır",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 20
+        },
+        {
+          "chord": "E",
+          "col": 34
+        },
+        {
+          "chord": "D",
+          "col": 46
+        },
+        {
+          "chord": "F#m",
+          "col": 57
+        },
+        {
+          "chord": "E",
+          "col": 67
+        },
+        {
+          "chord": "A",
+          "col": 73
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Üç oda bir salon üstüne bir de balkon",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bana yeter de artar   bile",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 12
+        },
+        {
+          "chord": "F#m",
+          "col": 27
+        },
+        {
+          "chord": "E",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hadi geldik son durak hava birazdan kararacak",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 51
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yağmur başlamadan önce beni aldığın yere geri bırak",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 15
+        },
+        {
+          "chord": "F#m",
+          "col": 54
+        },
+        {
+          "chord": "E",
+          "col": 70
+        },
+        {
+          "chord": "A",
+          "col": 82
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

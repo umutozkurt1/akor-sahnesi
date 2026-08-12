@@ -1,0 +1,153 @@
+{
+  "slug": "teoman-ogul",
+  "artist": "Teoman",
+  "title": "Oğul",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Kurumuş kuyunun suyu incirin, sütü çoktan çekilmiş",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 81
+        },
+        {
+          "chord": "Dm",
+          "col": 86
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir zamanlar dünya sandığım bahçeyi",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ayrık otları dikenler bürümüş",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 44
+        },
+        {
+          "chord": "Dm",
+          "col": 49
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bardaktaki su denizde, kum kadar umarsızdım",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 69
+        },
+        {
+          "chord": "Dm",
+          "col": 73
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir zamanlar dünya sandığım bahçeyi",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ayrık otları dikenler bürüdü",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 41
+        },
+        {
+          "chord": "Dm",
+          "col": 45
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Anne ben geldim dizlerin duruyor mu, başımı koyacak",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 23
+        },
+        {
+          "chord": "F",
+          "col": 34
+        },
+        {
+          "chord": "Dm",
+          "col": 53
+        },
+        {
+          "chord": "Am",
+          "col": 82
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Anne ben geldim ben oğlun hayırsızın",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 18
+        },
+        {
+          "chord": "F",
+          "col": 28
+        },
+        {
+          "chord": "Am",
+          "col": 51
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

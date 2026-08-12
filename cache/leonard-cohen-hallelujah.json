@@ -1,0 +1,660 @@
+{
+  "slug": "leonard-cohen-hallelujah",
+  "artist": "Leonard Cohen",
+  "title": "Hallelujah",
+  "key": "D",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Now I've heard there was a secret chord",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 9
+        },
+        {
+          "chord": "Bm",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "That David played, and it pleased the Lord",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 5
+        },
+        {
+          "chord": "Bm",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But you don't really care for music, do you?",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 4
+        },
+        {
+          "chord": "A",
+          "col": 21
+        },
+        {
+          "chord": "D",
+          "col": 41
+        },
+        {
+          "chord": "A",
+          "col": 46
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "It goes like this the fourth, the fifth",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 3
+        },
+        {
+          "chord": "G",
+          "col": 22
+        },
+        {
+          "chord": "A",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "The minor fall, the major lift",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 4
+        },
+        {
+          "chord": "G",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "The baffled king composing Hallelujah",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 4
+        },
+        {
+          "chord": "F#",
+          "col": 20
+        },
+        {
+          "chord": "Bm",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hallelujah, Hallelujah, Hallelujah, Hallelu-u-jah",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 5
+        },
+        {
+          "chord": "Bm",
+          "col": 17
+        },
+        {
+          "chord": "G",
+          "col": 29
+        },
+        {
+          "chord": "D",
+          "col": 41
+        },
+        {
+          "chord": "A",
+          "col": 44
+        },
+        {
+          "chord": "D",
+          "col": 46
+        },
+        {
+          "chord": "A",
+          "col": 49
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Your faith was strong, but you needed proof",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 5
+        },
+        {
+          "chord": "Bm",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You saw her bathing on the roof",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 4
+        },
+        {
+          "chord": "Bm",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Her beauty and the moonlight overthrew ya",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 4
+        },
+        {
+          "chord": "A",
+          "col": 19
+        },
+        {
+          "chord": "D",
+          "col": 33
+        },
+        {
+          "chord": "A",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "She tied you to a kitchen chair",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 4
+        },
+        {
+          "chord": "G",
+          "col": 18
+        },
+        {
+          "chord": "A",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "She broke your throne, and she cut your hair",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 4
+        },
+        {
+          "chord": "G",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And from your lips she drew the Hallelujah",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 4
+        },
+        {
+          "chord": "F#",
+          "col": 23
+        },
+        {
+          "chord": "Bm",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hallelujah, Hallelujah, Hallelujah, Hallelu-u-jah",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 5
+        },
+        {
+          "chord": "Bm",
+          "col": 17
+        },
+        {
+          "chord": "G",
+          "col": 29
+        },
+        {
+          "chord": "D",
+          "col": 41
+        },
+        {
+          "chord": "A",
+          "col": 44
+        },
+        {
+          "chord": "D",
+          "col": 46
+        },
+        {
+          "chord": "A",
+          "col": 49
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You say I took the name in vain",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 4
+        },
+        {
+          "chord": "Bm",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I don't even know the name",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But if I did, well really, what's it to ya?",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 4
+        },
+        {
+          "chord": "A",
+          "col": 19
+        },
+        {
+          "chord": "D",
+          "col": 37
+        },
+        {
+          "chord": "A",
+          "col": 44
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "There's a blaze of light in every word",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 10
+        },
+        {
+          "chord": "G",
+          "col": 28
+        },
+        {
+          "chord": "A",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "It doesn't matter which you heard",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 3
+        },
+        {
+          "chord": "G",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "The holy or the broken Hallelujah",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 4
+        },
+        {
+          "chord": "F#",
+          "col": 16
+        },
+        {
+          "chord": "Bm",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hallelujah, Hallelujah, Hallelujah, Hallelu-u-jah",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 5
+        },
+        {
+          "chord": "Bm",
+          "col": 17
+        },
+        {
+          "chord": "G",
+          "col": 29
+        },
+        {
+          "chord": "D",
+          "col": 41
+        },
+        {
+          "chord": "A",
+          "col": 44
+        },
+        {
+          "chord": "D",
+          "col": 46
+        },
+        {
+          "chord": "A",
+          "col": 49
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "[Verse 4]",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I did my best, it wasn't much",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 2
+        },
+        {
+          "chord": "Bm",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I couldn't feel, so I tried to touch",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 2
+        },
+        {
+          "chord": "Bm",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I've told the truth, I didn't come to fool ya",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 5
+        },
+        {
+          "chord": "A",
+          "col": 23
+        },
+        {
+          "chord": "D",
+          "col": 44
+        },
+        {
+          "chord": "A",
+          "col": 48
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And even though it all went wrong",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 4
+        },
+        {
+          "chord": "G",
+          "col": 19
+        },
+        {
+          "chord": "A",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'll stand before the Lord of Song",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 5
+        },
+        {
+          "chord": "G",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "With nothing on my tongue but Hallelujah",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 5
+        },
+        {
+          "chord": "F#",
+          "col": 19
+        },
+        {
+          "chord": "Bm",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hallelujah, Hallelujah, Hallelujah, Hallelujah",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 5
+        },
+        {
+          "chord": "Bm",
+          "col": 17
+        },
+        {
+          "chord": "G",
+          "col": 29
+        },
+        {
+          "chord": "D",
+          "col": 41
+        },
+        {
+          "chord": "A",
+          "col": 43
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hallelujah, Hallelujah, Hallelujah, Hallelujah",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 5
+        },
+        {
+          "chord": "Bm",
+          "col": 17
+        },
+        {
+          "chord": "G",
+          "col": 29
+        },
+        {
+          "chord": "D",
+          "col": 41
+        },
+        {
+          "chord": "A",
+          "col": 43
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hallelujah, Hallelujah, Hallelujah, Hallelujah",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 5
+        },
+        {
+          "chord": "Bm",
+          "col": 17
+        },
+        {
+          "chord": "G",
+          "col": 29
+        },
+        {
+          "chord": "D",
+          "col": 41
+        },
+        {
+          "chord": "A",
+          "col": 43
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hallelujah, Hallelujah, Hallelujah, Hallelujah",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 5
+        },
+        {
+          "chord": "Bm",
+          "col": 17
+        },
+        {
+          "chord": "G",
+          "col": 29
+        },
+        {
+          "chord": "D",
+          "col": 41
+        },
+        {
+          "chord": "A",
+          "col": 43
+        },
+        {
+          "chord": "D",
+          "col": 45
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

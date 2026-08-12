@@ -1,0 +1,63 @@
+{
+  "slug": "oguzhan-koc-wikileaks",
+  "artist": "Oğuzhan Koç",
+  "title": "Wikileaks",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Yar sen bana ümit verdin, deymezmişsin seni gidi ceaks",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 13
+        },
+        {
+          "chord": "Ab",
+          "col": 26
+        },
+        {
+          "chord": "A#",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Her sırrımı açık etdin, oldum tam bir viki viki leaks",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "Ab",
+          "col": 13
+        },
+        {
+          "chord": "A#",
+          "col": 24
+        },
+        {
+          "chord": "Fm",
+          "col": 39
+        },
+        {
+          "chord": "Gm",
+          "col": 50
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

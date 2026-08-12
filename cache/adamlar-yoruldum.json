@@ -1,0 +1,432 @@
+{
+  "slug": "adamlar-yoruldum",
+  "artist": "Adamlar",
+  "title": "Yoruldum",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Yoruldum ah yoruldum da boğulmaktan kurtuldum",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 25
+        },
+        {
+          "chord": "Am",
+          "col": 45
+        },
+        {
+          "chord": "F",
+          "col": 70
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Neydim, ne oldum?",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 7
+        },
+        {
+          "chord": "Am",
+          "col": 10
+        },
+        {
+          "chord": "F",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İki kutu parasında kaç yerimden vuruldum,",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 13
+        },
+        {
+          "chord": "Am",
+          "col": 27
+        },
+        {
+          "chord": "F",
+          "col": 52
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bi açtım, bi soldum",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 6
+        },
+        {
+          "chord": "Am",
+          "col": 11
+        },
+        {
+          "chord": "F",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gözünde, gezegeninde gençliğimi savurdum",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 17
+        },
+        {
+          "chord": "Am",
+          "col": 39
+        },
+        {
+          "chord": "F",
+          "col": 56
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yazdım, yazık oldum",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 7
+        },
+        {
+          "chord": "Am",
+          "col": 11
+        },
+        {
+          "chord": "F",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yoruldum, yoruldum da",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yorulup da yol buldum",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yoruldum, yoruldum, yoruldum, yoruldum",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 15
+        },
+        {
+          "chord": "Am",
+          "col": 35
+        },
+        {
+          "chord": "F",
+          "col": 52
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yoruldum ah yoruldum da boğulmaktan kurtuldum",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 15
+        },
+        {
+          "chord": "Am",
+          "col": 35
+        },
+        {
+          "chord": "F",
+          "col": 52
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İçim, dışım çarpıştı",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Düşler gerçeğe bulaştı",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 27
+        },
+        {
+          "chord": "F",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Önümde dikendi, taştı",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Düşe kalka, toz toprağa azar azar karıştım",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 17
+        },
+        {
+          "chord": "A#",
+          "col": 38
+        },
+        {
+          "chord": "Am",
+          "col": 58
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Beş karış, dört duvar, üç kağıt, iki yüz, tek yürek olmamaya yeminli",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hepimizin eseri bu dünya, kesene bereket ben doydum yalana",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bu kadar insan, hani tek bi tür, oturup tek bir gün susmuş mu birlikte?",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bi kerecik izlemiş mi güneşin doğuşunu, batışını?",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bi suyun akışını bile almış ezbere",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Beş karış, dört duvar, üç kağıt, iki yüz, tek yürek olmamaya yeminli",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hepimizin eseri bu dünya, kesene bereket ben doydum yalana",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bu kadar insan, hani tek bi tür, oturup tek bir gün susmuş mu birlikte?",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Şşşşş…",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İçim, dışım çarpıştı",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Düşler gerçeğe bulaştı",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 29
+        },
+        {
+          "chord": "F",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Önümde dikendi, taştı",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Düşe kalka, toz toprağa azar azar karıştım",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 19
+        },
+        {
+          "chord": "A#",
+          "col": 46
+        },
+        {
+          "chord": "Am",
+          "col": 61
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

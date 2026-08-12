@@ -1,0 +1,126 @@
+{
+  "slug": "ido-tatlises-kac-kere",
+  "artist": "İdo Tatlıses",
+  "title": "Kaç Kere",
+  "key": "E",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Yaşarken öldün mü",
+      "chords": [
+        {
+          "chord": "Em7",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir kaç sokak başında yürüdün mü",
+      "chords": [
+        {
+          "chord": "Em7",
+          "col": 0
+        },
+        {
+          "chord": "D7",
+          "col": 45
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Anlaman bize gelmez",
+      "chords": [
+        {
+          "chord": "Am7",
+          "col": 0
+        },
+        {
+          "chord": "Bm7",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Mücadelen buna yetmez",
+      "chords": [
+        {
+          "chord": "Am7",
+          "col": 0
+        },
+        {
+          "chord": "Gmaj7",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kaç kere,   kaç kere öldüm ateşlerde",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 10
+        },
+        {
+          "chord": "C",
+          "col": 15
+        },
+        {
+          "chord": "Bm",
+          "col": 25
+        },
+        {
+          "chord": "Am7",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yangın var bu şehirde",
+      "chords": [
+        {
+          "chord": "Bm7",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sol yanım senin peşinde",
+      "chords": [
+        {
+          "chord": "Am7",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

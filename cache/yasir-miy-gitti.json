@@ -1,0 +1,219 @@
+{
+  "slug": "yasir-miy-gitti",
+  "artist": "Yasir Miy",
+  "title": "Gitti",
+  "key": "F#",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Onu duyma gereği yok  silik   sözleri",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 38
+        },
+        {
+          "chord": "C#m",
+          "col": 46
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Peki sonra düzelir, hep umut var gibi",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 8
+        },
+        {
+          "chord": "Bm",
+          "col": 39
+        },
+        {
+          "chord": "C#m",
+          "col": 50
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Her    şey     yeniden    Her gün yine sen",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "C#m",
+          "col": 6
+        },
+        {
+          "chord": "Dmaj7",
+          "col": 15
+        },
+        {
+          "chord": "Bm",
+          "col": 23
+        },
+        {
+          "chord": "C#m",
+          "col": 27
+        },
+        {
+          "chord": "F#m",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yağdır anılar",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "C#m",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yine sana doldu ve senle gitti",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 18
+        },
+        {
+          "chord": "C#m",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yüreğim    acı      b i l d i",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "C#m",
+          "col": 4
+        },
+        {
+          "chord": "Bm",
+          "col": 18
+        },
+        {
+          "chord": "C#m",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bana ses oldu sessiz   gitti",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 10
+        },
+        {
+          "chord": "C#m",
+          "col": 22
+        },
+        {
+          "chord": "F#m",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "C#m",
+          "col": 4
+        },
+        {
+          "chord": "Bm",
+          "col": 9
+        },
+        {
+          "chord": "C#m",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "C#m",
+          "col": 4
+        },
+        {
+          "chord": "Dmaj7",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 5
+        },
+        {
+          "chord": "C#m",
+          "col": 9
+        },
+        {
+          "chord": "F#m",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

@@ -1,0 +1,234 @@
+{
+  "slug": "berkay-omrumun-geri-kalani",
+  "artist": "Berkay",
+  "title": "Ömrümün Geri Kalanı",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Intro:",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 4
+        },
+        {
+          "chord": "Dm",
+          "col": 8
+        },
+        {
+          "chord": "G",
+          "col": 12
+        },
+        {
+          "chord": "F",
+          "col": 15
+        },
+        {
+          "chord": "Em",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Koca bir hüzün sanki yaşadıgım şu günler",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Umudum tükense de susuyorum",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 4
+        },
+        {
+          "chord": "Em7",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Geri gelmiş sanki ayrılık kapılar aralanmış",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sayılı gün geçer biliyorum",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 4
+        },
+        {
+          "chord": "Em7",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bize kimler kıymış belki de kader böyle yazılmış",
+      "chords": [
+        {
+          "chord": "Am7",
+          "col": 8
+        },
+        {
+          "chord": "F",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Zaman bile bize çare olamamış,.",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "Em7",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kalpler artık kirlenmiş, boğazımız düğümlenmiş",
+      "chords": [
+        {
+          "chord": "Am7",
+          "col": 10
+        },
+        {
+          "chord": "F",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yalansız sevgiler galiba eskidenmiş,",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "Em7",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kabul edemem böyle bir yalanı..",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Aşkımı gelip elimden alanı..",
+      "chords": [
+        {
+          "chord": "Em7",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Belki de buymuş en zor olanı",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 10
+        },
+        {
+          "chord": "F",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Seninim hep ömrümün geri kalanı",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 12
+        },
+        {
+          "chord": "F",
+          "col": 20
+        },
+        {
+          "chord": "Em7",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

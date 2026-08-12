@@ -1,0 +1,183 @@
+{
+  "slug": "mustafa-tosun-sen-olmayinca",
+  "artist": "Mustafa Tosun",
+  "title": "Sen Olmayınca",
+  "key": "B",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Gecenin bu vaktinde, düştün yine aklıma,",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Uyku girmez gözüme sebeb sensin sancıma.",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 19
+        },
+        {
+          "chord": "C",
+          "col": 32
+        },
+        {
+          "chord": "Bm",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Benim her günümde her gecemde adın var",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "gelmesende beklerim seni mahşere kadar",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 14
+        },
+        {
+          "chord": "Am",
+          "col": 19
+        },
+        {
+          "chord": "Bm",
+          "col": 24
+        },
+        {
+          "chord": "C",
+          "col": 28
+        },
+        {
+          "chord": "D",
+          "col": 30
+        },
+        {
+          "chord": "Em",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gel bu gece gel aşkım yanıma",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gel sarayım, sarayım canıma",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Her günüm yalnız",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 7
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hayat anlamsız",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 6
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bu şehir ıssız",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 6
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sen olmayınca",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 4
+        },
+        {
+          "chord": "C",
+          "col": 7
+        },
+        {
+          "chord": "Bm",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

@@ -1,0 +1,289 @@
+{
+  "slug": "ayna-arkadas",
+  "artist": "Ayna",
+  "title": "Arkadaş",
+  "key": "E",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Bir kıvılcım düşer önce büyür yavaş, yavaş",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 17
+        },
+        {
+          "chord": "Am",
+          "col": 38
+        },
+        {
+          "chord": "B",
+          "col": 60
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir bakarsın volkan olmuş yanmışsın arkadaş",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 18
+        },
+        {
+          "chord": "C",
+          "col": 48
+        },
+        {
+          "chord": "Em",
+          "col": 65
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dolduramaz boşluğunu ne ana ne gardaş",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 19
+        },
+        {
+          "chord": "Am",
+          "col": 40
+        },
+        {
+          "chord": "C",
+          "col": 59
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bu en güzel bu en sıcak duygudur arkadaş",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 24
+        },
+        {
+          "chord": "C",
+          "col": 43
+        },
+        {
+          "chord": "Em",
+          "col": 59
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ortak olmak her sevince her derde kedere",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 19
+        },
+        {
+          "chord": "C",
+          "col": 46
+        },
+        {
+          "chord": "Am",
+          "col": 61
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ve yürümek ömür boyu beraberce el ele",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 21
+        },
+        {
+          "chord": "Am",
+          "col": 38
+        },
+        {
+          "chord": "B",
+          "col": 55
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Olmasın hiç bu ta içten gülen gözlerde yaş",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 21
+        },
+        {
+          "chord": "Am",
+          "col": 42
+        },
+        {
+          "chord": "B",
+          "col": 61
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yollarımız ayrılsa bile seninle arkadaş",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 18
+        },
+        {
+          "chord": "C",
+          "col": 32
+        },
+        {
+          "chord": "Em",
+          "col": 49
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ortak olmak her sevince her derde kedere",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 0
+        },
+        {
+          "chord": "F#",
+          "col": 19
+        },
+        {
+          "chord": "C#",
+          "col": 42
+        },
+        {
+          "chord": "A#m",
+          "col": 57
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ve yürümek ömür boyu beraberce el ele",
+      "chords": [
+        {
+          "chord": "C#",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 21
+        },
+        {
+          "chord": "A#m",
+          "col": 38
+        },
+        {
+          "chord": "C",
+          "col": 52
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Olmayacak o ta içten gülen gözlerde yaş",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "C#",
+          "col": 19
+        },
+        {
+          "chord": "A#m",
+          "col": 34
+        },
+        {
+          "chord": "C#",
+          "col": 53
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir gün gelip ayrılsak bile seninle arkadaş",
+      "chords": [
+        {
+          "chord": "A#m",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 23
+        },
+        {
+          "chord": "A#m",
+          "col": 38
+        },
+        {
+          "chord": "Fm",
+          "col": 51
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

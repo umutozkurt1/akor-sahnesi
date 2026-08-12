@@ -1,0 +1,141 @@
+{
+  "slug": "eypio-yolla",
+  "artist": "Eypio",
+  "title": "Yolla",
+  "key": "D",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Dur dedim ama kalbim dedi beni yolla",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 25
+        },
+        {
+          "chord": "A#",
+          "col": 54
+        },
+        {
+          "chord": "C",
+          "col": 59
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yolla yollara düşsün, aşk yokuşlara küskün",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 25
+        },
+        {
+          "chord": "Am",
+          "col": 32
+        },
+        {
+          "chord": "A#",
+          "col": 57
+        },
+        {
+          "chord": "C",
+          "col": 65
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gitme kalbim sen beni bi başıma koyma",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 25
+        },
+        {
+          "chord": "A#",
+          "col": 54
+        },
+        {
+          "chord": "C",
+          "col": 59
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bak ne hallere düştüm, aşk yokuşlara küskün",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 25
+        },
+        {
+          "chord": "Am",
+          "col": 32
+        },
+        {
+          "chord": "A#",
+          "col": 57
+        },
+        {
+          "chord": "C",
+          "col": 65
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Tamam böyle durum belli, benim böyle sonum belli",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 15
+        },
+        {
+          "chord": "Am",
+          "col": 56
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Benim böyle elim böyle kolum, görmedim ben böyle sorun",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 16
+        },
+        {
+          "chord": "C",
+          "col": 63
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "[Şarkı tamamlanacaktır]",
+      "chords": [],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

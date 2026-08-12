@@ -1,0 +1,679 @@
+{
+  "slug": "cascada-every-time-we-touch",
+  "artist": "Cascada",
+  "title": "Every Time We Touch",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "I still hear your voice when you sleep next to me",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 18
+        },
+        {
+          "chord": "G",
+          "col": 33
+        },
+        {
+          "chord": "F",
+          "col": 47
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I still feel your touch in my dreams",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 18
+        },
+        {
+          "chord": "G",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Forgive me my weakness, but I don't know why",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 13
+        },
+        {
+          "chord": "G",
+          "col": 27
+        },
+        {
+          "chord": "Am",
+          "col": 41
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Without you It's hard to survive.",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 12
+        },
+        {
+          "chord": "G",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Cause everytime we touch I get this feeling",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 20
+        },
+        {
+          "chord": "G",
+          "col": 27
+        },
+        {
+          "chord": "Am",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "and everytime we kiss I swear I could fly",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 17
+        },
+        {
+          "chord": "G",
+          "col": 24
+        },
+        {
+          "chord": "Am",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Can't you feel my heart beat fast",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 18
+        },
+        {
+          "chord": "C",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I want this to last",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 2
+        },
+        {
+          "chord": "Am",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Need you by my side",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Cause everytime we touch I feel the static",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 19
+        },
+        {
+          "chord": "G",
+          "col": 27
+        },
+        {
+          "chord": "Am",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "and everytime we kiss I reach for the sky",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 17
+        },
+        {
+          "chord": "G",
+          "col": 24
+        },
+        {
+          "chord": "Am",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Can't you hear my heart beat so",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 17
+        },
+        {
+          "chord": "C",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I can't let you go",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 2
+        },
+        {
+          "chord": "Am",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Want you in my life",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Your arms are my castle, your heart is my sky",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 17
+        },
+        {
+          "chord": "G",
+          "col": 30
+        },
+        {
+          "chord": "F",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "They wipe away tears that I cry",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 15
+        },
+        {
+          "chord": "G",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "The good and the bad times we've been through them all",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 17
+        },
+        {
+          "chord": "G",
+          "col": 33
+        },
+        {
+          "chord": "Am",
+          "col": 51
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You make me rise when I fall",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 12
+        },
+        {
+          "chord": "G",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Cause everytime we touch I get this feeling",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 20
+        },
+        {
+          "chord": "G",
+          "col": 27
+        },
+        {
+          "chord": "Am",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "and everytime we kiss I swear I could fly",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 17
+        },
+        {
+          "chord": "G",
+          "col": 24
+        },
+        {
+          "chord": "Am",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Can't you feel my heart beat fast",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 18
+        },
+        {
+          "chord": "C",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I want this to last",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 2
+        },
+        {
+          "chord": "Am",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Need you by my side",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Cause everytime we touch I feel the static",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 19
+        },
+        {
+          "chord": "G",
+          "col": 27
+        },
+        {
+          "chord": "Am",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "and everytime we kiss I reach for the sky",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 17
+        },
+        {
+          "chord": "G",
+          "col": 24
+        },
+        {
+          "chord": "Am",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Can't you hear my heart beat so",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 17
+        },
+        {
+          "chord": "C",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I can't let you go",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 2
+        },
+        {
+          "chord": "Am",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Want you in my life",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Cause everytime we touch I get this feeling",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 20
+        },
+        {
+          "chord": "G",
+          "col": 27
+        },
+        {
+          "chord": "Am",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "and everytime we kiss I swear I could fly",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 17
+        },
+        {
+          "chord": "G",
+          "col": 24
+        },
+        {
+          "chord": "Am",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Can't you feel my heart beat fast",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 18
+        },
+        {
+          "chord": "C",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I want this to last",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 2
+        },
+        {
+          "chord": "Am",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Need you by my side",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Cause everytime we touch I feel the static",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 19
+        },
+        {
+          "chord": "G",
+          "col": 27
+        },
+        {
+          "chord": "Am",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "and everytime we kiss I reach for the sky",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 17
+        },
+        {
+          "chord": "G",
+          "col": 24
+        },
+        {
+          "chord": "Am",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Can't you hear my heart beat so",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 17
+        },
+        {
+          "chord": "C",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I can't let you go",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 2
+        },
+        {
+          "chord": "Am",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Want you in my life",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

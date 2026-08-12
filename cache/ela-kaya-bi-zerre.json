@@ -1,0 +1,167 @@
+{
+  "slug": "ela-kaya-bi-zerre",
+  "artist": "Ela Kaya",
+  "title": "Bi Zerre",
+  "key": "Eb",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Ne zormuş seni mutlu edebilmek",
+      "chords": [
+        {
+          "chord": "Ebm7",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bu nasıl eksiklik, nasıl bir yürek?",
+      "chords": [
+        {
+          "chord": "Emaj7",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gün gelecek seni de incitecek",
+      "chords": [
+        {
+          "chord": "Dbm7",
+          "col": 0
+        },
+        {
+          "chord": "Ebm7",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yaptıkların",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Beni ben gibi sevmemiş olman",
+      "chords": [
+        {
+          "chord": "Abm",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Umurumda değil artık yok olman",
+      "chords": [
+        {
+          "chord": "Emaj7",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Taviz vere vere düşürdüm kendimi",
+      "chords": [
+        {
+          "chord": "Dbm7",
+          "col": 0
+        },
+        {
+          "chord": "Ebm7",
+          "col": 43
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Haklıyken de hep bendim alttan alan",
+      "chords": [
+        {
+          "chord": "Emaj7",
+          "col": 0
+        },
+        {
+          "chord": "Dbm7",
+          "col": 27
+        },
+        {
+          "chord": "Ebm",
+          "col": 44
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yüreği heba etmektense seninle",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yalnız kalırım tek başıma bu evde",
+      "chords": [
+        {
+          "chord": "Abm",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 46
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Verdiğim değeri anlamayanın bende",
+      "chords": [
+        {
+          "chord": "Dbm",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ne adı kalır ne de sevdası bi zerre",
+      "chords": [
+        {
+          "chord": "Gb",
+          "col": 0
+        },
+        {
+          "chord": "Dbm",
+          "col": 30
+        },
+        {
+          "chord": "Ebm",
+          "col": 43
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

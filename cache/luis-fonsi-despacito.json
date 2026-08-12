@@ -1,0 +1,878 @@
+{
+  "slug": "luis-fonsi-despacito",
+  "artist": "Luis Fonsi",
+  "title": "Despacito",
+  "key": "B",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Ay",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Fonsi",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  DY",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Oh Oh",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 3
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Oh no, oh no",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Oh yeah",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 7
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Go",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Si, sabes que ya llevo un rato mirandote",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Tengo que bailar contigo hoy (DY)",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Vi que tu mirada ya estaba llamÃ¡ndome",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Muestrame el camino que yo voy (Oh)",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Tu, tu eres el iman y yo soy el metal",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Me voy acercando y voy armando el plan",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Solo con pensarlo se acelera el pulso (Oh yeah)",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ya, ya me esta gustando mas de lo normal",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Todos mis sentidos van pidiendo mas",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Esto hay que tomarlo sin ningun apuro",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Despacito",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 5
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Quiero respirar tu cuello despacito",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Deja que te diga cosas al oido",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Para que te acuerdes si no estas conmigo",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Despacito",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 5
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Quiero desnudarte a besos despacito",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Firmo en las paredes de tu laberinto",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Y hacer de tu cuerpo todo un manuscrito",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Quiero ver bailar tu pelo",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Quiero ser tu ritmo",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Que le ensenes a mi boca",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Tus lugares favoritos (favoritos, favoritos baby)",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dejame sobrepasar tus zonas de peligro",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hasta provocar tus gritos",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Y que olvides tu apellido",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Si te pido un beso ven damelo",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yo se que estas pensandolo",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Llevo tiempo intentandolo",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Mami, esto es dando y dandolo",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sabes que tu corazon conmigo te hace bom, bom",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sabes que esa beba esta buscando de mi bom, bom",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ven prueba de mi boca para ver como te sabe",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Quiero, quiero, quiero ver cuanto amor a ti te cabe",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yo no tengo prisa, yo me quiero dar el viaje",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Empecemos lento, despues salvaje",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Pasito a pasito, suave suavecito",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Nos vamos pegando poquito a poquito",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Cuando tu me besas con esa destreza",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Veo que eres malicia con delicadeza",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Pasito a pasito, suave suavecito",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Nos vamos pegando poquito a poquito",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Y es que esa belleza es un rompecabezas",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Pero pa montarlo aqui tengo la pieza",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Despacito",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 5
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Quiero respirar tu cuello despacito",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Deja que te diga cosas al oido",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Para que te acuerdes si no estas conmigo",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Despacito",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 5
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Quiero desnudarte a besos despacito",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Firmo en las paredes de tu laberinto",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Y hacer de tu cuerpo todo un manuscrito",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Quiero ver bailar tu pelo",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Quiero ser tu ritmo",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Que le ensenes a mi boca",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Tus lugares favoritos (favoritos, favoritos baby)",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dejame sobrepasar tus zonas de peligro",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hasta provocar tus gritos",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Y que olvides tu apellido",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Despacito",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 5
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Vamos a hacerlo en una playa en Puerto Rico",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 41
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hasta que las olas griten \"ay, bendito!\"",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Para que mi sello se quede contigo",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Pasito a pasito, suave suavecito",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Nos vamos pegando, poquito a",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Que le ensenes a mi boca",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Tus lugares favoritos (favoritos, favori)",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Pasito a pasito, suave suavecito",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Nos vamos pegando, poquito a",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hasta provocar tus gritos",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Y que olvides tu apellido",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Despacito",
+      "chords": [],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

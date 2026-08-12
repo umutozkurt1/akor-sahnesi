@@ -1,0 +1,264 @@
+{
+  "slug": "guven-yureyi-baska-biri",
+  "artist": "Güven Yüreyi",
+  "title": "Başka Biri",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Ben hatalıyım biliyorum sevgilim",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Çok zarardayım buna hazır değil yüreğim",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 33
+        },
+        {
+          "chord": "Em",
+          "col": 44
+        },
+        {
+          "chord": "Am",
+          "col": 55
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yok, henüz değil gidemezsin sevgilim",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dur hemen gitme buna hazır değil yüreğim",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 4
+        },
+        {
+          "chord": "Dm",
+          "col": 39
+        },
+        {
+          "chord": "Em",
+          "col": 50
+        },
+        {
+          "chord": "Am",
+          "col": 60
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ah, beni al getir sana",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 11
+        },
+        {
+          "chord": "Dm",
+          "col": 19
+        },
+        {
+          "chord": "Am",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bu kadar da günah, dayanır mı can buna",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 28
+        },
+        {
+          "chord": "Em",
+          "col": 42
+        },
+        {
+          "chord": "Dm",
+          "col": 49
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Uzaklık zor geliyor bana",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kalk gel direnir acılar yarına",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 22
+        },
+        {
+          "chord": "Em",
+          "col": 30
+        },
+        {
+          "chord": "Dm",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Nasıl bir aşk savaşı kaybeden ben oldum ya",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 16
+        },
+        {
+          "chord": "Dm",
+          "col": 20
+        },
+        {
+          "chord": "F",
+          "col": 26
+        },
+        {
+          "chord": "G",
+          "col": 42
+        },
+        {
+          "chord": "Am",
+          "col": 61
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Seni saran beni yakan başka biri var",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İnanmam buna dayanamam gitme yanımda kal",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 49
+        },
+        {
+          "chord": "F",
+          "col": 61
+        },
+        {
+          "chord": "G",
+          "col": 70
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Seni saran beni yakan başka biri var",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İnanmam buna dayanamam gitme yanımda kal",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 49
+        },
+        {
+          "chord": "Dm",
+          "col": 61
+        },
+        {
+          "chord": "G",
+          "col": 70
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

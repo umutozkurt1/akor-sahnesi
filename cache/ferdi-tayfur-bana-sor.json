@@ -1,0 +1,129 @@
+{
+  "slug": "ferdi-tayfur-bana-sor",
+  "artist": "Ferdi Tayfur",
+  "title": "Bana Sor",
+  "key": "D",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Uykusuz gecelerin sabahını bana sor",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 8
+        },
+        {
+          "chord": "Bb",
+          "col": 54
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yarım kalan aşkımın, acısını bana sor",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 11
+        },
+        {
+          "chord": "Am",
+          "col": 57
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bana sor yalnızlığı, ayrılığı bana sor",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 10
+        },
+        {
+          "chord": "Bb",
+          "col": 21
+        },
+        {
+          "chord": "Dm",
+          "col": 32
+        },
+        {
+          "chord": "Bb",
+          "col": 45
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Mutluluğu bilirsin, mutsuzluğu bana sor",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 9
+        },
+        {
+          "chord": "C",
+          "col": 22
+        },
+        {
+          "chord": "Bb",
+          "col": 40
+        },
+        {
+          "chord": "Am",
+          "col": 55
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yıkılan yuvaların, sonu gelmez yolların",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 6
+        },
+        {
+          "chord": "Bb",
+          "col": 57
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yaşanmamış yılların, eyvahını bana sor",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 11
+        },
+        {
+          "chord": "Bb",
+          "col": 46
+        },
+        {
+          "chord": "Am",
+          "col": 59
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Nakarat",
+      "chords": [],
+      "section": true,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

@@ -1,0 +1,546 @@
+{
+  "slug": "john-lennon-imagine",
+  "artist": "John Lennon",
+  "title": "Imagine",
+  "key": "D",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": " Imagine there's no    heaven",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "Dmaj7",
+          "col": 17
+        },
+        {
+          "chord": "G",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " It's easy if you   try",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "Dmaj7",
+          "col": 14
+        },
+        {
+          "chord": "G",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " No hell below us",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "Dmaj7",
+          "col": 9
+        },
+        {
+          "chord": "G",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  Above us only  sky",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "Dmaj7",
+          "col": 11
+        },
+        {
+          "chord": "G",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "G        BmF#   Em7   GD",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Imagine all the people",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Living for to - day a-hah",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "A7",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  Imagine there's no    countries",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "Dmaj7",
+          "col": 18
+        },
+        {
+          "chord": "G",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  It isn't hard to    do",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "Dmaj7",
+          "col": 16
+        },
+        {
+          "chord": "G",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  Nothing to kill or    die for",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "Dmaj7",
+          "col": 18
+        },
+        {
+          "chord": "G",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  And no religion   too",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "Dmaj7",
+          "col": 14
+        },
+        {
+          "chord": "G",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "G        BmF#   Em7   GD",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Imagine all the people",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Living life in  peace - you-hou-hou-ou-ou",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "A7",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  You may say I'm a dreamer",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 10
+        },
+        {
+          "chord": "D",
+          "col": 21
+        },
+        {
+          "chord": "Dmaj7",
+          "col": 26
+        },
+        {
+          "chord": "F#",
+          "col": 33
+        },
+        {
+          "chord": "F#7",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  But I'm not the only one",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 10
+        },
+        {
+          "chord": "D",
+          "col": 24
+        },
+        {
+          "chord": "Dmaj7",
+          "col": 27
+        },
+        {
+          "chord": "F#",
+          "col": 34
+        },
+        {
+          "chord": "F#7",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " I hope some day you'll join us",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 13
+        },
+        {
+          "chord": "D",
+          "col": 25
+        },
+        {
+          "chord": "Dmaj7",
+          "col": 30
+        },
+        {
+          "chord": "F#",
+          "col": 37
+        },
+        {
+          "chord": "F#7",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  And the world will be as one",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 10
+        },
+        {
+          "chord": "D",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   Imagine no pos - sessions",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "Dmaj7",
+          "col": 14
+        },
+        {
+          "chord": "G",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  I wonder if you   can",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "Dmaj7",
+          "col": 14
+        },
+        {
+          "chord": "G",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " No need for greed or    hunger",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "Dmaj7",
+          "col": 19
+        },
+        {
+          "chord": "G",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " A brotherhood of    man",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "Dmaj7",
+          "col": 15
+        },
+        {
+          "chord": "G",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "G        BmF#   Em7   GD",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Imagine all the people",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sharing all the world - you-hou-hou-ou",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "A7",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  You may say I'm a dreamer",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 10
+        },
+        {
+          "chord": "D",
+          "col": 21
+        },
+        {
+          "chord": "Dmaj7",
+          "col": 26
+        },
+        {
+          "chord": "F#",
+          "col": 33
+        },
+        {
+          "chord": "F#7",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  But I'm not the only one",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 10
+        },
+        {
+          "chord": "D",
+          "col": 24
+        },
+        {
+          "chord": "Dmaj7",
+          "col": 27
+        },
+        {
+          "chord": "F#",
+          "col": 34
+        },
+        {
+          "chord": "F#7",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " I hope some day you'll join us",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 13
+        },
+        {
+          "chord": "D",
+          "col": 25
+        },
+        {
+          "chord": "Dmaj7",
+          "col": 30
+        },
+        {
+          "chord": "F#",
+          "col": 37
+        },
+        {
+          "chord": "F#7",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  And the world will live as one",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 10
+        },
+        {
+          "chord": "D",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

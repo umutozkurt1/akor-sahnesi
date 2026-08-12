@@ -1,0 +1,119 @@
+{
+  "slug": "melih-kala-yalancisin",
+  "artist": "Melih Kala",
+  "title": "Yalancisin",
+  "key": "E",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Ama sen kuraldan çok kuralcısın",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ama sen bir andan çok plancısın Hafızam beni yanıltıyor olamaz",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 17
+        },
+        {
+          "chord": "G",
+          "col": 32
+        },
+        {
+          "chord": "F#",
+          "col": 52
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sen yalandan çok yalancısın",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 1
+        },
+        {
+          "chord": "F#",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ama sen kuraldan çok kuralcısın",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Bm7",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ama sen bir andan çok plancısın Hafızam beni yanıltıyor olamaz",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Bm7",
+          "col": 17
+        },
+        {
+          "chord": "G",
+          "col": 33
+        },
+        {
+          "chord": "F#",
+          "col": 53
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sen yalandan çok yalancısın",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 1
+        },
+        {
+          "chord": "F#",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

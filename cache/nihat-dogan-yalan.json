@@ -1,0 +1,188 @@
+{
+  "slug": "nihat-dogan-yalan",
+  "artist": "Nihat Doğan",
+  "title": "Yalan",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Zorunamı gitti seni perişan edişim",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ben sayamadım artık bu kaçıncı yemin edişin",
+      "chords": [
+        {
+          "chord": "C#",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 27
+        },
+        {
+          "chord": "C#",
+          "col": 33
+        },
+        {
+          "chord": "Cm",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yalvarma boşuna şu halin gitmiyor hoşuma",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Senle olamam artık yazık oluyor genç yaşıma",
+      "chords": [
+        {
+          "chord": "C#",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 24
+        },
+        {
+          "chord": "C#",
+          "col": 33
+        },
+        {
+          "chord": "Cm",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kimse benii daha kıramadı kıramaz",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "annem bile bizim aramızı bulamaz",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "senin gibilerle hiç işim olamaz",
+      "chords": [
+        {
+          "chord": "C#",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "haydi git yoluna",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir daha beni aramayacakmış",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "aşkını da kalbinde saklayacakmış",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "sabahlara kadar aglayacakmış",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 1
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "YALAN YALANNN",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 1
+        },
+        {
+          "chord": "D#",
+          "col": 9
+        },
+        {
+          "chord": "C#",
+          "col": 13
+        },
+        {
+          "chord": "Cm",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

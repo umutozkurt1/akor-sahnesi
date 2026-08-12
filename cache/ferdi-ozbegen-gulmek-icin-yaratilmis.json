@@ -1,0 +1,151 @@
+{
+  "slug": "ferdi-ozbegen-gulmek-icin-yaratilmis",
+  "artist": "Ferdi Özbeğen",
+  "title": "Gülmek İçin Yaratılmış",
+  "key": "F",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Gülmek için yaratılmış, gözlerde yaşlar niye",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "Bbm",
+          "col": 26
+        },
+        {
+          "chord": "C",
+          "col": 32
+        },
+        {
+          "chord": "Fm",
+          "col": 60
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sevmek için yaratılmış, kalpler hep bomboş niye",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 29
+        },
+        {
+          "chord": "C",
+          "col": 36
+        },
+        {
+          "chord": "Fm",
+          "col": 71
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sevmesini bilmiyorsan, bakma sakın gözlerime",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "Bbm",
+          "col": 26
+        },
+        {
+          "chord": "C",
+          "col": 33
+        },
+        {
+          "chord": "Fm",
+          "col": 61
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Mutlu olmak istiyorsan, inan inan sözlerime",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 28
+        },
+        {
+          "chord": "C",
+          "col": 38
+        },
+        {
+          "chord": "Fm",
+          "col": 64
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yok yok yalan deme, sevgi denen o gerçeğe",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "Bbm",
+          "col": 23
+        },
+        {
+          "chord": "C",
+          "col": 29
+        },
+        {
+          "chord": "Fm",
+          "col": 57
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sevmek acı gerçek acı, benzer birbirine",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 31
+        },
+        {
+          "chord": "C",
+          "col": 35
+        },
+        {
+          "chord": "Fm",
+          "col": 55
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

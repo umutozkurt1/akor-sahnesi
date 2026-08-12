@@ -1,0 +1,161 @@
+{
+  "slug": "bengu-gecmis-olsun",
+  "artist": "Bengü",
+  "title": "Geçmiş Olsun",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Geçmiş olsun bitti",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "O güzel günler yitik",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ne mağlubu var ne galibi",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bile bile yenildik",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Seni kimlere pay edecek",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kalbim söyle nasıl affedecek",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Görecek kimlerle daha seni",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 18
+        },
+        {
+          "chord": "G",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Nasıl hazmedecek",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 24
+        },
+        {
+          "chord": "Em",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sarılamadım doya doya",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gururu hiçe saya saya",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 12
+        },
+        {
+          "chord": "Dm",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Söylesin duyan duymayana",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Seviyorum anla",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

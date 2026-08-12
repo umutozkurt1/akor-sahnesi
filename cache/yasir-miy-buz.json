@@ -1,0 +1,232 @@
+{
+  "slug": "yasir-miy-buz",
+  "artist": "Yasir Miy",
+  "title": "Buz",
+  "key": "Eb",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "İntro :",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Abm7",
+          "col": 0
+        },
+        {
+          "chord": "Ebm7",
+          "col": 6
+        },
+        {
+          "chord": "Dbm",
+          "col": 12
+        },
+        {
+          "chord": "Ebm",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yan     günahın kadar yan",
+      "chords": [
+        {
+          "chord": "Abm",
+          "col": 0
+        },
+        {
+          "chord": "Gb",
+          "col": 6
+        },
+        {
+          "chord": "Abm",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Acımla durdu  zaman zaman",
+      "chords": [
+        {
+          "chord": "Gb",
+          "col": 0
+        },
+        {
+          "chord": "Dbm",
+          "col": 14
+        },
+        {
+          "chord": "Gb",
+          "col": 21
+        },
+        {
+          "chord": "Ebm",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Haline yan",
+      "chords": [
+        {
+          "chord": "Abm",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Duy    sesimi en çok duy",
+      "chords": [
+        {
+          "chord": "Abm",
+          "col": 0
+        },
+        {
+          "chord": "Gb",
+          "col": 6
+        },
+        {
+          "chord": "Abm",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yüzümü en çok gör",
+      "chords": [
+        {
+          "chord": "Gb",
+          "col": 0
+        },
+        {
+          "chord": "Dbm",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  O   halinle kal",
+      "chords": [
+        {
+          "chord": "Ebm",
+          "col": 0
+        },
+        {
+          "chord": "Abm",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Adın benimle",
+      "chords": [
+        {
+          "chord": "Abm",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kokun evimde",
+      "chords": [
+        {
+          "chord": "Ebm",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Başka birşey yok",
+      "chords": [
+        {
+          "chord": "Dbm",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Soğuk evimde",
+      "chords": [
+        {
+          "chord": "Ebm",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Senin yerinde",
+      "chords": [
+        {
+          "chord": "Abm",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kalıcı tozlar",
+      "chords": [
+        {
+          "chord": "Ebm",
+          "col": 4
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bu erimeyen",
+      "chords": [
+        {
+          "chord": "Dbm",
+          "col": 7
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kalbimde buzlar",
+      "chords": [
+        {
+          "chord": "Ebm",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

@@ -1,0 +1,96 @@
+{
+  "slug": "mustafa-sandal-bir-anda",
+  "artist": "Mustafa Sandal",
+  "title": "Bir Anda",
+  "key": "B",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Unuturum anla biraz gel bir anda",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Alisirim derdime ben en sonunda",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "     Aglayan gözlerim tuzu yok dilimde",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 5
+        },
+        {
+          "chord": "Em",
+          "col": 18
+        },
+        {
+          "chord": "A",
+          "col": 27
+        },
+        {
+          "chord": "Bm",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "     Kanayan su yaramin adi yok bilimde",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 22
+        },
+        {
+          "chord": "A",
+          "col": 30
+        },
+        {
+          "chord": "Bm",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Unuturum anla biraz",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

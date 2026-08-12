@@ -1,0 +1,156 @@
+{
+  "slug": "tugkan-geber",
+  "artist": "Tuğkan",
+  "title": "Geber",
+  "key": "C#",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Delirmiyorsam, geçmişim yüzünden",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 18
+        },
+        {
+          "chord": "G#m",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gelir diyorlar birgün gidenler",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 14
+        },
+        {
+          "chord": "G#m",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Aklın varsa sen geri dönme",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 14
+        },
+        {
+          "chord": "G#m",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İhanetin daha keskin o güzel gözünden",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 9
+        },
+        {
+          "chord": "G#m",
+          "col": 41
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Nefret dolu bakışlarla mutluluğunu izledim",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "G#m",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kıskandım deli gibi çoğu zaman ölmeni istedim",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 8
+        },
+        {
+          "chord": "G#m",
+          "col": 44
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Nasıl böyle umursamaz bir şeytana dönüştün",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "G#m",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Öylece sevdiğim kadının gidişini izledim",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "G#m",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Geber, geber, geber geber geber",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "G#m",
+          "col": 7
+        },
+        {
+          "chord": "F#m",
+          "col": 14
+        },
+        {
+          "chord": "G#m",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

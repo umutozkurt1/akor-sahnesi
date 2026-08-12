@@ -1,0 +1,145 @@
+{
+  "slug": "yucel-arzen-yarim-yarim",
+  "artist": "Yücel Arzen",
+  "title": "Yarim Yarim",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "YARİM YARİM",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ah bu çalan şarkımız yarım yarım,",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 17
+        },
+        {
+          "chord": "D#",
+          "col": 22
+        },
+        {
+          "chord": "Fm",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Eski bir anı şimdi",
+      "chords": [
+        {
+          "chord": "C#",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ben gelinindim senin yarım yarım",
+      "chords": [
+        {
+          "chord": "C#",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 18
+        },
+        {
+          "chord": "Fm",
+          "col": 23
+        },
+        {
+          "chord": "D#",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Damadım nerde şimdi..",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Neyleyim baharımı,hazanımı sevda çiçeğim solmuş",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 16
+        },
+        {
+          "chord": "D#",
+          "col": 22
+        },
+        {
+          "chord": "Fm",
+          "col": 25
+        },
+        {
+          "chord": "C#",
+          "col": 44
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir yanan kalp vardı senin için gittiğin gün o durmuş",
+      "chords": [
+        {
+          "chord": "C#",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 19
+        },
+        {
+          "chord": "F",
+          "col": 24
+        },
+        {
+          "chord": "D#",
+          "col": 31
+        },
+        {
+          "chord": "Cm",
+          "col": 51
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

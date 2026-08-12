@@ -1,0 +1,179 @@
+{
+  "slug": "badem-avunurum-ben",
+  "artist": "Badem",
+  "title": "Avunurum Ben",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Sonsuz bu diyarda  ansızın uyanırken",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 7
+        },
+        {
+          "chord": "Am",
+          "col": 15
+        },
+        {
+          "chord": "F",
+          "col": 19
+        },
+        {
+          "chord": "C",
+          "col": 33
+        },
+        {
+          "chord": "E",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Her gün doğumunda  kendime dönerim ben",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 8
+        },
+        {
+          "chord": "Am",
+          "col": 15
+        },
+        {
+          "chord": "F",
+          "col": 19
+        },
+        {
+          "chord": "C",
+          "col": 35
+        },
+        {
+          "chord": "E",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Derdimi duysan üstüme konsan",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Belki de olsan bir kelebek",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 2
+        },
+        {
+          "chord": "E",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "        Avunurum ben",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 4
+        },
+        {
+          "chord": "E",
+          "col": 6
+        },
+        {
+          "chord": "Am",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "        Unuturum ben",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 4
+        },
+        {
+          "chord": "E",
+          "col": 6
+        },
+        {
+          "chord": "Am",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir gün buralardan ayrılıp eve dönsem",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Son gün doğumunda sadece seni görsem",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir kere baksan kalbime dolsan",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Belki de olsan bir kelebek",
+      "chords": [],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

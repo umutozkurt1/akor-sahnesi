@@ -1,0 +1,231 @@
+{
+  "slug": "kardes-turkuler-denize-yakilan-turku",
+  "artist": "Kardeş Türküler",
+  "title": "Deniz'e Yakılan Türkü",
+  "key": "D",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 7
+        },
+        {
+          "chord": "Dm",
+          "col": 10
+        },
+        {
+          "chord": "C",
+          "col": 13
+        },
+        {
+          "chord": "F",
+          "col": 16
+        },
+        {
+          "chord": "C",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 7
+        },
+        {
+          "chord": "Dm",
+          "col": 10
+        },
+        {
+          "chord": "C",
+          "col": 13
+        },
+        {
+          "chord": "F",
+          "col": 16
+        },
+        {
+          "chord": "C",
+          "col": 18
+        },
+        {
+          "chord": "Eb",
+          "col": 20
+        },
+        {
+          "chord": "Dm",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gün gelir sevda koyarsa",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "Dm7",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Soluksuz seni",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gün Olur yolun Düşerse",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "Dm7",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gurbet ellere",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Al bu dertten yüreğimi",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "A#maj7",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dalgalara sal",
+      "chords": [
+        {
+          "chord": "Am7",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "intro",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "Kederin büyüyorsa kuytuluklarda",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "Dm7",
+          "col": 10
+        },
+        {
+          "chord": "Gm",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gidecek deniz yoksa, bulamadınsa",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "Dm7",
+          "col": 10
+        },
+        {
+          "chord": "Gm",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Al bu dertten yüreğimi",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "A#maj7",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yağmurlara ser...",
+      "chords": [
+        {
+          "chord": "Am7",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

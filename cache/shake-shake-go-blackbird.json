@@ -1,0 +1,498 @@
+{
+  "slug": "shake-shake-go-blackbird",
+  "artist": "Shake Shake Go",
+  "title": "Blackbird",
+  "key": "D",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Intro",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 2
+        },
+        {
+          "chord": "E",
+          "col": 6
+        },
+        {
+          "chord": "A",
+          "col": 8
+        },
+        {
+          "chord": "Bm",
+          "col": 10
+        },
+        {
+          "chord": "A",
+          "col": 13
+        },
+        {
+          "chord": "F#m",
+          "col": 15
+        },
+        {
+          "chord": "E",
+          "col": 19
+        },
+        {
+          "chord": "Esus4",
+          "col": 21
+        },
+        {
+          "chord": "E",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Imagine if it all goes wrong",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 15
+        },
+        {
+          "chord": "E",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " One day I know it must come",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 12
+        },
+        {
+          "chord": "Bm",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " But nothing's gonna change my love for you, for you",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 23
+        },
+        {
+          "chord": "F#m",
+          "col": 41
+        },
+        {
+          "chord": "E",
+          "col": 50
+        },
+        {
+          "chord": "Esus4",
+          "col": 52
+        },
+        {
+          "chord": "E",
+          "col": 58
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " I've been thinking about it for years",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 21
+        },
+        {
+          "chord": "E",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Stirring my worries and fears",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 14
+        },
+        {
+          "chord": "Bm",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Praying on a God I don't believe, but please",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 15
+        },
+        {
+          "chord": "E",
+          "col": 32
+        },
+        {
+          "chord": "Esus4",
+          "col": 45
+        },
+        {
+          "chord": "E",
+          "col": 51
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Father there's a blackbird sitting on the barbed wire",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 19
+        },
+        {
+          "chord": "E",
+          "col": 44
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Singing of a love lost lately",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 15
+        },
+        {
+          "chord": "Bm",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " I don't know how I know, but it must be true",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 21
+        },
+        {
+          "chord": "E",
+          "col": 45
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " So what about the day I'm standing at the front door",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 19
+        },
+        {
+          "chord": "E",
+          "col": 45
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Waiting for your car to drive home?",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 19
+        },
+        {
+          "chord": "Bm",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " I only want to give my love to you",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 17
+        },
+        {
+          "chord": "E",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " I know that I should visit you more",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 23
+        },
+        {
+          "chord": "E",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Join you at the working men's store",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 18
+        },
+        {
+          "chord": "Bm",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " I know I haven't made enough time for you, it's true",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 19
+        },
+        {
+          "chord": "F#m",
+          "col": 39
+        },
+        {
+          "chord": "E",
+          "col": 51
+        },
+        {
+          "chord": "Esus4",
+          "col": 53
+        },
+        {
+          "chord": "E",
+          "col": 59
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " And now I'm sitting here in this chair",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 22
+        },
+        {
+          "chord": "E",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " A million miles away from you there",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 18
+        },
+        {
+          "chord": "Bm",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Hoping that you've known I've always cared, I swear",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 21
+        },
+        {
+          "chord": "E",
+          "col": 50
+        },
+        {
+          "chord": "Esus4",
+          "col": 52
+        },
+        {
+          "chord": "E",
+          "col": 58
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Father there's a blackbird sitting on the barbed wire",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 19
+        },
+        {
+          "chord": "E",
+          "col": 44
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Singing of a love lost lately",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 15
+        },
+        {
+          "chord": "Bm",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " I don't know how I know, but it must be true",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 21
+        },
+        {
+          "chord": "E",
+          "col": 45
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " So what about the day I'm standing at the front door",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 19
+        },
+        {
+          "chord": "E",
+          "col": 45
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Waiting for your car to drive home?",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 19
+        },
+        {
+          "chord": "Bm",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " I only want to give my love to you",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 17
+        },
+        {
+          "chord": "E",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

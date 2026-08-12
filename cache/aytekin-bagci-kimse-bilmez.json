@@ -1,0 +1,175 @@
+{
+  "slug": "aytekin-bagci-kimse-bilmez",
+  "artist": "Aytekin Bağcı",
+  "title": "Kimse Bilmez",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Bulut geçti, göz yaşları kaldı çimende",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 6
+        },
+        {
+          "chord": "Gm",
+          "col": 13
+        },
+        {
+          "chord": "A",
+          "col": 25
+        },
+        {
+          "chord": "Dm",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gül rengi şarap içilmez mi böyle günde?",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 6
+        },
+        {
+          "chord": "C",
+          "col": 18
+        },
+        {
+          "chord": "A",
+          "col": 29
+        },
+        {
+          "chord": "Dm",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Seher yeli eser yırtar eteğini gülün",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 6
+        },
+        {
+          "chord": "C",
+          "col": 17
+        },
+        {
+          "chord": "Am",
+          "col": 24
+        },
+        {
+          "chord": "Dm",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Güle baktıkça çırpınır yüreği bülbülün",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 5
+        },
+        {
+          "chord": "Dm",
+          "col": 10
+        },
+        {
+          "chord": "Gm",
+          "col": 14
+        },
+        {
+          "chord": "A",
+          "col": 24
+        },
+        {
+          "chord": "Dm",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bu yıldızlı gökler ne zaman başladı dönmeye?",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 13
+        },
+        {
+          "chord": "Gm",
+          "col": 20
+        },
+        {
+          "chord": "Dm",
+          "col": 29
+        },
+        {
+          "chord": "A",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kimse Bilmez , Kimse Bilmez   X2",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 7
+        },
+        {
+          "chord": "A",
+          "col": 16
+        },
+        {
+          "chord": "Dm",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

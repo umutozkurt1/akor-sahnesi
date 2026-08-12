@@ -1,0 +1,165 @@
+{
+  "slug": "vega-ninni",
+  "artist": "Vega",
+  "title": "Ninni",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "nolur uyanma lütfen uyanma",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "mutluyken umutsuzlar rüyalarda",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 10
+        },
+        {
+          "chord": "G",
+          "col": 22
+        },
+        {
+          "chord": "Cm",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "nolur uyanma bebeğim uyanma",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "mutluyken uykusuzlar rüyalarda",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 10
+        },
+        {
+          "chord": "G",
+          "col": 21
+        },
+        {
+          "chord": "Cm",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "kayboluyorken ben kollarında",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "G#",
+          "col": 13
+        },
+        {
+          "chord": "Cm",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "dur yapma dur yapma dur uyandırma   nak.",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "G#",
+          "col": 9
+        },
+        {
+          "chord": "G",
+          "col": 20
+        },
+        {
+          "chord": "Cm",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "ağlıyorken ben, ben koallarında",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "G#",
+          "col": 15
+        },
+        {
+          "chord": "Cm",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "susturma dur yapma nolur susturma",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "G#",
+          "col": 9
+        },
+        {
+          "chord": "G",
+          "col": 19
+        },
+        {
+          "chord": "Cm",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

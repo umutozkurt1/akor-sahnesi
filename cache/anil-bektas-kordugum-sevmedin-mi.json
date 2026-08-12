@@ -1,0 +1,111 @@
+{
+  "slug": "anil-bektas-kordugum-sevmedin-mi",
+  "artist": "Anıl Bektaş",
+  "title": "Kördüğüm, Sevmedin mi",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Yolum yönüm sen gibi kördüğüm",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 1
+        },
+        {
+          "chord": "Ab",
+          "col": 43
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ve ben gibi her gün sende öldüğüm..",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Ab",
+          "col": 43
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Görmesem, bilmesem, sevmesem, yenilmesem",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Ab",
+          "col": 64
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yanmasam, yakmasan, içinde dağıtmasan..",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Ab",
+          "col": 57
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Öylece bir tuzak kurup beni kandırmasan,",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Ab",
+          "col": 25
+        },
+        {
+          "chord": "Bb",
+          "col": 47
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sevmedin.. Sevmedin.. Sevmedin mi?..",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Ab",
+          "col": 26
+        },
+        {
+          "chord": "Cm",
+          "col": 47
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

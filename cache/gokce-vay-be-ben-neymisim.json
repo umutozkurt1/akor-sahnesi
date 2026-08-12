@@ -1,0 +1,205 @@
+{
+  "slug": "gokce-vay-be-ben-neymisim",
+  "artist": "Gökçe",
+  "title": "Vay Be Ben Neymişim",
+  "key": "D",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "ORJİNAL TONU: C",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Intro:",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 5
+        },
+        {
+          "chord": "F",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kim görmüş kim sevmiş benim kadar",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 55
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Mucize aşklar yaşarım kim ölmüş benim kadar",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 76
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Şarabı şişeden içmişim",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Balı peteğinden yemişim",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Her gün şarkı söylemişim",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bunu bir ben bilmişim",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Vay be ben neymişim, vay be ben neymişim",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 6
+        },
+        {
+          "chord": "F",
+          "col": 19
+        },
+        {
+          "chord": "D#",
+          "col": 41
+        },
+        {
+          "chord": "F",
+          "col": 50
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Vay be ben neymişim, vay be ben neymişim",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 8
+        },
+        {
+          "chord": "F",
+          "col": 18
+        },
+        {
+          "chord": "D#",
+          "col": 40
+        },
+        {
+          "chord": "F",
+          "col": 50
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Vay be",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 7
+        },
+        {
+          "chord": "F",
+          "col": 14
+        },
+        {
+          "chord": "Gm",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hiç kimse hiç kimse benim kadar",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 47
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Tanıyamaz asla seni sen kendinde buldun beni",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 76
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

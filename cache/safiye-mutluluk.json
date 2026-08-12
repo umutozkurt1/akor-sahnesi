@@ -1,0 +1,153 @@
+{
+  "slug": "safiye-mutluluk",
+  "artist": "Safiye",
+  "title": "Mutluluk",
+  "key": "F#",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Çizdim resmini dileğimin, hayalimin",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Şimdi ben gökyüzüne bakıyorum",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 11
+        },
+        {
+          "chord": "A",
+          "col": 50
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Mutluluğun tarifi işte",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hayatı tüm renkleri ile görebiliyor ,yaşayabiliyorum",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 44
+        },
+        {
+          "chord": "C#m",
+          "col": 70
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hadi seninle iyi şeyleri düşünelim",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 9
+        },
+        {
+          "chord": "E",
+          "col": 52
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Aç kollarını çiçeklenelim",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Nasıl olsa buluruz yolumuzu",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 3
+        },
+        {
+          "chord": "Bm",
+          "col": 44
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kayboluruz bazen ama güneş doğar her karanlığa",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 14
+        },
+        {
+          "chord": "A",
+          "col": 45
+        },
+        {
+          "chord": "C#m",
+          "col": 61
+        },
+        {
+          "chord": "F#m",
+          "col": 75
+        },
+        {
+          "chord": "E",
+          "col": 81
+        },
+        {
+          "chord": "F#",
+          "col": 84
+        },
+        {
+          "chord": "Bm",
+          "col": 88
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

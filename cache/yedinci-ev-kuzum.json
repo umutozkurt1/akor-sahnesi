@@ -1,0 +1,200 @@
+{
+  "slug": "yedinci-ev-kuzum",
+  "artist": "Yedinci Ev",
+  "title": "Kuzum",
+  "key": "B",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "İntro : x2",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 4
+        },
+        {
+          "chord": "D",
+          "col": 8
+        },
+        {
+          "chord": "Em",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gül canım kuzum benim, gül",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bugün senin günün, yüzüne doğmuş güneş",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 17
+        },
+        {
+          "chord": "D",
+          "col": 27
+        },
+        {
+          "chord": "Em",
+          "col": 45
+        },
+        {
+          "chord": "Bm",
+          "col": 63
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sus canım kuzum benim, sus",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yorulmasın sesin, anlatıyor gözlerin",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 15
+        },
+        {
+          "chord": "D",
+          "col": 22
+        },
+        {
+          "chord": "Em",
+          "col": 37
+        },
+        {
+          "chord": "Bm",
+          "col": 47
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kim küstürdü seni göster onu bana",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 26
+        },
+        {
+          "chord": "Bm",
+          "col": 53
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sorayım hesabını en derin kuyularda",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 27
+        },
+        {
+          "chord": "Em",
+          "col": 40
+        },
+        {
+          "chord": "A",
+          "col": 55
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kim ağlattı seni söyle onu bana",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 24
+        },
+        {
+          "chord": "Bm",
+          "col": 46
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Tutayım ayaklarından atayım zindanlara",
+      "chords": [
+        {
+          "chord": "F#",
+          "col": 27
+        },
+        {
+          "chord": "E",
+          "col": 64
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "                 Bm/A/E                 Bm/A/E",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sana kıyamam,         seni üzemem,",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ben sensiz ölemem",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 15
+        },
+        {
+          "chord": "Bm",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

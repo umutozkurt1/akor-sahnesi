@@ -1,0 +1,510 @@
+{
+  "slug": "muse-time-is-running-out",
+  "artist": "Muse",
+  "title": "Time İs Running Out",
+  "key": "E",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "I think I'm drowning,",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Asphyxiated,",
+      "chords": [
+        {
+          "chord": "F#7",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I wanna break the spell",
+      "chords": [
+        {
+          "chord": "B7",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "That you've created.",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You're something beautiful,",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "A contradiction,",
+      "chords": [
+        {
+          "chord": "F#7",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I wanna play the game,",
+      "chords": [
+        {
+          "chord": "B7",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I want the friction.",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You will be the death of me,",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "F#7",
+          "col": 11
+        },
+        {
+          "chord": "B7",
+          "col": 22
+        },
+        {
+          "chord": "C",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yeah, you will be the death of me.",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "F#7",
+          "col": 15
+        },
+        {
+          "chord": "B",
+          "col": 23
+        },
+        {
+          "chord": "C",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bury it,",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I won't let you bury it,",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I won't let you smother it,",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I won't let you murder it,",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Our   time       is     running out,",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "Gadd9",
+          "col": 6
+        },
+        {
+          "chord": "G",
+          "col": 17
+        },
+        {
+          "chord": "C",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Our time is running out,",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You can't push      it       underground,",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "Gadd9",
+          "col": 10
+        },
+        {
+          "chord": "G",
+          "col": 20
+        },
+        {
+          "chord": "C",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You can't stop me screaming out.",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 19
+        },
+        {
+          "chord": "C",
+          "col": 37
+        },
+        {
+          "chord": "D",
+          "col": 41
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I wanted freedom,",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Found I'm restricted,",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I tried to give you up,",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But I'm addicted.",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Now that you know I'm trapped,",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sets off elation,",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You'd never dream of",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Taking this fixation.",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You will squeeze the life out of me.",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bury it,",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I won't let you bury it,",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I won't let you smother it,",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I won't let you murder it,",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Our time is running out,",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Our time is running out,",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You can't push it underground,",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You can't stop me screaming out.",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "How did it come to this?",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "E2",
+          "col": 13
+        },
+        {
+          "chord": "Em",
+          "col": 21
+        },
+        {
+          "chord": "Am",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Oooh yeah yeah yeah yeah? (and repeat)",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 5
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You will suck the life out of me.",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "A7",
+          "col": 10
+        },
+        {
+          "chord": "B",
+          "col": 18
+        },
+        {
+          "chord": "C",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bury it,",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I won't let you bury it,",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I won't let you smother it,",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I won't let you murder it,",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Our time is running out,",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Our time is running out,",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You can't push it underground,",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You can't stop me screaming out.",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "How did it come to this?",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Oooh yeah yeah yeah yeah?",
+      "chords": [],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

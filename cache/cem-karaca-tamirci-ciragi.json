@@ -1,0 +1,456 @@
+{
+  "slug": "cem-karaca-tamirci-ciragi",
+  "artist": "Cem Karaca",
+  "title": "Tamirci Çırağı",
+  "key": "D#",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Gönlüme bir ateş düştü yanar ha yanar yanar",
+      "chords": [
+        {
+          "chord": "D#m",
+          "col": 0
+        },
+        {
+          "chord": "G#m",
+          "col": 39
+        },
+        {
+          "chord": "D#m",
+          "col": 50
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ümit gönlümün ekmeği umar ha umar umar",
+      "chords": [
+        {
+          "chord": "G#m",
+          "col": 0
+        },
+        {
+          "chord": "F#",
+          "col": 12
+        },
+        {
+          "chord": "E",
+          "col": 38
+        },
+        {
+          "chord": "D#m",
+          "col": 53
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Elleri ak yumuk yumuk ojeli tırnakları",
+      "chords": [
+        {
+          "chord": "D#m",
+          "col": 1
+        },
+        {
+          "chord": "G#m",
+          "col": 36
+        },
+        {
+          "chord": "D#m",
+          "col": 43
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Nerelere gizlesin şu avcun nasırları",
+      "chords": [
+        {
+          "chord": "G#m",
+          "col": 0
+        },
+        {
+          "chord": "F#",
+          "col": 14
+        },
+        {
+          "chord": "E",
+          "col": 26
+        },
+        {
+          "chord": "D#m",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Otomobili tamire geldi dün bizim tamirhaneye",
+      "chords": [
+        {
+          "chord": "G#m",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Görür görmez vurularak başladım ben sevmeye",
+      "chords": [
+        {
+          "chord": "F#",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ayağında uzun etek dalga saçları",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ustam seslendi uzaktan oğlum al takımları",
+      "chords": [
+        {
+          "chord": "G#m",
+          "col": 0
+        },
+        {
+          "chord": "F#",
+          "col": 21
+        },
+        {
+          "chord": "E",
+          "col": 37
+        },
+        {
+          "chord": "D#m",
+          "col": 46
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir romanda okumuştum buna benzer bir şeyi",
+      "chords": [
+        {
+          "chord": "D#m",
+          "col": 0
+        },
+        {
+          "chord": "G#m",
+          "col": 45
+        },
+        {
+          "chord": "D#m",
+          "col": 57
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Cildi parlak kağıt kaplı pahalı bir kitaptı",
+      "chords": [
+        {
+          "chord": "G#m",
+          "col": 0
+        },
+        {
+          "chord": "F#",
+          "col": 18
+        },
+        {
+          "chord": "E",
+          "col": 36
+        },
+        {
+          "chord": "D#m",
+          "col": 51
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ne olmuş nasıl olmuşsa aşık olmuştu genç kız",
+      "chords": [
+        {
+          "chord": "D#m",
+          "col": 0
+        },
+        {
+          "chord": "G#m",
+          "col": 49
+        },
+        {
+          "chord": "D#m",
+          "col": 62
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yine böyle bir durumda tamirci çırağına",
+      "chords": [
+        {
+          "chord": "G#m",
+          "col": 0
+        },
+        {
+          "chord": "F#",
+          "col": 16
+        },
+        {
+          "chord": "E",
+          "col": 33
+        },
+        {
+          "chord": "D#m",
+          "col": 50
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ustama dedim ki bugün giymeyim tulumları",
+      "chords": [
+        {
+          "chord": "G#m",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Arkası puslu aynamda taradım saçlarımı",
+      "chords": [
+        {
+          "chord": "F#",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gelecekti bugün geri arabayı almaya",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "O romandaki hayali belki gerçek yapmaya",
+      "chords": [
+        {
+          "chord": "G#m",
+          "col": 0
+        },
+        {
+          "chord": "F#",
+          "col": 12
+        },
+        {
+          "chord": "E",
+          "col": 30
+        },
+        {
+          "chord": "D#m",
+          "col": 49
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Durdu zaman durdu dünya girdi içeri kapıdan    x2",
+      "chords": [
+        {
+          "chord": "D#m",
+          "col": 0
+        },
+        {
+          "chord": "G#m",
+          "col": 45
+        },
+        {
+          "chord": "D#m",
+          "col": 60
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Öylece bakakaldım gözümü ayırmadan    x2",
+      "chords": [
+        {
+          "chord": "G#m",
+          "col": 0
+        },
+        {
+          "chord": "F#",
+          "col": 13
+        },
+        {
+          "chord": "E",
+          "col": 30
+        },
+        {
+          "chord": "D#m",
+          "col": 47
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Arabanın kapısını açtım açtım girsin içeri    x2",
+      "chords": [
+        {
+          "chord": "D#m",
+          "col": 0
+        },
+        {
+          "chord": "G#m",
+          "col": 35
+        },
+        {
+          "chord": "D#m",
+          "col": 50
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kalktı hilal kaşları sordu kim bu serseri",
+      "chords": [
+        {
+          "chord": "G#m",
+          "col": 0
+        },
+        {
+          "chord": "F#",
+          "col": 17
+        },
+        {
+          "chord": "E",
+          "col": 32
+        },
+        {
+          "chord": "D#m",
+          "col": 50
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Çekti gitti arabayla egzosuna boğuldum",
+      "chords": [
+        {
+          "chord": "G#m",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gözümde tonurcuk yaşlar ağır ağır doğruldum",
+      "chords": [
+        {
+          "chord": "F#",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ustam geldi sırtıma vurdu unut dedi romanları",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İşçisin sen işçi kal giy dedi tulumları    x3",
+      "chords": [
+        {
+          "chord": "G#m",
+          "col": 0
+        },
+        {
+          "chord": "F#",
+          "col": 15
+        },
+        {
+          "chord": "E",
+          "col": 28
+        },
+        {
+          "chord": "D#m",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İşçisin sen işçi kal işçisin sen işçi kal     x3",
+      "chords": [
+        {
+          "chord": "G#m",
+          "col": 0
+        },
+        {
+          "chord": "F#",
+          "col": 15
+        },
+        {
+          "chord": "E",
+          "col": 27
+        },
+        {
+          "chord": "D#",
+          "col": 43
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

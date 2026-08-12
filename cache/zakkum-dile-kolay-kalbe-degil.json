@@ -1,0 +1,198 @@
+{
+  "slug": "zakkum-dile-kolay-kalbe-degil",
+  "artist": "Zakkum",
+  "title": "Dile Kolay Kalbe Değil",
+  "key": "D",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Intro:",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 4
+        },
+        {
+          "chord": "A#",
+          "col": 9
+        },
+        {
+          "chord": "C",
+          "col": 12
+        },
+        {
+          "chord": "Am",
+          "col": 15
+        },
+        {
+          "chord": "Dm",
+          "col": 20
+        },
+        {
+          "chord": "Am",
+          "col": 24
+        },
+        {
+          "chord": "A#",
+          "col": 29
+        },
+        {
+          "chord": "C",
+          "col": 32
+        },
+        {
+          "chord": "Am",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "(X2)",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yılların kaleminden",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Çizgiler var yüzümde",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 6
+        },
+        {
+          "chord": "Am",
+          "col": 13
+        },
+        {
+          "chord": "Dm",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İsmin okunuyor",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 7
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Çizgiler birleşince",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 6
+        },
+        {
+          "chord": "Dm",
+          "col": 9
+        },
+        {
+          "chord": "C",
+          "col": 13
+        },
+        {
+          "chord": "A#",
+          "col": 16
+        },
+        {
+          "chord": "Am",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Omzuma yıllar ağır gelir",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dile kolay kalbe değil",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Olur da döneceksen eğer",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Her zaman",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Acımın üstünde yerin var (yerin var)",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 15
+        },
+        {
+          "chord": "Am",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

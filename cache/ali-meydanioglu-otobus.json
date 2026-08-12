@@ -1,0 +1,268 @@
+{
+  "slug": "ali-meydanioglu-otobus",
+  "artist": "Ali Meydanioğlu",
+  "title": "Otobüs",
+  "key": "Bb",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "İntro :",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Bbm",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 4
+        },
+        {
+          "chord": "Gb",
+          "col": 6
+        },
+        {
+          "chord": "F",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yan yana oturmuştuk , gözümüz yollarda",
+      "chords": [
+        {
+          "chord": "Bbm",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 72
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yollar kapkaranlıktı , farlar sarılarda",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "Gb",
+          "col": 63
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kırmızı otobüsün içinde denk gelmiştik",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 73
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yağmur akarken sokaklarda",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sen bana bakmıştın , kalbime çarpmıştın",
+      "chords": [
+        {
+          "chord": "Bbm",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 72
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Saati sormuştun bense kararmıştım",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "Gb",
+          "col": 66
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Karanlıktı her şey yollar gibi",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 54
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Son durak güzel biten sonlar gibi",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Otobüs , gel artık . Yolları sert artık önüme .   X 2  N",
+      "chords": [
+        {
+          "chord": "Gb",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Bbm",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 8
+        },
+        {
+          "chord": "Gb",
+          "col": 14
+        },
+        {
+          "chord": "F",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Akşamüstü saatlerinde",
+      "chords": [
+        {
+          "chord": "Bbm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kuşların her sesinde",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kulaklığım kulağımda",
+      "chords": [
+        {
+          "chord": "Gb",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sorarlar yolculuk nereye",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Seni ararım , seni tararım",
+      "chords": [
+        {
+          "chord": "Bbm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yine bulamam , başa sararım",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Seni göremem , seni duyamam",
+      "chords": [
+        {
+          "chord": "Gb",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yine kalamam , sebep ararım.",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "N",
+      "chords": [],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

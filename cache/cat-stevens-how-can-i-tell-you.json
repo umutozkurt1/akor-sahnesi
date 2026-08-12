@@ -1,0 +1,865 @@
+{
+  "slug": "cat-stevens-how-can-i-tell-you",
+  "artist": "Cat Stevens",
+  "title": "How Can I Tell You",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Oh, oh, oh, oh oh oh",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 8
+        },
+        {
+          "chord": "G",
+          "col": 12
+        },
+        {
+          "chord": "C",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "How can I tell you,",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "that I love you,",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 7
+        },
+        {
+          "chord": "C",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "that I love you?",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 7
+        },
+        {
+          "chord": "D",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And I can't think of right words to say",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 6
+        },
+        {
+          "chord": "Am",
+          "col": 21
+        },
+        {
+          "chord": "C",
+          "col": 36
+        },
+        {
+          "chord": "D",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I long to tell you,",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "that I'm always thinking of you,",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 9
+        },
+        {
+          "chord": "C",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'm always thinking of you",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 4
+        },
+        {
+          "chord": "D",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But my words just blow away,",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 7
+        },
+        {
+          "chord": "Am",
+          "col": 18
+        },
+        {
+          "chord": "C",
+          "col": 24
+        },
+        {
+          "chord": "D",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Just blow away",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "It always adds up to one thing, honey",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 3
+        },
+        {
+          "chord": "D",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And I can't think of right words to say",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 6
+        },
+        {
+          "chord": "Am",
+          "col": 21
+        },
+        {
+          "chord": "C",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Oh, oh, oh, oh oh oh",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 8
+        },
+        {
+          "chord": "G",
+          "col": 12
+        },
+        {
+          "chord": "C",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Wherever I am girl,",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I m always walking with you,",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 4
+        },
+        {
+          "chord": "C",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I m always walking with you",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 4
+        },
+        {
+          "chord": "D",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But I look and you're not there",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 6
+        },
+        {
+          "chord": "Am",
+          "col": 15
+        },
+        {
+          "chord": "C",
+          "col": 26
+        },
+        {
+          "chord": "D",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Whoever I'm with, I'm always,",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 12
+        },
+        {
+          "chord": "G",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "always talking to you,",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I m always talking to you",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 4
+        },
+        {
+          "chord": "D",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And I'm sad that you can't hear,",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 8
+        },
+        {
+          "chord": "Am",
+          "col": 17
+        },
+        {
+          "chord": "C",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "sad that you can't hear",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 9
+        },
+        {
+          "chord": "C",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "It always adds up to one thing, honey",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 3
+        },
+        {
+          "chord": "D",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "When I look and you're not there",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 7
+        },
+        {
+          "chord": "Am",
+          "col": 16
+        },
+        {
+          "chord": "C",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 3
+        },
+        {
+          "chord": "G",
+          "col": 6
+        },
+        {
+          "chord": "C",
+          "col": 8
+        },
+        {
+          "chord": "Am",
+          "col": 11
+        },
+        {
+          "chord": "D",
+          "col": 14
+        },
+        {
+          "chord": "G",
+          "col": 17
+        },
+        {
+          "chord": "Am",
+          "col": 19
+        },
+        {
+          "chord": "C",
+          "col": 22
+        },
+        {
+          "chord": "D",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I need to know you,",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I need to feel my arms around you,",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 2
+        },
+        {
+          "chord": "C",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "feel my arms surround you",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Like sea around a shore",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 5
+        },
+        {
+          "chord": "Am",
+          "col": 10
+        },
+        {
+          "chord": "C",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Each night and day I pray,",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "in hope that I might find you,",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 3
+        },
+        {
+          "chord": "C",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "in hope that I might find you",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 3
+        },
+        {
+          "chord": "D",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Because hearts can do no more,",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 8
+        },
+        {
+          "chord": "Am",
+          "col": 19
+        },
+        {
+          "chord": "C",
+          "col": 25
+        },
+        {
+          "chord": "D",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Can do",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "It always adds up to one thing, honey",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 3
+        },
+        {
+          "chord": "D",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Still I kneel upon the floor",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 8
+        },
+        {
+          "chord": "Am",
+          "col": 15
+        },
+        {
+          "chord": "C",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Oh, oh, oh, oh oh oh",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 8
+        },
+        {
+          "chord": "G",
+          "col": 12
+        },
+        {
+          "chord": "C",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "How can I tell you,",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "that I love you,",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 7
+        },
+        {
+          "chord": "C",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "that I love you?",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 7
+        },
+        {
+          "chord": "D",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But I can't think of right words to say",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 6
+        },
+        {
+          "chord": "Am",
+          "col": 21
+        },
+        {
+          "chord": "C",
+          "col": 36
+        },
+        {
+          "chord": "D",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I long to tell you,",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "that I'm always thinking of you,",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 9
+        },
+        {
+          "chord": "C",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'm always thinking of you",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 4
+        },
+        {
+          "chord": "D",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 3
+        },
+        {
+          "chord": "C",
+          "col": 7
+        },
+        {
+          "chord": "D",
+          "col": 10
+        },
+        {
+          "chord": "C",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "It always adds up to one thing, honey",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 3
+        },
+        {
+          "chord": "D",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And I can't think of right words to say",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 6
+        },
+        {
+          "chord": "Am",
+          "col": 21
+        },
+        {
+          "chord": "C",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Oh, oh, oh",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 8
+        },
+        {
+          "chord": "G",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

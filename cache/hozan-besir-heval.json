@@ -1,0 +1,163 @@
+{
+  "slug": "hozan-besir-heval",
+  "artist": "Hozan Beşir",
+  "title": "Heval",
+  "key": "E",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Bir yanılmayla insan biter mi heval biter mi",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 21
+        },
+        {
+          "chord": "Em",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kahpe kurşun kalemini kırar mı heval kırar mı heval kırar mı",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 22
+        },
+        {
+          "chord": "G",
+          "col": 28
+        },
+        {
+          "chord": "Am",
+          "col": 37
+        },
+        {
+          "chord": "D",
+          "col": 43
+        },
+        {
+          "chord": "Em",
+          "col": 58
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Şu Diclenin suyu senden geçermiş heval geçermiş",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 24
+        },
+        {
+          "chord": "Em",
+          "col": 44
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Analar oğul diye içermiş heval içermiş heval içermiş",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 17
+        },
+        {
+          "chord": "G",
+          "col": 21
+        },
+        {
+          "chord": "Am",
+          "col": 31
+        },
+        {
+          "chord": "D",
+          "col": 35
+        },
+        {
+          "chord": "Em",
+          "col": 49
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Deli rüzgar gibi hala esermişsin heval esermiş",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 22
+        },
+        {
+          "chord": "Em",
+          "col": 43
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Şu Diclenin dağlarında gezermişsin heval gezermişsin heval gezermiş",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 23
+        },
+        {
+          "chord": "G",
+          "col": 28
+        },
+        {
+          "chord": "Am",
+          "col": 41
+        },
+        {
+          "chord": "D",
+          "col": 46
+        },
+        {
+          "chord": "Em",
+          "col": 63
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

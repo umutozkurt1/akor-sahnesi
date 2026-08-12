@@ -1,0 +1,256 @@
+{
+  "slug": "sancak-usuyorum-aldirma",
+  "artist": "Sancak",
+  "title": "Üşüyorum Aldırma",
+  "key": "C",
+  "capo": 0,
+  "rhythm": "K-A",
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "ORJİNAL TONU: B",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hiçbir şey imkansız olmadı senin kadar",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 11
+        },
+        {
+          "chord": "G",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ve ben kimseyi sevmedim senin kadar.",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 9
+        },
+        {
+          "chord": "G",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Anıların altında çırpındığıma bakma.",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 11
+        },
+        {
+          "chord": "Cm",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Aksın damla damla dokunma, dokunma.",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 3
+        },
+        {
+          "chord": "Cm",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yanıyorum ardında, sen kal dememe bakma.",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 10
+        },
+        {
+          "chord": "Cm",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir tek bendeki sen kalsın, dokunma.",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 10
+        },
+        {
+          "chord": "Cm",
+          "col": 44
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Üşüyorum aldırma! Sen ağlamama bakma.",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 21
+        },
+        {
+          "chord": "G",
+          "col": 42
+        },
+        {
+          "chord": "G#",
+          "col": 67
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir türlü benim olmayanım",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 19
+        },
+        {
+          "chord": "G",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ölüyorum aldırma! Sen kal dememe bakma",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 19
+        },
+        {
+          "chord": "G",
+          "col": 41
+        },
+        {
+          "chord": "G#",
+          "col": 72
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir türlü benim olmayanım",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 20
+        },
+        {
+          "chord": "G",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir türlü benim olmayanım",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 19
+        },
+        {
+          "chord": "G",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Koşuyorum ardından, utan gözyaşımdan",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 23
+        },
+        {
+          "chord": "Cm",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Aksın damla damla dokunmam, dokunmam!",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 5
+        },
+        {
+          "chord": "Cm",
+          "col": 44
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Biliyorum aslında, sen de duy en azından",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 19
+        },
+        {
+          "chord": "Cm",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gelip yine benim olsan, dokunmam",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 12
+        },
+        {
+          "chord": "Cm",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

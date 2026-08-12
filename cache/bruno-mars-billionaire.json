@@ -1,0 +1,752 @@
+{
+  "slug": "bruno-mars-billionaire",
+  "artist": "Bruno Mars",
+  "title": "Billionaire",
+  "key": "D",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": " I wanna be a billionaire so fricking bad",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "C#7",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "buy all of the things I never had",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " I wanna be on the cover of Forbes magazine",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "C#7",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "smiling next to Oprah and the Queen",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Oh every time I close my eyes",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 3
+        },
+        {
+          "chord": "E",
+          "col": 16
+        },
+        {
+          "chord": "F#m",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I see my name in shining lights",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 2
+        },
+        {
+          "chord": "E",
+          "col": 17
+        },
+        {
+          "chord": "F#m",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "A different city every night   oh",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 3
+        },
+        {
+          "chord": "E",
+          "col": 17
+        },
+        {
+          "chord": "A",
+          "col": 23
+        },
+        {
+          "chord": "F#m",
+          "col": 34
+        },
+        {
+          "chord": "E",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "swear the world better prepare",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "for when I'm a billionaire",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yeah I would have a show like Oprah",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I would be the host of, everyday Christmas, give Travie a wish list",
+      "chords": [
+        {
+          "chord": "C#7",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'd probably pull an Angelina and Brad Pitt",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 2
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "and adopt a bunch of babies that ain't never had s**t",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 5
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "give away a few Mercedes like here lady have this",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 5
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "and last but not least grant somebody their last wish",
+      "chords": [
+        {
+          "chord": "C#7",
+          "col": 4
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "its been a couple months since I've single so",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 3
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "you can call me Travie Claus minus the Ho Ho",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "get it, I'd probably visit where Katrina hit",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 2
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "and damn sure do a lot more than FEMA did",
+      "chords": [
+        {
+          "chord": "C#7",
+          "col": 4
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "yeah can't forget about me stupid",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "everywhere I go Imma have my own theme music",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 5
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Oh every time I close my eyes",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 3
+        },
+        {
+          "chord": "E",
+          "col": 16
+        },
+        {
+          "chord": "F#m",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I see my name in shining lights",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 1
+        },
+        {
+          "chord": "E",
+          "col": 17
+        },
+        {
+          "chord": "F#m",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "A different city every night   oh",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 1
+        },
+        {
+          "chord": "E",
+          "col": 17
+        },
+        {
+          "chord": "A",
+          "col": 23
+        },
+        {
+          "chord": "F#m",
+          "col": 36
+        },
+        {
+          "chord": "E",
+          "col": 43
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "D                        C#G#",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "swear the world better prepare",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "for when I'm a billionaire",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "oh oooh oh oooh  when I'm a Billionaire",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 5
+        },
+        {
+          "chord": "Bm7",
+          "col": 13
+        },
+        {
+          "chord": "F#m",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "oh oooh oh oooh",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 5
+        },
+        {
+          "chord": "Bm7",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'll be playing basketball with the President, dunking on his delegates",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "then I'll compliment him on his political etiquette",
+      "chords": [
+        {
+          "chord": "C#7",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "toss a double milli in the air just for the heck of it",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "but keep the fives, twentys, tens, and bens completely separate",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 3
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "and yeah I'll be in a whole new tax bracket",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 4
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "we in recession but let me take a crack at it",
+      "chords": [
+        {
+          "chord": "C#7",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'll probably take whatever's left and just split it up",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "so everybody that I love can have a couple bucks",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 3
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "and not a single tummy around me would know what",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 3
+        },
+        {
+          "chord": "C#7",
+          "col": 68
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "hungry was, eating good, sleeping soundly",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I know we all have a similar dream",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 1
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "go in your pocket pull out your wallet",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "and put it in the air and sing",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I wanna be a billionaire so fricking bad",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "C#7",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "buy all of the things I never had",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I wanna be on the cover of Forbes magazine",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "C#7",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "smiling next to Oprah and the Queen",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Oh every time I close my eyes",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 4
+        },
+        {
+          "chord": "E",
+          "col": 17
+        },
+        {
+          "chord": "F#m",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I see my name in shining lights",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 2
+        },
+        {
+          "chord": "E",
+          "col": 17
+        },
+        {
+          "chord": "F#m",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "A different city every night   oh",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 3
+        },
+        {
+          "chord": "E",
+          "col": 17
+        },
+        {
+          "chord": "A",
+          "col": 23
+        },
+        {
+          "chord": "F#m",
+          "col": 36
+        },
+        {
+          "chord": "E",
+          "col": 44
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "D                        C#G#",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "swear the world better prepare",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "for when I'm a billionaire",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "oh oooh oh oooh  when I'm a Billionaire",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 5
+        },
+        {
+          "chord": "Bm7",
+          "col": 13
+        },
+        {
+          "chord": "F#m",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "oh oooh oh oooh",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 5
+        },
+        {
+          "chord": "Bm7",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I wanna be a billionaire so frickin bad!",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 12
+        },
+        {
+          "chord": "C#7",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

@@ -1,0 +1,1156 @@
+{
+  "slug": "metallica-enter-sandman",
+  "artist": "Metallica",
+  "title": "Enter Sandman",
+  "key": "E",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Intro",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "E5",
+          "col": 0
+        },
+        {
+          "chord": "A5",
+          "col": 3
+        },
+        {
+          "chord": "E5",
+          "col": 6
+        },
+        {
+          "chord": "A#5",
+          "col": 9
+        },
+        {
+          "chord": "A5",
+          "col": 13
+        },
+        {
+          "chord": "E5",
+          "col": 16
+        },
+        {
+          "chord": "A#5",
+          "col": 19
+        },
+        {
+          "chord": "A5",
+          "col": 23
+        },
+        {
+          "chord": "E5",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "A#5",
+          "col": 0
+        },
+        {
+          "chord": "A5",
+          "col": 4
+        },
+        {
+          "chord": "E5",
+          "col": 7
+        },
+        {
+          "chord": "A#5",
+          "col": 10
+        },
+        {
+          "chord": "A5",
+          "col": 14
+        },
+        {
+          "chord": "E5",
+          "col": 17
+        },
+        {
+          "chord": "A#5",
+          "col": 20
+        },
+        {
+          "chord": "A5",
+          "col": 24
+        },
+        {
+          "chord": "E5",
+          "col": 27
+        },
+        {
+          "chord": "A#5",
+          "col": 30
+        },
+        {
+          "chord": "A5",
+          "col": 34
+        },
+        {
+          "chord": "E5",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "A#5",
+          "col": 0
+        },
+        {
+          "chord": "A5",
+          "col": 4
+        },
+        {
+          "chord": "E5",
+          "col": 7
+        },
+        {
+          "chord": "A#5",
+          "col": 10
+        },
+        {
+          "chord": "A5",
+          "col": 14
+        },
+        {
+          "chord": "E5",
+          "col": 17
+        },
+        {
+          "chord": "E5",
+          "col": 20
+        },
+        {
+          "chord": "G5",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "F#5",
+          "col": 0
+        },
+        {
+          "chord": "G5",
+          "col": 4
+        },
+        {
+          "chord": "F#5",
+          "col": 7
+        },
+        {
+          "chord": "E5",
+          "col": 11
+        },
+        {
+          "chord": "E5",
+          "col": 14
+        },
+        {
+          "chord": "G5",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "F#5",
+          "col": 0
+        },
+        {
+          "chord": "G5",
+          "col": 4
+        },
+        {
+          "chord": "F#5",
+          "col": 7
+        },
+        {
+          "chord": "E5",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  Say your prayers little one",
+      "chords": [
+        {
+          "chord": "E5",
+          "col": 0
+        },
+        {
+          "chord": "F5",
+          "col": 22
+        },
+        {
+          "chord": "E5",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Don't forget my son",
+      "chords": [
+        {
+          "chord": "F5",
+          "col": 16
+        },
+        {
+          "chord": "E5",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "To include everyone.",
+      "chords": [
+        {
+          "chord": "G5",
+          "col": 16
+        },
+        {
+          "chord": "F#5",
+          "col": 20
+        },
+        {
+          "chord": "G5",
+          "col": 24
+        },
+        {
+          "chord": "F#5",
+          "col": 27
+        },
+        {
+          "chord": "E5",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  I tuck you in, warm within,",
+      "chords": [
+        {
+          "chord": "E5",
+          "col": 0
+        },
+        {
+          "chord": "F5",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Keep you free from sin,",
+      "chords": [
+        {
+          "chord": "F5",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Till the sandman he comes,  ah.",
+      "chords": [
+        {
+          "chord": "G5",
+          "col": 21
+        },
+        {
+          "chord": "F#5",
+          "col": 27
+        },
+        {
+          "chord": "G5",
+          "col": 31
+        },
+        {
+          "chord": "F#5",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   Sleep with one eye open,",
+      "chords": [
+        {
+          "chord": "F#5",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   Gripping your pillow tight.",
+      "chords": [
+        {
+          "chord": "F#5",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ex_it light,",
+      "chords": [
+        {
+          "chord": "F#5",
+          "col": 0
+        },
+        {
+          "chord": "B5",
+          "col": 4
+        },
+        {
+          "chord": "F#5",
+          "col": 7
+        },
+        {
+          "chord": "B5",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "En_ter night.",
+      "chords": [
+        {
+          "chord": "F#5",
+          "col": 0
+        },
+        {
+          "chord": "B5",
+          "col": 4
+        },
+        {
+          "chord": "E5",
+          "col": 7
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Take  my hand,",
+      "chords": [
+        {
+          "chord": "F#5",
+          "col": 0
+        },
+        {
+          "chord": "B5",
+          "col": 4
+        },
+        {
+          "chord": "E5",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Off to never never land.",
+      "chords": [
+        {
+          "chord": "G5",
+          "col": 0
+        },
+        {
+          "chord": "F#5",
+          "col": 7
+        },
+        {
+          "chord": "G5",
+          "col": 15
+        },
+        {
+          "chord": "F#5",
+          "col": 19
+        },
+        {
+          "chord": "E5",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "E5",
+          "col": 0
+        },
+        {
+          "chord": "G5",
+          "col": 3
+        },
+        {
+          "chord": "F#5",
+          "col": 6
+        },
+        {
+          "chord": "G5",
+          "col": 10
+        },
+        {
+          "chord": "F#5",
+          "col": 13
+        },
+        {
+          "chord": "E5",
+          "col": 17
+        },
+        {
+          "chord": "E5",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "G5",
+          "col": 0
+        },
+        {
+          "chord": "F#5",
+          "col": 3
+        },
+        {
+          "chord": "G5",
+          "col": 7
+        },
+        {
+          "chord": "F#5",
+          "col": 10
+        },
+        {
+          "chord": "E5",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  Something's wrong, shut the light.",
+      "chords": [
+        {
+          "chord": "E5",
+          "col": 0
+        },
+        {
+          "chord": "F5",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Heavy thoughts tonight,",
+      "chords": [
+        {
+          "chord": "F5",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  And they aren't of snow white.",
+      "chords": [
+        {
+          "chord": "E5",
+          "col": 0
+        },
+        {
+          "chord": "G5",
+          "col": 26
+        },
+        {
+          "chord": "F#5",
+          "col": 30
+        },
+        {
+          "chord": "G5",
+          "col": 34
+        },
+        {
+          "chord": "F#5",
+          "col": 37
+        },
+        {
+          "chord": "E5",
+          "col": 41
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  Dreams of war, dreams of lies,",
+      "chords": [
+        {
+          "chord": "E5",
+          "col": 0
+        },
+        {
+          "chord": "F5",
+          "col": 24
+        },
+        {
+          "chord": "E5",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dreams of dragon's fire,",
+      "chords": [
+        {
+          "chord": "F5",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And of things that will bite    yeah!",
+      "chords": [
+        {
+          "chord": "G5",
+          "col": 24
+        },
+        {
+          "chord": "F#5",
+          "col": 28
+        },
+        {
+          "chord": "G5",
+          "col": 32
+        },
+        {
+          "chord": "F#5",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   Sleep with one eye open,",
+      "chords": [
+        {
+          "chord": "F#5",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   Gripping your pillow tight.",
+      "chords": [
+        {
+          "chord": "F#5",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ex_it light,",
+      "chords": [
+        {
+          "chord": "F#5",
+          "col": 0
+        },
+        {
+          "chord": "B5",
+          "col": 4
+        },
+        {
+          "chord": "F#5",
+          "col": 7
+        },
+        {
+          "chord": "B5",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "En_ter night.",
+      "chords": [
+        {
+          "chord": "F#5",
+          "col": 0
+        },
+        {
+          "chord": "B5",
+          "col": 4
+        },
+        {
+          "chord": "E5",
+          "col": 7
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Take  my hand,",
+      "chords": [
+        {
+          "chord": "F#5",
+          "col": 0
+        },
+        {
+          "chord": "B5",
+          "col": 4
+        },
+        {
+          "chord": "E5",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Off to never never land,  ha ha.",
+      "chords": [
+        {
+          "chord": "G5",
+          "col": 0
+        },
+        {
+          "chord": "F#5",
+          "col": 7
+        },
+        {
+          "chord": "G5",
+          "col": 15
+        },
+        {
+          "chord": "F#5",
+          "col": 19
+        },
+        {
+          "chord": "E5",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "E5",
+          "col": 0
+        },
+        {
+          "chord": "G5",
+          "col": 3
+        },
+        {
+          "chord": "F#5",
+          "col": 6
+        },
+        {
+          "chord": "G5",
+          "col": 10
+        },
+        {
+          "chord": "F#5",
+          "col": 13
+        },
+        {
+          "chord": "E5",
+          "col": 17
+        },
+        {
+          "chord": "E5",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "G5",
+          "col": 0
+        },
+        {
+          "chord": "F#5",
+          "col": 3
+        },
+        {
+          "chord": "G5",
+          "col": 7
+        },
+        {
+          "chord": "F#5",
+          "col": 10
+        },
+        {
+          "chord": "F#5",
+          "col": 14
+        },
+        {
+          "chord": "F#5",
+          "col": 18
+        },
+        {
+          "chord": "B5",
+          "col": 22
+        },
+        {
+          "chord": "F#5",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "B5",
+          "col": 0
+        },
+        {
+          "chord": "F#5",
+          "col": 3
+        },
+        {
+          "chord": "B5",
+          "col": 7
+        },
+        {
+          "chord": "E5",
+          "col": 10
+        },
+        {
+          "chord": "F#5",
+          "col": 13
+        },
+        {
+          "chord": "B5",
+          "col": 17
+        },
+        {
+          "chord": "E5",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "E5",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hush little baby, don't say a word,",
+      "chords": [
+        {
+          "chord": "F#5",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   And never mind that noise you heard.",
+      "chords": [
+        {
+          "chord": "F#5",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   It's just the beasts under your bed,",
+      "chords": [
+        {
+          "chord": "F#5",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   In your closet, in your head.",
+      "chords": [
+        {
+          "chord": "F#5",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ex_it light",
+      "chords": [
+        {
+          "chord": "F#5",
+          "col": 0
+        },
+        {
+          "chord": "B5",
+          "col": 4
+        },
+        {
+          "chord": "F#5",
+          "col": 7
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "      Enter night.",
+      "chords": [
+        {
+          "chord": "B5",
+          "col": 0
+        },
+        {
+          "chord": "F#5",
+          "col": 3
+        },
+        {
+          "chord": "B5",
+          "col": 8
+        },
+        {
+          "chord": "E5",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Grain  of sand.",
+      "chords": [
+        {
+          "chord": "F#5",
+          "col": 0
+        },
+        {
+          "chord": "B5",
+          "col": 5
+        },
+        {
+          "chord": "E5",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   Ex_it light,",
+      "chords": [
+        {
+          "chord": "F5",
+          "col": 0
+        },
+        {
+          "chord": "F#5",
+          "col": 3
+        },
+        {
+          "chord": "B5",
+          "col": 7
+        },
+        {
+          "chord": "F#5",
+          "col": 10
+        },
+        {
+          "chord": "B5",
+          "col": 15
+        },
+        {
+          "chord": "F#5",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Enter night.",
+      "chords": [
+        {
+          "chord": "B5",
+          "col": 2
+        },
+        {
+          "chord": "E5",
+          "col": 6
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Take  my hand,",
+      "chords": [
+        {
+          "chord": "F#5",
+          "col": 0
+        },
+        {
+          "chord": "B5",
+          "col": 4
+        },
+        {
+          "chord": "E5",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Off to never never land.",
+      "chords": [
+        {
+          "chord": "G5",
+          "col": 0
+        },
+        {
+          "chord": "F#5",
+          "col": 7
+        },
+        {
+          "chord": "G5",
+          "col": 15
+        },
+        {
+          "chord": "F#5",
+          "col": 19
+        },
+        {
+          "chord": "E5",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Oh.",
+      "chords": [
+        {
+          "chord": "E5",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yeah, yeah. No,    oh.",
+      "chords": [
+        {
+          "chord": "G5",
+          "col": 12
+        },
+        {
+          "chord": "F#5",
+          "col": 15
+        },
+        {
+          "chord": "G5",
+          "col": 19
+        },
+        {
+          "chord": "F#5",
+          "col": 22
+        },
+        {
+          "chord": "E5",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "A5",
+          "col": 0
+        },
+        {
+          "chord": "F5",
+          "col": 3
+        },
+        {
+          "chord": "A5",
+          "col": 6
+        },
+        {
+          "chord": "F5",
+          "col": 9
+        },
+        {
+          "chord": "A5",
+          "col": 12
+        },
+        {
+          "chord": "F5",
+          "col": 15
+        },
+        {
+          "chord": "A5",
+          "col": 18
+        },
+        {
+          "chord": "F5",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "A5",
+          "col": 0
+        },
+        {
+          "chord": "F5",
+          "col": 3
+        },
+        {
+          "chord": "A5",
+          "col": 6
+        },
+        {
+          "chord": "F5",
+          "col": 9
+        },
+        {
+          "chord": "A5",
+          "col": 12
+        },
+        {
+          "chord": "F5",
+          "col": 15
+        },
+        {
+          "chord": "A5",
+          "col": 18
+        },
+        {
+          "chord": "F5",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "E5",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

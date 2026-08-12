@@ -1,0 +1,450 @@
+{
+  "slug": "baran-goc-munzurun-oglu",
+  "artist": "Baran Göç",
+  "title": "Munzurun Oğlu",
+  "key": "Gb",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Abm",
+          "col": 0
+        },
+        {
+          "chord": "Abm",
+          "col": 4
+        },
+        {
+          "chord": "Ebm",
+          "col": 8
+        },
+        {
+          "chord": "Gb",
+          "col": 12
+        },
+        {
+          "chord": "Abm",
+          "col": 16
+        },
+        {
+          "chord": "Db",
+          "col": 20
+        },
+        {
+          "chord": "B",
+          "col": 23
+        },
+        {
+          "chord": "Db",
+          "col": 27
+        },
+        {
+          "chord": "Ebm",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ha bugün ha yarın bu kış bitecek",
+      "chords": [
+        {
+          "chord": "Db",
+          "col": 0
+        },
+        {
+          "chord": "Ebm",
+          "col": 12
+        },
+        {
+          "chord": "Abm",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Elbet bu dağlaraa bahar gelecek",
+      "chords": [
+        {
+          "chord": "Db",
+          "col": 0
+        },
+        {
+          "chord": "Ebm",
+          "col": 11
+        },
+        {
+          "chord": "Abm",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dostluk türküleri hep söylenecek",
+      "chords": [
+        {
+          "chord": "Abm",
+          "col": 0
+        },
+        {
+          "chord": "Ebm",
+          "col": 16
+        },
+        {
+          "chord": "Gb",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İnancın tam olsun Munzurun Oğlu",
+      "chords": [
+        {
+          "chord": "Abm",
+          "col": 0
+        },
+        {
+          "chord": "Db",
+          "col": 10
+        },
+        {
+          "chord": "B",
+          "col": 18
+        },
+        {
+          "chord": "Db",
+          "col": 23
+        },
+        {
+          "chord": "Ebm",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ormanın yakılıp evin yıkılsa",
+      "chords": [
+        {
+          "chord": "Abm",
+          "col": 0
+        },
+        {
+          "chord": "Ebm",
+          "col": 14
+        },
+        {
+          "chord": "Gb",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Aç yüreğini yar yar, Düzgün Babaya",
+      "chords": [
+        {
+          "chord": "Abm",
+          "col": 0
+        },
+        {
+          "chord": "Db",
+          "col": 9
+        },
+        {
+          "chord": "B",
+          "col": 18
+        },
+        {
+          "chord": "Db",
+          "col": 26
+        },
+        {
+          "chord": "Ebm",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Munzurun oğluu Munzurun Oğlu",
+      "chords": [
+        {
+          "chord": "Abm",
+          "col": 0
+        },
+        {
+          "chord": "Ebm",
+          "col": 13
+        },
+        {
+          "chord": "Gb",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yaralı yüreğin umutla dolu",
+      "chords": [
+        {
+          "chord": "Abm",
+          "col": 0
+        },
+        {
+          "chord": "Db",
+          "col": 9
+        },
+        {
+          "chord": "B",
+          "col": 13
+        },
+        {
+          "chord": "Db",
+          "col": 19
+        },
+        {
+          "chord": "Ebm",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ak güvercinlere kapılmış gidiyor",
+      "chords": [
+        {
+          "chord": "Abm",
+          "col": 0
+        },
+        {
+          "chord": "Ebm",
+          "col": 14
+        },
+        {
+          "chord": "Gb",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dağlara doğru yar yar, Munzurun Oğlu",
+      "chords": [
+        {
+          "chord": "Abm",
+          "col": 0
+        },
+        {
+          "chord": "Db",
+          "col": 12
+        },
+        {
+          "chord": "B",
+          "col": 20
+        },
+        {
+          "chord": "Db",
+          "col": 28
+        },
+        {
+          "chord": "Ebm",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Suyumuz aksa daa kökü kurumaz",
+      "chords": [
+        {
+          "chord": "Db",
+          "col": 0
+        },
+        {
+          "chord": "Ebm",
+          "col": 10
+        },
+        {
+          "chord": "Abm",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir yürek yurdundaan sürgün edilmez",
+      "chords": [
+        {
+          "chord": "Db",
+          "col": 0
+        },
+        {
+          "chord": "Ebm",
+          "col": 13
+        },
+        {
+          "chord": "Abm",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Namert kurşununaa adres yazarsam",
+      "chords": [
+        {
+          "chord": "Abm",
+          "col": 0
+        },
+        {
+          "chord": "Ebm",
+          "col": 16
+        },
+        {
+          "chord": "Gb",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Vurulmuş yürektee isyan durulmaz",
+      "chords": [
+        {
+          "chord": "Db",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 16
+        },
+        {
+          "chord": "Db",
+          "col": 21
+        },
+        {
+          "chord": "Ebm",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Munzurun oğluu Munzurun Oğlu",
+      "chords": [
+        {
+          "chord": "Abm",
+          "col": 0
+        },
+        {
+          "chord": "Ebm",
+          "col": 13
+        },
+        {
+          "chord": "Gb",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yaralı yüreğin umutla dolu",
+      "chords": [
+        {
+          "chord": "Abm",
+          "col": 0
+        },
+        {
+          "chord": "Db",
+          "col": 9
+        },
+        {
+          "chord": "B",
+          "col": 13
+        },
+        {
+          "chord": "Db",
+          "col": 19
+        },
+        {
+          "chord": "Ebm",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ak güvercinlere kapılmış gidiyor",
+      "chords": [
+        {
+          "chord": "Abm",
+          "col": 0
+        },
+        {
+          "chord": "Ebm",
+          "col": 14
+        },
+        {
+          "chord": "Gb",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dağlara doğru yar yar, Munzurun Oğlu",
+      "chords": [
+        {
+          "chord": "Abm",
+          "col": 0
+        },
+        {
+          "chord": "Db",
+          "col": 12
+        },
+        {
+          "chord": "B",
+          "col": 20
+        },
+        {
+          "chord": "Db",
+          "col": 28
+        },
+        {
+          "chord": "Ebm",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

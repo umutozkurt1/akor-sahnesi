@@ -1,0 +1,747 @@
+{
+  "slug": "jeff-buckley-hallelujah",
+  "artist": "Jeff Buckley",
+  "title": "Hallelujah",
+  "key": "E",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Intro",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "C#m",
+          "col": 2
+        },
+        {
+          "chord": "E",
+          "col": 6
+        },
+        {
+          "chord": "C#m",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I heard there was a secret chord",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 2
+        },
+        {
+          "chord": "C#m",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "That David played and it pleased the lord",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 10
+        },
+        {
+          "chord": "C#m",
+          "col": 44
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But you don't really care for music, do you?",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 8
+        },
+        {
+          "chord": "B",
+          "col": 35
+        },
+        {
+          "chord": "E",
+          "col": 61
+        },
+        {
+          "chord": "B",
+          "col": 70
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Well it goes like this the fourth, the fifth",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 12
+        },
+        {
+          "chord": "A",
+          "col": 43
+        },
+        {
+          "chord": "B",
+          "col": 61
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "The minor fall and the major lift",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 8
+        },
+        {
+          "chord": "A",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "The baffled king composing hallelujah",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 9
+        },
+        {
+          "chord": "G#7",
+          "col": 29
+        },
+        {
+          "chord": "C#m",
+          "col": 52
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hallelujah, hallelujah, hallelujah, hallelu-u-u-u-jah ....",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 11
+        },
+        {
+          "chord": "C#m",
+          "col": 27
+        },
+        {
+          "chord": "A",
+          "col": 41
+        },
+        {
+          "chord": "E",
+          "col": 61
+        },
+        {
+          "chord": "B",
+          "col": 68
+        },
+        {
+          "chord": "E",
+          "col": 74
+        },
+        {
+          "chord": "B",
+          "col": 83
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Well your faith was strong but you needed proof",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 18
+        },
+        {
+          "chord": "C#m",
+          "col": 61
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You saw her bathing on the roof",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 8
+        },
+        {
+          "chord": "C#m",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Her beauty and the moonlight overthrew you",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 8
+        },
+        {
+          "chord": "B",
+          "col": 34
+        },
+        {
+          "chord": "E",
+          "col": 61
+        },
+        {
+          "chord": "B",
+          "col": 74
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "She tied you to her kitchen chair",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 34
+        },
+        {
+          "chord": "B",
+          "col": 47
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "She broke your throne and she cut your hair",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 8
+        },
+        {
+          "chord": "A",
+          "col": 52
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And from your lips she drew the hallelujah",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 9
+        },
+        {
+          "chord": "G#7",
+          "col": 41
+        },
+        {
+          "chord": "C#m",
+          "col": 60
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hallelujah, hallelujah, hallelujah, hallelu-u-u-u-jah ....",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 11
+        },
+        {
+          "chord": "C#m",
+          "col": 27
+        },
+        {
+          "chord": "A",
+          "col": 41
+        },
+        {
+          "chord": "E",
+          "col": 61
+        },
+        {
+          "chord": "B",
+          "col": 68
+        },
+        {
+          "chord": "E",
+          "col": 74
+        },
+        {
+          "chord": "B",
+          "col": 83
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Baby I've been here before",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "C#m",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I've seen this room and I've walked this floor",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 7
+        },
+        {
+          "chord": "C#m",
+          "col": 49
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I used to live alone before I knew you",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 3
+        },
+        {
+          "chord": "B",
+          "col": 23
+        },
+        {
+          "chord": "E",
+          "col": 47
+        },
+        {
+          "chord": "B",
+          "col": 58
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I've seen your flag on the marble arch",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 46
+        },
+        {
+          "chord": "B",
+          "col": 57
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But love is not a victory march",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 8
+        },
+        {
+          "chord": "A",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "It's a cold and it's a broken hallelujah",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 10
+        },
+        {
+          "chord": "G#7",
+          "col": 34
+        },
+        {
+          "chord": "C#m",
+          "col": 51
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hallelujah, hallelujah, hallelujah, hallelu-u-u-u-jah ....",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 11
+        },
+        {
+          "chord": "C#m",
+          "col": 27
+        },
+        {
+          "chord": "A",
+          "col": 41
+        },
+        {
+          "chord": "E",
+          "col": 61
+        },
+        {
+          "chord": "B",
+          "col": 68
+        },
+        {
+          "chord": "E",
+          "col": 74
+        },
+        {
+          "chord": "B",
+          "col": 83
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Well there was a time when you let me know",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 10
+        },
+        {
+          "chord": "C#m",
+          "col": 55
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "What's really going on below",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 14
+        },
+        {
+          "chord": "C#m",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But now you never show that to me do you",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 8
+        },
+        {
+          "chord": "B",
+          "col": 34
+        },
+        {
+          "chord": "E",
+          "col": 62
+        },
+        {
+          "chord": "B",
+          "col": 76
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But remember when I moved in you",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 12
+        },
+        {
+          "chord": "A",
+          "col": 40
+        },
+        {
+          "chord": "B",
+          "col": 55
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And the holy dove was moving too",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 15
+        },
+        {
+          "chord": "A",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And every breath we drew was hallelujah",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 9
+        },
+        {
+          "chord": "G#7",
+          "col": 37
+        },
+        {
+          "chord": "C#m",
+          "col": 59
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hallelujah, hallelujah, hallelujah, hallelu-u-u-u-jah ....",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 11
+        },
+        {
+          "chord": "C#m",
+          "col": 27
+        },
+        {
+          "chord": "A",
+          "col": 41
+        },
+        {
+          "chord": "E",
+          "col": 61
+        },
+        {
+          "chord": "B",
+          "col": 68
+        },
+        {
+          "chord": "E",
+          "col": 74
+        },
+        {
+          "chord": "B",
+          "col": 83
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Well, maybe there's a god above",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 11
+        },
+        {
+          "chord": "C#m",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But all I've ever learned from love",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 8
+        },
+        {
+          "chord": "C#m",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Was how to shoot somebody who outdrew you",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 10
+        },
+        {
+          "chord": "B",
+          "col": 39
+        },
+        {
+          "chord": "E",
+          "col": 66
+        },
+        {
+          "chord": "B",
+          "col": 84
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "It's not a cry that you hear at night",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 7
+        },
+        {
+          "chord": "A",
+          "col": 38
+        },
+        {
+          "chord": "B",
+          "col": 50
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "It's not somebody who's seen the light",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 5
+        },
+        {
+          "chord": "A",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "It's a cold and it's a broken hallelujah",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 10
+        },
+        {
+          "chord": "G#7",
+          "col": 34
+        },
+        {
+          "chord": "C#m",
+          "col": 50
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hallelujah, hallelujah, hallelujah, hallelu-u-u-u-jah ....",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 11
+        },
+        {
+          "chord": "C#m",
+          "col": 27
+        },
+        {
+          "chord": "A",
+          "col": 41
+        },
+        {
+          "chord": "E",
+          "col": 61
+        },
+        {
+          "chord": "B",
+          "col": 68
+        },
+        {
+          "chord": "E",
+          "col": 74
+        },
+        {
+          "chord": "B",
+          "col": 83
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

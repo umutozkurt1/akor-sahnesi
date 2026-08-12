@@ -1,0 +1,172 @@
+{
+  "slug": "altay-barisalim-mi",
+  "artist": "Altay",
+  "title": "Barışalım Mı",
+  "key": "F",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Çok kolay söylenir sözler aşağı yukarı",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "Bbm",
+          "col": 13
+        },
+        {
+          "chord": "Gb",
+          "col": 27
+        },
+        {
+          "chord": "Fm",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kimi acı kimi tatlı siyahı beyazı",
+      "chords": [
+        {
+          "chord": "Bbm",
+          "col": 15
+        },
+        {
+          "chord": "Gb",
+          "col": 23
+        },
+        {
+          "chord": "Fm",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Anlayanda anlamazdan gelir",
+      "chords": [
+        {
+          "chord": "Ebm",
+          "col": 5
+        },
+        {
+          "chord": "Ab",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hiç yaşamamış gibi",
+      "chords": [
+        {
+          "chord": "Gb",
+          "col": 5
+        },
+        {
+          "chord": "Fm",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bilirde Söyleyemez dolmaz kimsenin yeri",
+      "chords": [
+        {
+          "chord": "Ebm",
+          "col": 2
+        },
+        {
+          "chord": "Ebm",
+          "col": 22
+        },
+        {
+          "chord": "Fm",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Çok geç diyenlere İnat buluşalım mı?",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 5
+        },
+        {
+          "chord": "Em",
+          "col": 26
+        },
+        {
+          "chord": "F#m",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hayatın saati onikiyi geçti kavuşalım mı?",
+      "chords": [
+        {
+          "chord": "Ebm",
+          "col": 28
+        },
+        {
+          "chord": "Gb",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Çekilecek dert kalmadı anlaşalım mı?",
+      "chords": [
+        {
+          "chord": "Ebm",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sabrın sonu selamettir barışalım mı?",
+      "chords": [
+        {
+          "chord": "Ab",
+          "col": 0
+        },
+        {
+          "chord": "Gb",
+          "col": 10
+        },
+        {
+          "chord": "Ebm",
+          "col": 24
+        },
+        {
+          "chord": "Fm",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

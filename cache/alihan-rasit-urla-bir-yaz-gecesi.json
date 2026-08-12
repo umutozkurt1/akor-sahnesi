@@ -1,0 +1,156 @@
+{
+  "slug": "alihan-rasit-urla-bir-yaz-gecesi",
+  "artist": "Alihan Raşit Urla",
+  "title": "Bir Yaz Gecesi",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Bir yaz gecesi",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Nasılda rüzgarlı",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gitarımın uğultuları",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Denizin dalgası",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir tek sen yoksun",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "O iskelede",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ellerimde yanlızlığının dumanı",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Aynada bir sen var ama sen deilsin dudakların ayni sozlerin farklı",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 13
+        },
+        {
+          "chord": "C",
+          "col": 22
+        },
+        {
+          "chord": "B",
+          "col": 28
+        },
+        {
+          "chord": "Em",
+          "col": 35
+        },
+        {
+          "chord": "D",
+          "col": 46
+        },
+        {
+          "chord": "C",
+          "col": 52
+        },
+        {
+          "chord": "B",
+          "col": 60
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Neler oldu neler bitti anlamadim cok değistin﻿",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 8
+        },
+        {
+          "chord": "C",
+          "col": 13
+        },
+        {
+          "chord": "B",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

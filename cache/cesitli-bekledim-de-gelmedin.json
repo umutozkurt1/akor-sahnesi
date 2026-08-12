@@ -1,0 +1,187 @@
+{
+  "slug": "cesitli-bekledim-de-gelmedin",
+  "artist": "Çeşitli",
+  "title": "Bekledim De Gelmedin",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": " Bekledim de gelmedin,",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 1
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Sevdigimi bilmedin,",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 6
+        },
+        {
+          "chord": "Am",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Gözyasimi silmedin,",
+      "chords": [
+        {
+          "chord": "E7",
+          "col": 11
+        },
+        {
+          "chord": "Am",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Hiç mi beni sevmedin.",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 13
+        },
+        {
+          "chord": "Am",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "     Söyle, söyle, hiç mi beni sevmedin",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 8
+        },
+        {
+          "chord": "Am",
+          "col": 15
+        },
+        {
+          "chord": "E7",
+          "col": 19
+        },
+        {
+          "chord": "Am",
+          "col": 26
+        },
+        {
+          "chord": "E7",
+          "col": 31
+        },
+        {
+          "chord": "Am",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "     Söyle, söyle, hiç mi beni sevmedin",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 8
+        },
+        {
+          "chord": "Am",
+          "col": 15
+        },
+        {
+          "chord": "E7",
+          "col": 19
+        },
+        {
+          "chord": "Am",
+          "col": 26
+        },
+        {
+          "chord": "E7",
+          "col": 31
+        },
+        {
+          "chord": "Am",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Bir öpücük ver bana,",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 1
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Yalvariyorum sana,",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 6
+        },
+        {
+          "chord": "Am",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Beni kucaklasana,",
+      "chords": [
+        {
+          "chord": "E7",
+          "col": 11
+        },
+        {
+          "chord": "Am",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Kollarina alsana",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 11
+        },
+        {
+          "chord": "Am",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

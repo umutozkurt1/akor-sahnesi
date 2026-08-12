@@ -1,0 +1,209 @@
+{
+  "slug": "oguzhan-koc-yan",
+  "artist": "Oğuzhan Koç",
+  "title": "Yan",
+  "key": "G#",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Umutlarım gitti birer birer,",
+      "chords": [
+        {
+          "chord": "G#m",
+          "col": 6
+        },
+        {
+          "chord": "A",
+          "col": 14
+        },
+        {
+          "chord": "G#m",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hayallerim gitti birer birer,",
+      "chords": [
+        {
+          "chord": "G#m",
+          "col": 6
+        },
+        {
+          "chord": "A",
+          "col": 14
+        },
+        {
+          "chord": "G#m",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gidişin bitişim ne olur gitme,",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 4
+        },
+        {
+          "chord": "A",
+          "col": 12
+        },
+        {
+          "chord": "G#m",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Beni benle çaresiz bırakma",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 7
+        },
+        {
+          "chord": "F#m",
+          "col": 15
+        },
+        {
+          "chord": "G#m",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yan yüreğim yan,",
+      "chords": [
+        {
+          "chord": "G#m",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Acısıyla parçalan,",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yan kimin umurunda,",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sen kendi haline yankma",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 2
+        },
+        {
+          "chord": "A",
+          "col": 19
+        },
+        {
+          "chord": "G#m",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yan yüreğim yan,",
+      "chords": [
+        {
+          "chord": "A#m",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Acısıyla parçalan,",
+      "chords": [
+        {
+          "chord": "D#m",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yan kimin umurunda,",
+      "chords": [
+        {
+          "chord": "D#m",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sen kendi haline yan",
+      "chords": [
+        {
+          "chord": "G#m",
+          "col": 2
+        },
+        {
+          "chord": "B",
+          "col": 19
+        },
+        {
+          "chord": "A#m",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

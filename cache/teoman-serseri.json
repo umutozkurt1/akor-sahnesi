@@ -1,0 +1,182 @@
+{
+  "slug": "teoman-serseri",
+  "artist": "Teoman",
+  "title": "Serseri",
+  "key": "F#",
+  "capo": 0,
+  "rhythm": "A-Y-A-Y-A-A-A-Y-A-A",
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 7
+        },
+        {
+          "chord": "D",
+          "col": 13
+        },
+        {
+          "chord": "E",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bunlar güzel günlerimiz",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Daha beter olcak her şey",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 2
+        },
+        {
+          "chord": "C#",
+          "col": 12
+        },
+        {
+          "chord": "F#m",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dünya zaten yalan dolan",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kaderden kaçamaz insan",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 1
+        },
+        {
+          "chord": "C#",
+          "col": 16
+        },
+        {
+          "chord": "F#m",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Vurulmuş kalbinin ortasından",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 45
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Aynaya bakmam",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kendimi bilmem",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hayat acıtınca",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dünyayı sevmem",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ne yazık ki tek tabanca",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Serseri doğdum",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Serseri ölcem",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

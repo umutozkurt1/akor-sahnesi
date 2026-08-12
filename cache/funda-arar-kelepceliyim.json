@@ -1,0 +1,151 @@
+{
+  "slug": "funda-arar-kelepceliyim",
+  "artist": "Funda Arar",
+  "title": "Kelepçeliyim",
+  "key": "E",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Kanunu yok bu aşkın ,     galibi mağlubu yok",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 24
+        },
+        {
+          "chord": "Dm",
+          "col": 30
+        },
+        {
+          "chord": "B7",
+          "col": 60
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kaybolduk birbirimizde kendini çaldın sen bende",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 25
+        },
+        {
+          "chord": "Dm",
+          "col": 35
+        },
+        {
+          "chord": "B7",
+          "col": 61
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kelepçeliyim ben sana   yüreğimden taa derinden",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 27
+        },
+        {
+          "chord": "C",
+          "col": 33
+        },
+        {
+          "chord": "B7",
+          "col": 68
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Suçumda sensin cezamda kaçıp gitme ellerimden",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 32
+        },
+        {
+          "chord": "C",
+          "col": 39
+        },
+        {
+          "chord": "B7",
+          "col": 73
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Mahkumu yok bu aşkın yanlışı doğrusu yok",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 30
+        },
+        {
+          "chord": "Dm",
+          "col": 40
+        },
+        {
+          "chord": "B7",
+          "col": 59
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hapsolduk birbirimizde kendini çaldın sen bende",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 26
+        },
+        {
+          "chord": "Dm",
+          "col": 39
+        },
+        {
+          "chord": "B7",
+          "col": 70
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

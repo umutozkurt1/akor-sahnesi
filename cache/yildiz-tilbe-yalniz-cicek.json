@@ -1,0 +1,140 @@
+{
+  "slug": "yildiz-tilbe-yalniz-cicek",
+  "artist": "Yıldız Tilbe",
+  "title": "Yalnız Çiçek",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "O derin uçurumlarda açan, dikeni zehirli yalnız çiçek",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Suç olur muydu seni bir kez koklayıp ölmek",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 8
+        },
+        {
+          "chord": "Gm",
+          "col": 56
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Fırtına olsam kırsam dikenini, yüreğimle dokunsam çiçeğine",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 5
+        },
+        {
+          "chord": "Gm",
+          "col": 79
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bu inat bu dik bakış neden gözlerime",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 6
+        },
+        {
+          "chord": "Gm",
+          "col": 51
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kendini bırak bırak artık benim cennetime",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 9
+        },
+        {
+          "chord": "Gm",
+          "col": 60
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ayrı iklimsin ne çare, ben sana vurgun biçare",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sarardım soldum hasretinle",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 4
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ayrı iklimsin apayrı, sert soğuklar mağrur sevdalı",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "G#",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kavrulup yanarım ben yine",
+      "chords": [
+        {
+          "chord": "Gm7",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 12
+        },
+        {
+          "chord": "Gm",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

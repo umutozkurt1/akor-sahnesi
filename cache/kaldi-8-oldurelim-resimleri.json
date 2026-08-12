@@ -1,0 +1,281 @@
+{
+  "slug": "kaldi-8-oldurelim-resimleri",
+  "artist": "Kaldı 8",
+  "title": "Öldürelim Resimleri",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Düşer gözümden bi damla",
+      "chords": [
+        {
+          "chord": "Cmaj7",
+          "col": 5
+        },
+        {
+          "chord": "Bm7",
+          "col": 15
+        },
+        {
+          "chord": "Am7",
+          "col": 28
+        },
+        {
+          "chord": "G/F#",
+          "col": 34
+        },
+        {
+          "chord": "Em",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sensiz her adımda",
+      "chords": [
+        {
+          "chord": "Bm7",
+          "col": 7
+        },
+        {
+          "chord": "Am7",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Çok zor seninle bir daha",
+      "chords": [
+        {
+          "chord": "Cmaj7",
+          "col": 6
+        },
+        {
+          "chord": "Bm7",
+          "col": 15
+        },
+        {
+          "chord": "Am7",
+          "col": 26
+        },
+        {
+          "chord": "G/F#",
+          "col": 32
+        },
+        {
+          "chord": "Em",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Görüşelim rüyalarda",
+      "chords": [
+        {
+          "chord": "Bm7",
+          "col": 12
+        },
+        {
+          "chord": "Am7",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yarım kalsın hayallerimiz",
+      "chords": [
+        {
+          "chord": "Cmaj7",
+          "col": 0
+        },
+        {
+          "chord": "Bm7",
+          "col": 10
+        },
+        {
+          "chord": "Am7",
+          "col": 26
+        },
+        {
+          "chord": "G/F#",
+          "col": 32
+        },
+        {
+          "chord": "Em",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kurtulalım anılardan",
+      "chords": [
+        {
+          "chord": "Bm7",
+          "col": 12
+        },
+        {
+          "chord": "Am7",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Belki unutamayız gözlerimizi",
+      "chords": [
+        {
+          "chord": "Cmaj7",
+          "col": 5
+        },
+        {
+          "chord": "Bm7",
+          "col": 17
+        },
+        {
+          "chord": "Am7",
+          "col": 33
+        },
+        {
+          "chord": "G/F#",
+          "col": 39
+        },
+        {
+          "chord": "Em",
+          "col": 45
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Öldürelim resimleri",
+      "chords": [
+        {
+          "chord": "Bm7",
+          "col": 11
+        },
+        {
+          "chord": "Am7",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Zaten yanmışız köşe bucak",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 4
+        },
+        {
+          "chord": "Am7",
+          "col": 16
+        },
+        {
+          "chord": "Bm7",
+          "col": 29
+        },
+        {
+          "chord": "Cmaj7",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sevişelim son bir defa sonra",
+      "chords": [
+        {
+          "chord": "Dm7",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 7
+        },
+        {
+          "chord": "Am7",
+          "col": 25
+        },
+        {
+          "chord": "Bm7",
+          "col": 32
+        },
+        {
+          "chord": "Cmaj7",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kaybolalım karanlıkta birbirimize",
+      "chords": [
+        {
+          "chord": "Dm7",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 9
+        },
+        {
+          "chord": "Am7",
+          "col": 24
+        },
+        {
+          "chord": "Bm7",
+          "col": 39
+        },
+        {
+          "chord": "Cmaj7",
+          "col": 45
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yine de bitmesin o son gece",
+      "chords": [
+        {
+          "chord": "Dm7",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 4
+        },
+        {
+          "chord": "Am7",
+          "col": 15
+        },
+        {
+          "chord": "Bm7",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

@@ -1,0 +1,173 @@
+{
+  "slug": "nil-ipek-durak",
+  "artist": "Nil İpek",
+  "title": "Durak",
+  "key": "Ab",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "O durak nerede, söylesene?",
+      "chords": [
+        {
+          "chord": "Ab",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ben bakmaz oldum gökyüzüne",
+      "chords": [
+        {
+          "chord": "Ab",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "‘Hep yan yana yürür insanlar",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 0
+        },
+        {
+          "chord": "Ebm",
+          "col": 4
+        },
+        {
+          "chord": "Ab",
+          "col": 16
+        },
+        {
+          "chord": "B",
+          "col": 26
+        },
+        {
+          "chord": "Ebm",
+          "col": 28
+        },
+        {
+          "chord": "Ab",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sen düşerken gözümden",
+      "chords": [
+        {
+          "chord": "Ab",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ben nasıl tutarım ellerinden?",
+      "chords": [
+        {
+          "chord": "Ab",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "‘Hep yan yana yürür insanlar",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 0
+        },
+        {
+          "chord": "Ebm",
+          "col": 4
+        },
+        {
+          "chord": "Ab",
+          "col": 16
+        },
+        {
+          "chord": "B",
+          "col": 26
+        },
+        {
+          "chord": "Ebm",
+          "col": 28
+        },
+        {
+          "chord": "Ab",
+          "col": 32
+        },
+        {
+          "chord": "C#",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bunlar hep yalansa",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 4
+        },
+        {
+          "chord": "Bbm",
+          "col": 15
+        },
+        {
+          "chord": "C#",
+          "col": 19
+        },
+        {
+          "chord": "Ab",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ne işim var benim bu sularda?",
+      "chords": [
+        {
+          "chord": "C#",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 9
+        },
+        {
+          "chord": "Bbm",
+          "col": 26
+        },
+        {
+          "chord": "C#",
+          "col": 30
+        },
+        {
+          "chord": "Ab",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

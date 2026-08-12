@@ -1,0 +1,288 @@
+{
+  "slug": "model-mey",
+  "artist": "Model",
+  "title": "Mey",
+  "key": "G",
+  "capo": 0,
+  "rhythm": "A-Y-Y-A-Y-A-K-A-A-A-A-Y-Y-A-Y",
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Intro:",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "G5",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bakması ne zormuş ah o güzel yüzüne",
+      "chords": [
+        {
+          "chord": "G5",
+          "col": 5
+        },
+        {
+          "chord": "D5",
+          "col": 33
+        },
+        {
+          "chord": "G5",
+          "col": 52
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Toplamış yine bütün güneşi üstüne",
+      "chords": [
+        {
+          "chord": "G5",
+          "col": 9
+        },
+        {
+          "chord": "D5",
+          "col": 25
+        },
+        {
+          "chord": "G5",
+          "col": 44
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kamaşıyor gözlerim bebeğim",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 8
+        },
+        {
+          "chord": "Cm7",
+          "col": 24
+        },
+        {
+          "chord": "Gm",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Öyle gülmek olur mu gözünü seveyim",
+      "chords": [
+        {
+          "chord": "Cm7",
+          "col": 13
+        },
+        {
+          "chord": "A#",
+          "col": 36
+        },
+        {
+          "chord": "F",
+          "col": 52
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Cennet dudaklarınmış öpte öleyim",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 4
+        },
+        {
+          "chord": "D",
+          "col": 32
+        },
+        {
+          "chord": "Gm",
+          "col": 46
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Aşkmış adı nerden  bileyim",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 3
+        },
+        {
+          "chord": "Cm7",
+          "col": 18
+        },
+        {
+          "chord": "Gm",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Böyle zulüm olur mu gözünü seveyim",
+      "chords": [
+        {
+          "chord": "Cm7",
+          "col": 12
+        },
+        {
+          "chord": "A#",
+          "col": 34
+        },
+        {
+          "chord": "F",
+          "col": 48
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Adımı sorsan söyleyemem yemin ederim",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 4
+        },
+        {
+          "chord": "D",
+          "col": 28
+        },
+        {
+          "chord": "Gm",
+          "col": 47
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ah   ellerim titriyor",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 4
+        },
+        {
+          "chord": "Gm",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Of bir ateş basıyor",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 1
+        },
+        {
+          "chord": "A#",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Özlemek bu dokunmakla geçmiyor",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 1
+        },
+        {
+          "chord": "D#",
+          "col": 23
+        },
+        {
+          "chord": "D",
+          "col": 47
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ah  öyle sev ki beni",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 3
+        },
+        {
+          "chord": "Gm",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Mey diye içeyim",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kalbim tekliyor ah gel hasta gibiyim",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 29
+        },
+        {
+          "chord": "D",
+          "col": 48
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

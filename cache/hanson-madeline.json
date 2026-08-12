@@ -1,0 +1,255 @@
+{
+  "slug": "hanson-madeline",
+  "artist": "Hanson",
+  "title": "Madeline",
+  "key": "D",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Out my window     A memory",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 17
+        },
+        {
+          "chord": "G",
+          "col": 27
+        },
+        {
+          "chord": "A",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'm dyin' inside    I know the way it should be",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 7
+        },
+        {
+          "chord": "F#m",
+          "col": 17
+        },
+        {
+          "chord": "G",
+          "col": 35
+        },
+        {
+          "chord": "A",
+          "col": 48
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Though it was right    In front of me",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 11
+        },
+        {
+          "chord": "F#m",
+          "col": 20
+        },
+        {
+          "chord": "G",
+          "col": 32
+        },
+        {
+          "chord": "Ebm7",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "It's something I just couldn't see",
+      "chords": [
+        {
+          "chord": "Em7",
+          "col": 12
+        },
+        {
+          "chord": "A",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Your lonely face, your lonely eyes",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "This is something you can't disguise",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "It's not just me, you feel it too",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "'Cause you know I belong with you",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Prechorus",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Look at where we're going tell me what can I say",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 5
+        },
+        {
+          "chord": "F#m7",
+          "col": 20
+        },
+        {
+          "chord": "Em",
+          "col": 35
+        },
+        {
+          "chord": "D",
+          "col": 46
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "We're tracing our footsteps, we're going the same way",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 6
+        },
+        {
+          "chord": "A",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Chorus",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "Madeline, here we go around again",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 10
+        },
+        {
+          "chord": "G",
+          "col": 21
+        },
+        {
+          "chord": "A",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You know it, I know it, don't try to pretend",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 4
+        },
+        {
+          "chord": "Bm",
+          "col": 15
+        },
+        {
+          "chord": "G",
+          "col": 30
+        },
+        {
+          "chord": "A",
+          "col": 44
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You know it could be so much better than it's been",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 4
+        },
+        {
+          "chord": "C",
+          "col": 21
+        },
+        {
+          "chord": "Bm",
+          "col": 36
+        },
+        {
+          "chord": "A",
+          "col": 51
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Aoooooooooooooh,  here we go around again",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 5
+        },
+        {
+          "chord": "A",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

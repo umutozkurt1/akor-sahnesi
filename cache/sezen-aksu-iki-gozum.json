@@ -1,0 +1,227 @@
+{
+  "slug": "sezen-aksu-iki-gozum",
+  "artist": "Sezen Aksu",
+  "title": "İki Gözüm",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Yok mu     senin insafın yok mu",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Db",
+          "col": 9
+        },
+        {
+          "chord": "Cm",
+          "col": 35
+        },
+        {
+          "chord": "Db",
+          "col": 44
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir güler yüzün çok mu",
+      "chords": [
+        {
+          "chord": "Bbm",
+          "col": 26
+        },
+        {
+          "chord": "Db",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dağ mısın taş mısın",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 28
+        },
+        {
+          "chord": "Db",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Uzak mı    bu eda bu hal tuzak mı",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Db",
+          "col": 9
+        },
+        {
+          "chord": "Cm",
+          "col": 37
+        },
+        {
+          "chord": "Db",
+          "col": 46
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hak mısın bana yasak mı",
+      "chords": [
+        {
+          "chord": "Bbm",
+          "col": 29
+        },
+        {
+          "chord": "Db",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dost musun düşman mısın",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 34
+        },
+        {
+          "chord": "Db",
+          "col": 45
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İki gözüm seneler geçiyor, gönül ektiğini biçiyor",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 6
+        },
+        {
+          "chord": "Bbm",
+          "col": 36
+        },
+        {
+          "chord": "Fm",
+          "col": 50
+        },
+        {
+          "chord": "Cm",
+          "col": 61
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir selam lütfet bu ne çok hasret,    gel barışalım artık",
+      "chords": [
+        {
+          "chord": "Db",
+          "col": 23
+        },
+        {
+          "chord": "Cm",
+          "col": 36
+        },
+        {
+          "chord": "Bbm",
+          "col": 46
+        },
+        {
+          "chord": "Eb",
+          "col": 51
+        },
+        {
+          "chord": "Bbm",
+          "col": 62
+        },
+        {
+          "chord": "Cm",
+          "col": 69
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Canözüm bahar geldi, dalları kiraz bastı",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 6
+        },
+        {
+          "chord": "Bbm",
+          "col": 30
+        },
+        {
+          "chord": "Fm",
+          "col": 40
+        },
+        {
+          "chord": "Cm",
+          "col": 50
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yedikat eller yakınım oldu,     gel kavuşalım artık",
+      "chords": [
+        {
+          "chord": "Db",
+          "col": 17
+        },
+        {
+          "chord": "Cm",
+          "col": 27
+        },
+        {
+          "chord": "Bbm",
+          "col": 34
+        },
+        {
+          "chord": "Eb",
+          "col": 39
+        },
+        {
+          "chord": "Bbm",
+          "col": 53
+        },
+        {
+          "chord": "Cm",
+          "col": 61
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

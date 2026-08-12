@@ -1,0 +1,170 @@
+{
+  "slug": "ece-mumay-peri",
+  "artist": "Ece Mumay",
+  "title": "Peri",
+  "key": "E",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "İntro :",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 3
+        },
+        {
+          "chord": "D",
+          "col": 8
+        },
+        {
+          "chord": "Em",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dokunma bana dedi sakın ola sormadım",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sebebi neydi neden öyle davrandın",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dönmedin gurura taş misali gelmedin,",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sevgilim sevilmedim yok.",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dakikalarıma es de, sözlerime de beste,",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Olamadın kaldı bunlar hep heveste,",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dolanıyordum sana bengonviller gibi",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Doldu kapasite.",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kesin bi’ bana kastı,",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "E damarıma bastı,",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gelmem geri geri geri",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bıraktı gitti önce hayırdır bi dönünce",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ben oldum peri peri peri",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

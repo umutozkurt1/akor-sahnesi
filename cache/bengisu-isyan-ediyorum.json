@@ -1,0 +1,208 @@
+{
+  "slug": "bengisu-isyan-ediyorum",
+  "artist": "Bengisu",
+  "title": "İsyan Ediyorum",
+  "key": "D",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "ORJİNAL TONU: C",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Akşamdan kalma bir ayrılık, uyanması çok zor, inanması bela",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 49
+        },
+        {
+          "chord": "B",
+          "col": 88
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Zamanla geçer unutursun, diyenlere inat unutmadım asla",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 54
+        },
+        {
+          "chord": "B",
+          "col": 78
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sebebini bilse belki huzur bulurdu yüreğim",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 26
+        },
+        {
+          "chord": "Am",
+          "col": 40
+        },
+        {
+          "chord": "Em",
+          "col": 54
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Nerden bilsin son kez görmüş seni gözlerim",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 26
+        },
+        {
+          "chord": "D",
+          "col": 38
+        },
+        {
+          "chord": "C",
+          "col": 46
+        },
+        {
+          "chord": "B",
+          "col": 57
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İsyan ediyorum, kimseler duymaz mı sesimi",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 50
+        },
+        {
+          "chord": "C",
+          "col": 67
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sel gibi içim dinmez ki",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sen nasıl olur bir başıma bırakıp gittin beni",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Beni bana bıraktın, kalmam giderim, sensiz hiç tadı yok",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 32
+        },
+        {
+          "chord": "Am",
+          "col": 58
+        },
+        {
+          "chord": "Em",
+          "col": 77
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Öyle bir hasret, hasret ki bu, vuslatı yok",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 24
+        },
+        {
+          "chord": "D",
+          "col": 36
+        },
+        {
+          "chord": "C",
+          "col": 44
+        },
+        {
+          "chord": "B",
+          "col": 55
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "N",
+      "chords": [],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

@@ -1,0 +1,691 @@
+{
+  "slug": "dido-thank-you",
+  "artist": "Dido",
+  "title": "Thank You",
+  "key": "G",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Cmaj7",
+          "col": 3
+        },
+        {
+          "chord": "Em",
+          "col": 9
+        },
+        {
+          "chord": "Cmaj7",
+          "col": 12
+        },
+        {
+          "chord": "Em",
+          "col": 18
+        },
+        {
+          "chord": "Cmaj7",
+          "col": 21
+        },
+        {
+          "chord": "Em",
+          "col": 27
+        },
+        {
+          "chord": "Cmaj7",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Cmaj7",
+          "col": 3
+        },
+        {
+          "chord": "Em",
+          "col": 9
+        },
+        {
+          "chord": "Cmaj7",
+          "col": 12
+        },
+        {
+          "chord": "Em",
+          "col": 18
+        },
+        {
+          "chord": "Cmaj7",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Cmaj7",
+          "col": 3
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  My tea's gone cold",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Cmaj7",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'm wondering why I got out of bed at all  The morning rain",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 17
+        },
+        {
+          "chord": "G",
+          "col": 24
+        },
+        {
+          "chord": "D/F#",
+          "col": 31
+        },
+        {
+          "chord": "Em",
+          "col": 41
+        },
+        {
+          "chord": "Cmaj7",
+          "col": 59
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "clouds up my window",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And I can't see at all  And even if",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 4
+        },
+        {
+          "chord": "D/F#",
+          "col": 12
+        },
+        {
+          "chord": "Em",
+          "col": 22
+        },
+        {
+          "chord": "Cmaj7",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I could, it'd all be grey But your picture on  my wall",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 17
+        },
+        {
+          "chord": "G",
+          "col": 35
+        },
+        {
+          "chord": "D/F#",
+          "col": 45
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  It reminds     me that it's not so bad",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Cmaj7",
+          "col": 12
+        },
+        {
+          "chord": "Em",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "It's not  so bad",
+      "chords": [
+        {
+          "chord": "Cmaj7",
+          "col": 5
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Cmaj7",
+          "col": 3
+        },
+        {
+          "chord": "Em",
+          "col": 9
+        },
+        {
+          "chord": "Cmaj7",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " I drank too much     last night",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Cmaj7",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Got bills to pay",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "My head just feels in pain I missed the bus",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 3
+        },
+        {
+          "chord": "D/F#",
+          "col": 13
+        },
+        {
+          "chord": "Em",
+          "col": 22
+        },
+        {
+          "chord": "Cmaj7",
+          "col": 43
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "and there'll be hell today",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'm late for work again  And even if",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 4
+        },
+        {
+          "chord": "D/F#",
+          "col": 13
+        },
+        {
+          "chord": "Em",
+          "col": 23
+        },
+        {
+          "chord": "Cmaj7",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'm there",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "They'll all imply that I might not last the day",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 12
+        },
+        {
+          "chord": "G",
+          "col": 25
+        },
+        {
+          "chord": "D/F#",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  And then you call  me",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Cmaj7",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And it's not so bad",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "It's not  so bad",
+      "chords": [
+        {
+          "chord": "Cmaj7",
+          "col": 5
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And I want to thank you",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "Cmaj7",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "For giving me the best day of my life",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 18
+        },
+        {
+          "chord": "Cmaj7",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Oh, just to be   with you",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "Cmaj7",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Is having the best day of my life",
+      "chords": [
+        {
+          "chord": "Bm7",
+          "col": 14
+        },
+        {
+          "chord": "Am7",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "Cmaj7",
+          "col": 2
+        },
+        {
+          "chord": "G",
+          "col": 8
+        },
+        {
+          "chord": "Cmaj7",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "Cmaj7",
+          "col": 2
+        },
+        {
+          "chord": "Bm7",
+          "col": 8
+        },
+        {
+          "chord": "Am7",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Push the door I'm home at last",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "Cmaj7",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And I'm soaking through and through",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Then you handed me a towel     and all I see is you",
+      "chords": [
+        {
+          "chord": "Cmaj7",
+          "col": 26
+        },
+        {
+          "chord": "G",
+          "col": 51
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And even if my house falls down     now",
+      "chords": [
+        {
+          "chord": "Cmaj7",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I wouldn't have a clue",
+      "chords": [
+        {
+          "chord": "Bm7",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Because you're near me",
+      "chords": [
+        {
+          "chord": "Am7",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And I want to thank you",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "Cmaj7",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "For giving me the best day of my life",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 18
+        },
+        {
+          "chord": "Cmaj7",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Oh, just to be   with you",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "Cmaj7",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Is having the best day of my life",
+      "chords": [
+        {
+          "chord": "Bm7",
+          "col": 14
+        },
+        {
+          "chord": "Am7",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And I want to thank you",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "Cmaj7",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "For giving me the best day of my life",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 18
+        },
+        {
+          "chord": "Cmaj7",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Oh, just to be   with you",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "Cmaj7",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Is having the best day of my life",
+      "chords": [
+        {
+          "chord": "Bm7",
+          "col": 14
+        },
+        {
+          "chord": "Am7",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

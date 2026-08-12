@@ -1,0 +1,145 @@
+{
+  "slug": "zafer-peker-giderim",
+  "artist": "Zafer Peker",
+  "title": "Giderim",
+  "key": "E",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Sonuna geldim, bitti, tövbemi bozdum",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 8
+        },
+        {
+          "chord": "F#7",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kaçıyorum senden uzaklara",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 7
+        },
+        {
+          "chord": "F#7",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kadere kahroldum bir de hasretine çare bulamadım",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 7
+        },
+        {
+          "chord": "F#7",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yüreğim karardı derdinden",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 4
+        },
+        {
+          "chord": "Em",
+          "col": 12
+        },
+        {
+          "chord": "F#7",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Giderim, giderim, sonuna kadar bu derdimi çeker giderim",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 27
+        },
+        {
+          "chord": "F#7",
+          "col": 52
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Artık ölümü huzur sayar güler geçer yüreğim",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 15
+        },
+        {
+          "chord": "G",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Boşver umuda hüzün katan bu dertlerimle",
+      "chords": [
+        {
+          "chord": "F#7",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kendime isyan eder giderim",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 11
+        },
+        {
+          "chord": "F#7",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

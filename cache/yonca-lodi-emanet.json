@@ -1,0 +1,149 @@
+{
+  "slug": "yonca-lodi-emanet",
+  "artist": "Yonca Lodi",
+  "title": "Emanet",
+  "key": "F#",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Sen benim içimdeki büyük yangınların adı",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 57
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ben senin gecendeki mavi ya da günündeki sarı",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "C#m7",
+          "col": 16
+        },
+        {
+          "chord": "Bm7",
+          "col": 37
+        },
+        {
+          "chord": "C#m",
+          "col": 62
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sen benim şehrimdeki bütün sokakların adı",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 64
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ben senin yüzündeki çizgi ya da dünündeki anı",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "C#m7",
+          "col": 17
+        },
+        {
+          "chord": "Bm7",
+          "col": 37
+        },
+        {
+          "chord": "C#m",
+          "col": 63
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hadi kalk gel bul bi bahane",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Birazcık heves, biraz cesaret",
+      "chords": [
+        {
+          "chord": "C#m7",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İlk günkü gibi duruyor hala",
+      "chords": [
+        {
+          "chord": "Bm7",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kalbin ömürlük bende emanet",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 7
+        },
+        {
+          "chord": "Bm7",
+          "col": 22
+        },
+        {
+          "chord": "C#m7",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

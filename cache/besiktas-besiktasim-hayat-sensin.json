@@ -1,0 +1,133 @@
+{
+  "slug": "besiktas-besiktasim-hayat-sensin",
+  "artist": "Beşiktaş",
+  "title": "Beşiktaşım Hayat Sensin",
+  "key": "D",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Beşiktaş'ım hayat sensin,",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 1
+        },
+        {
+          "chord": "C",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dünyam sensin, herşey sensin,",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 12
+        },
+        {
+          "chord": "Am",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gelecekse tüm acılar,",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 7
+        },
+        {
+          "chord": "C",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Biz hazırız senden gelsin,",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 9
+        },
+        {
+          "chord": "Am",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bu sevdadan vazgecersek,",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 8
+        },
+        {
+          "chord": "C",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Allah belamızı versin ,",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 9
+        },
+        {
+          "chord": "Am",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Siyah ulan Beyaz ulan ,",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 6
+        },
+        {
+          "chord": "C",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Alayına gider ulan !",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 5
+        },
+        {
+          "chord": "Am",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

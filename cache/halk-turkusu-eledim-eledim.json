@@ -1,0 +1,249 @@
+{
+  "slug": "halk-turkusu-eledim-eledim",
+  "artist": "Halk Türküsü",
+  "title": "Eledim Eledim",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Eledim eledim höllük eledim",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 7
+        },
+        {
+          "chord": "G#",
+          "col": 14
+        },
+        {
+          "chord": "Fm",
+          "col": 22
+        },
+        {
+          "chord": "Cm",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Aynalı beşikte canan bebek beledim",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "G#",
+          "col": 9
+        },
+        {
+          "chord": "C#",
+          "col": 22
+        },
+        {
+          "chord": "Cm",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Büyüttüm besledim asker eyledim",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 9
+        },
+        {
+          "chord": "Fm",
+          "col": 19
+        },
+        {
+          "chord": "Cm",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gitti de gelmedi canan buna ne çare",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "G#",
+          "col": 12
+        },
+        {
+          "chord": "C#",
+          "col": 24
+        },
+        {
+          "chord": "Cm",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yandı ciğerim de canan buna ne çare",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "G#",
+          "col": 10
+        },
+        {
+          "chord": "C#",
+          "col": 24
+        },
+        {
+          "chord": "Cm",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir güzel simâdır aklımı alan",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 7
+        },
+        {
+          "chord": "G#",
+          "col": 14
+        },
+        {
+          "chord": "Fm",
+          "col": 22
+        },
+        {
+          "chord": "Cm",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Aşkın sevdasını canan sineme saran",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "G#",
+          "col": 11
+        },
+        {
+          "chord": "C#",
+          "col": 24
+        },
+        {
+          "chord": "Cm",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bizi kınamasın ehl-i din olan",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 9
+        },
+        {
+          "chord": "Fm",
+          "col": 17
+        },
+        {
+          "chord": "Cm",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gitti de gelmedi canan  buna ne çare",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "G#",
+          "col": 12
+        },
+        {
+          "chord": "C#",
+          "col": 25
+        },
+        {
+          "chord": "Cm",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yandı ciğerim de canan  buna ne çare",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "G#",
+          "col": 10
+        },
+        {
+          "chord": "C#",
+          "col": 25
+        },
+        {
+          "chord": "Cm",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "1",
+      "chords": [],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

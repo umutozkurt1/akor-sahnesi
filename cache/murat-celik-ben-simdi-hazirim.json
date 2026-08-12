@@ -1,0 +1,221 @@
+{
+  "slug": "murat-celik-ben-simdi-hazirim",
+  "artist": "Murat Çelik",
+  "title": "Ben Şimdi Hazırım",
+  "key": "F",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Karşılıklı duran iki aynanın ortasındayım",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "A#m",
+          "col": 11
+        },
+        {
+          "chord": "Fm",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kendimi kendimden ayırmışım",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "A#m",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sorularla geçen yolculuğumun son durağındayım",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "kendimi kendimde bekletmişim",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ben sana çok yalvarmışım         )",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "G#",
+          "col": 13
+        },
+        {
+          "chord": "Fm",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "karşılıklı durup ağlamışım       )",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 8
+        },
+        {
+          "chord": "Fm",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "zamanı geçmiş yaşlanmışım        )",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 13
+        },
+        {
+          "chord": "Fm",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "kendimi bir çocukta saklamışım   )",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 13
+        },
+        {
+          "chord": "Fm",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Penceremi açtım gecenin duasına",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "A#m",
+          "col": 15
+        },
+        {
+          "chord": "Fm",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "uzattım ellerimi cevabına",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "A#m",
+          "col": 15
+        },
+        {
+          "chord": "Fm",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "[A]",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ben şimdi hazırım karagözlü ceylanım",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 9
+        },
+        {
+          "chord": "G7",
+          "col": 19
+        },
+        {
+          "chord": "G#",
+          "col": 29
+        },
+        {
+          "chord": "Fm",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "acılar toprağına kendimi tohumladım",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 13
+        },
+        {
+          "chord": "Fm",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

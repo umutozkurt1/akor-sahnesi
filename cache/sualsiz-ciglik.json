@@ -1,0 +1,172 @@
+{
+  "slug": "sualsiz-ciglik",
+  "artist": "Sualsiz",
+  "title": "Çığlık",
+  "key": "G#",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Bir ses ver kulaklarım sağır",
+      "chords": [
+        {
+          "chord": "G#m",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Çığlıklar var tam içimden",
+      "chords": [
+        {
+          "chord": "Emaj7",
+          "col": 9
+        },
+        {
+          "chord": "B",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir duy bak bu kalbimi",
+      "chords": [
+        {
+          "chord": "G#m",
+          "col": 4
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Haykırışlar var tam içimden",
+      "chords": [
+        {
+          "chord": "Emaj7",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir görsen ne yangınlar",
+      "chords": [
+        {
+          "chord": "G#m",
+          "col": 6
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir bilsen ne acılar",
+      "chords": [
+        {
+          "chord": "Emaj7",
+          "col": 6
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ah bir duysan bu bende kim",
+      "chords": [
+        {
+          "chord": "G#m",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sarhoşluk bu acıdan",
+      "chords": [
+        {
+          "chord": "Emaj7",
+          "col": 1
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sen yoksun bütün güller sarardı",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "G#m",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sen yoksun ya...",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Üşüyorum sen yokken",
+      "chords": [
+        {
+          "chord": "Emaj7",
+          "col": 0
+        },
+        {
+          "chord": "G#m",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Düşüyorum sensizken",
+      "chords": [
+        {
+          "chord": "Emaj7",
+          "col": 0
+        },
+        {
+          "chord": "G#m",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ölüyorum sessizken",
+      "chords": [
+        {
+          "chord": "Emaj7",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

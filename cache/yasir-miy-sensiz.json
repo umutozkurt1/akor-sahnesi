@@ -1,0 +1,175 @@
+{
+  "slug": "yasir-miy-sensiz",
+  "artist": "Yasir Miy",
+  "title": "Sensiz",
+  "key": "F#",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Aslında hep gündüzün",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gecesi hep sensizim şimdi, şimdi",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 38
+        },
+        {
+          "chord": "Bm",
+          "col": 44
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sanılan artık sizin",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Baktığım son yüz senin değil mi, değil mi",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 31
+        },
+        {
+          "chord": "C#m",
+          "col": 38
+        },
+        {
+          "chord": "Bm",
+          "col": 48
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Özüm saklı bir hüzün derdime, çözüm yok niye",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 22
+        },
+        {
+          "chord": "C#m",
+          "col": 46
+        },
+        {
+          "chord": "Dmaj7",
+          "col": 62
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Nasıl yanmışım gözüm dalmıştı sızım çok diye",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 24
+        },
+        {
+          "chord": "C#m",
+          "col": 46
+        },
+        {
+          "chord": "Dmaj7",
+          "col": 61
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sonlardan gelir, yarınıma gider",
+      "chords": [
+        {
+          "chord": "Dmaj7",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Derde gider",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bu yol uzun değil",
+      "chords": [
+        {
+          "chord": "Dmaj7",
+          "col": 4
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Seveni az önemserse döner",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "C#m",
+          "col": 20
+        },
+        {
+          "chord": "Bm",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

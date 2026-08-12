@@ -1,0 +1,168 @@
+{
+  "slug": "sura-balam",
+  "artist": "Sura",
+  "title": "Balam",
+  "key": "A#",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Birgun yuva quracagam",
+      "chords": [
+        {
+          "chord": "A#m",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Birgun ana olacagam",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gulmesede sensiz uzum",
+      "chords": [
+        {
+          "chord": "F#",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Olacagdir oglum qizim",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 0
+        },
+        {
+          "chord": "F#",
+          "col": 18
+        },
+        {
+          "chord": "Fm",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bagrima basib balaami",
+      "chords": [
+        {
+          "chord": "A#m",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Doya doya qohlayacam",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Menen laylay isteseler bu mahnini oxuyacam",
+      "chords": [
+        {
+          "chord": "F#",
+          "col": 0
+        },
+        {
+          "chord": "G#",
+          "col": 49
+        },
+        {
+          "chord": "F#",
+          "col": 58
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Deyecemki qovusmaaa qoymadilar bizleri ayrilarken bulud kimi dolmus idi  gozleri",
+      "chords": [
+        {
+          "chord": "F#",
+          "col": 0
+        },
+        {
+          "chord": "F#",
+          "col": 62
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Deyecemki dogulsaydim",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bukulmezdi dizlerim",
+      "chords": [
+        {
+          "chord": "F#",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ayriliq bukdu bizi",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Aldi elimnen elini﻿",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 0
+        },
+        {
+          "chord": "F#",
+          "col": 8
+        },
+        {
+          "chord": "Fm",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

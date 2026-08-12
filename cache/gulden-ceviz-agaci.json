@@ -1,0 +1,189 @@
+{
+  "slug": "gulden-ceviz-agaci",
+  "artist": "Gülden",
+  "title": "Ceviz Ağacı",
+  "key": "F#",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Bir ceviz ağacının gölgesinde",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Uyumak gibiydi seni sevmek",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 7
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gölgen koyu, derdin koyu",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 5
+        },
+        {
+          "chord": "F#m",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İyileşmez kalp ömür boyu",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 5
+        },
+        {
+          "chord": "Bm",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Düşünmeden konuşmak",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "ve geri alamamak gibiyse kaybetmek",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Diller susar, sussun pişman",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 4
+        },
+        {
+          "chord": "F#m",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hep en kötüyü anıyor insan",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kim bilir hangi şehrin ışıkları altında",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 16
+        },
+        {
+          "chord": "Bm",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kanatlanıyor ruhun aşka kim bilir",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 3
+        },
+        {
+          "chord": "E",
+          "col": 22
+        },
+        {
+          "chord": "Bm",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Biri çıkar da merhem olur diyerek bu yaraya",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 9
+        },
+        {
+          "chord": "E",
+          "col": 25
+        },
+        {
+          "chord": "Bm",
+          "col": 46
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Nasıl yanılıyorsun kim bilir",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 4
+        },
+        {
+          "chord": "F#m",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

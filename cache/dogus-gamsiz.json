@@ -1,0 +1,188 @@
+{
+  "slug": "dogus-gamsiz",
+  "artist": "Doğuş",
+  "title": "Gamsız",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": " İlk defa inanır oldum aşka",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " O da bana darbesini vurdu",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 1
+        },
+        {
+          "chord": "Am",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Bak şimdi yarım kaldım yine",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 1
+        },
+        {
+          "chord": "Dm",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Bilemem belki de o böyle mutlu",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 9
+        },
+        {
+          "chord": "Am",
+          "col": 47
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Gamsız vicdansız ben sensiz ne yaparım",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 5
+        },
+        {
+          "chord": "G",
+          "col": 19
+        },
+        {
+          "chord": "F",
+          "col": 44
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Şimdi söyle beni acılarla başbaşa",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 8
+        },
+        {
+          "chord": "E",
+          "col": 11
+        },
+        {
+          "chord": "Am",
+          "col": 13
+        },
+        {
+          "chord": "F",
+          "col": 17
+        },
+        {
+          "chord": "G",
+          "col": 34
+        },
+        {
+          "chord": "Dm",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Bıraktın neden neden neden",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 1
+        },
+        {
+          "chord": "Am",
+          "col": 21
+        },
+        {
+          "chord": "Dm",
+          "col": 26
+        },
+        {
+          "chord": "Am",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Ben sana ne yapmıştım",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 11
+        },
+        {
+          "chord": "G",
+          "col": 15
+        },
+        {
+          "chord": "C",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Tek suçum seni çılgınca sevmekti",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 13
+        },
+        {
+          "chord": "Am",
+          "col": 19
+        },
+        {
+          "chord": "E",
+          "col": 29
+        },
+        {
+          "chord": "Am",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

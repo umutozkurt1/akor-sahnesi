@@ -1,0 +1,174 @@
+{
+  "slug": "sezen-aksu-bahane",
+  "artist": "Sezen Aksu",
+  "title": "Bahane",
+  "key": "F",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Bahaneydi bu rüzgar",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 1
+        },
+        {
+          "chord": "Bb",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Güneş, bal ve kehribar",
+      "chords": [
+        {
+          "chord": "Eb",
+          "col": 2
+        },
+        {
+          "chord": "Bb",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bahaneydi buzdan kanat",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 7
+        },
+        {
+          "chord": "Dm",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Erimezse kırılacak",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Bb",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bahaneydi buzdan kanat",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 4
+        },
+        {
+          "chord": "Dm",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Erimezse kırılacak",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Bb",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Canım dostum, sırdaşım",
+      "chords": [
+        {
+          "chord": "Bb",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 9
+        },
+        {
+          "chord": "Bb",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Aynaya baktım yüzünü unuttukça",
+      "chords": [
+        {
+          "chord": "Eb",
+          "col": 3
+        },
+        {
+          "chord": "Bb",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gelmiş bulundum",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 3
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kalmış bulundum",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 3
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bu dağ burada durdukça",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 3
+        },
+        {
+          "chord": "Bb",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

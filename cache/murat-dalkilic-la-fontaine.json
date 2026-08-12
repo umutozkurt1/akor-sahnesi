@@ -1,0 +1,175 @@
+{
+  "slug": "murat-dalkilic-la-fontaine",
+  "artist": "Murat Dalkılıç",
+  "title": "La Fontaine",
+  "key": "F",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Biliyorum yandı gemiler",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Beni gören seni bana diler",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 3
+        },
+        {
+          "chord": "Cm",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Belki de kapına dayandı çoktan yeniler",
+      "chords": [
+        {
+          "chord": "C#",
+          "col": 0
+        },
+        {
+          "chord": "A#m",
+          "col": 26
+        },
+        {
+          "chord": "Cm",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir rüzgar esince saçların",
+      "chords": [
+        {
+          "chord": "C#",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dalga dalga dalgalanır ya",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Görülenden derin yamaçların Sonra sonra algılanır",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "yaaaaaaaaaaa....",
+      "chords": [
+        {
+          "chord": "C#",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 4
+        },
+        {
+          "chord": "Fm",
+          "col": 7
+        },
+        {
+          "chord": "D#",
+          "col": 10
+        },
+        {
+          "chord": "Fm",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Nak.:",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ne kadar güzel büyülü bir kokun var",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sen görmeden bir yel eser senden",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Nasıl bir ses tonun var",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ne söylesen masal gelir La Fontaine den",
+      "chords": [
+        {
+          "chord": "C#",
+          "col": 16
+        },
+        {
+          "chord": "Cm",
+          "col": 26
+        },
+        {
+          "chord": "C#",
+          "col": 31
+        },
+        {
+          "chord": "Cm",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

@@ -1,0 +1,901 @@
+{
+  "slug": "avicii-wake-me-up",
+  "artist": "Avicii",
+  "title": "Wake Me Up",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "G#",
+          "col": 4
+        },
+        {
+          "chord": "D#",
+          "col": 8
+        },
+        {
+          "chord": "A#",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "G#",
+          "col": 4
+        },
+        {
+          "chord": "D#",
+          "col": 8
+        },
+        {
+          "chord": "A#",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Feeling my way through the darkness",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "G#",
+          "col": 16
+        },
+        {
+          "chord": "D#",
+          "col": 42
+        },
+        {
+          "chord": "D#",
+          "col": 52
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Guided by a beating heart",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "G#",
+          "col": 9
+        },
+        {
+          "chord": "D#",
+          "col": 29
+        },
+        {
+          "chord": "D#",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I  can’t  tell where the journey will end",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "G#",
+          "col": 9
+        },
+        {
+          "chord": "D#",
+          "col": 32
+        },
+        {
+          "chord": "D#",
+          "col": 44
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But I know where it starts",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "G#",
+          "col": 6
+        },
+        {
+          "chord": "D#",
+          "col": 26
+        },
+        {
+          "chord": "D#",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "They tell me I’m too young to understand",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "G#",
+          "col": 18
+        },
+        {
+          "chord": "D#",
+          "col": 45
+        },
+        {
+          "chord": "D#",
+          "col": 59
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "They say I’m caught up in a dream",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "G#",
+          "col": 19
+        },
+        {
+          "chord": "D#",
+          "col": 42
+        },
+        {
+          "chord": "D#",
+          "col": 52
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Well life will pass me by if I don’t open up my eyes",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "G#",
+          "col": 18
+        },
+        {
+          "chord": "D#",
+          "col": 41
+        },
+        {
+          "chord": "D#",
+          "col": 57
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Well that’s fine by me",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "G#",
+          "col": 16
+        },
+        {
+          "chord": "D#",
+          "col": 26
+        },
+        {
+          "chord": "D#",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "So wake me up when it’s all over",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 22
+        },
+        {
+          "chord": "G#",
+          "col": 34
+        },
+        {
+          "chord": "D#",
+          "col": 43
+        },
+        {
+          "chord": "A#",
+          "col": 46
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "When I’m wiser and I’m older",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 17
+        },
+        {
+          "chord": "G#",
+          "col": 24
+        },
+        {
+          "chord": "D#",
+          "col": 35
+        },
+        {
+          "chord": "A#",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "All this time I was finding myself",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 13
+        },
+        {
+          "chord": "G#",
+          "col": 28
+        },
+        {
+          "chord": "D#",
+          "col": 39
+        },
+        {
+          "chord": "A#",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And I didn’t know I was lost",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 10
+        },
+        {
+          "chord": "G#",
+          "col": 17
+        },
+        {
+          "chord": "D#",
+          "col": 35
+        },
+        {
+          "chord": "A#",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "So wake me up when it’s all over",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 22
+        },
+        {
+          "chord": "G#",
+          "col": 34
+        },
+        {
+          "chord": "D#",
+          "col": 43
+        },
+        {
+          "chord": "A#",
+          "col": 46
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "When I’m wiser and I’m older",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 17
+        },
+        {
+          "chord": "G#",
+          "col": 24
+        },
+        {
+          "chord": "D#",
+          "col": 35
+        },
+        {
+          "chord": "A#",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "All this time I was finding myself",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 13
+        },
+        {
+          "chord": "G#",
+          "col": 28
+        },
+        {
+          "chord": "D#",
+          "col": 38
+        },
+        {
+          "chord": "A#",
+          "col": 41
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And I didn’t know I was lost",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 10
+        },
+        {
+          "chord": "G#",
+          "col": 18
+        },
+        {
+          "chord": "D#",
+          "col": 35
+        },
+        {
+          "chord": "A#",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I tried carrying the weight of the world",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "G#",
+          "col": 14
+        },
+        {
+          "chord": "D#",
+          "col": 34
+        },
+        {
+          "chord": "D#",
+          "col": 43
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But I  only have two hands",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "G#",
+          "col": 7
+        },
+        {
+          "chord": "D#",
+          "col": 28
+        },
+        {
+          "chord": "D#",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hope I get the chance to travel the world",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "G#",
+          "col": 9
+        },
+        {
+          "chord": "D#",
+          "col": 33
+        },
+        {
+          "chord": "D#",
+          "col": 47
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And I don’t have any plans",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "G#",
+          "col": 8
+        },
+        {
+          "chord": "D#",
+          "col": 26
+        },
+        {
+          "chord": "D#",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Wish that I could stay forever this young",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "G#",
+          "col": 9
+        },
+        {
+          "chord": "D#",
+          "col": 32
+        },
+        {
+          "chord": "D#",
+          "col": 45
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Not afraid to close my eyes",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "G#",
+          "col": 9
+        },
+        {
+          "chord": "D#",
+          "col": 27
+        },
+        {
+          "chord": "D#",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Life’s  a game made for everyone",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "G#",
+          "col": 8
+        },
+        {
+          "chord": "D#",
+          "col": 35
+        },
+        {
+          "chord": "D#",
+          "col": 45
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And love is a prize",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "G#",
+          "col": 8
+        },
+        {
+          "chord": "D#",
+          "col": 26
+        },
+        {
+          "chord": "D#",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "So wake me up when it’s all over",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 22
+        },
+        {
+          "chord": "G#",
+          "col": 34
+        },
+        {
+          "chord": "D#",
+          "col": 43
+        },
+        {
+          "chord": "A#",
+          "col": 46
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "When I’m wiser and I’m older",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 17
+        },
+        {
+          "chord": "G#",
+          "col": 24
+        },
+        {
+          "chord": "D#",
+          "col": 35
+        },
+        {
+          "chord": "A#",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "All this time I was finding myself",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 13
+        },
+        {
+          "chord": "G#",
+          "col": 28
+        },
+        {
+          "chord": "D#",
+          "col": 39
+        },
+        {
+          "chord": "A#",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And I didn’t know I was lost",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 10
+        },
+        {
+          "chord": "G#",
+          "col": 17
+        },
+        {
+          "chord": "D#",
+          "col": 35
+        },
+        {
+          "chord": "A#",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "So wake me up when it’s all over",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 22
+        },
+        {
+          "chord": "G#",
+          "col": 34
+        },
+        {
+          "chord": "D#",
+          "col": 43
+        },
+        {
+          "chord": "A#",
+          "col": 46
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "When I’m wiser and I’m older",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 17
+        },
+        {
+          "chord": "G#",
+          "col": 24
+        },
+        {
+          "chord": "D#",
+          "col": 35
+        },
+        {
+          "chord": "A#",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "All this time I was finding myself",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 13
+        },
+        {
+          "chord": "G#",
+          "col": 28
+        },
+        {
+          "chord": "D#",
+          "col": 38
+        },
+        {
+          "chord": "A#",
+          "col": 41
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And I",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I didn’t know I was lost",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 3
+        },
+        {
+          "chord": "G#",
+          "col": 20
+        },
+        {
+          "chord": "D#",
+          "col": 28
+        },
+        {
+          "chord": "A#",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I didn’t know I was lost",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 3
+        },
+        {
+          "chord": "G#",
+          "col": 20
+        },
+        {
+          "chord": "D#",
+          "col": 28
+        },
+        {
+          "chord": "A#",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I didn’t know I was lost",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 3
+        },
+        {
+          "chord": "G#",
+          "col": 20
+        },
+        {
+          "chord": "D#",
+          "col": 28
+        },
+        {
+          "chord": "A#",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I didn’t know I was lost",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 3
+        },
+        {
+          "chord": "G#",
+          "col": 20
+        },
+        {
+          "chord": "D#",
+          "col": 28
+        },
+        {
+          "chord": "A#",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I didn’t know I    ( didn’t know I,     didn’t know I)",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 3
+        },
+        {
+          "chord": "G#",
+          "col": 21
+        },
+        {
+          "chord": "Cm",
+          "col": 24
+        },
+        {
+          "chord": "G#",
+          "col": 43
+        },
+        {
+          "chord": "Cm",
+          "col": 46
+        },
+        {
+          "chord": "G#",
+          "col": 59
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

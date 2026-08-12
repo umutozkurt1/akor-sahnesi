@@ -1,0 +1,216 @@
+{
+  "slug": "yonca-lodi-ruhuma-ask-dolunca",
+  "artist": "Yonca Lodi",
+  "title": "Ruhuma Aşk Dolunca",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Gözlerimi kaparım, vazifeler başımda bekleşir",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 10
+        },
+        {
+          "chord": "Ab",
+          "col": 19
+        },
+        {
+          "chord": "G",
+          "col": 31
+        },
+        {
+          "chord": "Cm",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Geçerim duvarlardan, hayallerime sabır eklenir",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 10
+        },
+        {
+          "chord": "Ab",
+          "col": 21
+        },
+        {
+          "chord": "G",
+          "col": 33
+        },
+        {
+          "chord": "Cm",
+          "col": 43
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Güneş uzak, mavi ışıl ışıl deniz",
+      "chords": [
+        {
+          "chord": "C#",
+          "col": 2
+        },
+        {
+          "chord": "D#",
+          "col": 7
+        },
+        {
+          "chord": "Fm",
+          "col": 15
+        },
+        {
+          "chord": "C#",
+          "col": 18
+        },
+        {
+          "chord": "Cm",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sorular yalnız,",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gün yüzü görmeyen gözlerde ayrılık var",
+      "chords": [
+        {
+          "chord": "Ab",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 12
+        },
+        {
+          "chord": "C#",
+          "col": 25
+        },
+        {
+          "chord": "D#",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Derinlerde bir yerde kaybolmak var",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 11
+        },
+        {
+          "chord": "C#",
+          "col": 22
+        },
+        {
+          "chord": "Cm",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ruhuma aşk dolunca aşka vakit bulunca",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "C#",
+          "col": 10
+        },
+        {
+          "chord": "Fm",
+          "col": 16
+        },
+        {
+          "chord": "C#",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yaşananlar sır olunca insana ölüm var",
+      "chords": [
+        {
+          "chord": "C#",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 11
+        },
+        {
+          "chord": "C#",
+          "col": 22
+        },
+        {
+          "chord": "D#",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İnsana zulüm var",
+      "chords": [
+        {
+          "chord": "C#",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 7
+        },
+        {
+          "chord": "Cm",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

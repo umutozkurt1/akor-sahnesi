@@ -1,0 +1,148 @@
+{
+  "slug": "mavera-camdan-deniz",
+  "artist": "Mavera",
+  "title": "Camdan Deniz",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Hiç düşmek sorulur mu?",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 6
+        },
+        {
+          "chord": "A#",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İsteyip atlayandan",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 4
+        },
+        {
+          "chord": "A#",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Şimdi anlıyor",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 5
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Amanın ruhu",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 3
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Düştüğü deniz camdan",
+      "chords": [
+        {
+          "chord": "Eb",
+          "col": 5
+        },
+        {
+          "chord": "Cm",
+          "col": 9
+        },
+        {
+          "chord": "D",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sen çaldın...sen!",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bugünü ta dünden",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 4
+        },
+        {
+          "chord": "A#",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yarını bugünden bilip",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 4
+        },
+        {
+          "chord": "D",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Alıp sakladın benden",
+      "chords": [
+        {
+          "chord": "Eb",
+          "col": 5
+        },
+        {
+          "chord": "Cm",
+          "col": 9
+        },
+        {
+          "chord": "D",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

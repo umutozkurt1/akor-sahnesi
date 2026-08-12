@@ -1,0 +1,222 @@
+{
+  "slug": "evdeki-saat-uzunlar",
+  "artist": "Evdeki Saat",
+  "title": "Uzunlar",
+  "key": "C",
+  "capo": 0,
+  "rhythm": "A-Y-Y-A-Y-Y-A-Y",
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "İntro x 4",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Cm7",
+          "col": 0
+        },
+        {
+          "chord": "Gm7",
+          "col": 5
+        },
+        {
+          "chord": "Dm7",
+          "col": 10
+        },
+        {
+          "chord": "Gm7",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ben köşeliydim hayat dedi düz olana yanaşırım",
+      "chords": [
+        {
+          "chord": "Cm7",
+          "col": 0
+        },
+        {
+          "chord": "Gm7",
+          "col": 57
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Neydi bu,         neydi bu",
+      "chords": [
+        {
+          "chord": "Dm7",
+          "col": 14
+        },
+        {
+          "chord": "Gm7",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Tamam dedim al ama ver bana mutluluğu barışalım",
+      "chords": [
+        {
+          "chord": "Cm7",
+          "col": 0
+        },
+        {
+          "chord": "Gm7",
+          "col": 72
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Oldu mu,         oldu mu",
+      "chords": [
+        {
+          "chord": "Dm7",
+          "col": 13
+        },
+        {
+          "chord": "Gm7",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Uykusunda her biri, yorma sakın kendini",
+      "chords": [
+        {
+          "chord": "Cm7",
+          "col": 0
+        },
+        {
+          "chord": "Gm7",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Anlatıp derdimizi onlara",
+      "chords": [
+        {
+          "chord": "Dm7",
+          "col": 0
+        },
+        {
+          "chord": "Gm7",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sen ben birkaç kişi, bırakmışız bütün işi",
+      "chords": [
+        {
+          "chord": "Cm7",
+          "col": 0
+        },
+        {
+          "chord": "Gm7",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Vurmuşuz kendimizi yollara",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "Gm7",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Uzunlar yanıyor arabamızda",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bu ışık hepimize fazla geceyi böler",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 31
+        },
+        {
+          "chord": "Gm",
+          "col": 52
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bilmem ne olabilir aramızda",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bu ışık ikimize fazla arayı bozar",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 28
+        },
+        {
+          "chord": "Gm",
+          "col": 46
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

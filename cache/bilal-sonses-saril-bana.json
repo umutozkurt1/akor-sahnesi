@@ -1,0 +1,151 @@
+{
+  "slug": "bilal-sonses-saril-bana",
+  "artist": "Bilal Sonses",
+  "title": "Sarıl Bana",
+  "key": "F#",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Kalbim kırık, yüreğim can çekişir",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 13
+        },
+        {
+          "chord": "Em",
+          "col": 24
+        },
+        {
+          "chord": "F#m",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Olmadığın geceler, hayalinle geçişir",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 24
+        },
+        {
+          "chord": "A",
+          "col": 36
+        },
+        {
+          "chord": "F#m",
+          "col": 46
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kimse bilmesin gülüşünü, kimse görmesin",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 21
+        },
+        {
+          "chord": "A",
+          "col": 43
+        },
+        {
+          "chord": "F#m",
+          "col": 59
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hiç mi hatrım yok, bu can gitme ölmesin",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 25
+        },
+        {
+          "chord": "A",
+          "col": 45
+        },
+        {
+          "chord": "F#m",
+          "col": 59
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sımsıkı sarıl bana, hiç bırakma yar",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 19
+        },
+        {
+          "chord": "Bm",
+          "col": 29
+        },
+        {
+          "chord": "A",
+          "col": 43
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sevmesen de yalan söyle, seviyorum de bana",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 24
+        },
+        {
+          "chord": "G",
+          "col": 47
+        },
+        {
+          "chord": "F#m",
+          "col": 66
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

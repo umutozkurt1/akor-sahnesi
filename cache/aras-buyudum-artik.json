@@ -1,0 +1,182 @@
+{
+  "slug": "aras-buyudum-artik",
+  "artist": "Aras",
+  "title": "Büyüdüm Artık",
+  "key": "Bb",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Bbm",
+          "col": 0
+        },
+        {
+          "chord": "Ebm",
+          "col": 4
+        },
+        {
+          "chord": "Ab",
+          "col": 8
+        },
+        {
+          "chord": "Db",
+          "col": 11
+        },
+        {
+          "chord": "Gb",
+          "col": 14
+        },
+        {
+          "chord": "Ebm",
+          "col": 17
+        },
+        {
+          "chord": "F",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "ben beni sevemez miyim",
+      "chords": [
+        {
+          "chord": "Bbm",
+          "col": 0
+        },
+        {
+          "chord": "Ebm",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "ben bana yetemez miyim",
+      "chords": [
+        {
+          "chord": "Ab",
+          "col": 0
+        },
+        {
+          "chord": "Db",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "hiç kimsem olmadan bir bütün olamaz mıyım",
+      "chords": [
+        {
+          "chord": "Gb",
+          "col": 2
+        },
+        {
+          "chord": "Ebm",
+          "col": 53
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "büyüdüm artık gidemez miyim",
+      "chords": [
+        {
+          "chord": "Gb",
+          "col": 10
+        },
+        {
+          "chord": "F",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "insanlardan uzak",
+      "chords": [
+        {
+          "chord": "Ebm",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "kendime yakın",
+      "chords": [
+        {
+          "chord": "Bbm",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "küçük bile olsada",
+      "chords": [
+        {
+          "chord": "Ebm",
+          "col": 4
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "bir yer bulamaz mıyım",
+      "chords": [
+        {
+          "chord": "Bbm",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "doğru sandıklarımla yanlış yapamaz mıyım",
+      "chords": [
+        {
+          "chord": "Gb",
+          "col": 19
+        },
+        {
+          "chord": "F",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "kendi karanlığımda parlayamaz mıyım",
+      "chords": [
+        {
+          "chord": "Gb",
+          "col": 5
+        },
+        {
+          "chord": "F",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

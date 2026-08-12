@@ -1,0 +1,418 @@
+{
+  "slug": "badem-sonsuz-ask",
+  "artist": "Badem",
+  "title": "Sonsuz Aşk",
+  "key": "G",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Eksik bir şeyler var, maziyle yaşanmıyor",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 24
+        },
+        {
+          "chord": "F",
+          "col": 30
+        },
+        {
+          "chord": "Am",
+          "col": 55
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Resmini her gördüğümde, ellerim titriyor",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 32
+        },
+        {
+          "chord": "Em",
+          "col": 42
+        },
+        {
+          "chord": "Am",
+          "col": 56
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Uzaklarda bir yerlerde, lacivert gökyüzünde",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 30
+        },
+        {
+          "chord": "F",
+          "col": 37
+        },
+        {
+          "chord": "Am",
+          "col": 62
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Varlığın tam tam içimde, ismini yazdım gönlüme",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 32
+        },
+        {
+          "chord": "Em",
+          "col": 41
+        },
+        {
+          "chord": "Am",
+          "col": 64
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bu aşk sonsuz aşk, bu aşk onsuz aşk",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 8
+        },
+        {
+          "chord": "Am",
+          "col": 26
+        },
+        {
+          "chord": "G",
+          "col": 37
+        },
+        {
+          "chord": "F",
+          "col": 53
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kalbime gömdüm diye",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 6
+        },
+        {
+          "chord": "Dm",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gözyaşım aksın hep içime içime",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 10
+        },
+        {
+          "chord": "F",
+          "col": 38
+        },
+        {
+          "chord": "C",
+          "col": 44
+        },
+        {
+          "chord": "Am",
+          "col": 47
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bitmez mi bu acı, dinmez mi gözyaşı",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 24
+        },
+        {
+          "chord": "F",
+          "col": 30
+        },
+        {
+          "chord": "Am",
+          "col": 48
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sonsuzluğun sancısı, saplanır göğsüme anıları",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 26
+        },
+        {
+          "chord": "Em",
+          "col": 36
+        },
+        {
+          "chord": "F",
+          "col": 61
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bu aşk sonsuz aşk, bu aşk onsuz aşk",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 8
+        },
+        {
+          "chord": "Am",
+          "col": 26
+        },
+        {
+          "chord": "G",
+          "col": 37
+        },
+        {
+          "chord": "F",
+          "col": 53
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kalbinde artık evim",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 6
+        },
+        {
+          "chord": "Dm",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Üşümez narin elleri, gözleri",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 10
+        },
+        {
+          "chord": "F",
+          "col": 28
+        },
+        {
+          "chord": "C",
+          "col": 35
+        },
+        {
+          "chord": "Am",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bu aşk sonsuz aşk, bu aşk onsuz aşk",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 8
+        },
+        {
+          "chord": "Am",
+          "col": 26
+        },
+        {
+          "chord": "G",
+          "col": 37
+        },
+        {
+          "chord": "F",
+          "col": 53
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kalbime gömdüm diye",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 6
+        },
+        {
+          "chord": "Dm",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gözyaşım aksın hep içime içime",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 10
+        },
+        {
+          "chord": "F",
+          "col": 38
+        },
+        {
+          "chord": "C",
+          "col": 44
+        },
+        {
+          "chord": "Am",
+          "col": 47
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bu aşk sonsuz aşk, bu aşk onsuz aşk",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 8
+        },
+        {
+          "chord": "Am",
+          "col": 26
+        },
+        {
+          "chord": "G",
+          "col": 37
+        },
+        {
+          "chord": "F",
+          "col": 53
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Varsın unutsun eller seni",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 6
+        },
+        {
+          "chord": "Dm",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Versin karatoprak beni sana verir",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 9
+        },
+        {
+          "chord": "F",
+          "col": 29
+        },
+        {
+          "chord": "C",
+          "col": 40
+        },
+        {
+          "chord": "Am",
+          "col": 43
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Birgün gelecek, sonsuzluk bitecek",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 15
+        },
+        {
+          "chord": "F",
+          "col": 24
+        },
+        {
+          "chord": "Am",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

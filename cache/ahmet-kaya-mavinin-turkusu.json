@@ -1,0 +1,154 @@
+{
+  "slug": "ahmet-kaya-mavinin-turkusu",
+  "artist": "Ahmet Kaya",
+  "title": "Mavinin Türküsü",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Şu dağdaki gezene bak",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gözlerinin rengine bak",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Mavi gözler kan kan olmuş",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Şu feleğin işine bak",
+      "chords": [
+        {
+          "chord": "F#",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 11
+        },
+        {
+          "chord": "Cm",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Şu dağdaki gezene bak",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gözlerinin rengine bak",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Seni vuran beni de vursun",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Şu feleğin işine bak",
+      "chords": [
+        {
+          "chord": "F#",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 11
+        },
+        {
+          "chord": "Cm",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dağlarda talan olur mu",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dosta hiç yalan",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ölürsem duyan olur mu",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Şu feleğin işine bak",
+      "chords": [
+        {
+          "chord": "F#",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 11
+        },
+        {
+          "chord": "Cm",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

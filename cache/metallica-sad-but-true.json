@@ -1,0 +1,654 @@
+{
+  "slug": "metallica-sad-but-true",
+  "artist": "Metallica",
+  "title": "Sad But True",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Hey ( hey )",
+      "chords": [
+        {
+          "chord": "D5",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'm your life",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'm the one who takes you there",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hey ( hey )",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'm your life",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'm the one who cares",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "They ( they )",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "They betray",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'm your only true friend now",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "They ( they )",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "They'll betray",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'm forever there",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  I'm your dream, make you real",
+      "chords": [
+        {
+          "chord": "D5",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'm your eyes when you must steal",
+      "chords": [
+        {
+          "chord": "G5",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'm your pain when you can't feel",
+      "chords": [
+        {
+          "chord": "F5",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sad but true",
+      "chords": [
+        {
+          "chord": "D5",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'm your dream, mind astray",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'm your eyes while you're away",
+      "chords": [
+        {
+          "chord": "G5",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'm your pain while you repay",
+      "chords": [
+        {
+          "chord": "F5",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You know it's sad but true",
+      "chords": [
+        {
+          "chord": "D5",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sad but true",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You ( you )",
+      "chords": [
+        {
+          "chord": "D5",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You're my mask",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You're my cover, my shelter",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You ( you )",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You're my mask",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You're the one who's blamed",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Do ( do )",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Do my work",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Do my dirty work, scapegoat",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Do ( do )",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Do my deeds",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "For you're the one who's shamed",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  I'm your dream, make you real",
+      "chords": [
+        {
+          "chord": "D5",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'm your eyes when you must steal",
+      "chords": [
+        {
+          "chord": "G5",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'm your pain when you can't feel",
+      "chords": [
+        {
+          "chord": "F5",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sad but true",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  I'm your dream, mind astray",
+      "chords": [
+        {
+          "chord": "D5",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'm your eyes while you're away",
+      "chords": [
+        {
+          "chord": "G5",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'm your pain while you repay",
+      "chords": [
+        {
+          "chord": "F5",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You know it's sad but true",
+      "chords": [
+        {
+          "chord": "D5",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sad but true",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "G5",
+          "col": 0
+        },
+        {
+          "chord": "Ab5",
+          "col": 3
+        },
+        {
+          "chord": "G5",
+          "col": 7
+        },
+        {
+          "chord": "Ab5",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "G5",
+          "col": 0
+        },
+        {
+          "chord": "Ab5",
+          "col": 3
+        },
+        {
+          "chord": "G5",
+          "col": 7
+        },
+        {
+          "chord": "Ab5",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "D5",
+          "col": 0
+        },
+        {
+          "chord": "G5",
+          "col": 3
+        },
+        {
+          "chord": "Ab5",
+          "col": 6
+        },
+        {
+          "chord": "G5",
+          "col": 10
+        },
+        {
+          "chord": "Ab5",
+          "col": 13
+        },
+        {
+          "chord": "G5",
+          "col": 17
+        },
+        {
+          "chord": "Ab5",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "G5",
+          "col": 0
+        },
+        {
+          "chord": "Ab5",
+          "col": 3
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  I'm your dream",
+      "chords": [
+        {
+          "chord": "D5",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'm your eyes",
+      "chords": [
+        {
+          "chord": "G5",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'm your pain",
+      "chords": [
+        {
+          "chord": "F5",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'm your dream",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'm your eyes",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'm your pain",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You know it's sad but true",
+      "chords": [
+        {
+          "chord": "D5",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hate ( hate )",
+      "chords": [
+        {
+          "chord": "D5",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'm your hate",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'm your hate when you want love",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Pay ( pay )",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Pay the price",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Pay, for nothing's fair",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hey ( hey )",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'm your life",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'm the one who took you there",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hey ( hey )",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'm your life",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And I no longer care",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  I'm your dream, make you real",
+      "chords": [
+        {
+          "chord": "D5",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'm your eyes when you must steal",
+      "chords": [
+        {
+          "chord": "G5",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'm your pain when you can't feel",
+      "chords": [
+        {
+          "chord": "F5",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sad but true",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'm your truth, telling lies",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'm your reason, alibis",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'm inside, open your eyes",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'm you",
+      "chords": [
+        {
+          "chord": "D5",
+          "col": 7
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sad but true",
+      "chords": [],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

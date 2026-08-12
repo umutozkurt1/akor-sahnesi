@@ -1,0 +1,131 @@
+{
+  "slug": "tarik-cok-kucuksun",
+  "artist": "Tarık",
+  "title": "Çok Küçüksün",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Bembeyaz tenine düşen gölge bir ben olayım",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Uyanınca seni saran,sana bakan bir ben olayım",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gözlerin yakar beni,esir alır ben kaçamam",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 15
+        },
+        {
+          "chord": "Bm",
+          "col": 27
+        },
+        {
+          "chord": "A",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sözlerin ok gibidir,canım yanar dayanamam",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 14
+        },
+        {
+          "chord": "Em",
+          "col": 28
+        },
+        {
+          "chord": "F#m",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ayrılırsam dayanamam,birkez olsun aldatamam",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 13
+        },
+        {
+          "chord": "A",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Çok küçüksün biraz büyü sana aşkı anlatamam",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 13
+        },
+        {
+          "chord": "Em",
+          "col": 24
+        },
+        {
+          "chord": "F#m",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

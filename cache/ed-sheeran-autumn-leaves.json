@@ -1,0 +1,779 @@
+{
+  "slug": "ed-sheeran-autumn-leaves",
+  "artist": "Ed Sheeran",
+  "title": "Autumn Leaves",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Em7",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 8
+        },
+        {
+          "chord": "Cadd9",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Another day, another life",
+      "chords": [
+        {
+          "chord": "Cm7",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Passes by just like mine",
+      "chords": [
+        {
+          "chord": "G#add9",
+          "col": 7
+        },
+        {
+          "chord": "Cm7",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "It's not complicated",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 21
+        },
+        {
+          "chord": "G#add9",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Another mind, another soul",
+      "chords": [
+        {
+          "chord": "Cm7",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Another body to grow old",
+      "chords": [
+        {
+          "chord": "G#add9",
+          "col": 8
+        },
+        {
+          "chord": "Cm7",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "It's not complicated",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 21
+        },
+        {
+          "chord": "G#add9",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Do you ever wonder if the stars shine out for you?",
+      "chords": [
+        {
+          "chord": "G#add9",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "D#    D#D",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Float down",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Like autumn leaves",
+      "chords": [
+        {
+          "chord": "Cm7",
+          "col": 0
+        },
+        {
+          "chord": "G#add9",
+          "col": 5
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "D#   D#D",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hush now",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Close your eyes before the sleep",
+      "chords": [
+        {
+          "chord": "Cm7",
+          "col": 0
+        },
+        {
+          "chord": "G#add9",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And your miles away, And yesterday",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 0
+        },
+        {
+          "chord": "Cm7",
+          "col": 21
+        },
+        {
+          "chord": "G#add9",
+          "col": 25
+        },
+        {
+          "chord": "D#",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You were here with me",
+      "chords": [
+        {
+          "chord": "Cm7",
+          "col": 9
+        },
+        {
+          "chord": "G#add9",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Em7",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 8
+        },
+        {
+          "chord": "Cadd9",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Another tear, Another cry",
+      "chords": [
+        {
+          "chord": "Cm7",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Another place for us to die",
+      "chords": [
+        {
+          "chord": "G#add9",
+          "col": 8
+        },
+        {
+          "chord": "Cm7",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "It's not complicated",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 21
+        },
+        {
+          "chord": "G#add9",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Another life that's gone to waste",
+      "chords": [
+        {
+          "chord": "Cm7",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Another light lost from your face",
+      "chords": [
+        {
+          "chord": "G#add9",
+          "col": 8
+        },
+        {
+          "chord": "Cm7",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "It's complicated",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 16
+        },
+        {
+          "chord": "G#add9",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Is it only wonder or do birds still sing for you?",
+      "chords": [
+        {
+          "chord": "G#add9",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "D#    D#D",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Float down",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Like autumn leaves",
+      "chords": [
+        {
+          "chord": "Cm7",
+          "col": 0
+        },
+        {
+          "chord": "G#add9",
+          "col": 5
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "D#   D#D",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hush now",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Close your eyes before the sleep",
+      "chords": [
+        {
+          "chord": "Cm7",
+          "col": 0
+        },
+        {
+          "chord": "G#add9",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And your miles away, And yesterday",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 0
+        },
+        {
+          "chord": "Cm7",
+          "col": 21
+        },
+        {
+          "chord": "G#add9",
+          "col": 25
+        },
+        {
+          "chord": "D#",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You were here with me",
+      "chords": [
+        {
+          "chord": "Cm7",
+          "col": 9
+        },
+        {
+          "chord": "G#add9",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ooh how I miss you",
+      "chords": [
+        {
+          "chord": "Aadd9",
+          "col": 0
+        },
+        {
+          "chord": "G#add9",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "My symphony places the song that carries you out",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 3
+        },
+        {
+          "chord": "A#",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ooh how I miss you",
+      "chords": [
+        {
+          "chord": "Aadd9",
+          "col": 0
+        },
+        {
+          "chord": "G#add9",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I miss you and I wish you'd stay",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 3
+        },
+        {
+          "chord": "A#",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Is it any wonder that the stars shine out for you?",
+      "chords": [
+        {
+          "chord": "G#add9",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "D#    D#D",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Float down",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Like autumn leaves",
+      "chords": [
+        {
+          "chord": "Cm7",
+          "col": 0
+        },
+        {
+          "chord": "G#add9",
+          "col": 5
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "D#   D#D",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hush now",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Close your eyes before the sleep",
+      "chords": [
+        {
+          "chord": "Cm7",
+          "col": 0
+        },
+        {
+          "chord": "G#add9",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And your miles away, And yesterday",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 0
+        },
+        {
+          "chord": "Cm7",
+          "col": 21
+        },
+        {
+          "chord": "G#add9",
+          "col": 25
+        },
+        {
+          "chord": "D#",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You were here with me",
+      "chords": [
+        {
+          "chord": "Cm7",
+          "col": 9
+        },
+        {
+          "chord": "G#add9",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "D#    D#D",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Float down",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Like autumn leaves",
+      "chords": [
+        {
+          "chord": "Cm7",
+          "col": 0
+        },
+        {
+          "chord": "G#add9",
+          "col": 5
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "D#   D#D",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hush now",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Close your eyes before the sleep",
+      "chords": [
+        {
+          "chord": "Cm7",
+          "col": 0
+        },
+        {
+          "chord": "G#add9",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And your miles away, And yesterday",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 0
+        },
+        {
+          "chord": "Cm7",
+          "col": 21
+        },
+        {
+          "chord": "G#add9",
+          "col": 25
+        },
+        {
+          "chord": "D#",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You were here with me",
+      "chords": [
+        {
+          "chord": "Cm7",
+          "col": 9
+        },
+        {
+          "chord": "G#add9",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ooh oh, ooh oh",
+      "chords": [
+        {
+          "chord": "Cm7",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ooh oh, ooh oh",
+      "chords": [
+        {
+          "chord": "Cm7",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Touch down",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 0
+        },
+        {
+          "chord": "Cm7",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Like a seven four seven",
+      "chords": [
+        {
+          "chord": "G#add9",
+          "col": 7
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Stay out and we'll live forever now",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 0
+        },
+        {
+          "chord": "Cm7",
+          "col": 10
+        },
+        {
+          "chord": "G#add9",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

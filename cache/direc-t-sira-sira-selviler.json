@@ -1,0 +1,175 @@
+{
+  "slug": "direc-t-sira-sira-selviler",
+  "artist": "Direc",
+  "title": "T - Sıra Sıra Selviler",
+  "key": "D",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "İntro:",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "----------------------------------------------------------",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "---------------0---------------0---------------------------",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "-----------3----------------2-----------------------------",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "--------4---------------3----------------------------------",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "------------------------------------------------------------",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "-----------------------------------------------------------",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "A5",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sıra sıra selviler",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Aşık olan iniler",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Aldı gitti yarimi",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Denizdeki gemiler",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ah sana hiç kıyamam",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "G7         g",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ah seviyom seni candan",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bakışları pek yaman",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Benim sarı kanaryam",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

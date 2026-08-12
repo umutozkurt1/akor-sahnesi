@@ -1,0 +1,239 @@
+{
+  "slug": "harun-kolcak-aglat-beni",
+  "artist": "Harun Kolçak",
+  "title": "Ağlat Beni",
+  "key": "D#",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Sanma ki ben bilmiyorum",
+      "chords": [
+        {
+          "chord": "D#m",
+          "col": 0
+        },
+        {
+          "chord": "F#",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Oyunun kurallarını",
+      "chords": [
+        {
+          "chord": "D#m",
+          "col": 0
+        },
+        {
+          "chord": "F#",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ama tercih etmiyorum",
+      "chords": [
+        {
+          "chord": "D#m",
+          "col": 4
+        },
+        {
+          "chord": "F#",
+          "col": 8
+        },
+        {
+          "chord": "C#",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Denedim hiç tat almadım",
+      "chords": [
+        {
+          "chord": "D#m",
+          "col": 8
+        },
+        {
+          "chord": "F#",
+          "col": 13
+        },
+        {
+          "chord": "C#",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Olana kadar bekliyorum",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 8
+        },
+        {
+          "chord": "F#",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gururdan sevgi ölür mü",
+      "chords": [
+        {
+          "chord": "D#m",
+          "col": 0
+        },
+        {
+          "chord": "F#",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yağmursuz çiçek büyür mü",
+      "chords": [
+        {
+          "chord": "D#m",
+          "col": 0
+        },
+        {
+          "chord": "F#",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir kaç cümle son bir bakış",
+      "chords": [
+        {
+          "chord": "D#m",
+          "col": 14
+        },
+        {
+          "chord": "F#",
+          "col": 19
+        },
+        {
+          "chord": "C#",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bilinmez ma-ceralara",
+      "chords": [
+        {
+          "chord": "D#m",
+          "col": 9
+        },
+        {
+          "chord": "F#",
+          "col": 13
+        },
+        {
+          "chord": "C#",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gidiyorsun can evimden",
+      "chords": [
+        {
+          "chord": "D#m",
+          "col": 7
+        },
+        {
+          "chord": "F#",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ağlat beni sana da bu yakışır",
+      "chords": [
+        {
+          "chord": "D#m",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İnsan bu elbet buna da alışır",
+      "chords": [
+        {
+          "chord": "G#m",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bela oldun zaten başıma",
+      "chords": [
+        {
+          "chord": "F#",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Git gidişin aslında benim kurtuluşumdur",
+      "chords": [
+        {
+          "chord": "D#m",
+          "col": 12
+        },
+        {
+          "chord": "F#",
+          "col": 18
+        },
+        {
+          "chord": "C#",
+          "col": 22
+        },
+        {
+          "chord": "F#m",
+          "col": 29
+        },
+        {
+          "chord": "D#m",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

@@ -1,0 +1,103 @@
+{
+  "slug": "umut-kaya-opuyorum",
+  "artist": "Umut Kaya",
+  "title": "Öpüyorum",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Kopardılar beni kendimden",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hiçbir şey olmamış gibi yüzümü boş öperken",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Çok üzülme efendim unutursun derken",
+      "chords": [
+        {
+          "chord": "Em9",
+          "col": 0
+        },
+        {
+          "chord": "Em9",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sevmem dedin daha çelenkti adım ahh",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hala ben ama seviyorum ah",
+      "chords": [
+        {
+          "chord": "E7",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bu yüzden diğer kadınların dudaklarında güzelim seni öpüyorum",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 17
+        },
+        {
+          "chord": "E7",
+          "col": 40
+        },
+        {
+          "chord": "Am",
+          "col": 53
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

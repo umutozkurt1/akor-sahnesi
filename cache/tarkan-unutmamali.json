@@ -1,0 +1,202 @@
+{
+  "slug": "tarkan-unutmamali",
+  "artist": "Tarkan",
+  "title": "Unutmamalı",
+  "key": "F",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Unuttu dediler hiç sevmedi dediler gücendim yar",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 79
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yalanmış dediler bir anlıkmış dediler kırıldım yar",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 79
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Aldatıyor dediler aldırmıyor dediler yıkıldım yar",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 77
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Deli gibi yürekten sevmeli, uğruna dünyaları vermeli",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İncitmemeli sevenleri, değerlerini bilmeli",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 21
+        },
+        {
+          "chord": "F",
+          "col": 31
+        },
+        {
+          "chord": "Bb",
+          "col": 49
+        },
+        {
+          "chord": "G",
+          "col": 60
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Deli gibi yürekten sevmeli, uğruna dünyaları vermeli",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İncitmemeli sevenleri, değerlerini bilmeli of",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 15
+        },
+        {
+          "chord": "Bb",
+          "col": 30
+        },
+        {
+          "chord": "Cm",
+          "col": 51
+        },
+        {
+          "chord": "G",
+          "col": 64
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Unutmamalı o güzel günleri",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Anılarla gönülleri hoş tutmalı avutabilmeli",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 21
+        },
+        {
+          "chord": "Fm",
+          "col": 31
+        },
+        {
+          "chord": "G#",
+          "col": 40
+        },
+        {
+          "chord": "Cm",
+          "col": 57
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hatırlamalı sevgiyle anmalı",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 13
+        },
+        {
+          "chord": "Gm",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ümitlerle yarınları hoş tutmalı , ayırmamalı",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 18
+        },
+        {
+          "chord": "Fm",
+          "col": 28
+        },
+        {
+          "chord": "G#",
+          "col": 37
+        },
+        {
+          "chord": "G",
+          "col": 61
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

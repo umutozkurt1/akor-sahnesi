@@ -1,0 +1,144 @@
+{
+  "slug": "baris-manco-yeni-bir-gun",
+  "artist": "Barış Manço",
+  "title": "Yeni Bir Gün",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Gözlerim kurşun gibi ağır, ağır açıldı bu sabah merhaba dünya",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 1
+        },
+        {
+          "chord": "Dm",
+          "col": 12
+        },
+        {
+          "chord": "Am",
+          "col": 21
+        },
+        {
+          "chord": "Dm",
+          "col": 26
+        },
+        {
+          "chord": "A#",
+          "col": 31
+        },
+        {
+          "chord": "Am",
+          "col": 38
+        },
+        {
+          "chord": "Dm",
+          "col": 48
+        },
+        {
+          "chord": "Dm",
+          "col": 52
+        },
+        {
+          "chord": "Em",
+          "col": 58
+        },
+        {
+          "chord": "Am",
+          "col": 64
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Tatlı komşu Ayşe teyze,emekli Salih öğretmen yeni bir gün",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 4
+        },
+        {
+          "chord": "F",
+          "col": 47
+        },
+        {
+          "chord": "Gm",
+          "col": 88
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Doğdu merhaba, penceremdeki güvercin tahta masam boş şişeler",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 23
+        },
+        {
+          "chord": "C",
+          "col": 28
+        },
+        {
+          "chord": "F",
+          "col": 72
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Can dostum çomar merhaba, dostlar merhaba",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 36
+        },
+        {
+          "chord": "Am",
+          "col": 45
+        },
+        {
+          "chord": "Dm",
+          "col": 67
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yeni bir gün doğdu,merhaba..",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 9
+        },
+        {
+          "chord": "Dm",
+          "col": 16
+        },
+        {
+          "chord": "Am",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

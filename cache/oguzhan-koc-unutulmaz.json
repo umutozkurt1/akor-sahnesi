@@ -1,0 +1,125 @@
+{
+  "slug": "oguzhan-koc-unutulmaz",
+  "artist": "Oğuzhan Koç",
+  "title": "Unutulmaz",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Unutulmaz ki Sevgilim",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Unutulmaz ki gözlerin",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 7
+        },
+        {
+          "chord": "C",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hani verdiğin sözleri",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 7
+        },
+        {
+          "chord": "D",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Tutacaktın",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Unutulmazki sevgilim",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 9
+        },
+        {
+          "chord": "D",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "O güzel mavi gözlerin",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 9
+        },
+        {
+          "chord": "C",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hani söz vermiştin benim",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 10
+        },
+        {
+          "chord": "D",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Olacaktın",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 7
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

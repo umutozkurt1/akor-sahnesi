@@ -1,0 +1,142 @@
+{
+  "slug": "omer-necati-uslu-git-bari",
+  "artist": "Ömer Necati Uslu",
+  "title": "Git Bari",
+  "key": "C#",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Ne şiirler yazdım ama",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ne kağıtlar yandı sana",
+      "chords": [
+        {
+          "chord": "Amaj7",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ne acı sustu bu fırtına      X 2",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Şimdi ise duruldum",
+      "chords": [
+        {
+          "chord": "Amaj7",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gördüm seni karşımda",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sözüm gibi aldım seni",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gözüne sığdırmışsın ilk halimi",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 1
+        },
+        {
+          "chord": "Emaj7",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hayal meyal hatırlarım ilk bizi",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 1
+        },
+        {
+          "chord": "Emaj7",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Küskün değilim artık sevgilim",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 1
+        },
+        {
+          "chord": "Emaj7",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gideceğin varsa artık git bari",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 1
+        },
+        {
+          "chord": "Emaj7",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

@@ -1,0 +1,136 @@
+{
+  "slug": "mehmet-erdem-dunyanin-o-son-gunu-arayacaksin",
+  "artist": "Mehmet Erdem",
+  "title": "Dünyanın o son günü arayacaksın",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Vurgun yemiş misali gönlüm tutuldu aşka",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "ciğerimden yanıyorum ben bu defa başka",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 22
+        },
+        {
+          "chord": "C",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "bu yangın benle ölünceye dek yaşasın varsın",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 14
+        },
+        {
+          "chord": "A#m",
+          "col": 26
+        },
+        {
+          "chord": "C",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "dünyanın o son günü sen beni arayacaksın",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 12
+        },
+        {
+          "chord": "A#m",
+          "col": 26
+        },
+        {
+          "chord": "C",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "doymadım doyamadım sevmelere seni ben",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "kimseyi koyamadım yerine yeniden",
+      "chords": [
+        {
+          "chord": "A#m",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "saymadım sayamadım sensiz geçen yılları ne inkar ne itiraf",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 19
+        },
+        {
+          "chord": "A#m",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "bu yalnızca sitem",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 3
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

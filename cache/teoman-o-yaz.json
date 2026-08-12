@@ -1,0 +1,506 @@
+{
+  "slug": "teoman-o-yaz",
+  "artist": "Teoman",
+  "title": "O Yaz",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Nasıl da geçmişti bütün bir yaz, başımda kavak yelleri esen o yaş",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 16
+        },
+        {
+          "chord": "G",
+          "col": 27
+        },
+        {
+          "chord": "C",
+          "col": 42
+        },
+        {
+          "chord": "Em",
+          "col": 66
+        },
+        {
+          "chord": "Dm",
+          "col": 85
+        },
+        {
+          "chord": "C",
+          "col": 95
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sense hanımeli kadar beyaz, çalmıştınız kalbimi bilmeden biraz     x2",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 13
+        },
+        {
+          "chord": "F",
+          "col": 25
+        },
+        {
+          "chord": "Dm",
+          "col": 35
+        },
+        {
+          "chord": "C",
+          "col": 41
+        },
+        {
+          "chord": "Em",
+          "col": 60
+        },
+        {
+          "chord": "G",
+          "col": 75
+        },
+        {
+          "chord": "C",
+          "col": 87
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 4
+        },
+        {
+          "chord": "G",
+          "col": 9
+        },
+        {
+          "chord": "C",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Nasıl da koşuşurduk bahçelerde, şarkı söylerdik mehtaplı gecelerde",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 22
+        },
+        {
+          "chord": "Dm",
+          "col": 38
+        },
+        {
+          "chord": "C",
+          "col": 43
+        },
+        {
+          "chord": "Em",
+          "col": 62
+        },
+        {
+          "chord": "G",
+          "col": 79
+        },
+        {
+          "chord": "C",
+          "col": 96
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sen bana ben sana komşu evlerde, kök sarmaşıklar gibi sarıldık o yaz    x2",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 18
+        },
+        {
+          "chord": "F",
+          "col": 31
+        },
+        {
+          "chord": "Dm",
+          "col": 46
+        },
+        {
+          "chord": "C",
+          "col": 55
+        },
+        {
+          "chord": "Em",
+          "col": 70
+        },
+        {
+          "chord": "G",
+          "col": 88
+        },
+        {
+          "chord": "C",
+          "col": 99
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 4
+        },
+        {
+          "chord": "G",
+          "col": 9
+        },
+        {
+          "chord": "C",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Elimde değerli safça elin, benimse arardı seni gözlerim",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 36
+        },
+        {
+          "chord": "G",
+          "col": 43
+        },
+        {
+          "chord": "C",
+          "col": 80
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Öpüşürken korkusu bir şeylerin, aşkımıza ilk hüznü getirdi biraz     x2",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 19
+        },
+        {
+          "chord": "F",
+          "col": 33
+        },
+        {
+          "chord": "Dm",
+          "col": 44
+        },
+        {
+          "chord": "C",
+          "col": 50
+        },
+        {
+          "chord": "Em",
+          "col": 63
+        },
+        {
+          "chord": "G",
+          "col": 78
+        },
+        {
+          "chord": "C",
+          "col": 90
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 4
+        },
+        {
+          "chord": "G",
+          "col": 9
+        },
+        {
+          "chord": "C",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Çocuk kalbimize dolan gamla, oturup ağlamıştık sessiz çardakta",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 16
+        },
+        {
+          "chord": "G",
+          "col": 27
+        },
+        {
+          "chord": "C",
+          "col": 42
+        },
+        {
+          "chord": "Em",
+          "col": 66
+        },
+        {
+          "chord": "Dm",
+          "col": 77
+        },
+        {
+          "chord": "C",
+          "col": 87
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Çaresiz erken inen akşamla, veda edip ayrıldık biterken o yaz",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 18
+        },
+        {
+          "chord": "F",
+          "col": 31
+        },
+        {
+          "chord": "Dm",
+          "col": 38
+        },
+        {
+          "chord": "C",
+          "col": 43
+        },
+        {
+          "chord": "Em",
+          "col": 56
+        },
+        {
+          "chord": "G",
+          "col": 72
+        },
+        {
+          "chord": "C",
+          "col": 84
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sen bana ben sana komşu evlerde, kök sarmaşıklar gibi sarıldık o yaz",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 18
+        },
+        {
+          "chord": "F",
+          "col": 31
+        },
+        {
+          "chord": "Dm",
+          "col": 46
+        },
+        {
+          "chord": "C",
+          "col": 55
+        },
+        {
+          "chord": "Em",
+          "col": 70
+        },
+        {
+          "chord": "G",
+          "col": 88
+        },
+        {
+          "chord": "C",
+          "col": 99
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sense hanımeli kadar beyaz, veda edip ayrıldık biterken o yaz",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 13
+        },
+        {
+          "chord": "F",
+          "col": 25
+        },
+        {
+          "chord": "Dm",
+          "col": 35
+        },
+        {
+          "chord": "C",
+          "col": 41
+        },
+        {
+          "chord": "Em",
+          "col": 60
+        },
+        {
+          "chord": "G",
+          "col": 75
+        },
+        {
+          "chord": "C",
+          "col": 87
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Çaresiz erken inen akşamla, veda edip ayrıldık biterken o yaz",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 18
+        },
+        {
+          "chord": "F",
+          "col": 31
+        },
+        {
+          "chord": "Dm",
+          "col": 38
+        },
+        {
+          "chord": "C",
+          "col": 43
+        },
+        {
+          "chord": "Em",
+          "col": 56
+        },
+        {
+          "chord": "G",
+          "col": 72
+        },
+        {
+          "chord": "C",
+          "col": 84
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 4
+        },
+        {
+          "chord": "G",
+          "col": 9
+        },
+        {
+          "chord": "C",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

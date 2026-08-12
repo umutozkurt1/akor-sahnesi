@@ -1,0 +1,480 @@
+{
+  "slug": "sila-hala",
+  "artist": "Sıla",
+  "title": "Hala",
+  "key": "D",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Özlemek; ne acımasız yokluk",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "A#add9",
+          "col": 3
+        },
+        {
+          "chord": "Gm7",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Söylemiş miydim",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Boşluk üstüne boşluk",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Görmeyeli ne mahvoldum, sormuş muydun",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 15
+        },
+        {
+          "chord": "Gm",
+          "col": 38
+        },
+        {
+          "chord": "Dm",
+          "col": 49
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hep hayal, hep buruk.",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Perişanım, kan revan.",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İnatçı   düşünce an be an.",
+      "chords": [
+        {
+          "chord": "C7",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 3
+        },
+        {
+          "chord": "G",
+          "col": 7
+        },
+        {
+          "chord": "Am7",
+          "col": 11
+        },
+        {
+          "chord": "Am",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sana kilit sustalı",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir medet, bir hal çare",
+      "chords": [
+        {
+          "chord": "Gm7",
+          "col": 3
+        },
+        {
+          "chord": "Gm",
+          "col": 18
+        },
+        {
+          "chord": "Dm",
+          "col": 31
+        },
+        {
+          "chord": "A#",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hâla bir ses, bir nefes yok,",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 16
+        },
+        {
+          "chord": "Dm",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Düştüm ocağına eyvah, eyvah!",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 23
+        },
+        {
+          "chord": "A#",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hâla       vurgun,                gözüm kör aklım sende hâla.",
+      "chords": [
+        {
+          "chord": "Amadd9",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 8
+        },
+        {
+          "chord": "Gsus2",
+          "col": 11
+        },
+        {
+          "chord": "Gm",
+          "col": 17
+        },
+        {
+          "chord": "C7",
+          "col": 25
+        },
+        {
+          "chord": "Gsus2",
+          "col": 39
+        },
+        {
+          "chord": "Dm",
+          "col": 47
+        },
+        {
+          "chord": "Gm",
+          "col": 51
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hâla bir ses, bir nefes yok,",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Düştüm ocağına eyvah, eyvah!",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 21
+        },
+        {
+          "chord": "A#",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hâla                      vurgun,  gözüm kör aklım sende hâla.",
+      "chords": [
+        {
+          "chord": "Amadd9",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 7
+        },
+        {
+          "chord": "Gsus2",
+          "col": 10
+        },
+        {
+          "chord": "Gm",
+          "col": 16
+        },
+        {
+          "chord": "C7",
+          "col": 26
+        },
+        {
+          "chord": "Gsus2",
+          "col": 40
+        },
+        {
+          "chord": "Dm",
+          "col": 48
+        },
+        {
+          "chord": "Gm",
+          "col": 52
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 5
+        },
+        {
+          "chord": "D#maj7",
+          "col": 10
+        },
+        {
+          "chord": "Dm",
+          "col": 17
+        },
+        {
+          "chord": "C7",
+          "col": 23
+        },
+        {
+          "chord": "Gm",
+          "col": 26
+        },
+        {
+          "chord": "Dm",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 0
+        },
+        {
+          "chord": "Gm7",
+          "col": 5
+        },
+        {
+          "chord": "Gm",
+          "col": 9
+        },
+        {
+          "chord": "Emadd9",
+          "col": 12
+        },
+        {
+          "chord": "Dm",
+          "col": 21
+        },
+        {
+          "chord": "Emadd9",
+          "col": 24
+        },
+        {
+          "chord": "Dm",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bazısı kendini düşünür, sadece kendi hayatını.",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 1
+        },
+        {
+          "chord": "Csus4",
+          "col": 59
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bazısı kalbini keser, incitmeye korkar kendinden başkasını.",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 4
+        },
+        {
+          "chord": "Gm7",
+          "col": 11
+        },
+        {
+          "chord": "Gm",
+          "col": 15
+        },
+        {
+          "chord": "Dm",
+          "col": 28
+        },
+        {
+          "chord": "C",
+          "col": 79
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Perişanım; kan revan.",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İnatçı düşünce an be an.",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sana kilit sustalı",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir medet, bir hal çare",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hâla bir ses, bir nefes yok,",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Düştüm ocağına eyvah, eyvah!",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hâla vurgun, gözüm kör aklım sende hâla.",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hâla bir ses, bir nefes yok,",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Düştüm ocağına eyvah, eyvah!",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hâla vurgun, gözüm kör aklım sende hâla.",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sende hâla.",
+      "chords": [],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

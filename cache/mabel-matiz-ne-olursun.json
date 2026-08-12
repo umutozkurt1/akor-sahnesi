@@ -1,0 +1,155 @@
+{
+  "slug": "mabel-matiz-ne-olursun",
+  "artist": "Mabel Matiz",
+  "title": "Ne Olursun",
+  "key": "E",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Gel gönlümü, yerden yere, vurma güzel ne olursun",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 61
+        },
+        {
+          "chord": "Am",
+          "col": 65
+        },
+        {
+          "chord": "Em",
+          "col": 73
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gül dururken dikenleri, derme güzel ne olursun",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 22
+        },
+        {
+          "chord": "D",
+          "col": 35
+        },
+        {
+          "chord": "Em",
+          "col": 56
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Git diyemem, kal diyemem, sen goncasın, gül diyemem",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 21
+        },
+        {
+          "chord": "Am",
+          "col": 43
+        },
+        {
+          "chord": "D",
+          "col": 65
+        },
+        {
+          "chord": "Em",
+          "col": 79
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Çok severim, söyleyemem, sorma güzel ne olursun",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 20
+        },
+        {
+          "chord": "D",
+          "col": 41
+        },
+        {
+          "chord": "Em",
+          "col": 61
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sevgin nefes, sevgin candır, sevgin bana heyecandır",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 63
+        },
+        {
+          "chord": "Am",
+          "col": 66
+        },
+        {
+          "chord": "Em",
+          "col": 75
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kalbim ince bir fidandır, kırma güzel ne olursun",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 18
+        },
+        {
+          "chord": "D",
+          "col": 36
+        },
+        {
+          "chord": "Em",
+          "col": 55
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

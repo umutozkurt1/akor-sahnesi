@@ -1,0 +1,824 @@
+{
+  "slug": "lp-lost-on-you",
+  "artist": "LP",
+  "title": "Lost On You",
+  "key": "Bb",
+  "capo": 0,
+  "rhythm": "A-Y-A-Y-Y-A-Y-Y-A",
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Intro",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Bbm7",
+          "col": 0
+        },
+        {
+          "chord": "Eb6",
+          "col": 5
+        },
+        {
+          "chord": "Fm7",
+          "col": 9
+        },
+        {
+          "chord": "Bbm7",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Eb6",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Fm7",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "When you get older, plainer, saner",
+      "chords": [
+        {
+          "chord": "Bbm7",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "When you remember all the danger we came from",
+      "chords": [
+        {
+          "chord": "Eb6",
+          "col": 11
+        },
+        {
+          "chord": "Fm7",
+          "col": 41
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Burning like embers, falling, tender",
+      "chords": [
+        {
+          "chord": "Bbm7",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Long before the days of no surrender",
+      "chords": [
+        {
+          "chord": "Eb6",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Years ago   and well you know",
+      "chords": [
+        {
+          "chord": "Fm7",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Smoke 'em if you got 'em",
+      "chords": [
+        {
+          "chord": "Bbm7",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "'Cause it's going down",
+      "chords": [
+        {
+          "chord": "Eb6",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "All I ever wanted was you",
+      "chords": [
+        {
+          "chord": "Fm7",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'll never get to heaven",
+      "chords": [
+        {
+          "chord": "Bbm7",
+          "col": 5
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "'Cause I don't know how",
+      "chords": [
+        {
+          "chord": "Eb6",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Let's raise a glass or two",
+      "chords": [
+        {
+          "chord": "Fm7",
+          "col": 6
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "To all the things I've lost on you",
+      "chords": [
+        {
+          "chord": "Bbm7",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Oh oh",
+      "chords": [
+        {
+          "chord": "Eb6",
+          "col": 3
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Tell me are they lost on you?",
+      "chords": [
+        {
+          "chord": "Fm7",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Oh oh",
+      "chords": [
+        {
+          "chord": "Db",
+          "col": 3
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Just that you could cut me loose",
+      "chords": [
+        {
+          "chord": "Bbm7",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Oh oh",
+      "chords": [
+        {
+          "chord": "Eb6",
+          "col": 3
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "After everything I've lost on you",
+      "chords": [
+        {
+          "chord": "Fm7",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Is that lost on you?",
+      "chords": [
+        {
+          "chord": "Db",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Oh oh oh oh oh  oh oh oh",
+      "chords": [
+        {
+          "chord": "Bbm7",
+          "col": 12
+        },
+        {
+          "chord": "Eb6",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Oh oh oh oh oh",
+      "chords": [
+        {
+          "chord": "Fm7",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Is that lost on you?",
+      "chords": [
+        {
+          "chord": "Db",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Oh oh oh oh oh  oh oh oh",
+      "chords": [
+        {
+          "chord": "Bbm7",
+          "col": 12
+        },
+        {
+          "chord": "Eb6",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Baby, is that lost on you?",
+      "chords": [
+        {
+          "chord": "Fm7",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Is that lost on you?",
+      "chords": [
+        {
+          "chord": "Db",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Wishing I could see the machinations",
+      "chords": [
+        {
+          "chord": "Bbm7",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Understand the toil of expectations in your mind",
+      "chords": [
+        {
+          "chord": "Eb6",
+          "col": 15
+        },
+        {
+          "chord": "Fm7",
+          "col": 44
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hold me like you never lost your patience",
+      "chords": [
+        {
+          "chord": "Bbm7",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Tell me that you love me more than hate me all the time",
+      "chords": [
+        {
+          "chord": "Eb6",
+          "col": 17
+        },
+        {
+          "chord": "Fm7",
+          "col": 55
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And you're still mine",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Smoke 'em if you got 'em",
+      "chords": [
+        {
+          "chord": "Bbm7",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "'Cause it's going down",
+      "chords": [
+        {
+          "chord": "Eb6",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "All I ever wanted was you",
+      "chords": [
+        {
+          "chord": "Fm7",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Letâs take a drink of ever lisk and turn around",
+      "chords": [
+        {
+          "chord": "Bbm7",
+          "col": 8
+        },
+        {
+          "chord": "Eb6",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Let's raise a glass or two",
+      "chords": [
+        {
+          "chord": "Fm7",
+          "col": 6
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "To all the things I've lost on you",
+      "chords": [
+        {
+          "chord": "Bbm7",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Oh oh",
+      "chords": [
+        {
+          "chord": "Eb6",
+          "col": 3
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Tell me are they lost on you?",
+      "chords": [
+        {
+          "chord": "Fm7",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Oh oh",
+      "chords": [
+        {
+          "chord": "Db",
+          "col": 3
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Just that you could cut me loose",
+      "chords": [
+        {
+          "chord": "Bbm7",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Oh oh",
+      "chords": [
+        {
+          "chord": "Eb6",
+          "col": 3
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "After everything I've lost on you",
+      "chords": [
+        {
+          "chord": "Fm7",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Is that lost on you?",
+      "chords": [
+        {
+          "chord": "Db",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Oh oh oh oh oh  oh oh oh",
+      "chords": [
+        {
+          "chord": "Bbm7",
+          "col": 12
+        },
+        {
+          "chord": "Eb6",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Oh oh oh oh oh",
+      "chords": [
+        {
+          "chord": "Fm7",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Is that lost on you?",
+      "chords": [
+        {
+          "chord": "Db",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Oh oh oh oh oh  oh oh oh",
+      "chords": [
+        {
+          "chord": "Bbm7",
+          "col": 12
+        },
+        {
+          "chord": "Eb6",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Baby, is that lost on you?",
+      "chords": [
+        {
+          "chord": "Fm7",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Is that lost on you?",
+      "chords": [
+        {
+          "chord": "Db",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Bbm7",
+          "col": 0
+        },
+        {
+          "chord": "Eb6",
+          "col": 5
+        },
+        {
+          "chord": "Fm7",
+          "col": 9
+        },
+        {
+          "chord": "Db",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Bbm7",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   Let's raise a glass or two",
+      "chords": [
+        {
+          "chord": "Eb6",
+          "col": 0
+        },
+        {
+          "chord": "Fm7",
+          "col": 9
+        },
+        {
+          "chord": "Db",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "To all the things I've lost on you",
+      "chords": [
+        {
+          "chord": "Bbm7",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Oh oh",
+      "chords": [
+        {
+          "chord": "Eb6",
+          "col": 3
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Tell me are they lost on you?",
+      "chords": [
+        {
+          "chord": "Fm7",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Oh oh",
+      "chords": [
+        {
+          "chord": "Db",
+          "col": 3
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Just that you could cut me loose",
+      "chords": [
+        {
+          "chord": "Bbm7",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Oh oh",
+      "chords": [
+        {
+          "chord": "Eb6",
+          "col": 3
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "After everything I've lost on you",
+      "chords": [
+        {
+          "chord": "Fm7",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Is that lost on you?",
+      "chords": [
+        {
+          "chord": "Db",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Is that lost on you?",
+      "chords": [
+        {
+          "chord": "Bbm7",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Eb6",
+          "col": 0
+        },
+        {
+          "chord": "Fm7",
+          "col": 4
+        },
+        {
+          "chord": "Db",
+          "col": 8
+        },
+        {
+          "chord": "Bbm7",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Eb6",
+          "col": 0
+        },
+        {
+          "chord": "Fm7",
+          "col": 4
+        },
+        {
+          "chord": "Db",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

@@ -1,0 +1,130 @@
+{
+  "slug": "asli-turk-aldim-basimi-hadi-git",
+  "artist": "Aslı Türk",
+  "title": "Aldım Başımı Hadi Git",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "siyah beyaz bir resim elde kalan",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "hani gözlerini yumduğun her baktığında",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "kirpiklerin içime işliyor ayrılığın zoruma gidiyor",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 6
+        },
+        {
+          "chord": "A#",
+          "col": 14
+        },
+        {
+          "chord": "Gm",
+          "col": 27
+        },
+        {
+          "chord": "A#",
+          "col": 37
+        },
+        {
+          "chord": "Am",
+          "col": 49
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "bitti bitti yüce gönlün şad olsun",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "aldım başımı hadi git omuzun huzur bulsun",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "ben senindim senin olan kendinden gittin",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "bağışla beni yarim ölülerde ağlar",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 23
+        },
+        {
+          "chord": "A#",
+          "col": 29
+        },
+        {
+          "chord": "Am",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

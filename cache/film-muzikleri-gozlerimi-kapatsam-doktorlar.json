@@ -1,0 +1,105 @@
+{
+  "slug": "film-muzikleri-gozlerimi-kapatsam-doktorlar",
+  "artist": "Film Müzikleri",
+  "title": "Gözlerimi Kapatsam (doktorlar)",
+  "key": "B",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Gözlerimi kapatsam yüzünü görür müyüm",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 17
+        },
+        {
+          "chord": "C#",
+          "col": 21
+        },
+        {
+          "chord": "C#m",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gündüzleri uzatsam geceler bir kördüğüm",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 17
+        },
+        {
+          "chord": "C#",
+          "col": 21
+        },
+        {
+          "chord": "C#m",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kapıları kapatsam yalnız üşürmüyüm",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 16
+        },
+        {
+          "chord": "C#",
+          "col": 20
+        },
+        {
+          "chord": "C#m",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir kuş olup da uçsam üzerine süzülür müyüm",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 20
+        },
+        {
+          "chord": "C#",
+          "col": 24
+        },
+        {
+          "chord": "C#m",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

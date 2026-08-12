@@ -1,0 +1,207 @@
+{
+  "slug": "erkan-erzurumlu-kalbin-nereli",
+  "artist": "Erkan Erzurumlu",
+  "title": "Kalbin Nereli",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "İntro",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Amaj7",
+          "col": 0
+        },
+        {
+          "chord": "G#m7",
+          "col": 6
+        },
+        {
+          "chord": "F#m7",
+          "col": 11
+        },
+        {
+          "chord": "G#m",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bana olmuyor sabahlar",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dar geliyor koskoca yataklar",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yüzünü o kumsalda gördüm göreli",
+      "chords": [
+        {
+          "chord": "Amaj7",
+          "col": 0
+        },
+        {
+          "chord": "G#m",
+          "col": 50
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Alsın beni benden tamam",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kendime bir daha uğramam",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kayboldum zaten gülüşünü seyredeli",
+      "chords": [
+        {
+          "chord": "F#m7",
+          "col": 0
+        },
+        {
+          "chord": "G#m",
+          "col": 59
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yazıver geleyim",
+      "chords": [
+        {
+          "chord": "F#m7",
+          "col": 0
+        },
+        {
+          "chord": "B7",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bana yol yok ki senden başka",
+      "chords": [
+        {
+          "chord": "G#m",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Adres ver kalbin nereli",
+      "chords": [
+        {
+          "chord": "F#m7",
+          "col": 0
+        },
+        {
+          "chord": "G#",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Parlak teni aydan",
+      "chords": [
+        {
+          "chord": "Amaj7",
+          "col": 0
+        },
+        {
+          "chord": "G#m",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Nasıl tatlı dili baldan",
+      "chords": [
+        {
+          "chord": "F#m7",
+          "col": 6
+        },
+        {
+          "chord": "G#m",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Verecek tek bi canı kalsa",
+      "chords": [
+        {
+          "chord": "Amaj7",
+          "col": 0
+        },
+        {
+          "chord": "G#m",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Verir insan kendi elleriyle",
+      "chords": [
+        {
+          "chord": "F#m7",
+          "col": 6
+        },
+        {
+          "chord": "G#m",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

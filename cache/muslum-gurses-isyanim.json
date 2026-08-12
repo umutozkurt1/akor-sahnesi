@@ -1,0 +1,141 @@
+{
+  "slug": "muslum-gurses-isyanim",
+  "artist": "Müslüm Gürses",
+  "title": "İsyanım",
+  "key": "Ab",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": " Gözümden bir damla yas akiyor sen gideli",
+      "chords": [
+        {
+          "chord": "Abm",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 43
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Yalniz kaldim yine ben",
+      "chords": [
+        {
+          "chord": "Dbm",
+          "col": 1
+        },
+        {
+          "chord": "Abm",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Sensiz bir kac gün,yil oldu bana",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 1
+        },
+        {
+          "chord": "Am",
+          "col": 18
+        },
+        {
+          "chord": "Dbm",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Ayriliklar yetti canima",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 1
+        },
+        {
+          "chord": "Gbm",
+          "col": 13
+        },
+        {
+          "chord": "Abm",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Isyanim gecelere",
+      "chords": [
+        {
+          "chord": "Abm",
+          "col": 1
+        },
+        {
+          "chord": "Am",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Seni benden götürenlere",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 1
+        },
+        {
+          "chord": "B",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Isyanim kendi kendime",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 1
+        },
+        {
+          "chord": "Dbm",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Yanimda sen yoksun diye",
+      "chords": [
+        {
+          "chord": "Dbm",
+          "col": 1
+        },
+        {
+          "chord": "Abm",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

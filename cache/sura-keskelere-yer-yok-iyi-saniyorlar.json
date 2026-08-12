@@ -1,0 +1,162 @@
+{
+  "slug": "sura-keskelere-yer-yok-iyi-saniyorlar",
+  "artist": "Sura",
+  "title": "Keşkelere Yer Yok & İyi Sanıyorlar",
+  "key": "G",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 4
+        },
+        {
+          "chord": "D#",
+          "col": 7
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Keşkelere yer yok ama, yarayı büyütür uzun ara",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 24
+        },
+        {
+          "chord": "Cm",
+          "col": 66
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ya geri gel ya da çek git, kaymasın aklım sana",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 15
+        },
+        {
+          "chord": "Cm",
+          "col": 34
+        },
+        {
+          "chord": "Dm",
+          "col": 50
+        },
+        {
+          "chord": "Cm",
+          "col": 56
+        },
+        {
+          "chord": "Dm",
+          "col": 61
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Boş kalır sandın ama bence geç kaldın bana",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 24
+        },
+        {
+          "chord": "Cm",
+          "col": 60
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Unutacak bu yürek güvenecek yarınlara",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 15
+        },
+        {
+          "chord": "Cm",
+          "col": 28
+        },
+        {
+          "chord": "Dm",
+          "col": 40
+        },
+        {
+          "chord": "Cm",
+          "col": 49
+        },
+        {
+          "chord": "Dm",
+          "col": 56
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ağlamadım diye sormadılar, beni iyi sanıyorlar iyi sanıyorlar",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 26
+        },
+        {
+          "chord": "Am",
+          "col": 51
+        },
+        {
+          "chord": "Bm",
+          "col": 71
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Unutursun iki gün sonra adını diyorlar onun, unutmam",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 19
+        },
+        {
+          "chord": "Am",
+          "col": 40
+        },
+        {
+          "chord": "Bm",
+          "col": 63
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

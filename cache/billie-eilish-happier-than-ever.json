@@ -1,0 +1,701 @@
+{
+  "slug": "billie-eilish-happier-than-ever",
+  "artist": "Billie Eilish",
+  "title": "Happier Than Ever",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": " When I'm away from you",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'm happier than ever",
+      "chords": [
+        {
+          "chord": "E7",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Wish I could explain it better",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I wish it wasn't true",
+      "chords": [
+        {
+          "chord": "Dm7",
+          "col": 17
+        },
+        {
+          "chord": "G7",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Give me a day or two",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "To think of something clever",
+      "chords": [
+        {
+          "chord": "E7",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "To write myself a letter",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "To tell me what to do",
+      "chords": [
+        {
+          "chord": "Dm7",
+          "col": 19
+        },
+        {
+          "chord": "G7",
+          "col": 23
+        },
+        {
+          "chord": "C",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Do you read my interviews?",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 3
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Or do you skip my avenue?",
+      "chords": [
+        {
+          "chord": "E7",
+          "col": 3
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "When you said you were passin' through",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 5
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Was I  even on your way?",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 5
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I knew when I asked you to",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 2
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Be cool about what I was tellin' you",
+      "chords": [
+        {
+          "chord": "E7",
+          "col": 3
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You'd do the opposite of what you said you'd do",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 6
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And I'd  end up more afraid",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 7
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Don't say it isn't fair",
+      "chords": [
+        {
+          "chord": "E7",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You clearly werdun't aware that you made me misdurable, ooh",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 36
+        },
+        {
+          "chord": "D",
+          "col": 51
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "So if you really wanna know",
+      "chords": [
+        {
+          "chord": "Dm7",
+          "col": 3
+        },
+        {
+          "chord": "G7",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "When I'm away from you",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'm happier than ever",
+      "chords": [
+        {
+          "chord": "E7",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Wish I could explain it better",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I wish it wasn't true",
+      "chords": [
+        {
+          "chord": "Dm7",
+          "col": 17
+        },
+        {
+          "chord": "G7",
+          "col": 21
+        },
+        {
+          "chord": "C",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "E7",
+          "col": 2
+        },
+        {
+          "chord": "Am",
+          "col": 5
+        },
+        {
+          "chord": "F",
+          "col": 8
+        },
+        {
+          "chord": "Fm",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " You call me again,  drunk in your Benz",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "E7",
+          "col": 19
+        },
+        {
+          "chord": "Am",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Drivin' home under the influence",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 13
+        },
+        {
+          "chord": "Fm",
+          "col": 25
+        },
+        {
+          "chord": "C",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You scared me to death  but I'm wastin' my breath",
+      "chords": [
+        {
+          "chord": "E7",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "'Cause you only listen to your fuckin' friends",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 19
+        },
+        {
+          "chord": "Fm",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I don't relate to you",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "E7",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I don't relate to you, no",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "'Cause I'd never treat me this shitty",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 7
+        },
+        {
+          "chord": "C",
+          "col": 17
+        },
+        {
+          "chord": "E7",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You made me hate this city",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 12
+        },
+        {
+          "chord": "F",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And I don't talk shit about you on the Internet",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 17
+        },
+        {
+          "chord": "E7",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Never told anyone anything bad",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 11
+        },
+        {
+          "chord": "F",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "'Cause that shit's embarrassing, you were my everything",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 21
+        },
+        {
+          "chord": "E7",
+          "col": 45
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And all that you did was make me fuckin' sad",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 17
+        },
+        {
+          "chord": "F",
+          "col": 41
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "So don't waste the time I don't have",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 3
+        },
+        {
+          "chord": "E7",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And don't try to make me feel bad",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 4
+        },
+        {
+          "chord": "F",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I could talk about every time that you showed up on time",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 19
+        },
+        {
+          "chord": "E7",
+          "col": 46
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But I'd have an empty line 'cause you never did",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 19
+        },
+        {
+          "chord": "F",
+          "col": 47
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Never paid any mind to my mother or friends, so I",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 19
+        },
+        {
+          "chord": "E7",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Shut 'em all out for you 'cause I was a kid",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 13
+        },
+        {
+          "chord": "F",
+          "col": 43
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You ruined everything good",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "E7",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Always said you were misunderstood",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 7
+        },
+        {
+          "chord": "F",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Made all my moments your own",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "E7",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Just fuckin' leave me alone",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "E7",
+          "col": 2
+        },
+        {
+          "chord": "Am",
+          "col": 5
+        },
+        {
+          "chord": "F",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

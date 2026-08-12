@@ -1,0 +1,1174 @@
+{
+  "slug": "queen-bohemian-rhapsody",
+  "artist": "Queen",
+  "title": "Bohemian Rhapsody",
+  "key": "Bb",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Is this the real life",
+      "chords": [
+        {
+          "chord": "Em7",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Is this just fantasy",
+      "chords": [
+        {
+          "chord": "A7",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Caught in a landslide",
+      "chords": [
+        {
+          "chord": "D7",
+          "col": 0
+        },
+        {
+          "chord": "Am7",
+          "col": 18
+        },
+        {
+          "chord": "D7",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "No escape from reality",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 6
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Open your eyes",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Look up to the skies and see",
+      "chords": [
+        {
+          "chord": "G7",
+          "col": 10
+        },
+        {
+          "chord": "C",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'm just a poor boy, I need no sympathy",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "D7",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Because I'm easy come, easy go,",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 23
+        },
+        {
+          "chord": "G",
+          "col": 29
+        },
+        {
+          "chord": "F#",
+          "col": 39
+        },
+        {
+          "chord": "G",
+          "col": 45
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "little high, little low,",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 7
+        },
+        {
+          "chord": "F#",
+          "col": 14
+        },
+        {
+          "chord": "G",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Any way the wind blows, doesn't really matter to me,",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "G/B",
+          "col": 21
+        },
+        {
+          "chord": "Bbdim7",
+          "col": 40
+        },
+        {
+          "chord": "D7/A",
+          "col": 58
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "To me",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 5
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Mama, just killed a man,",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Put a gun against his head,",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Pulled my trigger, now he's dead,",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 19
+        },
+        {
+          "chord": "D",
+          "col": 45
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Mama, life had just begun,",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But now I've gone and thrown it all  away",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 4
+        },
+        {
+          "chord": "Am/G#",
+          "col": 37
+        },
+        {
+          "chord": "Am/G",
+          "col": 48
+        },
+        {
+          "chord": "Am/F#",
+          "col": 53
+        },
+        {
+          "chord": "Am/F",
+          "col": 61
+        },
+        {
+          "chord": "Am/E",
+          "col": 66
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Mama ooooh,",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 11
+        },
+        {
+          "chord": "Am",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Didn't mean to make you cry",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "If I'm not back again this time tomorrow",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 4
+        },
+        {
+          "chord": "C",
+          "col": 58
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Carry on, carry on, as if nothing really matters",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 12
+        },
+        {
+          "chord": "Am",
+          "col": 26
+        },
+        {
+          "chord": "Fm",
+          "col": 36
+        },
+        {
+          "chord": "C",
+          "col": 65
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Too late, my time has come,",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sends shivers down my spine",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Body's aching all the time,",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 13
+        },
+        {
+          "chord": "D",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Goodbye everybody - I've got to go",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 44
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gotta leave you all behind and face   the truth",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 6
+        },
+        {
+          "chord": "Am/G#",
+          "col": 34
+        },
+        {
+          "chord": "Am/G",
+          "col": 44
+        },
+        {
+          "chord": "Am/F#",
+          "col": 49
+        },
+        {
+          "chord": "Am/F",
+          "col": 58
+        },
+        {
+          "chord": "Am/E",
+          "col": 63
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Mama ooooh (any way the wind blows)",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 11
+        },
+        {
+          "chord": "Am",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I don't want to die,",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I sometimes wish I'd never been born at all",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 2
+        },
+        {
+          "chord": "C",
+          "col": 72
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 1
+        },
+        {
+          "chord": "G",
+          "col": 3
+        },
+        {
+          "chord": "Am",
+          "col": 5
+        },
+        {
+          "chord": "Dm",
+          "col": 9
+        },
+        {
+          "chord": "G",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 1
+        },
+        {
+          "chord": "G",
+          "col": 3
+        },
+        {
+          "chord": "Am",
+          "col": 5
+        },
+        {
+          "chord": "Dm",
+          "col": 9
+        },
+        {
+          "chord": "Bb",
+          "col": 13
+        },
+        {
+          "chord": "Bb",
+          "col": 17
+        },
+        {
+          "chord": "A",
+          "col": 20
+        },
+        {
+          "chord": "G#",
+          "col": 22
+        },
+        {
+          "chord": "G",
+          "col": 25
+        },
+        {
+          "chord": "F#",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I see a little silhouetto of a man,",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 0
+        },
+        {
+          "chord": "F#",
+          "col": 2
+        },
+        {
+          "chord": "F",
+          "col": 8
+        },
+        {
+          "chord": "F#",
+          "col": 16
+        },
+        {
+          "chord": "B",
+          "col": 26
+        },
+        {
+          "chord": "F#",
+          "col": 31
+        },
+        {
+          "chord": "F",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Scaramouche, scaramouche, will you do the Fandango",
+      "chords": [
+        {
+          "chord": "F#",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 5
+        },
+        {
+          "chord": "F#",
+          "col": 23
+        },
+        {
+          "chord": "B",
+          "col": 30
+        },
+        {
+          "chord": "F#",
+          "col": 45
+        },
+        {
+          "chord": "F",
+          "col": 57
+        },
+        {
+          "chord": "F#",
+          "col": 68
+        },
+        {
+          "chord": "B",
+          "col": 71
+        },
+        {
+          "chord": "F#",
+          "col": 74
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Thunderbolt and lightning, very very frightening me",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 28
+        },
+        {
+          "chord": "A",
+          "col": 45
+        },
+        {
+          "chord": "C#",
+          "col": 61
+        },
+        {
+          "chord": "F#",
+          "col": 80
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "N.C.",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Galileo, Galileo",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "N.C.",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Galileo, Galileo",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "N.C.",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Galileo, Figaro - Magnifico",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'm just a poor boy, no-body loves me.",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 4
+        },
+        {
+          "chord": "F#",
+          "col": 12
+        },
+        {
+          "chord": "G",
+          "col": 19
+        },
+        {
+          "chord": "G#",
+          "col": 27
+        },
+        {
+          "chord": "G",
+          "col": 30
+        },
+        {
+          "chord": "F#",
+          "col": 38
+        },
+        {
+          "chord": "G",
+          "col": 44
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "He's just a poor boy from a poor fami-ly.",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 8
+        },
+        {
+          "chord": "Cdim",
+          "col": 17
+        },
+        {
+          "chord": "C",
+          "col": 22
+        },
+        {
+          "chord": "F",
+          "col": 28
+        },
+        {
+          "chord": "C",
+          "col": 40
+        },
+        {
+          "chord": "Cdim",
+          "col": 49
+        },
+        {
+          "chord": "C",
+          "col": 54
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Spare him his life from this monstrosity.",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "C/E",
+          "col": 24
+        },
+        {
+          "chord": "D",
+          "col": 45
+        },
+        {
+          "chord": "G",
+          "col": 61
+        },
+        {
+          "chord": "F",
+          "col": 66
+        },
+        {
+          "chord": "C/E",
+          "col": 69
+        },
+        {
+          "chord": "D#dim",
+          "col": 74
+        },
+        {
+          "chord": "Dm7",
+          "col": 81
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Easy come, easy go, will you let me go?  Bismillah!",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 7
+        },
+        {
+          "chord": "F#",
+          "col": 17
+        },
+        {
+          "chord": "G",
+          "col": 23
+        },
+        {
+          "chord": "G#",
+          "col": 26
+        },
+        {
+          "chord": "G",
+          "col": 38
+        },
+        {
+          "chord": "F#",
+          "col": 49
+        },
+        {
+          "chord": "G",
+          "col": 56
+        },
+        {
+          "chord": "C",
+          "col": 59
+        },
+        {
+          "chord": "G",
+          "col": 62
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "No, we will not let you go.  Bismillah!",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 12
+        },
+        {
+          "chord": "G",
+          "col": 46
+        },
+        {
+          "chord": "C",
+          "col": 49
+        },
+        {
+          "chord": "G",
+          "col": 52
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "We will not let you go.  Bismillah!  We will not let you go.",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 41
+        },
+        {
+          "chord": "C",
+          "col": 44
+        },
+        {
+          "chord": "G",
+          "col": 47
+        },
+        {
+          "chord": "G",
+          "col": 53
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Will not let you go.  Will not let you go. Ahhhhhhhhh",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 34
+        },
+        {
+          "chord": "D#7",
+          "col": 65
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   No, no, no, no, no, no, no.  Oh, mama mia, mama mia",
+      "chords": [
+        {
+          "chord": "G#m",
+          "col": 0
+        },
+        {
+          "chord": "F#",
+          "col": 4
+        },
+        {
+          "chord": "B",
+          "col": 9
+        },
+        {
+          "chord": "A#",
+          "col": 13
+        },
+        {
+          "chord": "D#",
+          "col": 17
+        },
+        {
+          "chord": "G",
+          "col": 21
+        },
+        {
+          "chord": "C",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Mama mia, let me go.  Beelzebub has a devil put aside for me,",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 5
+        },
+        {
+          "chord": "G",
+          "col": 17
+        },
+        {
+          "chord": "C",
+          "col": 24
+        },
+        {
+          "chord": "F",
+          "col": 28
+        },
+        {
+          "chord": "B",
+          "col": 38
+        },
+        {
+          "chord": "Em",
+          "col": 49
+        },
+        {
+          "chord": "G",
+          "col": 58
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 1
+        },
+        {
+          "chord": "C",
+          "col": 6
+        },
+        {
+          "chord": "C",
+          "col": 11
+        },
+        {
+          "chord": "D",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  So you think you can stone me and spit in my eye",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 64
+        },
+        {
+          "chord": "G",
+          "col": 82
+        },
+        {
+          "chord": "Bb",
+          "col": 86
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  So you think you can love me and leave me to die",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 60
+        },
+        {
+          "chord": "F",
+          "col": 82
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  Oh, baby - can't do this to me, baby",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 4
+        },
+        {
+          "chord": "Dm",
+          "col": 12
+        },
+        {
+          "chord": "G",
+          "col": 46
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Just gotta get out - just gotta get right outta here",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 20
+        },
+        {
+          "chord": "Dm",
+          "col": 28
+        },
+        {
+          "chord": "G",
+          "col": 47
+        },
+        {
+          "chord": "C",
+          "col": 66
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Nothing really matters,",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Anyone can see,",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Nothing really matters, nothing really matters to me,",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 30
+        },
+        {
+          "chord": "F/G",
+          "col": 36
+        },
+        {
+          "chord": "C",
+          "col": 77
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

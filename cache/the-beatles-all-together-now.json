@@ -1,0 +1,136 @@
+{
+  "slug": "the-beatles-all-together-now",
+  "artist": "The Beatles",
+  "title": "All Together Now",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "One, two, three, four, can I have a little more?",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 2
+        },
+        {
+          "chord": "E7",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Five, six, seven, eight, nine, ten, I love you.",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "E7",
+          "col": 31
+        },
+        {
+          "chord": "A",
+          "col": 43
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "C#D#E F#",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "E7",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "can I bring a friend to tea?",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "E, F,G H, I, J, I love Fyou.",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "E7",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bom, bom, bom, bom-pa-bom, sail the ship, bom-pa-bom, chop the tree.",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 15
+        },
+        {
+          "chord": "A",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bom-pa-bom, skip the rope, bom-pa-bom, look at me.",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "E7",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "All together now, all together now, all together now, all together now...",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "E7",
+          "col": 36
+        },
+        {
+          "chord": "A",
+          "col": 54
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

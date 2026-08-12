@@ -1,0 +1,188 @@
+{
+  "slug": "tan-tasci-yalan",
+  "artist": "Tan Taşçı",
+  "title": "Yalan",
+  "key": "D",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Bak neler oldu, zor zamanlar bizi buldu",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 17
+        },
+        {
+          "chord": "Bb",
+          "col": 32
+        },
+        {
+          "chord": "Am",
+          "col": 51
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hiç sormadı aşk,   yaralarımızdan vurdu",
+      "chords": [
+        {
+          "chord": "Bb",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 20
+        },
+        {
+          "chord": "Bb",
+          "col": 27
+        },
+        {
+          "chord": "Am",
+          "col": 54
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sence ilk adımı hangimiz attı",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Her yer toz dumandı, zaman göz ardı",
+      "chords": [
+        {
+          "chord": "Bb",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kandırdık kendimizi, zaten olmazdı",
+      "chords": [
+        {
+          "chord": "Bb",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Belki bir oyundu ama canımız yandı",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir an dayanamam, bu dünyaya yaranamam",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 21
+        },
+        {
+          "chord": "Bb",
+          "col": 45
+        },
+        {
+          "chord": "Am",
+          "col": 64
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gitme sonum olur diyen dilin, kalbin yalan, vedan yalan",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 29
+        },
+        {
+          "chord": "Bb",
+          "col": 44
+        },
+        {
+          "chord": "Am",
+          "col": 66
+        },
+        {
+          "chord": "Gm",
+          "col": 81
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bana aşktan söz etme nolur, senin sevdan, dünyan yalan",
+      "chords": [
+        {
+          "chord": "Bb",
+          "col": 15
+        },
+        {
+          "chord": "Am",
+          "col": 39
+        },
+        {
+          "chord": "Gm",
+          "col": 57
+        },
+        {
+          "chord": "Am",
+          "col": 80
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

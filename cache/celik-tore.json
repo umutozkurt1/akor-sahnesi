@@ -1,0 +1,141 @@
+{
+  "slug": "celik-tore",
+  "artist": "Çelik",
+  "title": "Töre",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Unut deme bana unutamam",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sevemem kolay kolayda unutamam",
+      "chords": [
+        {
+          "chord": "C#",
+          "col": 2
+        },
+        {
+          "chord": "C",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Söz dedi bana unutamam",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kalamam yalnız yalnız da uyuyamam",
+      "chords": [
+        {
+          "chord": "A#m",
+          "col": 0
+        },
+        {
+          "chord": "C#",
+          "col": 16
+        },
+        {
+          "chord": "C",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Nerden bileyim çekip gideceğini",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 10
+        },
+        {
+          "chord": "C",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ellerin olup bana göz süzeceğini",
+      "chords": [
+        {
+          "chord": "A#m",
+          "col": 8
+        },
+        {
+          "chord": "C#",
+          "col": 15
+        },
+        {
+          "chord": "C",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Töremiz bumuydu Sözümüz bumuydu",
+      "chords": [
+        {
+          "chord": "C#",
+          "col": 7
+        },
+        {
+          "chord": "C",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yazımız bumuydu Ne olur susma küçüğüm",
+      "chords": [
+        {
+          "chord": "A#m",
+          "col": 8
+        },
+        {
+          "chord": "C#",
+          "col": 18
+        },
+        {
+          "chord": "C",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

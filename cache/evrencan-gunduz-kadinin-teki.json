@@ -1,0 +1,795 @@
+{
+  "slug": "evrencan-gunduz-kadinin-teki",
+  "artist": "Evrencan Gündüz",
+  "title": "Kadının Teki",
+  "key": "G",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Intro :",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Em7",
+          "col": 0
+        },
+        {
+          "chord": "Am7",
+          "col": 6
+        },
+        {
+          "chord": "Gm7",
+          "col": 11
+        },
+        {
+          "chord": "G",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Em7",
+          "col": 0
+        },
+        {
+          "chord": "Am7",
+          "col": 6
+        },
+        {
+          "chord": "Gm7",
+          "col": 11
+        },
+        {
+          "chord": "G",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kadının teki yine beni bıraktı",
+      "chords": [
+        {
+          "chord": "Gadd9",
+          "col": 0
+        },
+        {
+          "chord": "Bm7",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yine saldı  beni               gitti   uzaklara",
+      "chords": [
+        {
+          "chord": "Am7",
+          "col": 9
+        },
+        {
+          "chord": "Am7add11",
+          "col": 14
+        },
+        {
+          "chord": "D",
+          "col": 26
+        },
+        {
+          "chord": "G",
+          "col": 37
+        },
+        {
+          "chord": "G",
+          "col": 43
+        },
+        {
+          "chord": "F#",
+          "col": 45
+        },
+        {
+          "chord": "E",
+          "col": 48
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kadının teki yine beni sevdi",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Bm7",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sonra da gitti, klasik hikaye",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "Am7",
+          "col": 15
+        },
+        {
+          "chord": "D",
+          "col": 19
+        },
+        {
+          "chord": "Gmaj7",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kadının teki yine beni çok sevdi",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Bm7",
+          "col": 15
+        },
+        {
+          "chord": "E",
+          "col": 26
+        },
+        {
+          "chord": "Am",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yine özledi delice",
+      "chords": [
+        {
+          "chord": "Amadd11",
+          "col": 2
+        },
+        {
+          "chord": "Gmaj7",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Tam inanmıştım yine",
+      "chords": [
+        {
+          "chord": "Cmaj7",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hah   oldu diye,   yine olmadı işte",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 5
+        },
+        {
+          "chord": "Am",
+          "col": 16
+        },
+        {
+          "chord": "Amadd11",
+          "col": 19
+        },
+        {
+          "chord": "Gmaj7",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sanmıştım ki bu sefer oldu",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 5
+        },
+        {
+          "chord": "A#",
+          "col": 10
+        },
+        {
+          "chord": "Bm7",
+          "col": 16
+        },
+        {
+          "chord": "Am7",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yaz bitti, çiçekler soldu",
+      "chords": [
+        {
+          "chord": "Bm7",
+          "col": 11
+        },
+        {
+          "chord": "Cmaj7",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Biz    senle çıkamaz olduk gezmelere",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "A#m",
+          "col": 4
+        },
+        {
+          "chord": "Bm7",
+          "col": 8
+        },
+        {
+          "chord": "Am7",
+          "col": 24
+        },
+        {
+          "chord": "Cmaj7",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   Görüşemedik yüz yüze",
+      "chords": [
+        {
+          "chord": "C#m7",
+          "col": 0
+        },
+        {
+          "chord": "Cmaj7",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   Konuşamadık göz göze",
+      "chords": [
+        {
+          "chord": "C#m7",
+          "col": 0
+        },
+        {
+          "chord": "Cmaj7",
+          "col": 33
+        },
+        {
+          "chord": "C#m7",
+          "col": 41
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Reklam    arası    girdi  filmimize",
+      "chords": [
+        {
+          "chord": "Cmaj7",
+          "col": 5
+        },
+        {
+          "chord": "Bm7",
+          "col": 11
+        },
+        {
+          "chord": "Am7",
+          "col": 16
+        },
+        {
+          "chord": "D",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kadının teki yine beni bıraktı",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "Bm7",
+          "col": 41
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yine saldı beni             gitti uzaklara",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 9
+        },
+        {
+          "chord": "Amadd11",
+          "col": 14
+        },
+        {
+          "chord": "D",
+          "col": 24
+        },
+        {
+          "chord": "G",
+          "col": 34
+        },
+        {
+          "chord": "G",
+          "col": 40
+        },
+        {
+          "chord": "F#",
+          "col": 42
+        },
+        {
+          "chord": "E",
+          "col": 45
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kadının teki yine beni sevdi",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Bm7",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sonra da gitti, klasik hikaye",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "Am7",
+          "col": 15
+        },
+        {
+          "chord": "D",
+          "col": 19
+        },
+        {
+          "chord": "Gmaj7",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kadının teki yine beni çok sevdi",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Bm7",
+          "col": 16
+        },
+        {
+          "chord": "E",
+          "col": 26
+        },
+        {
+          "chord": "Am",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yine özledi delice",
+      "chords": [
+        {
+          "chord": "Amadd11",
+          "col": 2
+        },
+        {
+          "chord": "Gmaj7",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Tam inanmıştım yine",
+      "chords": [
+        {
+          "chord": "Cmaj7",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hah  oldu diye, yine olmadı işte",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 4
+        },
+        {
+          "chord": "Am",
+          "col": 14
+        },
+        {
+          "chord": "Amadd11",
+          "col": 20
+        },
+        {
+          "chord": "D#",
+          "col": 28
+        },
+        {
+          "chord": "F",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yine olmadı işte",
+      "chords": [
+        {
+          "chord": "D#maj7",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yine olmadı işte",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 24
+        },
+        {
+          "chord": "F",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yine olmadı işte",
+      "chords": [
+        {
+          "chord": "D#maj7",
+          "col": 25
+        },
+        {
+          "chord": "Dm7",
+          "col": 36
+        },
+        {
+          "chord": "E",
+          "col": 44
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kadının teki         yine beni çok sevdi",
+      "chords": [
+        {
+          "chord": "Bm7",
+          "col": 19
+        },
+        {
+          "chord": "E",
+          "col": 25
+        },
+        {
+          "chord": "Am",
+          "col": 49
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yine özledi delice",
+      "chords": [
+        {
+          "chord": "Gmaj7",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Tam inanmıştım",
+      "chords": [
+        {
+          "chord": "Cmaj7",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hah  oldu diye, yine olmadı    işte",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 4
+        },
+        {
+          "chord": "Am",
+          "col": 19
+        },
+        {
+          "chord": "Am7add11",
+          "col": 22
+        },
+        {
+          "chord": "Em7",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "                         D#maj7Em7",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yine olmadı işte",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "                         D#maj7Em7",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yine olmadı işte",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "                         D#maj7Em7",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yine olmadı işte",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "                         D#maj7Em7",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yine olmadı işte",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "                         D#maj7Em7",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yine olmadı işte",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "                         D#maj7Em7",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yine olmadı işte",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "                         D#maj7Em7",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yine olmadı işte",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "                         D#maj7Em7",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yine olmadı işte",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "                         D#maj7Em7",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yine olmadı işte",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "                         D#maj7Em7",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yine olmadı işte",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Reklam   arası girdi filmimize, filmimize.",
+      "chords": [
+        {
+          "chord": "D#maj7",
+          "col": 4
+        },
+        {
+          "chord": "Dm7",
+          "col": 11
+        },
+        {
+          "chord": "Cm7",
+          "col": 15
+        },
+        {
+          "chord": "F",
+          "col": 19
+        },
+        {
+          "chord": "Em",
+          "col": 47
+        },
+        {
+          "chord": "Am7",
+          "col": 51
+        },
+        {
+          "chord": "Gm7",
+          "col": 55
+        },
+        {
+          "chord": "G",
+          "col": 59
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

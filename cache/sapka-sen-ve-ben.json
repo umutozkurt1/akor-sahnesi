@@ -1,0 +1,157 @@
+{
+  "slug": "sapka-sen-ve-ben",
+  "artist": "Şapka",
+  "title": "Sen ve Ben",
+  "key": "E",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Hadi gel Bu karanlık geceye rağmen",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 21
+        },
+        {
+          "chord": "Em",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sev beni Tüm engellere rağmen",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Mutluluk inan Bu aşkın ucunda",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sen ve ben gidelim bu şehirden",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 9
+        },
+        {
+          "chord": "C",
+          "col": 13
+        },
+        {
+          "chord": "D",
+          "col": 19
+        },
+        {
+          "chord": "Em",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sus Ne olursun bir şey söyleme",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 10
+        },
+        {
+          "chord": "Em",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sadece kalbinin sesini dinle",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gidelim buralardan beraberce",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ne olur sanki mutlu olsa birlikte",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 9
+        },
+        {
+          "chord": "C",
+          "col": 13
+        },
+        {
+          "chord": "D",
+          "col": 19
+        },
+        {
+          "chord": "Em",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

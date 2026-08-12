@@ -1,0 +1,190 @@
+{
+  "slug": "jakuzi-koca-bi-sacmalik",
+  "artist": "jakuzi",
+  "title": "Koca Bi Saçmalık",
+  "key": "Bb",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "İntro",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Bb",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 4
+        },
+        {
+          "chord": "Am",
+          "col": 7
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Nasıl birisin, beni böyle üzebilirsin",
+      "chords": [
+        {
+          "chord": "Bb",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 8
+        },
+        {
+          "chord": "Am",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sanki her şeyi denedin",
+      "chords": [
+        {
+          "chord": "Bb",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 9
+        },
+        {
+          "chord": "Gm",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kalabilirsin, pekala gidebilirsin",
+      "chords": [
+        {
+          "chord": "Bb",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 7
+        },
+        {
+          "chord": "Am",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Daha değersiz hissettiremezdin",
+      "chords": [
+        {
+          "chord": "Bb",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 13
+        },
+        {
+          "chord": "Gm",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Çünkü ben,    ne zaman bir şey istesem",
+      "chords": [
+        {
+          "chord": "Bb",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 11
+        },
+        {
+          "chord": "Am",
+          "col": 17
+        },
+        {
+          "chord": "Bb",
+          "col": 56
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bana verilen, koca bir saçmalık",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 17
+        },
+        {
+          "chord": "Gm",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bilirsem,   hata nerde bilirsem",
+      "chords": [
+        {
+          "chord": "Bb",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 7
+        },
+        {
+          "chord": "Am",
+          "col": 11
+        },
+        {
+          "chord": "Bb",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hiç şaşırmam, kafanı şişirmem",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 17
+        },
+        {
+          "chord": "Gm",
+          "col": 41
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

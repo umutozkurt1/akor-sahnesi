@@ -1,0 +1,130 @@
+{
+  "slug": "furkan-kizilay-iyi-ki-dogdun",
+  "artist": "Furkan Kızılay",
+  "title": "İyi Ki Doğdun",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Sıcak Yuvamın Öyküsü Başlar Seninle",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Biz Olduk Adam Olduk O Deli Sevginle",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 0
+        },
+        {
+          "chord": "G7",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ilık Nefesin Bilirim Heran İçimde",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 1
+        },
+        {
+          "chord": "Fm",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kartanesi Gibi Sacında Sımdı Aklar",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 1
+        },
+        {
+          "chord": "G",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yıllarca Sımsıkı Tutundun Onlarda Huzur Var(guven Var)",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 1
+        },
+        {
+          "chord": "G",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İyi Ki Doğdun İyi Ki Varsın Sen Babamsın",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 6
+        },
+        {
+          "chord": "Cm",
+          "col": 21
+        },
+        {
+          "chord": "Fm",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İyi Ki Doğdun İyi Ki Varsın Sen Kahramanımsın",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 7
+        },
+        {
+          "chord": "Gm",
+          "col": 19
+        },
+        {
+          "chord": "G#",
+          "col": 27
+        },
+        {
+          "chord": "Cm",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

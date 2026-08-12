@@ -1,0 +1,114 @@
+{
+  "slug": "berkay-inanirim",
+  "artist": "Berkay",
+  "title": "İnanırım",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Kapo: 3 4 5",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sanmasınlar yıkıldım, sanmasınlar ben çöktüm,",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir başka bahar için sadece yaprak döktüm",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kalbinde bana yer var mı",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Tek sözüne inanırım bana ne istersen de",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 12
+        },
+        {
+          "chord": "G#",
+          "col": 25
+        },
+        {
+          "chord": "Gm",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Söyleyemem hiç derdimi bilirsin sen beni hatta",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sen susunca kahrolurum göz konuşur kalbim asla",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Görmeliydin ben en başında olmamıştı sırf İnadından",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bize dair yaşananlar vuruyor bak sol yanımda",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

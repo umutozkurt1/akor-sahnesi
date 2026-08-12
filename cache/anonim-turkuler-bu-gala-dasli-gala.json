@@ -1,0 +1,99 @@
+{
+  "slug": "anonim-turkuler-bu-gala-dasli-gala",
+  "artist": "Anonim Türküler",
+  "title": "Bu Gala Daşlı Gala",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Dağlara çam düşende, bülbüle gam düşende",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ruhum bedenden oynar, yadıma sen düşende",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 45
+        },
+        {
+          "chord": "Am",
+          "col": 70
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bu gala daşlı gala, cıngıllı daşlı gala",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 52
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Korkarım yar gelmeye, gözlerim yaşlı gala",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 60
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kızıl gül olmayaydı, sararıp solmayaydı",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir ayrılık bir ölüm, hiçbiri olmayaydı",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 37
+        },
+        {
+          "chord": "Am",
+          "col": 55
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

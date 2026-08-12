@@ -1,0 +1,241 @@
+{
+  "slug": "tarkan-cinar",
+  "artist": "Tarkan",
+  "title": "Çınar",
+  "key": "F#",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Ne yıkılırım ne sökülürüm",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir çınar gibi göğe dururum",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ne hasret yıkar ne ayaz yakar",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Baş eğmem bir tek yöne dururum",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 23
+        },
+        {
+          "chord": "F#m",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Rüzgarım çalar dallarım söyler",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 15
+        },
+        {
+          "chord": "F#m",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gönlümü kırma sazdan olurum",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 20
+        },
+        {
+          "chord": "F#m",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Paye veripte paya pay katma",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 14
+        },
+        {
+          "chord": "F#m",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ahhhh çoğu istemem azdan olurum",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 6
+        },
+        {
+          "chord": "G",
+          "col": 25
+        },
+        {
+          "chord": "F#m",
+          "col": 45
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ne yazım vardır ne kışım vardır",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 18
+        },
+        {
+          "chord": "Bm",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yüreğim hardır   yanar dururum",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 20
+        },
+        {
+          "chord": "G",
+          "col": 25
+        },
+        {
+          "chord": "F#m",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dost bilene hep yerim vardır",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 16
+        },
+        {
+          "chord": "Em",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ahhhhhh   şu gönlüm handır köle olurum",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 7
+        },
+        {
+          "chord": "Bm",
+          "col": 13
+        },
+        {
+          "chord": "F#m",
+          "col": 32
+        },
+        {
+          "chord": "Em",
+          "col": 37
+        },
+        {
+          "chord": "F#m",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

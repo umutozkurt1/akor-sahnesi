@@ -1,0 +1,683 @@
+{
+  "slug": "coldplay-a-message",
+  "artist": "Coldplay",
+  "title": "A Message",
+  "key": "F",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "   My song is love",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 16
+        },
+        {
+          "chord": "C",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   Love to the loveless shown",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 14
+        },
+        {
+          "chord": "C",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   And it goes up",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 14
+        },
+        {
+          "chord": "C",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   You don't have to be alone",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 13
+        },
+        {
+          "chord": "F",
+          "col": 21
+        },
+        {
+          "chord": "C",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   Your heavy heart",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 13
+        },
+        {
+          "chord": "C",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   Is made of stone",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 13
+        },
+        {
+          "chord": "C",
+          "col": 21
+        },
+        {
+          "chord": "A#",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   And it's so hard to see you clearly",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 14
+        },
+        {
+          "chord": "C",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   You don't have to be on your own",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 13
+        },
+        {
+          "chord": "F",
+          "col": 24
+        },
+        {
+          "chord": "C",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   You don't have to be on your own",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 13
+        },
+        {
+          "chord": "F",
+          "col": 24
+        },
+        {
+          "chord": "C",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   And I'm not gonna take it back",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 23
+        },
+        {
+          "chord": "C",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   Well I'm not gonna say I don't mean that",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 27
+        },
+        {
+          "chord": "C",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   You're the target that I'm aiming at",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 31
+        },
+        {
+          "chord": "C",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   And I get that message home",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 9
+        },
+        {
+          "chord": "F",
+          "col": 20
+        },
+        {
+          "chord": "C",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   My song is love",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 13
+        },
+        {
+          "chord": "C",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   My song is love, unknown",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 13
+        },
+        {
+          "chord": "C",
+          "col": 25
+        },
+        {
+          "chord": "A#",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   I'm on fire for you, clearly",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 10
+        },
+        {
+          "chord": "C",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   You don't have to be alone",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 13
+        },
+        {
+          "chord": "F",
+          "col": 21
+        },
+        {
+          "chord": "C",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   You don't have to be on your own",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 13
+        },
+        {
+          "chord": "F",
+          "col": 24
+        },
+        {
+          "chord": "C",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   And I'm not gonna take it back",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 23
+        },
+        {
+          "chord": "C",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   And, I'm not gonna say I don't mean that",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 29
+        },
+        {
+          "chord": "C",
+          "col": 43
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   You're the target that I'm aiming at",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 31
+        },
+        {
+          "chord": "C",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   But I'm nothing on my own",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 13
+        },
+        {
+          "chord": "F",
+          "col": 19
+        },
+        {
+          "chord": "C",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   Got to get that message home",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 11
+        },
+        {
+          "chord": "F",
+          "col": 21
+        },
+        {
+          "chord": "C",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 17
+        },
+        {
+          "chord": "C",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 17
+        },
+        {
+          "chord": "C",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   And I'm not gonna stand and wait",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 23
+        },
+        {
+          "chord": "C",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   not gonna leave it until it's much too late",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 33
+        },
+        {
+          "chord": "C",
+          "col": 43
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   On a platform, I'm gonna stand and say",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 30
+        },
+        {
+          "chord": "C",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   That I'm nothing on my own",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 14
+        },
+        {
+          "chord": "F",
+          "col": 20
+        },
+        {
+          "chord": "C",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   And I love you, please come home",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 11
+        },
+        {
+          "chord": "F",
+          "col": 20
+        },
+        {
+          "chord": "C",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 10
+        },
+        {
+          "chord": "C",
+          "col": 19
+        },
+        {
+          "chord": "Dm",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 10
+        },
+        {
+          "chord": "C",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   My song is love, is love unknown",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 10
+        },
+        {
+          "chord": "F",
+          "col": 18
+        },
+        {
+          "chord": "C",
+          "col": 25
+        },
+        {
+          "chord": "Dm",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   And I've got to get that message home",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 14
+        },
+        {
+          "chord": "F",
+          "col": 20
+        },
+        {
+          "chord": "C",
+          "col": 29
+        },
+        {
+          "chord": "Dm",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

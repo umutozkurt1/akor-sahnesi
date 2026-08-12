@@ -1,0 +1,165 @@
+{
+  "slug": "asu-maralman-yollar",
+  "artist": "Asu Maralman",
+  "title": "Yollar",
+  "key": "G",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Her yolun bir yolcusu var",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 1
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yolun taşlı tozlusu var",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sevdanın derdin kederin",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 1
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yollara düşmüş izi var",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 1
+        },
+        {
+          "chord": "D",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kimi yorganı sırtında",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 1
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kimi yüreği ağzında",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kimi bir sevdaya düşmüş",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 1
+        },
+        {
+          "chord": "D#",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kimi servet yolunda",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 1
+        },
+        {
+          "chord": "D",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yollar hasretleri bağlar",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 1
+        },
+        {
+          "chord": "D",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yollar gurbetlere uzar",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yollar karanlık yollar",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Aydınlık yollar da var",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

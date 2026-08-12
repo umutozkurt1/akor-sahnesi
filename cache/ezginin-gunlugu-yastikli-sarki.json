@@ -1,0 +1,184 @@
+{
+  "slug": "ezginin-gunlugu-yastikli-sarki",
+  "artist": "Ezginin Günlüğü",
+  "title": "Yastıklı Şarkı",
+  "key": "D",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "ORJİNAL TONU: C",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gün döküldü yastığa",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gölge bitti, viran oldu düşler yine",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 13
+        },
+        {
+          "chord": "Bm",
+          "col": 45
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir kapı bir pencere bir gökyüzü",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 21
+        },
+        {
+          "chord": "Em",
+          "col": 41
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Damdan düşmüş evin içine",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Vay vay sevdin onu, vay vay sevdin onu",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 6
+        },
+        {
+          "chord": "Bm",
+          "col": 24
+        },
+        {
+          "chord": "A",
+          "col": 37
+        },
+        {
+          "chord": "Bm",
+          "col": 57
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sevmesen ölürdün, sevdin onu öldün",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 56
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sevmesen ölürdün ama sevdin, gene öldün",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 28
+        },
+        {
+          "chord": "A",
+          "col": 46
+        },
+        {
+          "chord": "Bm",
+          "col": 61
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ayışığı gel dedi",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gel peşimden, inat olsun ele güne",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 19
+        },
+        {
+          "chord": "Bm",
+          "col": 46
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Düştüm onun peşine",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Rüzgar oldum, sürdüm düşlerimi göğe",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 15
+        },
+        {
+          "chord": "Bm",
+          "col": 55
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

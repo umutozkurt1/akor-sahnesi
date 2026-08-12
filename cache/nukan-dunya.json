@@ -1,0 +1,215 @@
+{
+  "slug": "nukan-dunya",
+  "artist": "Nukan",
+  "title": "Dünya",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "bir yanım kaçmak ister bir yanımdasın muhtaç sana",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 69
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "kendimi vurduğum bu yollar döner hep en başa",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 9
+        },
+        {
+          "chord": "D",
+          "col": 63
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "zaman akar gider neden neden sonu yalnızlığa",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 66
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "elimde boş umutlar uçar gider sonsuzlukta",
+      "chords": [
+        {
+          "chord": "Am7",
+          "col": 0
+        },
+        {
+          "chord": "Bm7",
+          "col": 34
+        },
+        {
+          "chord": "Em7",
+          "col": 49
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "zaman ağır ağır beni avutur kollarında",
+      "chords": [
+        {
+          "chord": "Am7",
+          "col": 0
+        },
+        {
+          "chord": "Bm7",
+          "col": 42
+        },
+        {
+          "chord": "Em7",
+          "col": 60
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "belki gerçek olur düşler bir bakışla",
+      "chords": [
+        {
+          "chord": "Am7",
+          "col": 0
+        },
+        {
+          "chord": "Bm7",
+          "col": 39
+        },
+        {
+          "chord": "Em7",
+          "col": 51
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "yalan değil değil durur bi damla göz yaşında",
+      "chords": [
+        {
+          "chord": "Am7",
+          "col": 0
+        },
+        {
+          "chord": "Bm7",
+          "col": 44
+        },
+        {
+          "chord": "Em7",
+          "col": 65
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "dünya dünya duysana yarın olmasın asla",
+      "chords": [
+        {
+          "chord": "Am7",
+          "col": 0
+        },
+        {
+          "chord": "Bm7",
+          "col": 10
+        },
+        {
+          "chord": "Em7",
+          "col": 25
+        },
+        {
+          "chord": "D",
+          "col": 40
+        },
+        {
+          "chord": "Am7",
+          "col": 54
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "eninde sonunda bana kalmaz bu rüya",
+      "chords": [
+        {
+          "chord": "Bm7",
+          "col": 7
+        },
+        {
+          "chord": "Em7",
+          "col": 22
+        },
+        {
+          "chord": "D",
+          "col": 40
+        },
+        {
+          "chord": "Am7",
+          "col": 54
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "zaten bu yara iyi olmazki asla dünya duysana",
+      "chords": [
+        {
+          "chord": "Bm7",
+          "col": 4
+        },
+        {
+          "chord": "Em7",
+          "col": 15
+        },
+        {
+          "chord": "D",
+          "col": 23
+        },
+        {
+          "chord": "Am7",
+          "col": 36
+        },
+        {
+          "chord": "Bm7",
+          "col": 45
+        },
+        {
+          "chord": "Em7",
+          "col": 57
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

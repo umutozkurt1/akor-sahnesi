@@ -1,0 +1,625 @@
+{
+  "slug": "ezginin-gunlugu-ask-bitti",
+  "artist": "Ezginin Günlüğü",
+  "title": "Aşk Bitti",
+  "key": "D",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "ORJİNAL TONU: C",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Aşk bitti, elimden sanki minik bir balık kayıp gitti",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 7
+        },
+        {
+          "chord": "C",
+          "col": 17
+        },
+        {
+          "chord": "Am",
+          "col": 53
+        },
+        {
+          "chord": "Bm",
+          "col": 62
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Aşk bitti, içimden sanki bir şeyler kopup gitti",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 7
+        },
+        {
+          "chord": "C",
+          "col": 17
+        },
+        {
+          "chord": "Am",
+          "col": 48
+        },
+        {
+          "chord": "Bm",
+          "col": 57
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Aşk hiç biter mi, hiç bir şey olmamış gibi",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 10
+        },
+        {
+          "chord": "C",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Boşlukta kaybolup gider mi",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Aşk hiç biter mi,        aşk hiç biter mi",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 10
+        },
+        {
+          "chord": "C",
+          "col": 19
+        },
+        {
+          "chord": "Am",
+          "col": 25
+        },
+        {
+          "chord": "Bm",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kalır adımızla, bir sokak duvarında",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 10
+        },
+        {
+          "chord": "Am",
+          "col": 25
+        },
+        {
+          "chord": "Bm",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir ağaç kabuğunda, bir takvim kenarında",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 15
+        },
+        {
+          "chord": "Am",
+          "col": 35
+        },
+        {
+          "chord": "Bm",
+          "col": 50
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kalır bir çiçekte, bir defter arasında",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 12
+        },
+        {
+          "chord": "Am",
+          "col": 29
+        },
+        {
+          "chord": "Bm",
+          "col": 43
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir tırnak yarasında, bir dolmuş sırasında",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 13
+        },
+        {
+          "chord": "Am",
+          "col": 35
+        },
+        {
+          "chord": "Bm",
+          "col": 50
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kalır bir odada, bir yastık oyasında",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 13
+        },
+        {
+          "chord": "Am",
+          "col": 30
+        },
+        {
+          "chord": "Bm",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir mum ışığında, bir yer yatağında",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 13
+        },
+        {
+          "chord": "Am",
+          "col": 26
+        },
+        {
+          "chord": "Bm",
+          "col": 41
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Aşk hiç biter mi,        aşk hiç biter mi",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 10
+        },
+        {
+          "chord": "C",
+          "col": 19
+        },
+        {
+          "chord": "Am",
+          "col": 25
+        },
+        {
+          "chord": "Bm",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kalır dilimizde, yinelenen bir şarkıda",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 12
+        },
+        {
+          "chord": "Am",
+          "col": 26
+        },
+        {
+          "chord": "Bm",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir okul çıkışında, bir çocuk bakışında",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 13
+        },
+        {
+          "chord": "Am",
+          "col": 29
+        },
+        {
+          "chord": "Bm",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kalır bir kitapta, bir masal perisinde",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 11
+        },
+        {
+          "chord": "Am",
+          "col": 27
+        },
+        {
+          "chord": "Bm",
+          "col": 41
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir hasta odasında, bir gece yarısında",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 9
+        },
+        {
+          "chord": "Am",
+          "col": 25
+        },
+        {
+          "chord": "Bm",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kalır bir durakta, yırtık bir afişte",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 12
+        },
+        {
+          "chord": "Am",
+          "col": 23
+        },
+        {
+          "chord": "Bm",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Buruk bir gülüşte, dağılmış yürüyüşte",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 14
+        },
+        {
+          "chord": "Am",
+          "col": 26
+        },
+        {
+          "chord": "Bm",
+          "col": 44
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Aşk hiç biter mi,        aşk hiç biter mi",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 10
+        },
+        {
+          "chord": "C",
+          "col": 19
+        },
+        {
+          "chord": "Am",
+          "col": 25
+        },
+        {
+          "chord": "Bm",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kalır bir sokakta, bir genel telefonda",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 12
+        },
+        {
+          "chord": "Am",
+          "col": 27
+        },
+        {
+          "chord": "Bm",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir soru yanıtında, bir komşu suratında",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 14
+        },
+        {
+          "chord": "Am",
+          "col": 30
+        },
+        {
+          "chord": "Bm",
+          "col": 46
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kalır bir pazarda, bir kahve kokusunda",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 13
+        },
+        {
+          "chord": "Am",
+          "col": 29
+        },
+        {
+          "chord": "Bm",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir tavşan niyetinde, bir çorap fiyatında",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 19
+        },
+        {
+          "chord": "Am",
+          "col": 36
+        },
+        {
+          "chord": "Bm",
+          "col": 49
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kalır bir yosunda, bir deniz kıyısında",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 12
+        },
+        {
+          "chord": "Am",
+          "col": 30
+        },
+        {
+          "chord": "Bm",
+          "col": 43
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir martı kanadında, bir vapur bacasında",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 15
+        },
+        {
+          "chord": "Am",
+          "col": 34
+        },
+        {
+          "chord": "Bm",
+          "col": 49
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Aşk hiç biter mi,        aşk hiç biter mi",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 10
+        },
+        {
+          "chord": "C",
+          "col": 19
+        },
+        {
+          "chord": "Am",
+          "col": 25
+        },
+        {
+          "chord": "Bm",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

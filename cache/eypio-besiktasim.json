@@ -1,0 +1,194 @@
+{
+  "slug": "eypio-besiktasim",
+  "artist": "Eypio",
+  "title": "Beşiktaş’ım",
+  "key": "Bb",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Kartalım yalnızım sanma",
+      "chords": [
+        {
+          "chord": "Bbm",
+          "col": 0
+        },
+        {
+          "chord": "Ab",
+          "col": 19
+        },
+        {
+          "chord": "Bbm",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yoruldum bundan usanmam",
+      "chords": [
+        {
+          "chord": "Bbm",
+          "col": 0
+        },
+        {
+          "chord": "Ab",
+          "col": 18
+        },
+        {
+          "chord": "Bbm",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Büyüdü aşkım zamanla, zamanla",
+      "chords": [
+        {
+          "chord": "F#",
+          "col": 0
+        },
+        {
+          "chord": "Ebm",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Mecnun çölümde bi’ damla",
+      "chords": [
+        {
+          "chord": "F#",
+          "col": 0
+        },
+        {
+          "chord": "Ab",
+          "col": 8
+        },
+        {
+          "chord": "Bbm",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Olduk mu? olabildik mi?",
+      "chords": [
+        {
+          "chord": "Ebm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Delinmiş dağlar biz geçebildik mi?",
+      "chords": [
+        {
+          "chord": "Bbm",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sevginden biz delirdik mi?",
+      "chords": [
+        {
+          "chord": "Ebm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "                    Sus",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ey şanlı Beşiktaş’ım…",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Her filmde olmaz mutlu son inan artık",
+      "chords": [
+        {
+          "chord": "Bbm",
+          "col": 0
+        },
+        {
+          "chord": "Ab",
+          "col": 24
+        },
+        {
+          "chord": "Bbm",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bi’ bilen varsa ona sor göze battık",
+      "chords": [
+        {
+          "chord": "Ab",
+          "col": 20
+        },
+        {
+          "chord": "Bbm",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Aşkından olduk bizde kör Beşiktaş’ım",
+      "chords": [
+        {
+          "chord": "Ebm",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bu şanlı taraftarınla neler yaptın?",
+      "chords": [
+        {
+          "chord": "F#",
+          "col": 0
+        },
+        {
+          "chord": "Ab",
+          "col": 19
+        },
+        {
+          "chord": "Bbm",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

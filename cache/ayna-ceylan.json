@@ -1,0 +1,121 @@
+{
+  "slug": "ayna-ceylan",
+  "artist": "Ayna",
+  "title": "Ceylan",
+  "key": "G",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Ne yalnizlik ne hüzün ne o eski sarkilar",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 51
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hiçbiri dokunmuyor senin yoklugun kadar",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 57
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gece yagmur ve soguk sehrin caddelerinde",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 65
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gözlerimde hayalin hasretin ellerinde",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 54
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gurbette yorgun düstün be ceylan",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hasret tüketti bittin be ceylan",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yeniden düstüm yollarina vardim geldim ellerine",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 24
+        },
+        {
+          "chord": "F",
+          "col": 43
+        },
+        {
+          "chord": "A#",
+          "col": 69
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yitik buruk bir çocugum ben koyma beni hasretine",
+      "chords": [
+        {
+          "chord": "Eb",
+          "col": 1
+        },
+        {
+          "chord": "D7",
+          "col": 18
+        },
+        {
+          "chord": "Gm",
+          "col": 68
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

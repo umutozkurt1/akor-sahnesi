@@ -1,0 +1,827 @@
+{
+  "slug": "ed-sheeran-little-bird",
+  "artist": "Ed Sheeran",
+  "title": "Little Bird",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "We take this bird in with it's broken leg",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "We can nurse it she said",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 12
+        },
+        {
+          "chord": "G",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Come inside for a little lie down with me",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 6
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And if you fall asleep it wouldnt be the worst thing",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 4
+        },
+        {
+          "chord": "D",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And when I wake up",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 4
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Her make up",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 4
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Is on my shoulder",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 2
+        },
+        {
+          "chord": "G",
+          "col": 6
+        },
+        {
+          "chord": "D",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And tell me if i lie down",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 3
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Will you stay now",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 2
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Let me hold you",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 7
+        },
+        {
+          "chord": "D",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And if I kiss you",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 2
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Will your mouth read this truth",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 7
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Darling how I miss you",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 7
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Strawberries taste like lips do",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 3
+        },
+        {
+          "chord": "D",
+          "col": 5
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And it's not complete yet",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 2
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Musn't get our feet wet",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 2
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Cos that that leads to regret diving in too soon",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 3
+        },
+        {
+          "chord": "G",
+          "col": 9
+        },
+        {
+          "chord": "D",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And i'll owe it all to you",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 2
+        },
+        {
+          "chord": "C",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "My little bird",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 6
+        },
+        {
+          "chord": "C",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "My little bird",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 3
+        },
+        {
+          "chord": "D",
+          "col": 5
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "tab",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Take a walk out in the morning dew",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 4
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "We could lay down so i'm next to you",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 5
+        },
+        {
+          "chord": "D",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Come inside for a little homemade tea",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 6
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "If you fall asleep then atleast you're next to me",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 6
+        },
+        {
+          "chord": "D",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And if I wake her",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 2
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "She'll say it's late love go back to sleep",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 3
+        },
+        {
+          "chord": "G",
+          "col": 7
+        },
+        {
+          "chord": "G",
+          "col": 9
+        },
+        {
+          "chord": "D",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Uncovered by nature",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 6
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I need safe now",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 1
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And i need this oak tree with you beside me",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 2
+        },
+        {
+          "chord": "D",
+          "col": 7
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "tabchorus",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But if I kiss you",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 2
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Will your mouth read this truth",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 7
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Darling how I miss you",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 7
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Strawberries taste like lips do",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 3
+        },
+        {
+          "chord": "D",
+          "col": 5
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And it's not complete yet",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 2
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Musn't get our feet wet",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 2
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Cos that that leads to regret diving in too soon",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 3
+        },
+        {
+          "chord": "G",
+          "col": 9
+        },
+        {
+          "chord": "D",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And i'll owe it all to you",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 2
+        },
+        {
+          "chord": "C",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "My little bird",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 3
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "My little bird",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 3
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "My little bird",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 3
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "My little bird",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 3
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "My little bird",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 3
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "tab",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And of all these things i'm sure of",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 1
+        },
+        {
+          "chord": "C",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'm not quite certain of your love",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 4
+        },
+        {
+          "chord": "G",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You make me scream",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 4
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Then I made you cry",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 7
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "When I left that little bird with it's broken leg to die",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 1
+        },
+        {
+          "chord": "D",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But if I kiss you",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 2
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Will your mouth read this truth",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 7
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Darling how I miss you",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 7
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Strawberries taste like lips do",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 3
+        },
+        {
+          "chord": "D",
+          "col": 5
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And it's not complete yet",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 2
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Musn't get our feet wet",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 2
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Cos that that leads to regret diving in too soon",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 3
+        },
+        {
+          "chord": "G",
+          "col": 9
+        },
+        {
+          "chord": "D",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But I'll owe it all to you my little bird",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "My little bird",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "My little bird",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Woah",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "My little bird",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "My little bird",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "you're my little bird",
+      "chords": [],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

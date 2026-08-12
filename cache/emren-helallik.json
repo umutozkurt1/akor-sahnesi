@@ -1,0 +1,253 @@
+{
+  "slug": "emren-helallik",
+  "artist": "Emren",
+  "title": "Helallik",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Dertli başımı hangi omuzlar taşır bu saatten sonra",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Bbm",
+          "col": 49
+        },
+        {
+          "chord": "Cm",
+          "col": 75
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Aşısı olmayan sevgiye muhtacım belki, kim bilir",
+      "chords": [
+        {
+          "chord": "Db",
+          "col": 0
+        },
+        {
+          "chord": "Bbm",
+          "col": 53
+        },
+        {
+          "chord": "Cm",
+          "col": 76
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hangi renge çizilir sence hayatımın kareleri",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Bbm",
+          "col": 43
+        },
+        {
+          "chord": "Cm",
+          "col": 62
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kaçarı olmayan koyulara mahkumdur belki, kim bilir",
+      "chords": [
+        {
+          "chord": "Db",
+          "col": 0
+        },
+        {
+          "chord": "Bbm",
+          "col": 53
+        },
+        {
+          "chord": "Cm",
+          "col": 80
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Değinsem bu konulara, yarama tuz basar gibi bağırır yürek",
+      "chords": [
+        {
+          "chord": "Db",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 65
+        },
+        {
+          "chord": "Fm",
+          "col": 71
+        },
+        {
+          "chord": "Eb",
+          "col": 79
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ama çıkar mı bir ses, bilemem, ne de olsa derinde yaşananlar",
+      "chords": [
+        {
+          "chord": "Eb",
+          "col": 0
+        },
+        {
+          "chord": "Db",
+          "col": 11
+        },
+        {
+          "chord": "Bbm",
+          "col": 78
+        },
+        {
+          "chord": "Cm",
+          "col": 96
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Değinsem bu konulara, yoruma yer olmaz ama",
+      "chords": [
+        {
+          "chord": "Db",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 65
+        },
+        {
+          "chord": "Fm",
+          "col": 71
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Seriyor her şeyi gözler önüne yeniden, ne de olsa gözümden akanlar",
+      "chords": [
+        {
+          "chord": "Eb",
+          "col": 10
+        },
+        {
+          "chord": "Db",
+          "col": 29
+        },
+        {
+          "chord": "Bbm",
+          "col": 91
+        },
+        {
+          "chord": "Cm",
+          "col": 109
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kimler kullanacak son yolculuğumda özel arabamı",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "Bbm",
+          "col": 52
+        },
+        {
+          "chord": "Cm",
+          "col": 71
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kimler sırtlayacak tahtalı kutuya kapanan adamı",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "Bbm",
+          "col": 41
+        },
+        {
+          "chord": "Cm",
+          "col": 70
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hatırlayan, özleyen, soran, falan filan olacak mı",
+      "chords": [
+        {
+          "chord": "Db",
+          "col": 0
+        },
+        {
+          "chord": "Bbm",
+          "col": 48
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kimler çok görecek bana helallik hakkımı",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 24
+        },
+        {
+          "chord": "Bbm",
+          "col": 42
+        },
+        {
+          "chord": "Cm",
+          "col": 57
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

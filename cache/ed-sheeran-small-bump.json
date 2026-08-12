@@ -1,0 +1,775 @@
+{
+  "slug": "ed-sheeran-small-bump",
+  "artist": "Ed Sheeran",
+  "title": "Small Bump",
+  "key": "E",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Intro",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 3
+        },
+        {
+          "chord": "B",
+          "col": 5
+        },
+        {
+          "chord": "C",
+          "col": 7
+        },
+        {
+          "chord": "G",
+          "col": 9
+        },
+        {
+          "chord": "Em",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "DF#              Em",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 3
+        },
+        {
+          "chord": "G",
+          "col": 5
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "    You're just a small bump unborn",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "In four  months you're brought to life",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 12
+        },
+        {
+          "chord": "G",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You might be left with my hair",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But you'll have your    mother's eyes I'll hold your body in my hands",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 16
+        },
+        {
+          "chord": "G",
+          "col": 25
+        },
+        {
+          "chord": "Em",
+          "col": 46
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "      GB      C",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Be as gentle as I can",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But for now you're a scan of my unmade plans",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "A small bump",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 2
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "In four  months you're brought to life",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 19
+        },
+        {
+          "chord": "G",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'll whisper  quietly",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 12
+        },
+        {
+          "chord": "C",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'll give you nothing but truth",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "If you're not inside me",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 16
+        },
+        {
+          "chord": "C",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'll put my future in you",
+      "chords": [
+        {
+          "chord": "Dsus4",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You are my one and on____ly__",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 11
+        },
+        {
+          "chord": "C",
+          "col": 22
+        },
+        {
+          "chord": "G",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And you can wrap your fingers 'round my thumb and hold   me   tight",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 40
+        },
+        {
+          "chord": "C",
+          "col": 53
+        },
+        {
+          "chord": "G",
+          "col": 55
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Oh, you are my one and on____ly__",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 14
+        },
+        {
+          "chord": "C",
+          "col": 25
+        },
+        {
+          "chord": "G",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You can wrap your fingers 'round my thumb and hold   me   tight",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 26
+        },
+        {
+          "chord": "Em",
+          "col": 36
+        },
+        {
+          "chord": "C",
+          "col": 49
+        },
+        {
+          "chord": "G",
+          "col": 51
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And you'll be alright",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Oh, you're just a  small bump unknown",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You'll grow into your skin",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 8
+        },
+        {
+          "chord": "G",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "With a smile like hers",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "      Em                  GB",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And a dimple beneath your chin",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "            Fingernails the size",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 2
+        },
+        {
+          "chord": "Em",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "     GB         C",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Of a half  grain of rice",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And eyelids closed to be soon opened wide",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 4
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "A small bump",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 2
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "In four  months you'll    open your eyes And I'll hold you  tightly",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 18
+        },
+        {
+          "chord": "G",
+          "col": 33
+        },
+        {
+          "chord": "Am",
+          "col": 51
+        },
+        {
+          "chord": "C",
+          "col": 60
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'll tell you nothing but truth",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "If you're not inside me",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 16
+        },
+        {
+          "chord": "C",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "                      Dsus4 GB",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'll put my future in you",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You are my one and on____ly__",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 11
+        },
+        {
+          "chord": "C",
+          "col": 22
+        },
+        {
+          "chord": "G",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And you can wrap your fingers 'round my thumb and hold   me   tight",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 40
+        },
+        {
+          "chord": "C",
+          "col": 53
+        },
+        {
+          "chord": "G",
+          "col": 55
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Oh, you are my one and on____ly__",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 15
+        },
+        {
+          "chord": "C",
+          "col": 26
+        },
+        {
+          "chord": "G",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You can wrap your fingers 'round my thumb and hold   me   tight",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 32
+        },
+        {
+          "chord": "Em",
+          "col": 36
+        },
+        {
+          "chord": "C",
+          "col": 49
+        },
+        {
+          "chord": "G",
+          "col": 51
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And you'll be alright",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And you can lie with me",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "With your tiny feet",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "When you're half asleep",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'll leave you be",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Right in front of me",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "For a couple weeks",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 6
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "So I can keep you safe",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 3
+        },
+        {
+          "chord": "C",
+          "col": 18
+        },
+        {
+          "chord": "G",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "'Cause you are my one and on____ly__",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 18
+        },
+        {
+          "chord": "C",
+          "col": 29
+        },
+        {
+          "chord": "G",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You can wrap your fingers 'round my thumb and hold   me   tight",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 36
+        },
+        {
+          "chord": "C",
+          "col": 49
+        },
+        {
+          "chord": "G",
+          "col": 51
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You are my one and on____ly__",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 11
+        },
+        {
+          "chord": "C",
+          "col": 22
+        },
+        {
+          "chord": "G",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You can wrap your fingers 'round my thumb and hold   me   tight",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 32
+        },
+        {
+          "chord": "Em",
+          "col": 36
+        },
+        {
+          "chord": "C",
+          "col": 49
+        },
+        {
+          "chord": "G",
+          "col": 51
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You'll be alright",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "'Cause you were just a small  bump unborn",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "For four  months then torn from life",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 13
+        },
+        {
+          "chord": "G",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Maybe you were needed  up there",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But we're still unaware as why",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 12
+        },
+        {
+          "chord": "G",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

@@ -1,0 +1,192 @@
+{
+  "slug": "ferman-akgul-pismanim",
+  "artist": "Ferman Akgül",
+  "title": "Pişmanım",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Yıldızların bizi gördüğü o gece",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 29
+        },
+        {
+          "chord": "C#m",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sen olmalıydın yanımda, o değil",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 31
+        },
+        {
+          "chord": "C#m",
+          "col": 44
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sabah baş ağrısıyla kıvranırken",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 28
+        },
+        {
+          "chord": "C#m",
+          "col": 43
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "O ağlamalıydı, ben değil",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 21
+        },
+        {
+          "chord": "C#m",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Keşke yalancı olabilsem",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 30
+        },
+        {
+          "chord": "C#m",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ah, keşke hiçbir şey olmadı diyebilsem",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 51
+        },
+        {
+          "chord": "C#m",
+          "col": 59
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yaptıklarıma değil yapamadıklarıma",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 23
+        },
+        {
+          "chord": "C#m",
+          "col": 28
+        },
+        {
+          "chord": "E",
+          "col": 49
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ona baktığıma değil seni göremediğime",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 28
+        },
+        {
+          "chord": "C#m",
+          "col": 33
+        },
+        {
+          "chord": "E",
+          "col": 58
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Pişmanım, pişman",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 14
+        },
+        {
+          "chord": "F#m",
+          "col": 25
+        },
+        {
+          "chord": "C#m",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

@@ -1,0 +1,115 @@
+{
+  "slug": "yasar-kurt-alisamadim",
+  "artist": "Yaşar Kurt",
+  "title": "Alışamadım",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Uzun uzun anlatamam her şeyi",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 29
+        },
+        {
+          "chord": "Am",
+          "col": 44
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Böyle olsun istemedim ben de",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 16
+        },
+        {
+          "chord": "Am",
+          "col": 44
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sakın kal deme bana",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 4
+        },
+        {
+          "chord": "Am",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gidiyorum alışamadım bu kente",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 13
+        },
+        {
+          "chord": "E",
+          "col": 33
+        },
+        {
+          "chord": "Am",
+          "col": 49
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Suskun deniz boyu martılar",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 16
+        },
+        {
+          "chord": "Am",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Eve yalnız dönüyorum ben de",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 3
+        },
+        {
+          "chord": "Am",
+          "col": 45
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

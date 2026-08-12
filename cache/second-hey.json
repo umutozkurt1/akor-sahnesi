@@ -1,0 +1,520 @@
+{
+  "slug": "second-hey",
+  "artist": "Second",
+  "title": "Hey",
+  "key": "E",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 3
+        },
+        {
+          "chord": "C#m",
+          "col": 6
+        },
+        {
+          "chord": "B",
+          "col": 11
+        },
+        {
+          "chord": "E",
+          "col": 14
+        },
+        {
+          "chord": "B",
+          "col": 17
+        },
+        {
+          "chord": "C#m",
+          "col": 20
+        },
+        {
+          "chord": "B",
+          "col": 25
+        },
+        {
+          "chord": "E",
+          "col": 29
+        },
+        {
+          "chord": "B",
+          "col": 32
+        },
+        {
+          "chord": "C#m",
+          "col": 35
+        },
+        {
+          "chord": "B",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 3
+        },
+        {
+          "chord": "C#m",
+          "col": 6
+        },
+        {
+          "chord": "A",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 3
+        },
+        {
+          "chord": "C#m",
+          "col": 6
+        },
+        {
+          "chord": "A",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ölcem diye korktum yasamaktan",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Nefret ederdim bi ise yaramaktan",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hırsız oldum kavga cıkardım",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yorulmustum kendimi aramaktan",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 3
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Uyustum okula gidip ögrenmekten",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 1
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hayat nerde unuttum gercekten",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 3
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bak gözlerime ruhsuzlastı",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yoruldum beynimi s*ktirmekten",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   Bir hataydık senle ben",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 8
+        },
+        {
+          "chord": "A",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "En sevdigim hatamdın, sen",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 22
+        },
+        {
+          "chord": "A",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hey! Ben göremedim sen söyle",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 16
+        },
+        {
+          "chord": "C#m",
+          "col": 47
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yarın varmı?",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hey! Ben göremedim sen söyle",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 16
+        },
+        {
+          "chord": "C#m",
+          "col": 47
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "yarın varmı?",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "( E t r a f ı n d a   b i y e r l e r d e ) x2",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 1
+        },
+        {
+          "chord": "B",
+          "col": 12
+        },
+        {
+          "chord": "C#m",
+          "col": 31
+        },
+        {
+          "chord": "A",
+          "col": 43
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gözlerimi kapatıp uykuya dalsam",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kendimi senle bir rüyada görsem",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Öpsen beni ben gercek sansam",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kendi kuyularımı kendim kazsam",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Uyustum okula gidip ögrenmekten",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hayat nerde unuttum gercekten",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 4
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bak gözlerime ruhsuzlastı",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yoruldum beynimi s*ktirmekten",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   Bir hataydık senle ben",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 8
+        },
+        {
+          "chord": "A",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "En sevdigim hatamdın, sen",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 22
+        },
+        {
+          "chord": "A",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hey! Ben göremedim sen söyle",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 16
+        },
+        {
+          "chord": "C#m",
+          "col": 47
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yarın varmı?",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hey! Ben göremedim sen söyle",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 16
+        },
+        {
+          "chord": "C#m",
+          "col": 47
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "yarın varmı?",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "( E t r a f ı n d a   b i y e r l e r d e ) x2",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 1
+        },
+        {
+          "chord": "B",
+          "col": 12
+        },
+        {
+          "chord": "C#m",
+          "col": 31
+        },
+        {
+          "chord": "A",
+          "col": 43
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

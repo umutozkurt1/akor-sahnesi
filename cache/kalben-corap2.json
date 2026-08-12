@@ -1,0 +1,143 @@
+{
+  "slug": "kalben-corap2",
+  "artist": "Kalben",
+  "title": "Çorap",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Aç değil açık değilim, kaçığım çorap gibi kış gününde",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 73
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ufaldım ezildim, öldüm de dirildim ah önünde",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 30
+        },
+        {
+          "chord": "Am",
+          "col": 65
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Neden istiyorsun uzaklara gitmemi,",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Neden götürmedin bi' çay bahçesine?",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ne bir sinema, ne de Burgaz Ada oldu ömrümde",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 4
+        },
+        {
+          "chord": "E",
+          "col": 32
+        },
+        {
+          "chord": "Am",
+          "col": 72
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İçi su dolu odalarda boğulduk cümlelerde",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 61
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ayrılmak için aradığım cümle nerde?",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 32
+        },
+        {
+          "chord": "Am",
+          "col": 51
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kutularda, bavullarda ve kolilerde",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 50
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ayrılmak için aradığım cümle hangi çekmecede?",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 46
+        },
+        {
+          "chord": "Am",
+          "col": 76
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

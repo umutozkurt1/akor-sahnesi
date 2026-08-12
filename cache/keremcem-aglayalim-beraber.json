@@ -1,0 +1,195 @@
+{
+  "slug": "keremcem-aglayalim-beraber",
+  "artist": "Keremcem",
+  "title": "Ağlayalım Beraber",
+  "key": "D",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Ayrılık günü düştü peşime hüzün ve bırakmadı kaç yıl boyu",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 43
+        },
+        {
+          "chord": "Cm",
+          "col": 86
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Boylu boyunca uzandım yanına ama bana dönük değildi yüzün",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 43
+        },
+        {
+          "chord": "Cm",
+          "col": 89
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Aldanıp sana bekledim geçen güzü ve bırakmadın kaç yıl boyu",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 48
+        },
+        {
+          "chord": "Cm",
+          "col": 91
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Zaman dolunca geldiysem yanına sebep sana verdiğim sözüm",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 43
+        },
+        {
+          "chord": "Cm",
+          "col": 88
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dön diye yalvarırken, düştü elimden gururum",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 21
+        },
+        {
+          "chord": "Fm",
+          "col": 32
+        },
+        {
+          "chord": "Cm",
+          "col": 54
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Son diye dilenirken geçti önümden bitanem",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 11
+        },
+        {
+          "chord": "G",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yine dolacaksa gözlerim, sensiz olsun dilerim",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Eritir yaşlar kalbimi, dayanamaz buna yüreğim",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 44
+        },
+        {
+          "chord": "G",
+          "col": 70
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dur yalan yalan söyledim yaşanacaksa eğer keder",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bırakma yalnız beni, ağlayalım beraber",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 45
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

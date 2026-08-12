@@ -1,0 +1,495 @@
+{
+  "slug": "adele-make-you-feel-my-love",
+  "artist": "Adele",
+  "title": "Make You Feel My Love",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "[VERSE 1]",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "When the rain is blowing in your face",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And the whole world is on your case",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I would offer you a warm embrace",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "To make you feel my love.",
+      "chords": [
+        {
+          "chord": "D7",
+          "col": 0
+        },
+        {
+          "chord": "G7",
+          "col": 13
+        },
+        {
+          "chord": "C",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "[VERSE 2]",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "When evening shadows and the stars appear",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And there is no one there to dry your tears",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 2
+        },
+        {
+          "chord": "F",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I could hold you for a million years",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "To make you feel my love.",
+      "chords": [
+        {
+          "chord": "D7",
+          "col": 0
+        },
+        {
+          "chord": "G7",
+          "col": 13
+        },
+        {
+          "chord": "C",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "[BRIDGE 1]",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I know you haven't made your mind up yet",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But I would never do you wrong.",
+      "chords": [
+        {
+          "chord": "E7",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 13
+        },
+        {
+          "chord": "C",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I've known it from the moment that we met",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "No doubt in my mind where you belong",
+      "chords": [
+        {
+          "chord": "D7",
+          "col": 0
+        },
+        {
+          "chord": "G7",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "[VERSE 3]",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'd go hungry, I'd go black and blue",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'd go crawling down the avenue.",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "There's nothing that I wouldn't do",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "To make you feel my love.",
+      "chords": [
+        {
+          "chord": "D7",
+          "col": 0
+        },
+        {
+          "chord": "G7",
+          "col": 12
+        },
+        {
+          "chord": "C",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "[INSTRUMENTAL]",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 6
+        },
+        {
+          "chord": "A#",
+          "col": 11
+        },
+        {
+          "chord": "F",
+          "col": 15
+        },
+        {
+          "chord": "Fm",
+          "col": 19
+        },
+        {
+          "chord": "C",
+          "col": 25
+        },
+        {
+          "chord": "D7",
+          "col": 29
+        },
+        {
+          "chord": "G7",
+          "col": 34
+        },
+        {
+          "chord": "C",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "The storms are raging on the rollin' sea.",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And on the highway of regret",
+      "chords": [
+        {
+          "chord": "E7",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 12
+        },
+        {
+          "chord": "C",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "The winds of change are blowing wild and free.",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You ain't seen nothing like me yet.",
+      "chords": [
+        {
+          "chord": "D7",
+          "col": 0
+        },
+        {
+          "chord": "G7",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "[OUTRO]",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I could make you happy, make your dreams come true.",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "There’s nothing that I would not do.",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Go to the ends of the earth for you",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "To make you feel my love.",
+      "chords": [
+        {
+          "chord": "D7",
+          "col": 0
+        },
+        {
+          "chord": "G7",
+          "col": 14
+        },
+        {
+          "chord": "C",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "To make you feel my love.",
+      "chords": [
+        {
+          "chord": "D7",
+          "col": 0
+        },
+        {
+          "chord": "G7",
+          "col": 13
+        },
+        {
+          "chord": "C",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

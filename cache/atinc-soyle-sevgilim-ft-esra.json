@@ -1,0 +1,150 @@
+{
+  "slug": "atinc-soyle-sevgilim-ft-esra",
+  "artist": "Atınç",
+  "title": "Söyle Sevgilim (ft. Esra)",
+  "key": "F",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Seni düne kadar şarkılarda şiirlerde aradım durdum",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 28
+        },
+        {
+          "chord": "Bb",
+          "col": 58
+        },
+        {
+          "chord": "Am",
+          "col": 75
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gizlensen de nağmelerde yorulmadım vazgeçmedim aradım buldum",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 28
+        },
+        {
+          "chord": "Bb",
+          "col": 68
+        },
+        {
+          "chord": "Am",
+          "col": 94
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sana öyle bağlıyım ki zincirler prangalarla",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "Bb",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Git desen de gidemem ki, ben sensiz olamam yaşamam artık",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "Bb",
+          "col": 43
+        },
+        {
+          "chord": "Gm",
+          "col": 76
+        },
+        {
+          "chord": "Am",
+          "col": 92
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sen bana çok yakıştın, ben sana çok alıştım",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Tamamlandık böyle, kim yıkar bizi söyle",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "Bb",
+          "col": 34
+        },
+        {
+          "chord": "Am",
+          "col": 55
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kim devirir bu aşkı, söyle sevgilim söyle",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "Bb",
+          "col": 34
+        },
+        {
+          "chord": "Am",
+          "col": 48
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

@@ -1,0 +1,96 @@
+{
+  "slug": "halil-sezai-paracikoglu-yagmur",
+  "artist": "Halil Sezai Paracıkoğlu",
+  "title": "Yağmur",
+  "key": "E",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Üzgün,kırgın ve yorgun",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bilinmez ki yarın,yarın olmayınca.",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 12
+        },
+        {
+          "chord": "Bm",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bilmem,bilmem ah bilmem",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bilinmez ki yarın sen olmayınca.",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 12
+        },
+        {
+          "chord": "Bm",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "yağsan,dallar olsa,zaman dursa gitsem..",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 14
+        },
+        {
+          "chord": "Am",
+          "col": 25
+        },
+        {
+          "chord": "Bm",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

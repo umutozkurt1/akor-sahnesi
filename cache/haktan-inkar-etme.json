@@ -1,0 +1,206 @@
+{
+  "slug": "haktan-inkar-etme",
+  "artist": "Haktan",
+  "title": "İnkar Etme",
+  "key": "C#",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Hangi yöne baksam",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir cam gibi kırılırım",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Parçalanmış kalbimle",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ben sana sarılırım",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Beni koysan bir yerine",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bütün anılar toplanır",
+      "chords": [
+        {
+          "chord": "G#m",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Vurur kalbime",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Zaman geçmek bilmez o zaman",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 45
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Oturur ağlarsın kendi haline",
+      "chords": [
+        {
+          "chord": "G#m",
+          "col": 13
+        },
+        {
+          "chord": "A",
+          "col": 23
+        },
+        {
+          "chord": "C#m",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sana dokunmamış",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hiç ağlamamış gibi",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Görmezden geliyorsun",
+      "chords": [
+        {
+          "chord": "G#m",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sanki bir yabancı gibi",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bana sarılmamış",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hiç sevişmemiş gibi",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İnkar etme ne olur",
+      "chords": [
+        {
+          "chord": "G#m",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sende sevdin deli gibi",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "C#m",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

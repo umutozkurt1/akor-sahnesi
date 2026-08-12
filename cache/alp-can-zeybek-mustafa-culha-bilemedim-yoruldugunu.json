@@ -1,0 +1,177 @@
+{
+  "slug": "alp-can-zeybek-mustafa-culha-bilemedim-yoruldugunu",
+  "artist": "Alp Can Zeybek & Mustafa Çulha",
+  "title": "Bilemedim Yorulduğunu",
+  "key": "F#",
+  "capo": 0,
+  "rhythm": "A-A-A-Y-Y-A-A-Y-A-Y",
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Günler geçmiş artık zorlama dönmem",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "C#m",
+          "col": 26
+        },
+        {
+          "chord": "Bm",
+          "col": 53
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gittiğin yerde kal ama sakın (gelme) söz verme",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 31
+        },
+        {
+          "chord": "F#m",
+          "col": 49
+        },
+        {
+          "chord": "F#m",
+          "col": 67
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bana dokunma bu akşam solacağım",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yağmurda sönsemde sende yanacağım…",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "C#m",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gelemediysen bul yolunu, kaçmak zor olur ölümlerden",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "C#m",
+          "col": 12
+        },
+        {
+          "chord": "Bm",
+          "col": 29
+        },
+        {
+          "chord": "C#m",
+          "col": 46
+        },
+        {
+          "chord": "F#m",
+          "col": 70
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bilemedim yorulduğunu ardından koşarken",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 11
+        },
+        {
+          "chord": "Bm",
+          "col": 33
+        },
+        {
+          "chord": "C#m",
+          "col": 43
+        },
+        {
+          "chord": "F#m",
+          "col": 56
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sevemedin sandığımdan artık zorlamadım",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 13
+        },
+        {
+          "chord": "Bm",
+          "col": 32
+        },
+        {
+          "chord": "C#m",
+          "col": 37
+        },
+        {
+          "chord": "F#m",
+          "col": 53
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Günleri sayamadım, kimseyi aramadım",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 8
+        },
+        {
+          "chord": "Bm",
+          "col": 22
+        },
+        {
+          "chord": "C#m",
+          "col": 34
+        },
+        {
+          "chord": "Bm",
+          "col": 49
+        },
+        {
+          "chord": "F#m",
+          "col": 53
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

@@ -1,0 +1,232 @@
+{
+  "slug": "haramiler-cagir-beni",
+  "artist": "Haramiler",
+  "title": "Çağır Beni",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 3
+        },
+        {
+          "chord": "Dm",
+          "col": 6
+        },
+        {
+          "chord": "E",
+          "col": 10
+        },
+        {
+          "chord": "C",
+          "col": 13
+        },
+        {
+          "chord": "Am",
+          "col": 16
+        },
+        {
+          "chord": "F",
+          "col": 20
+        },
+        {
+          "chord": "E",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gece soğuk ve karanlık  yanlızsın üşüyorsun",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 24
+        },
+        {
+          "chord": "E",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sımsıcak dostun sesini arayıp bulamazsın",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 24
+        },
+        {
+          "chord": "E",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hani dertlerin bir çığ olur peşinden koşarda kaçamazsın",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 37
+        },
+        {
+          "chord": "E",
+          "col": 51
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Tutmak istersin gökyüzünü kanatlanıp uçamazsın",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 13
+        },
+        {
+          "chord": "E",
+          "col": 29
+        },
+        {
+          "chord": "F",
+          "col": 33
+        },
+        {
+          "chord": "Dm",
+          "col": 36
+        },
+        {
+          "chord": "E",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yakarım kederleri umarsız birer birer",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 9
+        },
+        {
+          "chord": "Dm",
+          "col": 20
+        },
+        {
+          "chord": "E",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ama elin kolun bağlıdır bu seni tutsak eder",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 14
+        },
+        {
+          "chord": "Am",
+          "col": 26
+        },
+        {
+          "chord": "E",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Tükettik acılarla koca bir ömrü",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 9
+        },
+        {
+          "chord": "Dm",
+          "col": 17
+        },
+        {
+          "chord": "E",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Çağır beni anılara bir akşam üstü",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 10
+        },
+        {
+          "chord": "F",
+          "col": 20
+        },
+        {
+          "chord": "E",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

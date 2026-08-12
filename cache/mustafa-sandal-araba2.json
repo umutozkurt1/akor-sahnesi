@@ -1,0 +1,165 @@
+{
+  "slug": "mustafa-sandal-araba2",
+  "artist": "Mustafa Sandal",
+  "title": "Araba",
+  "key": "B",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Gönül ister aradığını hep mi bekler hep mi bulamaz",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 18
+        },
+        {
+          "chord": "C",
+          "col": 29
+        },
+        {
+          "chord": "Dm",
+          "col": 54
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gönül ister tanıdığını hiç mi bilmez hiç mi soramaz",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 19
+        },
+        {
+          "chord": "C",
+          "col": 31
+        },
+        {
+          "chord": "Dm",
+          "col": 53
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Beni alsa nafile nafile yerine bir şey koyamaz",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 33
+        },
+        {
+          "chord": "A",
+          "col": 60
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yalvarsam da kal diye kal diye o yerinde hiç duramaz",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 50
+        },
+        {
+          "chord": "A",
+          "col": 73
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Onun arabası var güzel mi güzel",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Şoförü de var özel mi özel",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bastı mı gaza gider mi gider",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Malesef ruhu yok onun için hiç mi şansı yok",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 26
+        },
+        {
+          "chord": "C",
+          "col": 45
+        },
+        {
+          "chord": "Dm",
+          "col": 64
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

@@ -1,0 +1,1051 @@
+{
+  "slug": "acdc-ride-on",
+  "artist": "ACDC",
+  "title": "Ride On",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 2
+        },
+        {
+          "chord": "C",
+          "col": 4
+        },
+        {
+          "chord": "F",
+          "col": 6
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 2
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   It's another lonely evening",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 2
+        },
+        {
+          "chord": "C",
+          "col": 10
+        },
+        {
+          "chord": "F",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   In another lonely town",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 2
+        },
+        {
+          "chord": "F",
+          "col": 8
+        },
+        {
+          "chord": "Bb/F",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "      But I ain't too young to worry",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "Bb/F",
+          "col": 2
+        },
+        {
+          "chord": "G",
+          "col": 12
+        },
+        {
+          "chord": "C/G",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And I ain't too old to cry",
+      "chords": [
+        {
+          "chord": "Bb/F",
+          "col": 6
+        },
+        {
+          "chord": "F",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "When a woman gets me down",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 7
+        },
+        {
+          "chord": "F",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   Got another empty bottle",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 2
+        },
+        {
+          "chord": "C",
+          "col": 9
+        },
+        {
+          "chord": "F",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   And another empty bed",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 2
+        },
+        {
+          "chord": "F",
+          "col": 9
+        },
+        {
+          "chord": "Bb/F",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "       ain't  too young to admit it",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "Bb/F",
+          "col": 2
+        },
+        {
+          "chord": "G",
+          "col": 14
+        },
+        {
+          "chord": "C/G",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And I'm not too old to lie",
+      "chords": [
+        {
+          "chord": "Bb/F",
+          "col": 8
+        },
+        {
+          "chord": "F",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'm just another empty head",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 11
+        },
+        {
+          "chord": "F",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   That's why I'm lonely",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 2
+        },
+        {
+          "chord": "F",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'm so lonely",
+      "chords": [
+        {
+          "chord": "F#",
+          "col": 7
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But I know what I'm going to do",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 6
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'm going to ride on",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 13
+        },
+        {
+          "chord": "C",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ride on",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 5
+        },
+        {
+          "chord": "F",
+          "col": 7
+        },
+        {
+          "chord": "C",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Standing on the edge of the road",
+      "chords": [
+        {
+          "chord": "Bb",
+          "col": 32
+        },
+        {
+          "chord": "F",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Thumb in the air",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 16
+        },
+        {
+          "chord": "C",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "One of these days I'm gonna",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 22
+        },
+        {
+          "chord": "G",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "change my evil ways",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 19
+        },
+        {
+          "chord": "F",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "'Till then I'll just keep riding on",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 2
+        },
+        {
+          "chord": "C",
+          "col": 4
+        },
+        {
+          "chord": "F",
+          "col": 6
+        },
+        {
+          "chord": "C",
+          "col": 8
+        },
+        {
+          "chord": "F",
+          "col": 10
+        },
+        {
+          "chord": "C",
+          "col": 12
+        },
+        {
+          "chord": "F",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Broke another promise",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   And I broke another heart",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 2
+        },
+        {
+          "chord": "F",
+          "col": 8
+        },
+        {
+          "chord": "Bb/F",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "      But I ain't   too young to realize",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "Bb/F",
+          "col": 2
+        },
+        {
+          "chord": "G",
+          "col": 12
+        },
+        {
+          "chord": "C/G",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "That I ain't   too old to try",
+      "chords": [
+        {
+          "chord": "Bb/F",
+          "col": 7
+        },
+        {
+          "chord": "F",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Try to get back to the start",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 7
+        },
+        {
+          "chord": "F",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   And it's another red-light nightmare",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 2
+        },
+        {
+          "chord": "C",
+          "col": 14
+        },
+        {
+          "chord": "F",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   Another red-light street",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 2
+        },
+        {
+          "chord": "F",
+          "col": 5
+        },
+        {
+          "chord": "Bb/F",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "      And I ain't   too old to hurry",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "Bb/F",
+          "col": 2
+        },
+        {
+          "chord": "G",
+          "col": 12
+        },
+        {
+          "chord": "C/G",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "'Cause I ain't   too old to die",
+      "chords": [
+        {
+          "chord": "Bb/F",
+          "col": 9
+        },
+        {
+          "chord": "F",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But I sure am hard to beat",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 5
+        },
+        {
+          "chord": "F",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   But I'm lonely",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 2
+        },
+        {
+          "chord": "F",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Lord I'm lonely",
+      "chords": [
+        {
+          "chord": "F#",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " What am I gonna do?",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 20
+        },
+        {
+          "chord": "C",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   Got myself a one-way ticket",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 2
+        },
+        {
+          "chord": "F",
+          "col": 30
+        },
+        {
+          "chord": "C",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "    Goin' the wrong way   Gonna change my evil ways   One of these days",
+      "chords": [
+        {
+          "chord": "Bb",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 3
+        },
+        {
+          "chord": "F",
+          "col": 23
+        },
+        {
+          "chord": "C",
+          "col": 25
+        },
+        {
+          "chord": "C",
+          "col": 51
+        },
+        {
+          "chord": "G",
+          "col": 53
+        },
+        {
+          "chord": "G",
+          "col": 71
+        },
+        {
+          "chord": "F",
+          "col": 73
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "One of these days",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 2
+        },
+        {
+          "chord": "C",
+          "col": 4
+        },
+        {
+          "chord": "F",
+          "col": 6
+        },
+        {
+          "chord": "C",
+          "col": 8
+        },
+        {
+          "chord": "F",
+          "col": 10
+        },
+        {
+          "chord": "C",
+          "col": 12
+        },
+        {
+          "chord": "F",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "Bb/F",
+          "col": 2
+        },
+        {
+          "chord": "F",
+          "col": 7
+        },
+        {
+          "chord": "Bb/F",
+          "col": 9
+        },
+        {
+          "chord": "C",
+          "col": 14
+        },
+        {
+          "chord": "F",
+          "col": 16
+        },
+        {
+          "chord": "C",
+          "col": 18
+        },
+        {
+          "chord": "F",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 2
+        },
+        {
+          "chord": "C",
+          "col": 4
+        },
+        {
+          "chord": "F",
+          "col": 6
+        },
+        {
+          "chord": "C",
+          "col": 8
+        },
+        {
+          "chord": "F",
+          "col": 10
+        },
+        {
+          "chord": "C",
+          "col": 12
+        },
+        {
+          "chord": "F",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "Bb/F",
+          "col": 2
+        },
+        {
+          "chord": "F",
+          "col": 7
+        },
+        {
+          "chord": "Bb/F",
+          "col": 9
+        },
+        {
+          "chord": "C",
+          "col": 14
+        },
+        {
+          "chord": "F",
+          "col": 16
+        },
+        {
+          "chord": "C",
+          "col": 18
+        },
+        {
+          "chord": "F",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "F#",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 3
+        },
+        {
+          "chord": "F",
+          "col": 5
+        },
+        {
+          "chord": "C",
+          "col": 7
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 2
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gonna ride on",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 6
+        },
+        {
+          "chord": "C",
+          "col": 11
+        },
+        {
+          "chord": "Bb",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Oh Lookin' for a truck       Keep on riding Ridin' on and on and on and on and on and on and on",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 22
+        },
+        {
+          "chord": "C",
+          "col": 24
+        },
+        {
+          "chord": "C",
+          "col": 26
+        },
+        {
+          "chord": "G",
+          "col": 28
+        },
+        {
+          "chord": "G",
+          "col": 40
+        },
+        {
+          "chord": "F",
+          "col": 43
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   Have myself a good time   Mmm yeah",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 2
+        },
+        {
+          "chord": "F",
+          "col": 26
+        },
+        {
+          "chord": "C",
+          "col": 28
+        },
+        {
+          "chord": "Fsus4",
+          "col": 37
+        },
+        {
+          "chord": "F",
+          "col": 43
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ride, ride, ride",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " One of these days",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "One of these days",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 17
+        },
+        {
+          "chord": "C",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

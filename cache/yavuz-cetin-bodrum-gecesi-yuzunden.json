@@ -1,0 +1,112 @@
+{
+  "slug": "yavuz-cetin-bodrum-gecesi-yuzunden",
+  "artist": "Yavuz Çetin",
+  "title": "Bodrum Gecesi Yüzünden",
+  "key": "B",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Geçip giden bomboş bir yaz sonunda",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 12
+        },
+        {
+          "chord": "D",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Şehrin havasını özlemiş gibiyiz",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 16
+        },
+        {
+          "chord": "D",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hiç şarkı yazamadım bodrum gecesi yüzünden",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 12
+        },
+        {
+          "chord": "F#",
+          "col": 20
+        },
+        {
+          "chord": "Bm",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Zaman sanki geçmemiş gibi",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "F#",
+          "col": 6
+        },
+        {
+          "chord": "Em",
+          "col": 12
+        },
+        {
+          "chord": "F#",
+          "col": 17
+        },
+        {
+          "chord": "G",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Neden",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 2
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

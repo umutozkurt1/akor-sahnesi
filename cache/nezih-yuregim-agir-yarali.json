@@ -1,0 +1,167 @@
+{
+  "slug": "nezih-yuregim-agir-yarali",
+  "artist": "Nezih",
+  "title": "Yüreğim Ağır Yaralı",
+  "key": "G",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Nasıl bir yangın ki bu alevlerin bile canı yanıyor",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 28
+        },
+        {
+          "chord": "G#",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Nasıl bir yalan ki bu kelimeler kaçacak yer arıyor",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 27
+        },
+        {
+          "chord": "G#",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gel bunları olmamış sayalım desemde bos hiç inanma.",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 23
+        },
+        {
+          "chord": "Gm",
+          "col": 36
+        },
+        {
+          "chord": "G#",
+          "col": 48
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gel güneşi doğmamış sayalım desemde yok, artık sen bana",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 23
+        },
+        {
+          "chord": "Gm",
+          "col": 36
+        },
+        {
+          "chord": "G#",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "kanma.",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 1
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yüreğim ağır yaralı derinden",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "G#",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yanmaz artık istesemde yeniden",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "G#",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Çok yaralar sardı kalbim amma bu yara kapanırmı",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 17
+        },
+        {
+          "chord": "G#",
+          "col": 30
+        },
+        {
+          "chord": "Gm",
+          "col": 45
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "bilemem.",
+      "chords": [],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

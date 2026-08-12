@@ -1,0 +1,165 @@
+{
+  "slug": "ayna-sana-uyandim",
+  "artist": "Ayna",
+  "title": "Sana Uyandım",
+  "key": "F",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Sana kurdum saatimi geceden",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Seni vurdum yüzüme ayıldım",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 24
+        },
+        {
+          "chord": "Fm",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İşim gücüm tek sensin bugün",
+      "chords": [
+        {
+          "chord": "A#m",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 10
+        },
+        {
+          "chord": "G#",
+          "col": 14
+        },
+        {
+          "chord": "D#",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bu sabah yar sana uyandım",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 20
+        },
+        {
+          "chord": "Fm",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir yanar bir söner içimde",
+      "chords": [
+        {
+          "chord": "A#m",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 13
+        },
+        {
+          "chord": "Fm",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hep o bildik ve o malum biçimde",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 11
+        },
+        {
+          "chord": "D#",
+          "col": 32
+        },
+        {
+          "chord": "Fm",
+          "col": 48
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sevdan mı yalnızlıktan mı",
+      "chords": [
+        {
+          "chord": "A#m",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 11
+        },
+        {
+          "chord": "G#",
+          "col": 16
+        },
+        {
+          "chord": "D#",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bu sabah yar sana uyandım",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 20
+        },
+        {
+          "chord": "Fm",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

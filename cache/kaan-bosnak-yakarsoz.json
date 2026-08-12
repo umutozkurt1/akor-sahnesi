@@ -1,0 +1,153 @@
+{
+  "slug": "kaan-bosnak-yakarsoz",
+  "artist": "Kaan Boşnak",
+  "title": "Yakarsöz",
+  "key": "E",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "buralardan geçmedim görmedim daha önce",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 18
+        },
+        {
+          "chord": "C",
+          "col": 34
+        },
+        {
+          "chord": "Bm",
+          "col": 55
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "seni hiç beğenmedim desem yalanım pek ince",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 12
+        },
+        {
+          "chord": "C",
+          "col": 34
+        },
+        {
+          "chord": "B",
+          "col": 63
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "ah delice bakar gözlerin",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 7
+        },
+        {
+          "chord": "E",
+          "col": 12
+        },
+        {
+          "chord": "Em",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "ah beni en derinden yakar sözlerin",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 10
+        },
+        {
+          "chord": "B",
+          "col": 27
+        },
+        {
+          "chord": "Em",
+          "col": 52
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "arabayı sen kullan çünkü bende şuur yok canım",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "tanıdığım en güzel kaptan tanıdığım en güzel kadın",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "şimdiyse bir yokuşun en başına oturmuşum",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 73
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "anlamlandı yokoluşum ben ne bir put ne de puştum",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

@@ -1,0 +1,131 @@
+{
+  "slug": "hayko-cepkin-yarasi-sakli",
+  "artist": "Hayko Cepkin",
+  "title": "Yarası Saklı",
+  "key": "E",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Kurtarın beni tutun elimden düşmeden",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kollayın beni korkar oldum ben her şeyden",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 63
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Unutmam seni çok acı verdin giderken",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "F#",
+          "col": 16
+        },
+        {
+          "chord": "G",
+          "col": 23
+        },
+        {
+          "chord": "Am",
+          "col": 36
+        },
+        {
+          "chord": "Em",
+          "col": 48
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hala çok yeni yarası saklı derinde",
+      "chords": [
+        {
+          "chord": "F#",
+          "col": 17
+        },
+        {
+          "chord": "G",
+          "col": 26
+        },
+        {
+          "chord": "Am",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "F#",
+          "col": 5
+        },
+        {
+          "chord": "G",
+          "col": 10
+        },
+        {
+          "chord": "Am",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yok mu bunun ilacı aa",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "F#",
+          "col": 15
+        },
+        {
+          "chord": "G",
+          "col": 23
+        },
+        {
+          "chord": "Am",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

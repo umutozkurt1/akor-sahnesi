@@ -1,0 +1,155 @@
+{
+  "slug": "atiye-ya-habibi",
+  "artist": "Atiye",
+  "title": "Ya Habibi",
+  "key": "A#",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Bir Gözüm Görmüyor Bir Kulağım Duymuyor",
+      "chords": [
+        {
+          "chord": "A#m",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir Elim Tutmuyor Hayat Sensiz Yarım",
+      "chords": [
+        {
+          "chord": "C#",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 20
+        },
+        {
+          "chord": "A#m",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Koşuyorum Sebepsiz, Nefesim Yetersiz",
+      "chords": [
+        {
+          "chord": "A#m",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kaldım Ben Sensiz Yarım",
+      "chords": [
+        {
+          "chord": "C#",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 14
+        },
+        {
+          "chord": "D#m",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ya Habibi Bekletme Sevdiğini",
+      "chords": [
+        {
+          "chord": "F#",
+          "col": 7
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dünya Dönüyor Ama Günler Dönmüyor Geri",
+      "chords": [
+        {
+          "chord": "C#",
+          "col": 7
+        },
+        {
+          "chord": "B",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ya Habibi Kaybetme Sevdiğini",
+      "chords": [
+        {
+          "chord": "D#m",
+          "col": 7
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dünya Dönüyor Aşka Haydi Sende Dön Geri",
+      "chords": [
+        {
+          "chord": "C#",
+          "col": 7
+        },
+        {
+          "chord": "B",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hmm.. Ooof! Kalbimin Sahibiiii",
+      "chords": [
+        {
+          "chord": "D#m",
+          "col": 0
+        },
+        {
+          "chord": "G#m",
+          "col": 18
+        },
+        {
+          "chord": "A#m",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ya Habibi",
+      "chords": [
+        {
+          "chord": "D#m",
+          "col": 7
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

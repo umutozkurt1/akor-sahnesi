@@ -1,0 +1,172 @@
+{
+  "slug": "hakan-tasiyan-guz-gulleri",
+  "artist": "Hakan Taşıyan",
+  "title": "Güz Gülleri",
+  "key": "F#",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "İnan ki ağlamadım, hüzünlüyüm sadece",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 30
+        },
+        {
+          "chord": "A",
+          "col": 57
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gözlerimdeki yaşlar çığ gibi yağar böyle her gece",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 29
+        },
+        {
+          "chord": "Em",
+          "col": 38
+        },
+        {
+          "chord": "F#m",
+          "col": 70
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Güz gülleri gibiyim, hiç bahar yaşamadım",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 22
+        },
+        {
+          "chord": "Bm",
+          "col": 59
+        },
+        {
+          "chord": "A",
+          "col": 63
+        },
+        {
+          "chord": "G",
+          "col": 66
+        },
+        {
+          "chord": "F#m",
+          "col": 69
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Güz gülleri gibiyim, hiç bahar yaşamadım",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 22
+        },
+        {
+          "chord": "Bm",
+          "col": 58
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ya sevmeyi bilmedim yıllarca ya sevince geç kaldım",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 31
+        },
+        {
+          "chord": "Em",
+          "col": 41
+        },
+        {
+          "chord": "F#m",
+          "col": 71
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Şimdi delicesine sevmek istesem bile",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 30
+        },
+        {
+          "chord": "A",
+          "col": 52
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sonbahar sisi çökmüş üstüme, sevincim buruk yine",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 25
+        },
+        {
+          "chord": "Em",
+          "col": 39
+        },
+        {
+          "chord": "F#m",
+          "col": 71
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "N",
+      "chords": [],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

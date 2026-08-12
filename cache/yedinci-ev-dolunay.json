@@ -1,0 +1,206 @@
+{
+  "slug": "yedinci-ev-dolunay",
+  "artist": "Yedinci Ev",
+  "title": "Dolunay",
+  "key": "E",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "C#m7",
+          "col": 3
+        },
+        {
+          "chord": "G#m7",
+          "col": 9
+        },
+        {
+          "chord": "B",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yedik birbirimizi, yüzyıllar geçti",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "G#m",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Herkes haklı, hepimiz kahraman",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "G#m",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Daldık kabuslara, mevsimler aktı",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "G#m",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kibir doğmasaydı, kirli kalmasaydık",
+      "chords": [
+        {
+          "chord": "C#7sus2",
+          "col": 0
+        },
+        {
+          "chord": "C#m7",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "x2",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yine tepemizde dolunay",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yıldızlara soruyor bak",
+      "chords": [
+        {
+          "chord": "C#m7",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "N'apıyor bu adamlar",
+      "chords": [
+        {
+          "chord": "G#m",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "N'apıyor bu kadınlar",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sevdik birbirimizi, yangınlar çıktı",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "G#m",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kime yazık, yok ki bir kaybeden",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "G#m",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sövdük geçen zamana, ruhsuzlar şaştı",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "G#m",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yarın olmasaydı, eksik kalmasaydık",
+      "chords": [
+        {
+          "chord": "C#7sus2",
+          "col": 0
+        },
+        {
+          "chord": "C#m7",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

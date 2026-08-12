@@ -1,0 +1,724 @@
+{
+  "slug": "ed-sheeran-baby-one-more-time",
+  "artist": "Ed Sheeran",
+  "title": "Baby One More Time",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Oh baby baby, how was I supposed to know",
+      "chords": [
+        {
+          "chord": "Am7",
+          "col": 2
+        },
+        {
+          "chord": "Em",
+          "col": 20
+        },
+        {
+          "chord": "C",
+          "col": 41
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "That something wasn't right here",
+      "chords": [
+        {
+          "chord": "Dm7",
+          "col": 5
+        },
+        {
+          "chord": "Em7",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Oh baby baby, I shouldn't have let you go",
+      "chords": [
+        {
+          "chord": "Am7",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 16
+        },
+        {
+          "chord": "C",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And now you're out of sight, yeah",
+      "chords": [
+        {
+          "chord": "Dm7",
+          "col": 4
+        },
+        {
+          "chord": "Em7",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Show me how you want it to be",
+      "chords": [
+        {
+          "chord": "Am7",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Tell me baby cuz I need to know now, oh because",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 8
+        },
+        {
+          "chord": "Dm7",
+          "col": 27
+        },
+        {
+          "chord": "Em7",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "tabchorus",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "My loneliness is killin' me (and I)",
+      "chords": [
+        {
+          "chord": "Am7",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I must confess I still believe (still believe)",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "Dm7",
+          "col": 17
+        },
+        {
+          "chord": "Em7",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "If I'm not with you I lose my mind",
+      "chords": [
+        {
+          "chord": "Am7",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Give me a sign, hit me baby one more time!",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 10
+        },
+        {
+          "chord": "Dm7",
+          "col": 16
+        },
+        {
+          "chord": "Em7",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "tab",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Break",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Am7",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Am7",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 5
+        },
+        {
+          "chord": "Am7",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Am7",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Am7",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 5
+        },
+        {
+          "chord": "Am7",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Verse",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "Oh baby baby, the reason I breathe is you",
+      "chords": [
+        {
+          "chord": "Am7",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 18
+        },
+        {
+          "chord": "C",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Girl you've got me blinded",
+      "chords": [
+        {
+          "chord": "Dm7",
+          "col": 0
+        },
+        {
+          "chord": "Em7",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Oh pretty baby, there's nothin' that I wouldn't do",
+      "chords": [
+        {
+          "chord": "Am7",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 24
+        },
+        {
+          "chord": "C",
+          "col": 44
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "That's not the way I planned it",
+      "chords": [
+        {
+          "chord": "Dm7",
+          "col": 5
+        },
+        {
+          "chord": "Em7",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Show me how you want it to be",
+      "chords": [
+        {
+          "chord": "Am7",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Tell me baby cuz I need to know now, oh because",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 8
+        },
+        {
+          "chord": "Dm7",
+          "col": 27
+        },
+        {
+          "chord": "Em7",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "tabchorus",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "My loneliness is killin' me (and I)",
+      "chords": [
+        {
+          "chord": "Am7",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I must confess I still believe (still believe)",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "Dm7",
+          "col": 17
+        },
+        {
+          "chord": "Em7",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "If I'm not with you I lose my mind",
+      "chords": [
+        {
+          "chord": "Am7",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Give me a sign, hit me baby one more time!",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 10
+        },
+        {
+          "chord": "Dm7",
+          "col": 16
+        },
+        {
+          "chord": "Em7",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "tab",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Break:",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Am7",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Am7",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 5
+        },
+        {
+          "chord": "Am7",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Am7",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Am7",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 5
+        },
+        {
+          "chord": "Am7",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bridge",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "Oh baby baby, how was I supposed to know",
+      "chords": [
+        {
+          "chord": "Am7",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 18
+        },
+        {
+          "chord": "C",
+          "col": 39
+        },
+        {
+          "chord": "Dm7",
+          "col": 44
+        },
+        {
+          "chord": "Em7",
+          "col": 49
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Oh pretty baby, I shouldn't have let you go",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 18
+        },
+        {
+          "chord": "F",
+          "col": 41
+        },
+        {
+          "chord": "G",
+          "col": 49
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I must confess that my loneliness",
+      "chords": [
+        {
+          "chord": "Am7",
+          "col": 8
+        },
+        {
+          "chord": "Em",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Is killin' me now",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Don't you know I still believe",
+      "chords": [
+        {
+          "chord": "Dm7",
+          "col": 10
+        },
+        {
+          "chord": "Em7",
+          "col": 19
+        },
+        {
+          "chord": "F",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "That you will be here",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And give me a sign, hit me baby one more time",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 14
+        },
+        {
+          "chord": "G",
+          "col": 20
+        },
+        {
+          "chord": "Am7",
+          "col": 43
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ending (pm)",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "My loneliness is killin' me (and I)",
+      "chords": [
+        {
+          "chord": "A6",
+          "col": 0
+        },
+        {
+          "chord": "E5",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I must confess I still believe (still believe)",
+      "chords": [
+        {
+          "chord": "C5",
+          "col": 0
+        },
+        {
+          "chord": "D5",
+          "col": 17
+        },
+        {
+          "chord": "E11",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "If I'm not with you I lose my mind",
+      "chords": [
+        {
+          "chord": "A6",
+          "col": 0
+        },
+        {
+          "chord": "E5",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Give me a sign, hit me baby one more time!",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 10
+        },
+        {
+          "chord": "D",
+          "col": 16
+        },
+        {
+          "chord": "Em7",
+          "col": 28
+        },
+        {
+          "chord": "Am7",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

@@ -1,0 +1,225 @@
+{
+  "slug": "sezen-aksu-canimsin-sen",
+  "artist": "Sezen Aksu",
+  "title": "Canımsın Sen",
+  "key": "C#",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Adın başka, tadın başka, sığmıyorsun ele avuca delisin sen",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 6
+        },
+        {
+          "chord": "A",
+          "col": 24
+        },
+        {
+          "chord": "F#m",
+          "col": 50
+        },
+        {
+          "chord": "G#m",
+          "col": 77
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dilerim ki benle yaşa, bildiklerin ezber değil, yenisin sen",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 8
+        },
+        {
+          "chord": "A",
+          "col": 25
+        },
+        {
+          "chord": "F#m",
+          "col": 45
+        },
+        {
+          "chord": "G#m",
+          "col": 78
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Boşuna mı yaprak gibi rüzgarına kapıldım ben",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 27
+        },
+        {
+          "chord": "F#m",
+          "col": 71
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Unutup kendimi bir divaneye takıldım ben",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 22
+        },
+        {
+          "chord": "G#m",
+          "col": 47
+        },
+        {
+          "chord": "C#m",
+          "col": 60
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ayağı eşikten dışarda, git gidersen",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 17
+        },
+        {
+          "chord": "F#m",
+          "col": 51
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bu gönül çoktan razı senden, nasıl istersen",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 22
+        },
+        {
+          "chord": "G#m",
+          "col": 46
+        },
+        {
+          "chord": "C#m",
+          "col": 65
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Delip geçen gözlerinle, söylenmemiş sözlerinle, sırsın sen",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 10
+        },
+        {
+          "chord": "A",
+          "col": 28
+        },
+        {
+          "chord": "F#m",
+          "col": 54
+        },
+        {
+          "chord": "G#m",
+          "col": 81
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hiç oyunsuz, sorunsuz, ne bir eksik ne bir fazla, canımsın sen",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 10
+        },
+        {
+          "chord": "A",
+          "col": 28
+        },
+        {
+          "chord": "F#m",
+          "col": 54
+        },
+        {
+          "chord": "G#m",
+          "col": 85
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Nakarat",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "Senden önce senden sonra, iki ayrı devir, iki ayrı dünya",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 16
+        },
+        {
+          "chord": "A",
+          "col": 37
+        },
+        {
+          "chord": "F#m",
+          "col": 50
+        },
+        {
+          "chord": "G#m",
+          "col": 75
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir daha da olmayacak, hiçbir şey eskisi gibi yarınlarda",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 10
+        },
+        {
+          "chord": "A",
+          "col": 30
+        },
+        {
+          "chord": "F#m",
+          "col": 55
+        },
+        {
+          "chord": "G#m",
+          "col": 75
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

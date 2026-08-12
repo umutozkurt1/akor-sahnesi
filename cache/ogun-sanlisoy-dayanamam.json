@@ -1,0 +1,264 @@
+{
+  "slug": "ogun-sanlisoy-dayanamam",
+  "artist": "Ogün Sanlısoy",
+  "title": "Dayanamam",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Intro:",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 6
+        },
+        {
+          "chord": "G#",
+          "col": 12
+        },
+        {
+          "chord": "A#",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir his var içimde seslenir derinlerde",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 9
+        },
+        {
+          "chord": "G#",
+          "col": 24
+        },
+        {
+          "chord": "A#",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yalnızlık peşinde sensiz durgun gecelerde",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 13
+        },
+        {
+          "chord": "G#",
+          "col": 26
+        },
+        {
+          "chord": "A#",
+          "col": 38
+        },
+        {
+          "chord": "Cm",
+          "col": 56
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir sis var evimde süslerim resimlerle",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 9
+        },
+        {
+          "chord": "G#",
+          "col": 24
+        },
+        {
+          "chord": "A#",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yalnız düşlerimde buluştuk ellerinle",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 8
+        },
+        {
+          "chord": "G#",
+          "col": 25
+        },
+        {
+          "chord": "A#",
+          "col": 40
+        },
+        {
+          "chord": "D#",
+          "col": 49
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Döneceksin sanıyorken",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 13
+        },
+        {
+          "chord": "Fm",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yıllar geçti üzerinden",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 13
+        },
+        {
+          "chord": "Cm",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bulutlarda yaşıyorken",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 12
+        },
+        {
+          "chord": "Fm",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yıldım dünya düzeninden",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 14
+        },
+        {
+          "chord": "Cm",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sen yaralanma, sen karalanma",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 15
+        },
+        {
+          "chord": "Cm",
+          "col": 22
+        },
+        {
+          "chord": "Fm",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gel oyalanma dayanamam",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 14
+        },
+        {
+          "chord": "G#",
+          "col": 33
+        },
+        {
+          "chord": "A#",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

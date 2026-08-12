@@ -1,0 +1,554 @@
+{
+  "slug": "kent-sarkilari-icimde-insan-kiriklari",
+  "artist": "Kent Şarkıları",
+  "title": "İçimde İnsan Kırıkları",
+  "key": "E",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "İntro:",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Bm7",
+          "col": 4
+        },
+        {
+          "chord": "Dadd9",
+          "col": 9
+        },
+        {
+          "chord": "Em",
+          "col": 16
+        },
+        {
+          "chord": "Cmaj7",
+          "col": 20
+        },
+        {
+          "chord": "Bm7",
+          "col": 27
+        },
+        {
+          "chord": "Am7",
+          "col": 32
+        },
+        {
+          "chord": "Bm7",
+          "col": 37
+        },
+        {
+          "chord": "C",
+          "col": 41
+        },
+        {
+          "chord": "D",
+          "col": 43
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Dadd9",
+          "col": 4
+        },
+        {
+          "chord": "Em",
+          "col": 11
+        },
+        {
+          "chord": "Cmaj7",
+          "col": 15
+        },
+        {
+          "chord": "Bm7",
+          "col": 22
+        },
+        {
+          "chord": "Am7",
+          "col": 27
+        },
+        {
+          "chord": "Gmaj7",
+          "col": 32
+        },
+        {
+          "chord": "Fmaj7",
+          "col": 39
+        },
+        {
+          "chord": "Cmaj7",
+          "col": 46
+        },
+        {
+          "chord": "Dm7",
+          "col": 53
+        },
+        {
+          "chord": "Em",
+          "col": 58
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kaçarım binlerce yıldır     binlerce yıldır ben bir kaçağım",
+      "chords": [
+        {
+          "chord": "Em7",
+          "col": 0
+        },
+        {
+          "chord": "Fmaj7",
+          "col": 20
+        },
+        {
+          "chord": "Dm7",
+          "col": 33
+        },
+        {
+          "chord": "Em7",
+          "col": 56
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İçimde insan kırıkları  kendi kendime batar kanarım",
+      "chords": [
+        {
+          "chord": "Cmaj7",
+          "col": 0
+        },
+        {
+          "chord": "Fmaj7",
+          "col": 20
+        },
+        {
+          "chord": "Dm7",
+          "col": 32
+        },
+        {
+          "chord": "Em7",
+          "col": 48
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hangi dağın üstünden geçsem çayı serin bir köye varırım",
+      "chords": [
+        {
+          "chord": "Am7",
+          "col": 0
+        },
+        {
+          "chord": "Dm7",
+          "col": 24
+        },
+        {
+          "chord": "Gadd9",
+          "col": 43
+        },
+        {
+          "chord": "Cmaj7",
+          "col": 52
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yalancı gazeteler yakar  aklımı fikrimi    ısıtırım",
+      "chords": [
+        {
+          "chord": "Dm7",
+          "col": 20
+        },
+        {
+          "chord": "Gadd9",
+          "col": 37
+        },
+        {
+          "chord": "Cmaj7",
+          "col": 48
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir gün insandan kaçarsam elbet bir ağaca      sığınırım",
+      "chords": [
+        {
+          "chord": "Am7",
+          "col": 0
+        },
+        {
+          "chord": "Dm7",
+          "col": 22
+        },
+        {
+          "chord": "Gadd9",
+          "col": 39
+        },
+        {
+          "chord": "Cmaj7",
+          "col": 53
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hangi    eski köprüden geçsem ip kopar  bir nehre düşerim yalnız",
+      "chords": [
+        {
+          "chord": "Fmaj7",
+          "col": 0
+        },
+        {
+          "chord": "Bm7",
+          "col": 7
+        },
+        {
+          "chord": "Em",
+          "col": 13
+        },
+        {
+          "chord": "Dadd9",
+          "col": 25
+        },
+        {
+          "chord": "Bm7",
+          "col": 36
+        },
+        {
+          "chord": "Em",
+          "col": 45
+        },
+        {
+          "chord": "Em",
+          "col": 50
+        },
+        {
+          "chord": "D",
+          "col": 54
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Orada bir akıntı deli ömrüm her şelaleden tutar atar  kendini",
+      "chords": [
+        {
+          "chord": "Cmaj7",
+          "col": 3
+        },
+        {
+          "chord": "D7",
+          "col": 24
+        },
+        {
+          "chord": "C",
+          "col": 29
+        },
+        {
+          "chord": "Am7",
+          "col": 44
+        },
+        {
+          "chord": "Bm7",
+          "col": 59
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Han    gi   dostun elinden tutsam el olur   bir şarkı dinlerim yalnız",
+      "chords": [
+        {
+          "chord": "Fmaj7",
+          "col": 0
+        },
+        {
+          "chord": "Bm7",
+          "col": 6
+        },
+        {
+          "chord": "Em",
+          "col": 11
+        },
+        {
+          "chord": "Dadd9",
+          "col": 21
+        },
+        {
+          "chord": "Bm7",
+          "col": 32
+        },
+        {
+          "chord": "Em",
+          "col": 40
+        },
+        {
+          "chord": "Em",
+          "col": 45
+        },
+        {
+          "chord": "D",
+          "col": 49
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kimse bilmez ki içimi içimin söylediğini  herkes biraz kandırır  kendini",
+      "chords": [
+        {
+          "chord": "Cmaj7",
+          "col": 6
+        },
+        {
+          "chord": "D7",
+          "col": 25
+        },
+        {
+          "chord": "C",
+          "col": 31
+        },
+        {
+          "chord": "Am7",
+          "col": 46
+        },
+        {
+          "chord": "Bm7",
+          "col": 71
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hangi sigaradan yaksam aynı duman aynı kanser",
+      "chords": [
+        {
+          "chord": "Am7",
+          "col": 0
+        },
+        {
+          "chord": "Bm7",
+          "col": 20
+        },
+        {
+          "chord": "Am7",
+          "col": 26
+        },
+        {
+          "chord": "Bm7",
+          "col": 44
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hangi çağda  yaşasam  aynı   zihin aynı sesler",
+      "chords": [
+        {
+          "chord": "Cmaj7",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 13
+        },
+        {
+          "chord": "Bm7",
+          "col": 19
+        },
+        {
+          "chord": "Cmaj7",
+          "col": 26
+        },
+        {
+          "chord": "Bm7",
+          "col": 45
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Nak.",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İçimde insan kırıkları   içimde insan kırıkları",
+      "chords": [
+        {
+          "chord": "Am7",
+          "col": 4
+        },
+        {
+          "chord": "Bm7",
+          "col": 21
+        },
+        {
+          "chord": "Am7",
+          "col": 30
+        },
+        {
+          "chord": "Bm7",
+          "col": 47
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bağırsam kaç kişi duyar bağırsam çığlıkları",
+      "chords": [
+        {
+          "chord": "Cmaj7",
+          "col": 0
+        },
+        {
+          "chord": "Bm7",
+          "col": 25
+        },
+        {
+          "chord": "Cmaj7",
+          "col": 34
+        },
+        {
+          "chord": "Bm7",
+          "col": 46
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bağırsam kaç kişi duyar bağırsam kaç kişi duyar",
+      "chords": [
+        {
+          "chord": "Am7",
+          "col": 5
+        },
+        {
+          "chord": "Bm7",
+          "col": 21
+        },
+        {
+          "chord": "Am7",
+          "col": 30
+        },
+        {
+          "chord": "Bm7",
+          "col": 45
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bağırsam kaç kişi duyar bağırsam kaç kişi duyar",
+      "chords": [
+        {
+          "chord": "Cmaj7",
+          "col": 5
+        },
+        {
+          "chord": "Bm7",
+          "col": 21
+        },
+        {
+          "chord": "Am7",
+          "col": 30
+        },
+        {
+          "chord": "Bm7",
+          "col": 46
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bağırsam kaç kişi duyar bağırsam kaç kişi duyar",
+      "chords": [
+        {
+          "chord": "Am7",
+          "col": 5
+        },
+        {
+          "chord": "Bm7",
+          "col": 20
+        },
+        {
+          "chord": "Am7",
+          "col": 29
+        },
+        {
+          "chord": "Bm7",
+          "col": 44
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bağırsam bağırsam bağırsam bağırsam kaç kişi duyar",
+      "chords": [
+        {
+          "chord": "Am7",
+          "col": 5
+        },
+        {
+          "chord": "Bm7",
+          "col": 23
+        },
+        {
+          "chord": "Cmaj7",
+          "col": 32
+        },
+        {
+          "chord": "Bm7",
+          "col": 52
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

@@ -1,0 +1,125 @@
+{
+  "slug": "tan-benim-gibi-olmayacak",
+  "artist": "Tan",
+  "title": "Benim Gibi Olmayacak",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Belki sevgilin olacak yalandan mutlu gibi yapacaksın",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sabahları uyanınca gözlerinde hep beni bulacaksın",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 0
+        },
+        {
+          "chord": "Db",
+          "col": 30
+        },
+        {
+          "chord": "Cm",
+          "col": 48
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kalbin hep yarım kalacak aradığım nedir diye soracaksın",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Benim gibi olamayacak, benim gibi olmayacak",
+      "chords": [
+        {
+          "chord": "Db",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Benin gibi olmayacak inanma benim gibi olmayacak",
+      "chords": [
+        {
+          "chord": "Db",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Benim gibi olmayacak inanma benim gibi olmayacak",
+      "chords": [
+        {
+          "chord": "Db",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Belki sevgilin olacak yalandan mutlu gibi yapacaksın",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sabahları uyanınca gözlerinde hep beni bulacaksın",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kalbin hep yarım kalacak aradığım nedir diye soracaksın",
+      "chords": [],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

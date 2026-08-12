@@ -1,0 +1,235 @@
+{
+  "slug": "ayna-kadikoy-iskelesi",
+  "artist": "Ayna",
+  "title": "Kadıköy İskelesi",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "kim derdi ki Kadıköy iskelesi bu kadar içimi yakar",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 4
+        },
+        {
+          "chord": "E",
+          "col": 7
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "kim derdi ki vapurda insanlar hüzünlerimi anlar",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 18
+        },
+        {
+          "chord": "C",
+          "col": 59
+        },
+        {
+          "chord": "Em",
+          "col": 61
+        },
+        {
+          "chord": "C",
+          "col": 68
+        },
+        {
+          "chord": "Em",
+          "col": 71
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "sen gittiğinden beri",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 4
+        },
+        {
+          "chord": "Am",
+          "col": 15
+        },
+        {
+          "chord": "F",
+          "col": 22
+        },
+        {
+          "chord": "D",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "yürüyorum yürüdüğümüz yerleri",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 17
+        },
+        {
+          "chord": "D",
+          "col": 24
+        },
+        {
+          "chord": "Am",
+          "col": 43
+        },
+        {
+          "chord": "D",
+          "col": 50
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "düşününce yaşadığımız günleri",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 20
+        },
+        {
+          "chord": "Bsus4",
+          "col": 41
+        },
+        {
+          "chord": "B",
+          "col": 50
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "gözüm doluyor ama ağlayamıyorum",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 25
+        },
+        {
+          "chord": "Em",
+          "col": 43
+        },
+        {
+          "chord": "E",
+          "col": 49
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "düşününce geçip giden günleri",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 21
+        },
+        {
+          "chord": "D",
+          "col": 25
+        },
+        {
+          "chord": "G",
+          "col": 44
+        },
+        {
+          "chord": "Em",
+          "col": 48
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "gözyaşlarıma bunu anlatamıyorum",
+      "chords": [
+        {
+          "chord": "B7",
+          "col": 29
+        },
+        {
+          "chord": "Em",
+          "col": 45
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "seni sevdiğimi çok sevdiğimi",
+      "chords": [
+        {
+          "chord": "C7",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 6
+        },
+        {
+          "chord": "Em",
+          "col": 17
+        },
+        {
+          "chord": "A#aug",
+          "col": 21
+        },
+        {
+          "chord": "Bsus4",
+          "col": 35
+        },
+        {
+          "chord": "B7",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "deliler gibi sevdiğimi unutma sakın",
+      "chords": [
+        {
+          "chord": "Am7",
+          "col": 9
+        },
+        {
+          "chord": "A#",
+          "col": 43
+        },
+        {
+          "chord": "B",
+          "col": 51
+        },
+        {
+          "chord": "Em",
+          "col": 56
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

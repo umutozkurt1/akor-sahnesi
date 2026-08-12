@@ -1,0 +1,142 @@
+{
+  "slug": "pinar-suer-gun-gelir",
+  "artist": "Pınar Süer",
+  "title": "Gün Gelir",
+  "key": "F",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Yarim gezdin yola bakarım uzun uzun",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gözlerim doldu yine, aklıma geldi yüzün oy",
+      "chords": [
+        {
+          "chord": "Db",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 38
+        },
+        {
+          "chord": "Db",
+          "col": 66
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Al gözümden yaşları gün gelir kurutursun",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yaz bunu bir kenara gidersen unutursun",
+      "chords": [
+        {
+          "chord": "Bbm",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 30
+        },
+        {
+          "chord": "Fm",
+          "col": 54
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 5
+        },
+        {
+          "chord": "Bbm",
+          "col": 10
+        },
+        {
+          "chord": "Cm",
+          "col": 15
+        },
+        {
+          "chord": "Fm",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Limanın gemileri demir aldı gidecek",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Benim gözyaşlarımı kim gördü kim bilecek oy",
+      "chords": [
+        {
+          "chord": "Db",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 38
+        },
+        {
+          "chord": "Db",
+          "col": 68
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

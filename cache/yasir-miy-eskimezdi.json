@@ -1,0 +1,156 @@
+{
+  "slug": "yasir-miy-eskimezdi",
+  "artist": "Yasir Miy",
+  "title": "Eskimezdi",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Bekledim ben derin bir boşlukta,",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Senden kalanlar elimden tutmadığı gibi",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 17
+        },
+        {
+          "chord": "Cm",
+          "col": 41
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Söylemem ben yine bir son varsa,",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Benden kalanlar bana yetmediği gibi",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 18
+        },
+        {
+          "chord": "Cm",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yüreğine sor sebebini sen",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yeri dolan bendim",
+      "chords": [
+        {
+          "chord": "Eb",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Eskimezdi ya",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Eskimezdi ya",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Derinine koy hatıraları",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bile bile sevdim",
+      "chords": [
+        {
+          "chord": "Eb",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gizli gizli ya",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gizli gizli ya",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

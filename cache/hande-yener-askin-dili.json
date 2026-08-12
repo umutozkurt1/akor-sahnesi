@@ -1,0 +1,189 @@
+{
+  "slug": "hande-yener-askin-dili",
+  "artist": "Hande Yener",
+  "title": "Aşkın Dili",
+  "key": "D",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Aşkın dili olur mu, kalp atmasa duyulur mu",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 1
+        },
+        {
+          "chord": "Gm",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İyi dinle durumumu, birazdan anlatıcam",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 5
+        },
+        {
+          "chord": "C",
+          "col": 16
+        },
+        {
+          "chord": "A#",
+          "col": 26
+        },
+        {
+          "chord": "C",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Soğuk ya da sıcaklardan, ya da değişik kıtalardan",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 2
+        },
+        {
+          "chord": "Gm",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "En rahatsız duyulandan seçtim, biraz atıcam",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 4
+        },
+        {
+          "chord": "C",
+          "col": 20
+        },
+        {
+          "chord": "A#",
+          "col": 27
+        },
+        {
+          "chord": "C",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Türkçesini anlamadın belki böyle olur",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 13
+        },
+        {
+          "chord": "Gm",
+          "col": 21
+        },
+        {
+          "chord": "A#",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Tercüme etsen bunu çok güzel duyulur",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 10
+        },
+        {
+          "chord": "Gm",
+          "col": 19
+        },
+        {
+          "chord": "A",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ne mi o?",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Baradayi deyyo",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Naradayi zeyyov natuda",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Nonazayi kambare",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kammabari turareyya tumba",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

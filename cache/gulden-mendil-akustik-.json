@@ -1,0 +1,117 @@
+{
+  "slug": "gulden-mendil-akustik-",
+  "artist": "Gülden",
+  "title": "Mendil ( Akustik )",
+  "key": "F#",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Kör bir sızı vuruyor inceden inceden",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Merhem getirme, yaram içerden",
+      "chords": [
+        {
+          "chord": "Dmaj7",
+          "col": 18
+        },
+        {
+          "chord": "F#m",
+          "col": 41
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kaç yıl oldu özledim söylemeden ölmem",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Azına tutkunum çok bir şey istemem",
+      "chords": [
+        {
+          "chord": "Dmaj7",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 43
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gözyaşını sildiğin mendilin olayım",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Koy beni gömleğinin sol cebine",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Günler geceler çok zor geçti",
+      "chords": [
+        {
+          "chord": "Dmaj7",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Razıyım orası yakın kalbine",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

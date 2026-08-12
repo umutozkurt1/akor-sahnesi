@@ -1,0 +1,168 @@
+{
+  "slug": "cagan-sengul-bir-avuc-yalan",
+  "artist": "Çağan Şengül",
+  "title": "Bir Avuç Yalan",
+  "key": "F#",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "ıssız soğuk bir akşam bu şehirde",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 8
+        },
+        {
+          "chord": "F#m",
+          "col": 46
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "duyduklarım yalan olsaydı gidişinle",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 26
+        },
+        {
+          "chord": "F#m",
+          "col": 54
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "açıkladım herşeyi açık kapım herşeyim",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 26
+        },
+        {
+          "chord": "F#m",
+          "col": 57
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "kollarım yolun sonunda bekliyor gelmeni",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 36
+        },
+        {
+          "chord": "F#m",
+          "col": 62
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "ahh ahh ahh ahhhh",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 2
+        },
+        {
+          "chord": "F#m",
+          "col": 6
+        },
+        {
+          "chord": "G",
+          "col": 12
+        },
+        {
+          "chord": "F#m",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "şimdi soğur acım yavaş yavaş diner",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "yalanların kabuk tutar içimde hep bi dert",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 19
+        },
+        {
+          "chord": "G",
+          "col": 56
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "sen uzat bana ellerinden",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 19
+        },
+        {
+          "chord": "G",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "bir avuç yalan hazırım inanmaya",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 25
+        },
+        {
+          "chord": "G",
+          "col": 36
+        },
+        {
+          "chord": "Bm",
+          "col": 45
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

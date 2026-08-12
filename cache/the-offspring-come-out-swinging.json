@@ -1,0 +1,953 @@
+{
+  "slug": "the-offspring-come-out-swinging",
+  "artist": "The Offspring",
+  "title": "Come Out Swinging",
+  "key": "E",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Intro",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "E5",
+          "col": 0
+        },
+        {
+          "chord": "F#5",
+          "col": 5
+        },
+        {
+          "chord": "G5",
+          "col": 9
+        },
+        {
+          "chord": "D5",
+          "col": 13
+        },
+        {
+          "chord": "G5",
+          "col": 17
+        },
+        {
+          "chord": "F#5",
+          "col": 20
+        },
+        {
+          "chord": "E5",
+          "col": 28
+        },
+        {
+          "chord": "F#5",
+          "col": 33
+        },
+        {
+          "chord": "G5",
+          "col": 37
+        },
+        {
+          "chord": "D5",
+          "col": 41
+        },
+        {
+          "chord": "G5",
+          "col": 45
+        },
+        {
+          "chord": "F#5",
+          "col": 48
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "E5",
+          "col": 0
+        },
+        {
+          "chord": "F#5",
+          "col": 5
+        },
+        {
+          "chord": "G5",
+          "col": 9
+        },
+        {
+          "chord": "D5",
+          "col": 13
+        },
+        {
+          "chord": "G5",
+          "col": 17
+        },
+        {
+          "chord": "F#5",
+          "col": 20
+        },
+        {
+          "chord": "E5",
+          "col": 28
+        },
+        {
+          "chord": "F#5",
+          "col": 33
+        },
+        {
+          "chord": "G5",
+          "col": 37
+        },
+        {
+          "chord": "D5",
+          "col": 41
+        },
+        {
+          "chord": "G5",
+          "col": 45
+        },
+        {
+          "chord": "F#5",
+          "col": 48
+        },
+        {
+          "chord": "E5",
+          "col": 53
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You brace and hold it all inside",
+      "chords": [
+        {
+          "chord": "E5",
+          "col": 0
+        },
+        {
+          "chord": "G5",
+          "col": 15
+        },
+        {
+          "chord": "A5",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "It's more than you can stand",
+      "chords": [
+        {
+          "chord": "C5",
+          "col": 6
+        },
+        {
+          "chord": "D5",
+          "col": 15
+        },
+        {
+          "chord": "E5",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "No one around even tries",
+      "chords": [
+        {
+          "chord": "E5",
+          "col": 0
+        },
+        {
+          "chord": "G5",
+          "col": 9
+        },
+        {
+          "chord": "A5",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Tries to understand",
+      "chords": [
+        {
+          "chord": "C5",
+          "col": 2
+        },
+        {
+          "chord": "D5",
+          "col": 9
+        },
+        {
+          "chord": "E5",
+          "col": 16
+        },
+        {
+          "chord": "G5",
+          "col": 21
+        },
+        {
+          "chord": "A5",
+          "col": 24
+        },
+        {
+          "chord": "E5",
+          "col": 30
+        },
+        {
+          "chord": "G5",
+          "col": 33
+        },
+        {
+          "chord": "A5",
+          "col": 36
+        },
+        {
+          "chord": "C5",
+          "col": 40
+        },
+        {
+          "chord": "D5",
+          "col": 43
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Don't turn away, don't turn away",
+      "chords": [
+        {
+          "chord": "E5",
+          "col": 12
+        },
+        {
+          "chord": "G5",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Come out swinging, Come out alone",
+      "chords": [
+        {
+          "chord": "A5",
+          "col": 1
+        },
+        {
+          "chord": "C5",
+          "col": 20
+        },
+        {
+          "chord": "D5",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "They're in your way, they're in your way",
+      "chords": [
+        {
+          "chord": "E5",
+          "col": 16
+        },
+        {
+          "chord": "G5",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But as long as you're swinging strong then you'll get by",
+      "chords": [
+        {
+          "chord": "A5",
+          "col": 8
+        },
+        {
+          "chord": "A5",
+          "col": 34
+        },
+        {
+          "chord": "G5",
+          "col": 44
+        },
+        {
+          "chord": "E5",
+          "col": 54
+        },
+        {
+          "chord": "F#5",
+          "col": 59
+        },
+        {
+          "chord": "G5",
+          "col": 63
+        },
+        {
+          "chord": "D5",
+          "col": 67
+        },
+        {
+          "chord": "G5",
+          "col": 71
+        },
+        {
+          "chord": "F#5",
+          "col": 74
+        },
+        {
+          "chord": "E5",
+          "col": 79
+        },
+        {
+          "chord": "F#5",
+          "col": 82
+        },
+        {
+          "chord": "G5",
+          "col": 86
+        },
+        {
+          "chord": "D5",
+          "col": 89
+        },
+        {
+          "chord": "G5",
+          "col": 92
+        },
+        {
+          "chord": "F#5",
+          "col": 95
+        },
+        {
+          "chord": "E5",
+          "col": 99
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Your pacing's wearing out a line",
+      "chords": [
+        {
+          "chord": "E5",
+          "col": 0
+        },
+        {
+          "chord": "G5",
+          "col": 15
+        },
+        {
+          "chord": "A5",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Right beside your bed",
+      "chords": [
+        {
+          "chord": "C5",
+          "col": 0
+        },
+        {
+          "chord": "D5",
+          "col": 9
+        },
+        {
+          "chord": "E5",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "The scene replays a million times",
+      "chords": [
+        {
+          "chord": "E5",
+          "col": 0
+        },
+        {
+          "chord": "G5",
+          "col": 13
+        },
+        {
+          "chord": "A5",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Stuck inside your head",
+      "chords": [
+        {
+          "chord": "C5",
+          "col": 0
+        },
+        {
+          "chord": "D5",
+          "col": 9
+        },
+        {
+          "chord": "E5",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And though you stand in place",
+      "chords": [
+        {
+          "chord": "E5",
+          "col": 0
+        },
+        {
+          "chord": "G5",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Your mind escapes",
+      "chords": [
+        {
+          "chord": "A5",
+          "col": 6
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Read between the lies",
+      "chords": [
+        {
+          "chord": "A5",
+          "col": 1
+        },
+        {
+          "chord": "E5",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Smile's on your face",
+      "chords": [
+        {
+          "chord": "E5",
+          "col": 0
+        },
+        {
+          "chord": "G5",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You fake like you're ok",
+      "chords": [
+        {
+          "chord": "A5",
+          "col": 5
+        },
+        {
+          "chord": "C5",
+          "col": 15
+        },
+        {
+          "chord": "D5",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Don't turn away, don't turn away",
+      "chords": [
+        {
+          "chord": "E5",
+          "col": 12
+        },
+        {
+          "chord": "G5",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Come out swinging, Come out alone",
+      "chords": [
+        {
+          "chord": "A5",
+          "col": 1
+        },
+        {
+          "chord": "C5",
+          "col": 20
+        },
+        {
+          "chord": "D5",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "They're in your way, they're in your way",
+      "chords": [
+        {
+          "chord": "E5",
+          "col": 16
+        },
+        {
+          "chord": "G5",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You may be stinging, But you'll get by",
+      "chords": [
+        {
+          "chord": "A5",
+          "col": 0
+        },
+        {
+          "chord": "A5",
+          "col": 26
+        },
+        {
+          "chord": "G5",
+          "col": 36
+        },
+        {
+          "chord": "E5",
+          "col": 46
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Don't turn away, don't turn away",
+      "chords": [
+        {
+          "chord": "E5",
+          "col": 12
+        },
+        {
+          "chord": "G5",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Come out swinging, Never alone again",
+      "chords": [
+        {
+          "chord": "A5",
+          "col": 1
+        },
+        {
+          "chord": "C5",
+          "col": 20
+        },
+        {
+          "chord": "D5",
+          "col": 26
+        },
+        {
+          "chord": "C5",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "The pain inside can guide your way",
+      "chords": [
+        {
+          "chord": "B5",
+          "col": 12
+        },
+        {
+          "chord": "D5",
+          "col": 21
+        },
+        {
+          "chord": "E5",
+          "col": 31
+        },
+        {
+          "chord": "E5",
+          "col": 37
+        },
+        {
+          "chord": "G5",
+          "col": 40
+        },
+        {
+          "chord": "A5",
+          "col": 43
+        },
+        {
+          "chord": "E5",
+          "col": 48
+        },
+        {
+          "chord": "G5",
+          "col": 51
+        },
+        {
+          "chord": "A5",
+          "col": 54
+        },
+        {
+          "chord": "C5",
+          "col": 57
+        },
+        {
+          "chord": "D5",
+          "col": 60
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Midnight, no sleep, oh",
+      "chords": [
+        {
+          "chord": "E5",
+          "col": 0
+        },
+        {
+          "chord": "C5",
+          "col": 4
+        },
+        {
+          "chord": "A5",
+          "col": 10
+        },
+        {
+          "chord": "D5",
+          "col": 13
+        },
+        {
+          "chord": "B5",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Inside, you scream to",
+      "chords": [
+        {
+          "chord": "E5",
+          "col": 0
+        },
+        {
+          "chord": "C5",
+          "col": 4
+        },
+        {
+          "chord": "A5",
+          "col": 8
+        },
+        {
+          "chord": "D5",
+          "col": 14
+        },
+        {
+          "chord": "B5",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "No one, hears you fall",
+      "chords": [
+        {
+          "chord": "E5",
+          "col": 0
+        },
+        {
+          "chord": "C5",
+          "col": 3
+        },
+        {
+          "chord": "A5",
+          "col": 9
+        },
+        {
+          "chord": "D5",
+          "col": 14
+        },
+        {
+          "chord": "B5",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Daylight, prove me today",
+      "chords": [
+        {
+          "chord": "E5",
+          "col": 0
+        },
+        {
+          "chord": "C5",
+          "col": 4
+        },
+        {
+          "chord": "A5",
+          "col": 11
+        },
+        {
+          "chord": "D5",
+          "col": 16
+        },
+        {
+          "chord": "B5",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "N.C.",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "One more try",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Don't turn away, don't turn away",
+      "chords": [
+        {
+          "chord": "E5",
+          "col": 12
+        },
+        {
+          "chord": "G5",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Come out swinging, Come out alone",
+      "chords": [
+        {
+          "chord": "A5",
+          "col": 1
+        },
+        {
+          "chord": "C5",
+          "col": 20
+        },
+        {
+          "chord": "D5",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "They're in your way, they're in your way",
+      "chords": [
+        {
+          "chord": "E5",
+          "col": 16
+        },
+        {
+          "chord": "G5",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You may be stinging, But you'll get by",
+      "chords": [
+        {
+          "chord": "A5",
+          "col": 0
+        },
+        {
+          "chord": "A5",
+          "col": 26
+        },
+        {
+          "chord": "G5",
+          "col": 36
+        },
+        {
+          "chord": "E5",
+          "col": 46
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Don't turn away, don't turn away",
+      "chords": [
+        {
+          "chord": "E5",
+          "col": 12
+        },
+        {
+          "chord": "G5",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Come out swinging, Never alone again",
+      "chords": [
+        {
+          "chord": "A5",
+          "col": 1
+        },
+        {
+          "chord": "C5",
+          "col": 20
+        },
+        {
+          "chord": "D5",
+          "col": 26
+        },
+        {
+          "chord": "C5",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "pain inside",
+      "chords": [
+        {
+          "chord": "D5",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Leads you Leads you through so you'll get by",
+      "chords": [
+        {
+          "chord": "A5",
+          "col": 0
+        },
+        {
+          "chord": "G5",
+          "col": 6
+        },
+        {
+          "chord": "A5",
+          "col": 12
+        },
+        {
+          "chord": "G5",
+          "col": 17
+        },
+        {
+          "chord": "A5",
+          "col": 24
+        },
+        {
+          "chord": "G5",
+          "col": 30
+        },
+        {
+          "chord": "E5",
+          "col": 34
+        },
+        {
+          "chord": "D5",
+          "col": 40
+        },
+        {
+          "chord": "E5",
+          "col": 44
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

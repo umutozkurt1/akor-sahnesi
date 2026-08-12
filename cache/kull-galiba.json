@@ -1,0 +1,152 @@
+{
+  "slug": "kull-galiba",
+  "artist": "Küll",
+  "title": "Galiba",
+  "key": "G#",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Seven, sevdiğine böyle mi yapar seven",
+      "chords": [
+        {
+          "chord": "G#m",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 9
+        },
+        {
+          "chord": "G#m",
+          "col": 46
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Güneşimi karartıp da kaçar gider",
+      "chords": [
+        {
+          "chord": "G#m",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 45
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bu karanlıkta tek başımayım neden",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "G#m",
+          "col": 48
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ama olmaz, bu kötü gidişe bir son vermem gerekir",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 9
+        },
+        {
+          "chord": "G#m",
+          "col": 75
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ama olmaz, bu kötü gidişe bir son vermem gerekir",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 9
+        },
+        {
+          "chord": "G#m",
+          "col": 77
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ama olur, istesem dünyalara kavuşurum inan",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 11
+        },
+        {
+          "chord": "F#m",
+          "col": 17
+        },
+        {
+          "chord": "G#m",
+          "col": 65
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Korkarım, ama galiba bütün bu olanlara dayanamam ama hazırım",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 27
+        },
+        {
+          "chord": "G#m",
+          "col": 100
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sen giderken adımlarını sayarım, heyhat",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 54
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ne yazık seni yanlış tanıdım sanırım",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "G#m",
+          "col": 48
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

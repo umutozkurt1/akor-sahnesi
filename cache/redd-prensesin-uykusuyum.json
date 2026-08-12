@@ -1,0 +1,182 @@
+{
+  "slug": "redd-prensesin-uykusuyum",
+  "artist": "Redd",
+  "title": "Prensesin Uykusuyum",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Ben kimin uydusuyum, uymadı mı sorgusuyum",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hala eski duygusuyum, prensesin uykusuyum",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir avuntu dolgusuyum, terk eder beni korkusuyum",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hala eski duygusuyum, prensesin uykusuyum",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Uyanmaz mı, uyanmaz mı",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 26
+        },
+        {
+          "chord": "D",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bana gelince zaman durmaz mı",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 26
+        },
+        {
+          "chord": "D",
+          "col": 45
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Başa döner",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Uykusuz, rüyasız, bana gelince hayat neden masalsız,    bilmem",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 8
+        },
+        {
+          "chord": "D",
+          "col": 20
+        },
+        {
+          "chord": "Gm",
+          "col": 33
+        },
+        {
+          "chord": "A#",
+          "col": 53
+        },
+        {
+          "chord": "Cm",
+          "col": 72
+        },
+        {
+          "chord": "D",
+          "col": 77
+        },
+        {
+          "chord": "Gm",
+          "col": 84
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir masalın yokmuşuyum, ben hiç ben olmuş muyum",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 45
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hala aynı duygusuyum, prensesin uykusuyum",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 41
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

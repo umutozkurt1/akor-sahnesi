@@ -1,0 +1,433 @@
+{
+  "slug": "coldplay-daylight",
+  "artist": "Coldplay",
+  "title": "Daylight",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "C  C7 x 4",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 0
+        },
+        {
+          "chord": "G#",
+          "col": 3
+        },
+        {
+          "chord": "C",
+          "col": 6
+        },
+        {
+          "chord": "C7",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "To my sur - prise               My de - light",
+      "chords": [
+        {
+          "chord": "A#7",
+          "col": 6
+        },
+        {
+          "chord": "G#",
+          "col": 13
+        },
+        {
+          "chord": "C",
+          "col": 19
+        },
+        {
+          "chord": "A#7",
+          "col": 36
+        },
+        {
+          "chord": "G#",
+          "col": 42
+        },
+        {
+          "chord": "C",
+          "col": 53
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I saw sun rise                  I saw sun light",
+      "chords": [
+        {
+          "chord": "A#7",
+          "col": 6
+        },
+        {
+          "chord": "G#",
+          "col": 13
+        },
+        {
+          "chord": "C",
+          "col": 19
+        },
+        {
+          "chord": "A#7",
+          "col": 40
+        },
+        {
+          "chord": "G#",
+          "col": 46
+        },
+        {
+          "chord": "C",
+          "col": 53
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I am nothing                    In the dark",
+      "chords": [
+        {
+          "chord": "A#7",
+          "col": 5
+        },
+        {
+          "chord": "G#",
+          "col": 10
+        },
+        {
+          "chord": "C",
+          "col": 16
+        },
+        {
+          "chord": "A#7",
+          "col": 41
+        },
+        {
+          "chord": "G#",
+          "col": 47
+        },
+        {
+          "chord": "C",
+          "col": 53
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And the clouds burst            To show day light",
+      "chords": [
+        {
+          "chord": "A#7",
+          "col": 9
+        },
+        {
+          "chord": "G#",
+          "col": 16
+        },
+        {
+          "chord": "C",
+          "col": 22
+        },
+        {
+          "chord": "A#7",
+          "col": 42
+        },
+        {
+          "chord": "G#",
+          "col": 48
+        },
+        {
+          "chord": "C",
+          "col": 53
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "ooooh and the sun shines   Yeah, on a stormy morning",
+      "chords": [
+        {
+          "chord": "A#7",
+          "col": 0
+        },
+        {
+          "chord": "G#",
+          "col": 15
+        },
+        {
+          "chord": "C",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "ooooh then I realise       Who can I live without",
+      "chords": [
+        {
+          "chord": "A#7",
+          "col": 0
+        },
+        {
+          "chord": "G#",
+          "col": 15
+        },
+        {
+          "chord": "C",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ooooh come apart with us   who",
+      "chords": [
+        {
+          "chord": "A#7",
+          "col": 0
+        },
+        {
+          "chord": "G#",
+          "col": 15
+        },
+        {
+          "chord": "C",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Well you hear all the talk      on the sky rise",
+      "chords": [
+        {
+          "chord": "A#7",
+          "col": 10
+        },
+        {
+          "chord": "G#",
+          "col": 16
+        },
+        {
+          "chord": "C",
+          "col": 24
+        },
+        {
+          "chord": "A#7",
+          "col": 40
+        },
+        {
+          "chord": "G#",
+          "col": 46
+        },
+        {
+          "chord": "C",
+          "col": 53
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Like a first born               Child",
+      "chords": [
+        {
+          "chord": "A#7",
+          "col": 8
+        },
+        {
+          "chord": "G#",
+          "col": 15
+        },
+        {
+          "chord": "C",
+          "col": 21
+        },
+        {
+          "chord": "A#7",
+          "col": 33
+        },
+        {
+          "chord": "G#",
+          "col": 40
+        },
+        {
+          "chord": "C",
+          "col": 47
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Oh they volunteer               they'll be full of fire",
+      "chords": [
+        {
+          "chord": "A#7",
+          "col": 8
+        },
+        {
+          "chord": "G#",
+          "col": 15
+        },
+        {
+          "chord": "C",
+          "col": 21
+        },
+        {
+          "chord": "A#7",
+          "col": 45
+        },
+        {
+          "chord": "G#",
+          "col": 53
+        },
+        {
+          "chord": "C",
+          "col": 59
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "in the darkness                 in the daylight",
+      "chords": [
+        {
+          "chord": "A#7",
+          "col": 8
+        },
+        {
+          "chord": "G#",
+          "col": 12
+        },
+        {
+          "chord": "C",
+          "col": 18
+        },
+        {
+          "chord": "A#7",
+          "col": 40
+        },
+        {
+          "chord": "G#",
+          "col": 45
+        },
+        {
+          "chord": "C",
+          "col": 52
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "ooooh and the sun shines   Yeah, on a stormy morning",
+      "chords": [
+        {
+          "chord": "A#7",
+          "col": 0
+        },
+        {
+          "chord": "G#",
+          "col": 15
+        },
+        {
+          "chord": "C",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "ooooh then I realise       Who can I live without",
+      "chords": [
+        {
+          "chord": "A#7",
+          "col": 0
+        },
+        {
+          "chord": "G#",
+          "col": 15
+        },
+        {
+          "chord": "C",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ooooh come apart with us   who",
+      "chords": [
+        {
+          "chord": "A#7",
+          "col": 0
+        },
+        {
+          "chord": "G#",
+          "col": 15
+        },
+        {
+          "chord": "C",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Slowly breaking through  a daylight  Slowly breaking through  a daylight",
+      "chords": [
+        {
+          "chord": "A#7",
+          "col": 0
+        },
+        {
+          "chord": "G#",
+          "col": 25
+        },
+        {
+          "chord": "C",
+          "col": 39
+        },
+        {
+          "chord": "C7",
+          "col": 61
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "(repeat to end)",
+      "chords": [],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

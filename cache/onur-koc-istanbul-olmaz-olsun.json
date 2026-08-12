@@ -1,0 +1,262 @@
+{
+  "slug": "onur-koc-istanbul-olmaz-olsun",
+  "artist": "Onur Koç",
+  "title": "İstanbul Olmaz Olsun",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "İntro:",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 6
+        },
+        {
+          "chord": "G#",
+          "col": 12
+        },
+        {
+          "chord": "A#",
+          "col": 17
+        },
+        {
+          "chord": "Gm",
+          "col": 22
+        },
+        {
+          "chord": "Gm",
+          "col": 29
+        },
+        {
+          "chord": "Gm",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Aşığın dilinden anlar dediler",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sevenin halini bilir dediler",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Aşığa İstanbul cennet dediler",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 7
+        },
+        {
+          "chord": "G#",
+          "col": 20
+        },
+        {
+          "chord": "Fm",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bunlara inanmasaydım keşke",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "G#",
+          "col": 12
+        },
+        {
+          "chord": "Fm",
+          "col": 23
+        },
+        {
+          "chord": "Gm",
+          "col": 37
+        },
+        {
+          "chord": "G#",
+          "col": 45
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yalan olmuş her ne varsa bu şehirde sevmek hata",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 21
+        },
+        {
+          "chord": "G#",
+          "col": 42
+        },
+        {
+          "chord": "Gm",
+          "col": 62
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dogrusuyla duygusuyla yaşanmıyor aşklar burda",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 20
+        },
+        {
+          "chord": "G#",
+          "col": 38
+        },
+        {
+          "chord": "Gm",
+          "col": 59
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hep sahteyse aşklar",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bitmeyen yalanlar",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gönlümden uzak olsun",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 20
+        },
+        {
+          "chord": "G#",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Öldüren bir zehir",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Böyleyse bu şehir",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İstanbul olmaz olsun",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 0
+        },
+        {
+          "chord": "G#",
+          "col": 14
+        },
+        {
+          "chord": "Gm",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

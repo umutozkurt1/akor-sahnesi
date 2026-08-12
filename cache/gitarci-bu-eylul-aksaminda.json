@@ -1,0 +1,171 @@
+{
+  "slug": "gitarci-bu-eylul-aksaminda",
+  "artist": "Gitarcı",
+  "title": "Bu Eylül Akşamında",
+  "key": "F#",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Bu eylül akşamında, o güzel deli gözlerini",
+      "chords": [
+        {
+          "chord": "F#",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Görebilmek için canımı verirdim",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 11
+        },
+        {
+          "chord": "G",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Nerdesin nerdesin, nerdesin nerde",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 19
+        },
+        {
+          "chord": "G",
+          "col": 32
+        },
+        {
+          "chord": "Em",
+          "col": 39
+        },
+        {
+          "chord": "F#",
+          "col": 47
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İçim dışım ızdırap, bir çıkış yolu bilmiyorum",
+      "chords": [
+        {
+          "chord": "F#",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bana dönmen için canımı verirdim",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 11
+        },
+        {
+          "chord": "G",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Nerdesin nerdesin, nerdesin nerde",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 19
+        },
+        {
+          "chord": "G",
+          "col": 31
+        },
+        {
+          "chord": "Em",
+          "col": 40
+        },
+        {
+          "chord": "F#",
+          "col": 47
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Her akşam fırtına kar yağmur gezdiğimiz yerlerde",
+      "chords": [
+        {
+          "chord": "F#",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Her akşam uğruna ağlıyorum sen hiç bilmesen bile",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 80
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ruhumdan ayrılığını koparıp unutmak istiyorum seni",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 23
+        },
+        {
+          "chord": "G",
+          "col": 45
+        },
+        {
+          "chord": "Em",
+          "col": 77
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Unutamıyorum",
+      "chords": [
+        {
+          "chord": "F#",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

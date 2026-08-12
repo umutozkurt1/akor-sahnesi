@@ -1,0 +1,995 @@
+{
+  "slug": "bon-jovi-have-a-nice-day",
+  "artist": "Bon Jovi",
+  "title": "Have A Nice Day",
+  "key": "B",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Intro :",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 3
+        },
+        {
+          "chord": "G",
+          "col": 5
+        },
+        {
+          "chord": "D",
+          "col": 7
+        },
+        {
+          "chord": "A",
+          "col": 9
+        },
+        {
+          "chord": "Bm",
+          "col": 11
+        },
+        {
+          "chord": "D",
+          "col": 14
+        },
+        {
+          "chord": "G",
+          "col": 16
+        },
+        {
+          "chord": "D",
+          "col": 18
+        },
+        {
+          "chord": "A",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 3
+        },
+        {
+          "chord": "G",
+          "col": 5
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   Why,  you wanna tell me how to live my life?",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 2
+        },
+        {
+          "chord": "Bm",
+          "col": 7
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "     Who,  are you to tell me if it's black or white?",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 2
+        },
+        {
+          "chord": "A",
+          "col": 4
+        },
+        {
+          "chord": "Bm",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "     Mama, can you hear me? Try to understand",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 2
+        },
+        {
+          "chord": "A",
+          "col": 4
+        },
+        {
+          "chord": "Bm",
+          "col": 7
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Is innocence the difference between a boy and a man?",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 3
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "My daddy lived the lie, that's just the price that he paid",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 3
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sacrificed his life, just slaving away",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Oh,  if there's one thing I hang onto",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 3
+        },
+        {
+          "chord": "G",
+          "col": 19
+        },
+        {
+          "chord": "D",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "That gets me through the night",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I  ain't gonna do what I don't want to",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 1
+        },
+        {
+          "chord": "G",
+          "col": 15
+        },
+        {
+          "chord": "D",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'm gonna live my life",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Shining like a diamond, rolling with the dice",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 4
+        },
+        {
+          "chord": "G",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Standing on the ledge, I show the wind how to fly",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 5
+        },
+        {
+          "chord": "A",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "When the world gets in my face",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I say, have a nice day",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 6
+        },
+        {
+          "chord": "Bm",
+          "col": 19
+        },
+        {
+          "chord": "D",
+          "col": 22
+        },
+        {
+          "chord": "G",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  Have a nice day",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 2
+        },
+        {
+          "chord": "Bm",
+          "col": 14
+        },
+        {
+          "chord": "D",
+          "col": 17
+        },
+        {
+          "chord": "G",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   Take  a look around you; nothing's what it seems",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 2
+        },
+        {
+          "chord": "Bm",
+          "col": 7
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "     We're living in the broken home of hopes and dreams",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 2
+        },
+        {
+          "chord": "A",
+          "col": 4
+        },
+        {
+          "chord": "Bm",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "     Let  me be the first to shake a helping hand",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 2
+        },
+        {
+          "chord": "A",
+          "col": 4
+        },
+        {
+          "chord": "Bm",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Anybody brave enough to take a stand",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I've knocked on every door, on every dead end street",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 5
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Looking for forgiveness",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "What's left to believe?",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Oh,  if there's one thing I hang onto",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 3
+        },
+        {
+          "chord": "G",
+          "col": 19
+        },
+        {
+          "chord": "D",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "That gets me through the night",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I  ain't gonna do what I don't want to",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 1
+        },
+        {
+          "chord": "G",
+          "col": 15
+        },
+        {
+          "chord": "D",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'm gonna live my life",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Shining like a diamond, rolling with the dice",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 4
+        },
+        {
+          "chord": "G",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Standing on the ledge, I show the wind how to fly",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 5
+        },
+        {
+          "chord": "A",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "When the world gets in my face",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I say, have a nice day",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 6
+        },
+        {
+          "chord": "Bm",
+          "col": 19
+        },
+        {
+          "chord": "D",
+          "col": 22
+        },
+        {
+          "chord": "G",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  Have a nice day",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 2
+        },
+        {
+          "chord": "Bm",
+          "col": 14
+        },
+        {
+          "chord": "D",
+          "col": 17
+        },
+        {
+          "chord": "G",
+          "col": 19
+        },
+        {
+          "chord": "D",
+          "col": 21
+        },
+        {
+          "chord": "A",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 3
+        },
+        {
+          "chord": "D",
+          "col": 5
+        },
+        {
+          "chord": "A",
+          "col": 7
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 3
+        },
+        {
+          "chord": "D",
+          "col": 5
+        },
+        {
+          "chord": "A",
+          "col": 7
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 2
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 3
+        },
+        {
+          "chord": "G",
+          "col": 5
+        },
+        {
+          "chord": "D",
+          "col": 7
+        },
+        {
+          "chord": "A",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  Oh,     Oh,  if there's one thing I hang onto",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 5
+        },
+        {
+          "chord": "D",
+          "col": 7
+        },
+        {
+          "chord": "A",
+          "col": 9
+        },
+        {
+          "chord": "Bm",
+          "col": 13
+        },
+        {
+          "chord": "G",
+          "col": 29
+        },
+        {
+          "chord": "D",
+          "col": 45
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "That gets me through the night",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I  ain't gonna do what I don't want to",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 1
+        },
+        {
+          "chord": "G",
+          "col": 15
+        },
+        {
+          "chord": "D",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'm gonna live my life",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Shining like a diamond, rolling with the dice",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 4
+        },
+        {
+          "chord": "G",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Standing on the ledge, I show the wind how to fly",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 5
+        },
+        {
+          "chord": "A",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "When the world gets in my face",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I say, have a nice day",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 6
+        },
+        {
+          "chord": "Bm",
+          "col": 19
+        },
+        {
+          "chord": "D",
+          "col": 22
+        },
+        {
+          "chord": "G",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  Have a nice day",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 2
+        },
+        {
+          "chord": "Bm",
+          "col": 14
+        },
+        {
+          "chord": "D",
+          "col": 17
+        },
+        {
+          "chord": "G",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   When The world keeps trying, to drag me down",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 2
+        },
+        {
+          "chord": "Bm",
+          "col": 12
+        },
+        {
+          "chord": "D",
+          "col": 23
+        },
+        {
+          "chord": "G",
+          "col": 27
+        },
+        {
+          "chord": "D",
+          "col": 40
+        },
+        {
+          "chord": "A",
+          "col": 47
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I gotta raise my hands, I'm gonna stand my ground",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 8
+        },
+        {
+          "chord": "D",
+          "col": 16
+        },
+        {
+          "chord": "G",
+          "col": 24
+        },
+        {
+          "chord": "D",
+          "col": 40
+        },
+        {
+          "chord": "A",
+          "col": 49
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Well I     say,  have a nice day",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 5
+        },
+        {
+          "chord": "D",
+          "col": 8
+        },
+        {
+          "chord": "G",
+          "col": 10
+        },
+        {
+          "chord": "D",
+          "col": 15
+        },
+        {
+          "chord": "A",
+          "col": 17
+        },
+        {
+          "chord": "Bm",
+          "col": 29
+        },
+        {
+          "chord": "D",
+          "col": 32
+        },
+        {
+          "chord": "G",
+          "col": 34
+        },
+        {
+          "chord": "D",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Have a nice day",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 12
+        },
+        {
+          "chord": "D",
+          "col": 15
+        },
+        {
+          "chord": "G",
+          "col": 17
+        },
+        {
+          "chord": "D",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Have a nice day",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

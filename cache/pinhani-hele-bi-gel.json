@@ -1,0 +1,194 @@
+{
+  "slug": "pinhani-hele-bi-gel",
+  "artist": "Pinhani",
+  "title": "Hele Bi Gel",
+  "key": "A",
+  "capo": 0,
+  "rhythm": "A-A-A-Y-A-K-A-A-K-A-A-A-K",
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Intro:",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 5
+        },
+        {
+          "chord": "E",
+          "col": 11
+        },
+        {
+          "chord": "Am",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İçinden geleni söyle, kalırsa yazık olur",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hayata küsüverirsin, hüzünler seni bulur",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 43
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bi şeyler yapabilirsem güzel gözlerin için",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Başından geçeni anlat, masaldır benim için",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 43
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hele bi gel, uzaklar sana gelir",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 10
+        },
+        {
+          "chord": "Dm",
+          "col": 13
+        },
+        {
+          "chord": "E",
+          "col": 17
+        },
+        {
+          "chord": "Am",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sen hele bi gel, tüm dertler bitiverir",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 18
+        },
+        {
+          "chord": "Dm",
+          "col": 22
+        },
+        {
+          "chord": "E",
+          "col": 34
+        },
+        {
+          "chord": "Am",
+          "col": 49
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hep seni bulur, uzun zor sıkıcı günler",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 17
+        },
+        {
+          "chord": "Dm",
+          "col": 20
+        },
+        {
+          "chord": "E",
+          "col": 26
+        },
+        {
+          "chord": "Am",
+          "col": 51
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yazık olur, hadi gel kurtar bizi",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 17
+        },
+        {
+          "chord": "Dm",
+          "col": 21
+        },
+        {
+          "chord": "E",
+          "col": 25
+        },
+        {
+          "chord": "Am",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

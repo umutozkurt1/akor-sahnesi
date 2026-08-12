@@ -1,0 +1,345 @@
+{
+  "slug": "teoman-sessiz-eller",
+  "artist": "Teoman",
+  "title": "Sessiz Eller",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Ben hala ölürüm plastik çiçekli gizli bahçemde",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 11
+        },
+        {
+          "chord": "G",
+          "col": 22
+        },
+        {
+          "chord": "Am",
+          "col": 30
+        },
+        {
+          "chord": "G",
+          "col": 42
+        },
+        {
+          "chord": "F",
+          "col": 56
+        },
+        {
+          "chord": "C",
+          "col": 63
+        },
+        {
+          "chord": "F",
+          "col": 69
+        },
+        {
+          "chord": "C",
+          "col": 73
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sessizlikten kaçar sıgınırım yorgunlugun koynuna",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 24
+        },
+        {
+          "chord": "Am",
+          "col": 32
+        },
+        {
+          "chord": "G",
+          "col": 48
+        },
+        {
+          "chord": "F",
+          "col": 66
+        },
+        {
+          "chord": "C",
+          "col": 73
+        },
+        {
+          "chord": "F",
+          "col": 79
+        },
+        {
+          "chord": "C",
+          "col": 83
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Apansız uyanır düşlerin tek güzel yerinde",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 12
+        },
+        {
+          "chord": "Dm",
+          "col": 24
+        },
+        {
+          "chord": "C",
+          "col": 41
+        },
+        {
+          "chord": "Dm",
+          "col": 48
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ararım tadını eve donmenin yolu bilmenin",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 17
+        },
+        {
+          "chord": "Dm",
+          "col": 24
+        },
+        {
+          "chord": "C",
+          "col": 41
+        },
+        {
+          "chord": "G",
+          "col": 56
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kimin kimin bu sessiz eller, mor halkalı yaralı gözler",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 22
+        },
+        {
+          "chord": "Am",
+          "col": 47
+        },
+        {
+          "chord": "G",
+          "col": 65
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kıyılarıma vuran sen misin",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 19
+        },
+        {
+          "chord": "C",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kimin kimin bu kör gözler, bu varışsız yalan sözler",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 22
+        },
+        {
+          "chord": "Am",
+          "col": 47
+        },
+        {
+          "chord": "G",
+          "col": 65
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Adını unutan sen misin",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 15
+        },
+        {
+          "chord": "C",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ben hala ararım bilinmeyenin ulaşılmaz balını",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 11
+        },
+        {
+          "chord": "G",
+          "col": 22
+        },
+        {
+          "chord": "Am",
+          "col": 30
+        },
+        {
+          "chord": "G",
+          "col": 42
+        },
+        {
+          "chord": "F",
+          "col": 62
+        },
+        {
+          "chord": "C",
+          "col": 69
+        },
+        {
+          "chord": "F",
+          "col": 75
+        },
+        {
+          "chord": "C",
+          "col": 79
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kaçarım kalabalıktan, yalnızlıktan, dostumuz ölümden",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 20
+        },
+        {
+          "chord": "Am",
+          "col": 36
+        },
+        {
+          "chord": "G",
+          "col": 55
+        },
+        {
+          "chord": "F",
+          "col": 76
+        },
+        {
+          "chord": "C",
+          "col": 83
+        },
+        {
+          "chord": "F",
+          "col": 89
+        },
+        {
+          "chord": "C",
+          "col": 93
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Apansız uyanır düşlerin tek güzel yerinde",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 12
+        },
+        {
+          "chord": "Dm",
+          "col": 24
+        },
+        {
+          "chord": "C",
+          "col": 41
+        },
+        {
+          "chord": "Dm",
+          "col": 48
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ararım tadını eve donmenin yolu bilmenin",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 17
+        },
+        {
+          "chord": "Dm",
+          "col": 24
+        },
+        {
+          "chord": "C",
+          "col": 41
+        },
+        {
+          "chord": "G",
+          "col": 56
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

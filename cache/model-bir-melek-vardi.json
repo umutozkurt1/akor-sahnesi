@@ -1,0 +1,205 @@
+{
+  "slug": "model-bir-melek-vardi",
+  "artist": "Model",
+  "title": "Bir Melek Vardı",
+  "key": "D",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "            Bir melek vardı,            aşkı fısıldardı",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "Bsus2",
+          "col": 3
+        },
+        {
+          "chord": "Bm",
+          "col": 21
+        },
+        {
+          "chord": "Bsus2",
+          "col": 24
+        },
+        {
+          "chord": "Em",
+          "col": 50
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Elimde o büyülü ellerin hayali kaldı",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 22
+        },
+        {
+          "chord": "C#dim",
+          "col": 41
+        },
+        {
+          "chord": "C",
+          "col": 52
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "         Uyku imkansız,                   umut vicdansız",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "Bsus2",
+          "col": 3
+        },
+        {
+          "chord": "Bm",
+          "col": 21
+        },
+        {
+          "chord": "Bmsus2",
+          "col": 24
+        },
+        {
+          "chord": "Em",
+          "col": 54
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Güneş bile dedi ki kendine doğmak anlamsız",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 25
+        },
+        {
+          "chord": "C#dim",
+          "col": 47
+        },
+        {
+          "chord": "C",
+          "col": 59
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ağladım delice, elimde boş bi şişe",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 18
+        },
+        {
+          "chord": "G",
+          "col": 29
+        },
+        {
+          "chord": "D",
+          "col": 47
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kutladım bu gece sarılmanı, başka kollara",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 21
+        },
+        {
+          "chord": "Am",
+          "col": 45
+        },
+        {
+          "chord": "Bm",
+          "col": 54
+        },
+        {
+          "chord": "C",
+          "col": 60
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yapayalnız biçare, ölüyorsam kime ne",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 22
+        },
+        {
+          "chord": "G",
+          "col": 36
+        },
+        {
+          "chord": "D",
+          "col": 56
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Benzedim bu gece, yine boş sokaklara",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 23
+        },
+        {
+          "chord": "Am",
+          "col": 38
+        },
+        {
+          "chord": "Bm",
+          "col": 45
+        },
+        {
+          "chord": "C",
+          "col": 52
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

@@ -1,0 +1,85 @@
+{
+  "slug": "mustafa-uysal-ok-gibi",
+  "artist": "Mustafa Uysal",
+  "title": "Ok Gibi",
+  "key": "B",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Doğru olsam ok gibi yabana atarlar beni.",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Eğri olsam yay gibi elde tutarlar beni. (X2)",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hiç keder elem etme, boş yere matem etme",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Düşmanlarını tanı, uzak dur sitem etme.",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ne fakiri aç gördüm, ne zengini tok",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hedefine varır elbet doğru ok.",
+      "chords": [],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

@@ -1,0 +1,125 @@
+{
+  "slug": "tan-tas-yurek",
+  "artist": "Tan",
+  "title": "Taş Yürek",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Am7",
+          "col": 0
+        },
+        {
+          "chord": "F7",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sanki bir başkasını senle aldatmak gibi",
+      "chords": [
+        {
+          "chord": "Am7",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ne garip sevince",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Elleri dokunana kelepçe takılıyor",
+      "chords": [
+        {
+          "chord": "F7",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bin yara açılıyor yüreğin her yerine",
+      "chords": [
+        {
+          "chord": "Am7",
+          "col": 19
+        },
+        {
+          "chord": "F7",
+          "col": 23
+        },
+        {
+          "chord": "Am7",
+          "col": 26
+        },
+        {
+          "chord": "F7",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "m",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yanıyorum oysa aşk bir yudum su",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İçtikçe daha fazla susuyor",
+      "chords": [
+        {
+          "chord": "F7",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "m",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Konuşamıyor kaç yıl oldu kimseye",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Herkes beni taş yürekli sanıyor",
+      "chords": [
+        {
+          "chord": "F7",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

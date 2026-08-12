@@ -1,0 +1,141 @@
+{
+  "slug": "fundyy-gidebildigin-yerdeyim",
+  "artist": "Fundyy",
+  "title": "Gidebildiğin Yerdeyim",
+  "key": "G",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Sen gittin gideli ben güldüm mü sen bi de sor bana",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 12
+        },
+        {
+          "chord": "Em",
+          "col": 68
+        },
+        {
+          "chord": "F#m",
+          "col": 79
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yalnızlık adım olmuş soyadım sensizlik baksana",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 63
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gülebilmek varken ağlarım gecelerde be hep sana",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 61
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bilirim sevdalar bir gün der elveda !",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 6
+        },
+        {
+          "chord": "F#m",
+          "col": 53
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ahhhh! Git !!!! Gidebildiğin yerdeyim",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 13
+        },
+        {
+          "chord": "Em",
+          "col": 34
+        },
+        {
+          "chord": "F#m",
+          "col": 51
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sus kelamında senleyim",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 13
+        },
+        {
+          "chord": "F#m",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bil seni sevmek acı tatlı hislerim,",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 18
+        },
+        {
+          "chord": "F#m",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gönlün gülecekse kabul ben gülmeyim!",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 7
+        },
+        {
+          "chord": "F#m",
+          "col": 59
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

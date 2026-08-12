@@ -1,0 +1,173 @@
+{
+  "slug": "nilipek-beni-buraya-sen-koydun",
+  "artist": "Nilipek",
+  "title": "Beni Buraya Sen Koydun",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Bu duygu bir lanet; başkasına devretmeden kurtulamam.",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 14
+        },
+        {
+          "chord": "A",
+          "col": 24
+        },
+        {
+          "chord": "E",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ah, bir dinlesen; omzumdaki yükü sana atıp kaçsam.",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 14
+        },
+        {
+          "chord": "A",
+          "col": 24
+        },
+        {
+          "chord": "E",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ben senden cevaplar çaldım,",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Karşılığında tavırlar verdim.",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ve sen, her denk geldiğinde bana",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Güzel şarkılar dinlettin.",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir uçurum kenarından bakan beni buraya sen koydun.",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 16
+        },
+        {
+          "chord": "G",
+          "col": 29
+        },
+        {
+          "chord": "F",
+          "col": 34
+        },
+        {
+          "chord": "A",
+          "col": 46
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Birden iteceksin diye korkan beni buraya sen koydun.",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 9
+        },
+        {
+          "chord": "A",
+          "col": 22
+        },
+        {
+          "chord": "F",
+          "col": 31
+        },
+        {
+          "chord": "A",
+          "col": 45
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

@@ -1,0 +1,215 @@
+{
+  "slug": "ilyas-yalcintas-dunya-senin2",
+  "artist": "İlyas Yalçıntaş",
+  "title": "Dünya Senin",
+  "key": "F#",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Son yolculuk bu kaybolduğum yer soğuk",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir tek acı kaldıysa gözyaşı",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Nasıl bir sevgin varsa",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bıraktın çöl topraklarda",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 14
+        },
+        {
+          "chord": "F#m",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sen gerçeğim yalansız söylediğim",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 15
+        },
+        {
+          "chord": "Em",
+          "col": 26
+        },
+        {
+          "chord": "Dmaj7",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dünya senin görmediğin her şeyim",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 16
+        },
+        {
+          "chord": "Em",
+          "col": 32
+        },
+        {
+          "chord": "Dmaj7",
+          "col": 46
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bomboş evim sarardı çöl çiçeğim",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 15
+        },
+        {
+          "chord": "Em",
+          "col": 26
+        },
+        {
+          "chord": "Dmaj7",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dünya senin görmediğin her şeyim",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 16
+        },
+        {
+          "chord": "Em",
+          "col": 33
+        },
+        {
+          "chord": "Dmaj7",
+          "col": 48
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 4
+        },
+        {
+          "chord": "Em",
+          "col": 9
+        },
+        {
+          "chord": "Dmaj7",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 3
+        },
+        {
+          "chord": "Em",
+          "col": 8
+        },
+        {
+          "chord": "Dmaj7",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

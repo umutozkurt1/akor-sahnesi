@@ -1,0 +1,783 @@
+{
+  "slug": "george-michael-careless-whisper",
+  "artist": "George Michael",
+  "title": "Careless Whisper",
+  "key": "D",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Intro",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 3
+        },
+        {
+          "chord": "Bb",
+          "col": 6
+        },
+        {
+          "chord": "Am",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 3
+        },
+        {
+          "chord": "Bb",
+          "col": 6
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I feel so unsure",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "As I take your hand and lead you to the dance floor",
+      "chords": [
+        {
+          "chord": "Bb",
+          "col": 8
+        },
+        {
+          "chord": "Am",
+          "col": 55
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "     As the music dies,  something in your eyes",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 1
+        },
+        {
+          "chord": "Gm",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Calls to mind the silver screen",
+      "chords": [
+        {
+          "chord": "Bb",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And all its sad goodbyes",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 8
+        },
+        {
+          "chord": "Dm",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'm never gonna dance again",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Guilty feet have got no rhythm",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "Bb",
+          "col": 49
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Though it's easy to pretend",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I know you're not a fool",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 3
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Should've known better than to cheat a friend",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And waste the chance that I've been given",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 8
+        },
+        {
+          "chord": "Bb",
+          "col": 68
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "So I'm never gonna dance again",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "The way I danced with you",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 3
+        },
+        {
+          "chord": "Bb",
+          "col": 6
+        },
+        {
+          "chord": "Am",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Time can never mend",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "The careless whispers of a good friend",
+      "chords": [
+        {
+          "chord": "Bb",
+          "col": 8
+        },
+        {
+          "chord": "Am",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  To the heart and mind",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  Ignorance is kind",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "There's no comfort in the truth",
+      "chords": [
+        {
+          "chord": "Bb",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Pain is all you'll find",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  I'm never gonna dance again",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Guilty feet have got no rhythm",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "Bb",
+          "col": 49
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Though it's easy to pretend",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I know you're not a fool",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 2
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Should've known better than to cheat a friend",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And waste the chance that I've been given",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 8
+        },
+        {
+          "chord": "Bb",
+          "col": 70
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "So I'm never gonna dance again",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "The way I danced with you",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 7
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 3
+        },
+        {
+          "chord": "Bb",
+          "col": 6
+        },
+        {
+          "chord": "Am",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 3
+        },
+        {
+          "chord": "Bb",
+          "col": 6
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "     Tonight the music seems so loud",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 4
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I wish that we could lose this crowd",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 2
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Maybe it's better this way",
+      "chords": [
+        {
+          "chord": "Bb",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "We'd hurt each other with the things we'd want to say",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "We could have been so good together",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "We could have lived this dance forever",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 3
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But no one's gonna dance with me",
+      "chords": [
+        {
+          "chord": "Bb",
+          "col": 7
+        },
+        {
+          "chord": "Am",
+          "col": 59
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Please stay",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  I'm never gonna dance again",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Guilty feet have got no rhythm",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "Bb",
+          "col": 49
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Though it's easy to pretend",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I know you're not a fool",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 2
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Should've known better than to cheat a friend",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And waste the chance that I've been given",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 8
+        },
+        {
+          "chord": "Bb",
+          "col": 70
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "So I'm never gonna dance again",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "The way I danced with you",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 7
+        },
+        {
+          "chord": "Dm",
+          "col": 43
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "                         Now that you're gone",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "Bb",
+          "col": 3
+        },
+        {
+          "chord": "Am",
+          "col": 6
+        },
+        {
+          "chord": "Dm",
+          "col": 9
+        },
+        {
+          "chord": "Gm",
+          "col": 48
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Now that you're gone",
+      "chords": [
+        {
+          "chord": "Bb",
+          "col": 30
+        },
+        {
+          "chord": "Am",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "      Now that you're gone",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Was what I did's so wrong, so wrong",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 8
+        },
+        {
+          "chord": "Bb",
+          "col": 48
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "That you had to leave  me alone",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 36
+        },
+        {
+          "chord": "Dm",
+          "col": 52
+        },
+        {
+          "chord": "Gm",
+          "col": 55
+        },
+        {
+          "chord": "Bb",
+          "col": 58
+        },
+        {
+          "chord": "Am",
+          "col": 61
+        },
+        {
+          "chord": "Dm",
+          "col": 64
+        },
+        {
+          "chord": "Gm",
+          "col": 67
+        },
+        {
+          "chord": "Bb",
+          "col": 70
+        },
+        {
+          "chord": "Am",
+          "col": 73
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 3
+        },
+        {
+          "chord": "Bb",
+          "col": 6
+        },
+        {
+          "chord": "Am",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 3
+        },
+        {
+          "chord": "Bb",
+          "col": 6
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

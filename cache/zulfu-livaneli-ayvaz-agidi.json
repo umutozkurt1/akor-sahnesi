@@ -1,0 +1,210 @@
+{
+  "slug": "zulfu-livaneli-ayvaz-agidi",
+  "artist": "Zülfü Livaneli",
+  "title": "Ayvaz Ağıdı",
+  "key": "D",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Palazımın şahin gibi konması",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 10
+        },
+        {
+          "chord": "F#m",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dostları ardından gelir sanması",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 9
+        },
+        {
+          "chord": "F#m",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yol olmuştur her yiğidin yanması",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 13
+        },
+        {
+          "chord": "E",
+          "col": 20
+        },
+        {
+          "chord": "F#m",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sana bu ateşten çokça pay düştü",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 10
+        },
+        {
+          "chord": "D",
+          "col": 17
+        },
+        {
+          "chord": "F#m",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Giriş Bölümü Çalınıyor",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Su yürümeyince dağ uçmayınca",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 10
+        },
+        {
+          "chord": "F#m",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sevdiğin şeyleri sarabilmezdin",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 9
+        },
+        {
+          "chord": "F#m",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gençtin tezdin sıra bilmezdin",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 8
+        },
+        {
+          "chord": "E",
+          "col": 15
+        },
+        {
+          "chord": "F#m",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir yiğidin peşine on alay düştü",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 12
+        },
+        {
+          "chord": "D",
+          "col": 19
+        },
+        {
+          "chord": "F#m",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 1
+        },
+        {
+          "chord": "E",
+          "col": 7
+        },
+        {
+          "chord": "F#m",
+          "col": 12
+        },
+        {
+          "chord": "Bm",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

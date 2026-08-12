@@ -1,0 +1,808 @@
+{
+  "slug": "direc-t-dur-sakin-konusma-1",
+  "artist": "Direc",
+  "title": "T - Dur Sakın Konuşma 1",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Dur sakın konuşma",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 2
+        },
+        {
+          "chord": "C",
+          "col": 5
+        },
+        {
+          "chord": "F",
+          "col": 11
+        },
+        {
+          "chord": "C",
+          "col": 16
+        },
+        {
+          "chord": "A#",
+          "col": 18
+        },
+        {
+          "chord": "C",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sevda dört bir yanımda",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 3
+        },
+        {
+          "chord": "C",
+          "col": 9
+        },
+        {
+          "chord": "A#",
+          "col": 12
+        },
+        {
+          "chord": "G",
+          "col": 22
+        },
+        {
+          "chord": "G7",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sen benimle eğlen",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 2
+        },
+        {
+          "chord": "C",
+          "col": 5
+        },
+        {
+          "chord": "F",
+          "col": 9
+        },
+        {
+          "chord": "C",
+          "col": 16
+        },
+        {
+          "chord": "A#",
+          "col": 18
+        },
+        {
+          "chord": "C",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kimse bakmazdı aynaya",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 4
+        },
+        {
+          "chord": "C",
+          "col": 9
+        },
+        {
+          "chord": "A#",
+          "col": 12
+        },
+        {
+          "chord": "G",
+          "col": 21
+        },
+        {
+          "chord": "G7",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İkimizin hikayesi",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 7
+        },
+        {
+          "chord": "C",
+          "col": 11
+        },
+        {
+          "chord": "F7",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Adem’le Havva’dan",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 6
+        },
+        {
+          "chord": "C",
+          "col": 10
+        },
+        {
+          "chord": "F7",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Üçümüzün yolları",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 4
+        },
+        {
+          "chord": "C",
+          "col": 8
+        },
+        {
+          "chord": "F7",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kesişmesin aynalarda",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 6
+        },
+        {
+          "chord": "C",
+          "col": 15
+        },
+        {
+          "chord": "A#",
+          "col": 18
+        },
+        {
+          "chord": "C",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dur sakın bağırma",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 2
+        },
+        {
+          "chord": "C",
+          "col": 5
+        },
+        {
+          "chord": "F",
+          "col": 11
+        },
+        {
+          "chord": "C",
+          "col": 19
+        },
+        {
+          "chord": "A#",
+          "col": 21
+        },
+        {
+          "chord": "C",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Oklar dört bir yanımda",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 5
+        },
+        {
+          "chord": "C",
+          "col": 10
+        },
+        {
+          "chord": "A#",
+          "col": 14
+        },
+        {
+          "chord": "G",
+          "col": 23
+        },
+        {
+          "chord": "G7",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sen sözümü dinle",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 2
+        },
+        {
+          "chord": "C",
+          "col": 5
+        },
+        {
+          "chord": "F",
+          "col": 9
+        },
+        {
+          "chord": "C",
+          "col": 17
+        },
+        {
+          "chord": "A#",
+          "col": 19
+        },
+        {
+          "chord": "C",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kimler kimleri öpsünler",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 4
+        },
+        {
+          "chord": "C",
+          "col": 10
+        },
+        {
+          "chord": "A#",
+          "col": 14
+        },
+        {
+          "chord": "G",
+          "col": 20
+        },
+        {
+          "chord": "G7",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kimileri uzaklarda",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 6
+        },
+        {
+          "chord": "C",
+          "col": 11
+        },
+        {
+          "chord": "F7",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kimi aşıklar çayırda",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 7
+        },
+        {
+          "chord": "C",
+          "col": 11
+        },
+        {
+          "chord": "F7",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dostlarımız kolkola",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 6
+        },
+        {
+          "chord": "C",
+          "col": 10
+        },
+        {
+          "chord": "F7",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Biz eksiğiz sokaklarda",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 7
+        },
+        {
+          "chord": "C",
+          "col": 16
+        },
+        {
+          "chord": "A#",
+          "col": 19
+        },
+        {
+          "chord": "C",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Seni çok özledim",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "C#",
+          "col": 2
+        },
+        {
+          "chord": "C",
+          "col": 6
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dur sakın gocunma",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 2
+        },
+        {
+          "chord": "C",
+          "col": 5
+        },
+        {
+          "chord": "F",
+          "col": 11
+        },
+        {
+          "chord": "C",
+          "col": 16
+        },
+        {
+          "chord": "A#",
+          "col": 18
+        },
+        {
+          "chord": "C",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sözler beşbir yanımda",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 5
+        },
+        {
+          "chord": "C",
+          "col": 11
+        },
+        {
+          "chord": "A#",
+          "col": 14
+        },
+        {
+          "chord": "G",
+          "col": 18
+        },
+        {
+          "chord": "G7",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sen beni bir dinle ve",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 2
+        },
+        {
+          "chord": "C",
+          "col": 5
+        },
+        {
+          "chord": "F",
+          "col": 11
+        },
+        {
+          "chord": "C",
+          "col": 18
+        },
+        {
+          "chord": "A#",
+          "col": 20
+        },
+        {
+          "chord": "C",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bu şarkının adı yok",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 4
+        },
+        {
+          "chord": "C",
+          "col": 10
+        },
+        {
+          "chord": "A#",
+          "col": 13
+        },
+        {
+          "chord": "G",
+          "col": 20
+        },
+        {
+          "chord": "G7",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İkimizin hikayesi",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 6
+        },
+        {
+          "chord": "C",
+          "col": 10
+        },
+        {
+          "chord": "F7",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Adem’le Havva’dan",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 6
+        },
+        {
+          "chord": "C",
+          "col": 10
+        },
+        {
+          "chord": "F7",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Üçümüzün yolları",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 4
+        },
+        {
+          "chord": "C",
+          "col": 8
+        },
+        {
+          "chord": "F7",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kesişmesin aynalarda",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 6
+        },
+        {
+          "chord": "G",
+          "col": 14
+        },
+        {
+          "chord": "G7",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kimileri uzaklarda",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 7
+        },
+        {
+          "chord": "C",
+          "col": 11
+        },
+        {
+          "chord": "F7",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kimi aşıklar çayırda",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 6
+        },
+        {
+          "chord": "C",
+          "col": 11
+        },
+        {
+          "chord": "F7",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dostlarımız kolkola",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 6
+        },
+        {
+          "chord": "C",
+          "col": 10
+        },
+        {
+          "chord": "F7",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Biz eksiğiz sokaklarda",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 7
+        },
+        {
+          "chord": "C",
+          "col": 15
+        },
+        {
+          "chord": "A#",
+          "col": 18
+        },
+        {
+          "chord": "C",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

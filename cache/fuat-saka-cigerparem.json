@@ -1,0 +1,235 @@
+{
+  "slug": "fuat-saka-cigerparem",
+  "artist": "Fuat Saka",
+  "title": "Ciğerparem",
+  "key": "E",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Ah körolası     zalim gurbet",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 10
+        },
+        {
+          "chord": "B",
+          "col": 17
+        },
+        {
+          "chord": "F#m",
+          "col": 23
+        },
+        {
+          "chord": "E",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ciğerim     yandı kor",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 7
+        },
+        {
+          "chord": "F#m",
+          "col": 13
+        },
+        {
+          "chord": "B",
+          "col": 18
+        },
+        {
+          "chord": "E",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gelmez geri ciğer parem",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 12
+        },
+        {
+          "chord": "F#m",
+          "col": 18
+        },
+        {
+          "chord": "E",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yanarım yanarım",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yanarım dönmez geri",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 10
+        },
+        {
+          "chord": "F#m",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ah yol gözlerim haydi dön gel",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 10
+        },
+        {
+          "chord": "B",
+          "col": 17
+        },
+        {
+          "chord": "F#m",
+          "col": 23
+        },
+        {
+          "chord": "E",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "…",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 7
+        },
+        {
+          "chord": "F#m",
+          "col": 12
+        },
+        {
+          "chord": "B",
+          "col": 16
+        },
+        {
+          "chord": "E",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Giden gelmez  ki yar",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 14
+        },
+        {
+          "chord": "F#m",
+          "col": 17
+        },
+        {
+          "chord": "E",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yanarım yanarım",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yanarım dönmez geri",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 10
+        },
+        {
+          "chord": "F#m",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

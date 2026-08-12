@@ -1,0 +1,141 @@
+{
+  "slug": "omer-basdogan-nalet-bebe-yanarsin-ve-kanarsin",
+  "artist": "Ömer Başdoğan",
+  "title": "(Nalet Bebe) - Yanarsın ve Kanarsın",
+  "key": "F#",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Bu şehrin tapusunu üstüme yapmadın ki",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 11
+        },
+        {
+          "chord": "Em",
+          "col": 46
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sana baktığım gibi bir kere bana bakmadın ki",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 10
+        },
+        {
+          "chord": "G",
+          "col": 53
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Çıktım geliyorum, araba çarpacaktı",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 5
+        },
+        {
+          "chord": "A",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kalbim var ki seviyorum, olmasa ne yapacaktım",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 5
+        },
+        {
+          "chord": "A",
+          "col": 59
+        },
+        {
+          "chord": "G",
+          "col": 64
+        },
+        {
+          "chord": "F#m",
+          "col": 72
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yaramsın en büyük zararsın",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yalansın bir o kadar da haramsın",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ararsın beni çok ararsın",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yanarsın bir o kadar da kanarsın",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

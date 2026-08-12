@@ -1,0 +1,545 @@
+{
+  "slug": "tiffany-all-this-time",
+  "artist": "Tiffany",
+  "title": "All This Time",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "(Verse: 1)",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 4
+        },
+        {
+          "chord": "E",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "All this time",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 4
+        },
+        {
+          "chord": "D",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I knew someday you'd need to find",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 8
+        },
+        {
+          "chord": "Bm",
+          "col": 15
+        },
+        {
+          "chord": "A",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Something that you left behind",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 23
+        },
+        {
+          "chord": "A",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Something I can't give you",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 18
+        },
+        {
+          "chord": "E",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "(Verse: 2)",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "All these tears",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 4
+        },
+        {
+          "chord": "D",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And like alight love disappears",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 9
+        },
+        {
+          "chord": "Bm",
+          "col": 21
+        },
+        {
+          "chord": "A",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But hearts are good for souvenirs",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 24
+        },
+        {
+          "chord": "A",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And memories are forever",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 16
+        },
+        {
+          "chord": "E",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "(Chorus)",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "All this time",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "All in all I've no regrets",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 7
+        },
+        {
+          "chord": "A",
+          "col": 16
+        },
+        {
+          "chord": "D",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "The sun still shines the sun still sets",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 14
+        },
+        {
+          "chord": "A",
+          "col": 21
+        },
+        {
+          "chord": "D",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "The heart forgives the heart forgets",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 10
+        },
+        {
+          "chord": "C#",
+          "col": 19
+        },
+        {
+          "chord": "F#m",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But what will I do now with all this time",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 19
+        },
+        {
+          "chord": "E",
+          "col": 28
+        },
+        {
+          "chord": "A",
+          "col": 34
+        },
+        {
+          "chord": "F#m",
+          "col": 37
+        },
+        {
+          "chord": "F#",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "(Bridge dönüşü sonrası C yerine F#m çalınacak)",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "(Verse: 3)",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "One more kiss",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Even though it's come to this",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'll close my eyes and make a wish",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hoping you remember",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "(Chorus çalınacak)",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "(Bridge)",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "Say goodbye",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 7
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Apart we'll make another try",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 12
+        },
+        {
+          "chord": "A",
+          "col": 25
+        },
+        {
+          "chord": "Bm",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But don't be sorry if you cry",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 13
+        },
+        {
+          "chord": "A",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'll be crying too",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 8
+        },
+        {
+          "chord": "Bm",
+          "col": 15
+        },
+        {
+          "chord": "E",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "All this time",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 7
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "(Solo)",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 2
+        },
+        {
+          "chord": "A",
+          "col": 4
+        },
+        {
+          "chord": "D",
+          "col": 6
+        },
+        {
+          "chord": "Bm",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 2
+        },
+        {
+          "chord": "D",
+          "col": 4
+        },
+        {
+          "chord": "Bm",
+          "col": 6
+        },
+        {
+          "chord": "E",
+          "col": 9
+        },
+        {
+          "chord": "C#",
+          "col": 11
+        },
+        {
+          "chord": "F#m",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "(Chorus çalınacak)",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 2
+        },
+        {
+          "chord": "Bm",
+          "col": 4
+        },
+        {
+          "chord": "E",
+          "col": 7
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

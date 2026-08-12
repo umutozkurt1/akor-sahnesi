@@ -1,0 +1,116 @@
+{
+  "slug": "oguzhan-koc-bence-de-zor",
+  "artist": "Oğuzhan Koç",
+  "title": "Bence De Zor",
+  "key": "C#",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Umutlarım yine uğradılar, bana hepsi seni soruyor",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 56
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bulutlar yine toplandılar, bil ki vaktin doluyor",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 48
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "\"Dur\" demeden de bence de zor, bence de zor, bence de zor",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 58
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Aşk çok uzakta beklemiyor, beklemiyor, beklemiyor",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 48
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bitiyo' mu dert sende sevince, sorma",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kovalandıkça kaçanlardan olma",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Göz açıp kapayana gönül alışana kadar",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ah, ben ölürsem kalbim burda",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

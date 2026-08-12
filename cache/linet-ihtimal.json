@@ -1,0 +1,175 @@
+{
+  "slug": "linet-ihtimal",
+  "artist": "Linet",
+  "title": "İhtimal",
+  "key": "G#",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Tek kişilik bir aşk var kırılmış aynalarda",
+      "chords": [
+        {
+          "chord": "G#m",
+          "col": 0
+        },
+        {
+          "chord": "F#",
+          "col": 24
+        },
+        {
+          "chord": "E",
+          "col": 56
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Seni tanıyan nasıl sensiz kalabilir ki",
+      "chords": [
+        {
+          "chord": "F#",
+          "col": 26
+        },
+        {
+          "chord": "G#m",
+          "col": 54
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Seven yürek gitsede gözü arkada kalır",
+      "chords": [
+        {
+          "chord": "F#",
+          "col": 31
+        },
+        {
+          "chord": "E",
+          "col": 60
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir veda senden nasıl güzel olabilir ki",
+      "chords": [
+        {
+          "chord": "D#m",
+          "col": 32
+        },
+        {
+          "chord": "C#m",
+          "col": 55
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sil baştan demek kolay unutmak zor",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 0
+        },
+        {
+          "chord": "C#m",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bu hayat her zaman bildiğini okuyor",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 0
+        },
+        {
+          "chord": "C#m",
+          "col": 25
+        },
+        {
+          "chord": "G#m",
+          "col": 49
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İhtmilallerde yoksan bari aşkı hatırla",
+      "chords": [
+        {
+          "chord": "G#m",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bu kalbi sevmek için taşıyoruz be hayat",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 6
+        },
+        {
+          "chord": "D#",
+          "col": 41
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bizim neyimiz noksan ömrümüze ömür kat",
+      "chords": [
+        {
+          "chord": "G#m",
+          "col": 10
+        },
+        {
+          "chord": "D#",
+          "col": 45
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Biz zaten ölmek için yaşıyoruz be hayat",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 9
+        },
+        {
+          "chord": "A#m",
+          "col": 36
+        },
+        {
+          "chord": "D#",
+          "col": 55
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

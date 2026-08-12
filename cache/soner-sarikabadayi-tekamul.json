@@ -1,0 +1,158 @@
+{
+  "slug": "soner-sarikabadayi-tekamul",
+  "artist": "Soner Sarıkabadayı",
+  "title": "Tekamül",
+  "key": "G#",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Koskoca Dünya’yı bu ara dar ediyorum sana özel",
+      "chords": [
+        {
+          "chord": "Bb",
+          "col": 19
+        },
+        {
+          "chord": "G#",
+          "col": 32
+        },
+        {
+          "chord": "Gm",
+          "col": 46
+        },
+        {
+          "chord": "Bb",
+          "col": 72
+        },
+        {
+          "chord": "G#",
+          "col": 76
+        },
+        {
+          "chord": "Gm",
+          "col": 80
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kendime yüzümü kara çıkarabiliyorum duruma gel",
+      "chords": [
+        {
+          "chord": "Bb",
+          "col": 19
+        },
+        {
+          "chord": "G#",
+          "col": 32
+        },
+        {
+          "chord": "Gm",
+          "col": 46
+        },
+        {
+          "chord": "Bb",
+          "col": 72
+        },
+        {
+          "chord": "G#",
+          "col": 76
+        },
+        {
+          "chord": "Gm",
+          "col": 80
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kıyamam sana kıyabilecekken de, anla ki o an kalbim devrede",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 57
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Aramam seni bulabilecekken de, ilişkimiz son evrede",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 0
+        },
+        {
+          "chord": "Bb",
+          "col": 55
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Aşk bize göre derine tekamül ediyor, kimine göre serine",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "G#",
+          "col": 74
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dön artık dön hadi evine, nasıl koyabilirim birini birinin yerine",
+      "chords": [
+        {
+          "chord": "Bb",
+          "col": 78
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "G#",
+          "col": 4
+        },
+        {
+          "chord": "G#",
+          "col": 9
+        },
+        {
+          "chord": "Bb",
+          "col": 13
+        },
+        {
+          "chord": "Gm",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

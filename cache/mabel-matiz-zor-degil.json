@@ -1,0 +1,161 @@
+{
+  "slug": "mabel-matiz-zor-degil",
+  "artist": "Mabel Matiz",
+  "title": "Zor Değil",
+  "key": "B",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Sallıyorum bol keseden sağa sola, zor değil",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 56
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Atıyorum, tutuyorum, kâh tutamıyorum, zor değil",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 68
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dönüyorum köşeleri dört köşeli, zor değil",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 53
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Vuruyorum dizlerime ah pata küte zor değil",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 57
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Katıyorum tozu dumana da toz değil, toz değil",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 17
+        },
+        {
+          "chord": "Bm",
+          "col": 44
+        },
+        {
+          "chord": "F#m",
+          "col": 56
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Biliyorum hepsi havagazı söz değil, ah söz değil",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 16
+        },
+        {
+          "chord": "Bm",
+          "col": 39
+        },
+        {
+          "chord": "F#m",
+          "col": 57
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Deniyordum seni,  sen seversin bunu",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 18
+        },
+        {
+          "chord": "Em",
+          "col": 24
+        },
+        {
+          "chord": "Bm",
+          "col": 44
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sevmediysen peki,   sen tamamla sonu",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 24
+        },
+        {
+          "chord": "Em",
+          "col": 31
+        },
+        {
+          "chord": "Bm",
+          "col": 50
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

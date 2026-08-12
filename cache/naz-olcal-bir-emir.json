@@ -1,0 +1,188 @@
+{
+  "slug": "naz-olcal-bir-emir",
+  "artist": "Naz Ölçal",
+  "title": "Bir Emir",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Bir okyanus ortasında, boğuluyormuş gibiyim",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 72
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Batmadan daha derine, gel kurtar, bul beni",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 34
+        },
+        {
+          "chord": "Gm",
+          "col": 49
+        },
+        {
+          "chord": "Am",
+          "col": 63
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bıraktığın gibi her yer, yine kırık o şişelerde",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 68
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Aradığım bir yudum mutluluk, sende kalmış, doyurmamış",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 42
+        },
+        {
+          "chord": "Gm",
+          "col": 53
+        },
+        {
+          "chord": "Am",
+          "col": 85
+        },
+        {
+          "chord": "A#",
+          "col": 89
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kalma, durma öyle sessiz, sessiz gitme yine",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 36
+        },
+        {
+          "chord": "Am",
+          "col": 64
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bırakma, lütuf değil bu, bir emir benden sana",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 36
+        },
+        {
+          "chord": "Am",
+          "col": 68
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gitme, bakma öyle, kötü gitme yine",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 27
+        },
+        {
+          "chord": "Am",
+          "col": 52
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bırakma, lütuf değil bu, bir emir benden sana",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 34
+        },
+        {
+          "chord": "Am",
+          "col": 59
+        },
+        {
+          "chord": "F",
+          "col": 70
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "(Benden sana)",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 19
+        },
+        {
+          "chord": "F",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

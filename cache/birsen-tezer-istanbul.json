@@ -1,0 +1,236 @@
+{
+  "slug": "birsen-tezer-istanbul",
+  "artist": "Birsen Tezer",
+  "title": "İstanbul",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Beş dakikada bir motorunun acelesine inat",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Abmaj7",
+          "col": 23
+        },
+        {
+          "chord": "Cm",
+          "col": 33
+        },
+        {
+          "chord": "Cm",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Biniyorum meçhule",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Abmaj7",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ardımda martılar telaş",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "Abmaj7",
+          "col": 7
+        },
+        {
+          "chord": "Cm",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bırakıp gitmek var",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Abmaj7",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Şimdi seni yarim",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dört yan ezan",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "Ebmaj7",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Vapur vapur boğaz",
+      "chords": [
+        {
+          "chord": "Adim",
+          "col": 0
+        },
+        {
+          "chord": "G7",
+          "col": 6
+        },
+        {
+          "chord": "Cm",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sesim binlerce binlerce",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Abmaj7",
+          "col": 6
+        },
+        {
+          "chord": "Fm",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gözüm bugün",
+      "chords": [
+        {
+          "chord": "Abmaj7",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gözlerin",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " gözlerin bugün",
+      "chords": [
+        {
+          "chord": "Ebmaj7",
+          "col": 0
+        },
+        {
+          "chord": "Adim",
+          "col": 9
+        },
+        {
+          "chord": "G7",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ellerin istanbul",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "Ebmaj7",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " yüzün bugün",
+      "chords": [
+        {
+          "chord": "Adim",
+          "col": 0
+        },
+        {
+          "chord": "G7",
+          "col": 9
+        },
+        {
+          "chord": "Cm",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

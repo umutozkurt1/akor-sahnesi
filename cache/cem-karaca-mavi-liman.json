@@ -1,0 +1,133 @@
+{
+  "slug": "cem-karaca-mavi-liman",
+  "artist": "Cem Karaca",
+  "title": "Mavi Liman",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": " Çok yorgunum",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 1
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Beni bekleme kaptan",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 6
+        },
+        {
+          "chord": "Cm",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Seyir defterini baskasi yazsin",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 1
+        },
+        {
+          "chord": "G#",
+          "col": 16
+        },
+        {
+          "chord": "Cm",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Çinarli kubbeli mavi bir liman",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 1
+        },
+        {
+          "chord": "A#",
+          "col": 11
+        },
+        {
+          "chord": "Cm",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Beni o limana çikaramazsin",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 1
+        },
+        {
+          "chord": "Cm",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Beni o limana çikaramazsin",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 1
+        },
+        {
+          "chord": "Cm",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Çok yorgunum",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 1
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Beni bekleme kaptan",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 1
+        },
+        {
+          "chord": "Cm",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

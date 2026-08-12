@@ -1,0 +1,173 @@
+{
+  "slug": "yirtik-ucurtma-yalnizligim",
+  "artist": "Yırtık Uçurtma",
+  "title": "Yalnızlığım",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Bir gün daha sensizliğe günaydın",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 16
+        },
+        {
+          "chord": "Em",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İyi ki varsın yalnızlığım merhaba",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 12
+        },
+        {
+          "chord": "Em",
+          "col": 28
+        },
+        {
+          "chord": "Am",
+          "col": 42
+        },
+        {
+          "chord": "F",
+          "col": 48
+        },
+        {
+          "chord": "G",
+          "col": 52
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Çıkıp dolaşsam, yürüsem sokaklarda",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yalnızlığım seni sarsam, defalarca",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 30
+        },
+        {
+          "chord": "Am",
+          "col": 49
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ben seni enginlerde, her telefon sesinde",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 9
+        },
+        {
+          "chord": "Am",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Her sokak köşesinde, çaresizce bekledim",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 11
+        },
+        {
+          "chord": "E",
+          "col": 28
+        },
+        {
+          "chord": "F",
+          "col": 41
+        },
+        {
+          "chord": "Am",
+          "col": 60
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yağmuru gözlerinde, güneşi teninde",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 9
+        },
+        {
+          "chord": "Am",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Rüzgarı nefesinden, hissetmeyi özledim",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 7
+        },
+        {
+          "chord": "E",
+          "col": 24
+        },
+        {
+          "chord": "F",
+          "col": 40
+        },
+        {
+          "chord": "Am",
+          "col": 58
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

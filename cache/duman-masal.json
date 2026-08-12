@@ -1,0 +1,231 @@
+{
+  "slug": "duman-masal",
+  "artist": "Duman",
+  "title": "Masal",
+  "key": "D",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Biri basmış seksene, ötekisi doksanbeş",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 25
+        },
+        {
+          "chord": "D",
+          "col": 36
+        },
+        {
+          "chord": "A",
+          "col": 48
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Aga böyle olmaz ki, koca millet harcanmaz ki vay",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 22
+        },
+        {
+          "chord": "G",
+          "col": 33
+        },
+        {
+          "chord": "A",
+          "col": 57
+        },
+        {
+          "chord": "D",
+          "col": 74
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Biri arap tayfası, ötekisi gavur mandası",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 18
+        },
+        {
+          "chord": "D",
+          "col": 32
+        },
+        {
+          "chord": "A",
+          "col": 54
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Aga böyle olmaz ki, koca millet aldanmaz ki vay",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 19
+        },
+        {
+          "chord": "G",
+          "col": 35
+        },
+        {
+          "chord": "A",
+          "col": 55
+        },
+        {
+          "chord": "D",
+          "col": 73
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Biri sağdan, biri soldan asılınca",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 21
+        },
+        {
+          "chord": "C",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Biri yasaya, biri kasaya karışınca",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 21
+        },
+        {
+          "chord": "C",
+          "col": 43
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Evvel zaman içinde masal olduk, masal olduk yine",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 25
+        },
+        {
+          "chord": "G",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Evvel zaman içinde masal olduk, masal olduk yine",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 25
+        },
+        {
+          "chord": "G",
+          "col": 35
+        },
+        {
+          "chord": "D",
+          "col": 77
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Evvel zaman içinde masal olduk, masal olduk yine",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 26
+        },
+        {
+          "chord": "G",
+          "col": 36
+        },
+        {
+          "chord": "D",
+          "col": 78
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Evvel zaman içinde masal olduk, masal olduk yine",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 26
+        },
+        {
+          "chord": "G",
+          "col": 36
+        },
+        {
+          "chord": "D",
+          "col": 78
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

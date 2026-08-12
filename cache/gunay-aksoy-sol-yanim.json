@@ -1,0 +1,132 @@
+{
+  "slug": "gunay-aksoy-sol-yanim",
+  "artist": "Günay Aksoy",
+  "title": "Sol Yanım",
+  "key": "Bb",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "bir yangın tutuştu içimde yanmasanda",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "Bb",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "diyemedim çözemedim derdini",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 13
+        },
+        {
+          "chord": "Bb",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "bu hayatta aşk acı vermez diyorlar bir de bana sor",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 10
+        },
+        {
+          "chord": "Bb",
+          "col": 54
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "ne kadar da yalan söylesen inanır yüreğim",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 10
+        },
+        {
+          "chord": "Bb",
+          "col": 38
+        },
+        {
+          "chord": "Am",
+          "col": 62
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "inanır yüreğim",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "bir başkası olmaz yerine  almam yüreğime",
+      "chords": [
+        {
+          "chord": "Bb",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "veremem seni yabancı ellere",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "solumdasın sar beni kalbine",
+      "chords": [
+        {
+          "chord": "Bb",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "dayanamam bu defa gidişine",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

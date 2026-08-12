@@ -1,0 +1,355 @@
+{
+  "slug": "teoman-coktandir",
+  "artist": "Teoman",
+  "title": "Çoktandır",
+  "key": "F#",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Çoktandır, yaşıyormuş gibi",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 8
+        },
+        {
+          "chord": "C#m",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yapıyordum demek, ben bu şehirde",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 17
+        },
+        {
+          "chord": "E",
+          "col": 39
+        },
+        {
+          "chord": "F",
+          "col": 49
+        },
+        {
+          "chord": "F#m",
+          "col": 55
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Çoktandır iki yabancı gibi",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 12
+        },
+        {
+          "chord": "C#m",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yaşıyorduk demek, biz bu şehirde",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 12
+        },
+        {
+          "chord": "E",
+          "col": 35
+        },
+        {
+          "chord": "F",
+          "col": 45
+        },
+        {
+          "chord": "F#m",
+          "col": 51
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ben de, ben de, belki yaşar belki ölürüm",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 7
+        },
+        {
+          "chord": "D",
+          "col": 13
+        },
+        {
+          "chord": "E",
+          "col": 19
+        },
+        {
+          "chord": "D",
+          "col": 24
+        },
+        {
+          "chord": "E",
+          "col": 42
+        },
+        {
+          "chord": "F",
+          "col": 55
+        },
+        {
+          "chord": "F#m",
+          "col": 58
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Çoktandır, eriyorsa eğer",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 8
+        },
+        {
+          "chord": "C#m",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Silinirmiş meğer büyükte olsa aşk",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 15
+        },
+        {
+          "chord": "E",
+          "col": 37
+        },
+        {
+          "chord": "F",
+          "col": 47
+        },
+        {
+          "chord": "F#m",
+          "col": 53
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Çoktandır kanıyormuş meğer",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 11
+        },
+        {
+          "chord": "C#m",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Çalışırdım inan farketseydim eğer",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 14
+        },
+        {
+          "chord": "E",
+          "col": 32
+        },
+        {
+          "chord": "F",
+          "col": 46
+        },
+        {
+          "chord": "F#m",
+          "col": 52
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ben de, ben de, belki yaşar belki ölürüm",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 7
+        },
+        {
+          "chord": "D",
+          "col": 13
+        },
+        {
+          "chord": "E",
+          "col": 19
+        },
+        {
+          "chord": "D",
+          "col": 24
+        },
+        {
+          "chord": "E",
+          "col": 42
+        },
+        {
+          "chord": "F",
+          "col": 55
+        },
+        {
+          "chord": "F#m",
+          "col": 58
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Süresi hiç belli olmaz yok ki zamanı",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 19
+        },
+        {
+          "chord": "D",
+          "col": 37
+        },
+        {
+          "chord": "E",
+          "col": 47
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yarası zor geçer derler yok ki ilacı",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 19
+        },
+        {
+          "chord": "D",
+          "col": 39
+        },
+        {
+          "chord": "E",
+          "col": 50
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İnsan bazen yaşar bazen de ölür",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 32
+        },
+        {
+          "chord": "F#m",
+          "col": 50
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ben de, ben de, belki yaşar belki ölürüm",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 7
+        },
+        {
+          "chord": "D",
+          "col": 13
+        },
+        {
+          "chord": "E",
+          "col": 19
+        },
+        {
+          "chord": "D",
+          "col": 24
+        },
+        {
+          "chord": "E",
+          "col": 42
+        },
+        {
+          "chord": "F",
+          "col": 55
+        },
+        {
+          "chord": "F#m",
+          "col": 58
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

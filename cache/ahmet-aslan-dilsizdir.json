@@ -1,0 +1,122 @@
+{
+  "slug": "ahmet-aslan-dilsizdir",
+  "artist": "Ahmet Aslan",
+  "title": "Dilsizdir",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Dilsizdir dilsiz benim acılarım",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 1
+        },
+        {
+          "chord": "D",
+          "col": 25
+        },
+        {
+          "chord": "Em",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Konuşmazlar kimseyle hiç kimseyle",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 5
+        },
+        {
+          "chord": "Em",
+          "col": 41
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir tek benim canıma dadanmışlar",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 3
+        },
+        {
+          "chord": "D",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir tek benim canıma acıtırlar",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 3
+        },
+        {
+          "chord": "D",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hem de hiç hak etmediğim halde",
+      "chords": [
+        {
+          "chord": "Dsus",
+          "col": 4
+        },
+        {
+          "chord": "Em",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dilsizdir benim benim acılarım",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Konuşmazlar kimseyle hiç kimseyle",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir tek benim canıma dadanmışlar",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir tek benim canıma acıtırlar",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hem de hiç hak etmediğim halde﻿",
+      "chords": [],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

@@ -1,0 +1,282 @@
+{
+  "slug": "murat-celik-tutsak-kahraman",
+  "artist": "Murat Çelik",
+  "title": "Tutsak Kahraman",
+  "key": "G",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 2
+        },
+        {
+          "chord": "Em",
+          "col": 4
+        },
+        {
+          "chord": "Bm",
+          "col": 7
+        },
+        {
+          "chord": "Bm",
+          "col": 10
+        },
+        {
+          "chord": "A",
+          "col": 13
+        },
+        {
+          "chord": "A",
+          "col": 15
+        },
+        {
+          "chord": "F#m",
+          "col": 17
+        },
+        {
+          "chord": "A",
+          "col": 21
+        },
+        {
+          "chord": "F#m",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "nerden başlasam nasıl anlatsam",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 15
+        },
+        {
+          "chord": "Em",
+          "col": 18
+        },
+        {
+          "chord": "Bm",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "belkide sözlerim boşluğunu kanatır",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 13
+        },
+        {
+          "chord": "F#m",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "bu gün yeni bir gün açtım perdemi",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 15
+        },
+        {
+          "chord": "Em",
+          "col": 18
+        },
+        {
+          "chord": "Bm",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "anlımda penceremin buz gibi soğukluğu",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 13
+        },
+        {
+          "chord": "F#m",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ben gecelerin saçında seni ördüm",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 15
+        },
+        {
+          "chord": "Em",
+          "col": 18
+        },
+        {
+          "chord": "Bm",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "birikmiş yanlızlığımdan sana öyküler sundum",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 13
+        },
+        {
+          "chord": "F#m",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "seç al birini nasıl olsa bir yazan var",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 15
+        },
+        {
+          "chord": "Em",
+          "col": 18
+        },
+        {
+          "chord": "Bm",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "hepimiz bir başkasının yalanına ortak",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 13
+        },
+        {
+          "chord": "F#m",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kalbinin savaşında ben tutsak kahraman",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 11
+        },
+        {
+          "chord": "G",
+          "col": 15
+        },
+        {
+          "chord": "G2",
+          "col": 25
+        },
+        {
+          "chord": "Bm",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "inancın savaşında ben yanlış kahraman",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 11
+        },
+        {
+          "chord": "G",
+          "col": 16
+        },
+        {
+          "chord": "G2",
+          "col": 26
+        },
+        {
+          "chord": "Bm",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

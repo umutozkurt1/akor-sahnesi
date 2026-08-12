@@ -1,0 +1,210 @@
+{
+  "slug": "halil-sezai-paramparca",
+  "artist": "Halil Sezai",
+  "title": "Paramparça",
+  "key": "D",
+  "capo": 0,
+  "rhythm": "A-Y-A-Y",
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Ölü aşk diyarlarına beni sen attın da",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "Bb",
+          "col": 24
+        },
+        {
+          "chord": "C",
+          "col": 28
+        },
+        {
+          "chord": "Am",
+          "col": 52
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İçim paramparça viraneyim yalan oldum ah",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "Bb",
+          "col": 12
+        },
+        {
+          "chord": "Am",
+          "col": 21
+        },
+        {
+          "chord": "C",
+          "col": 36
+        },
+        {
+          "chord": "Bb",
+          "col": 41
+        },
+        {
+          "chord": "Dm",
+          "col": 51
+        },
+        {
+          "chord": "Bb",
+          "col": 56
+        },
+        {
+          "chord": "Dm",
+          "col": 59
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sesin yankı olur boğar her adımda",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "Bb",
+          "col": 19
+        },
+        {
+          "chord": "C",
+          "col": 23
+        },
+        {
+          "chord": "Am",
+          "col": 47
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İçim paramparça viraneyim duman oldum ah",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "Bb",
+          "col": 12
+        },
+        {
+          "chord": "Am",
+          "col": 21
+        },
+        {
+          "chord": "C",
+          "col": 35
+        },
+        {
+          "chord": "Bb",
+          "col": 40
+        },
+        {
+          "chord": "Dm",
+          "col": 53
+        },
+        {
+          "chord": "Bb",
+          "col": 58
+        },
+        {
+          "chord": "Dm",
+          "col": 61
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Haykırsam ellerimi, açsam yalnız sana ah",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 25
+        },
+        {
+          "chord": "Gm",
+          "col": 37
+        },
+        {
+          "chord": "F",
+          "col": 51
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ağlasam çocuk gibi, eskileri anlatsam",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 26
+        },
+        {
+          "chord": "Gm",
+          "col": 38
+        },
+        {
+          "chord": "C",
+          "col": 42
+        },
+        {
+          "chord": "Dm",
+          "col": 45
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Derviş gibi abdal gibi tapar gibi, paramparça",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 13
+        },
+        {
+          "chord": "Am",
+          "col": 28
+        },
+        {
+          "chord": "C",
+          "col": 43
+        },
+        {
+          "chord": "Dm",
+          "col": 60
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

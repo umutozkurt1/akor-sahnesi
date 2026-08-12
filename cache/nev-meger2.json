@@ -1,0 +1,514 @@
+{
+  "slug": "nev-meger2",
+  "artist": "Nev",
+  "title": "Meğer",
+  "key": "G",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Intro:",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 3
+        },
+        {
+          "chord": "D",
+          "col": 8
+        },
+        {
+          "chord": "Dsus4",
+          "col": 10
+        },
+        {
+          "chord": "D7",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 6
+        },
+        {
+          "chord": "A#",
+          "col": 10
+        },
+        {
+          "chord": "Fsus4",
+          "col": 16
+        },
+        {
+          "chord": "F7",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dün yine yazdım sana",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 3
+        },
+        {
+          "chord": "D",
+          "col": 8
+        },
+        {
+          "chord": "Dsus4",
+          "col": 10
+        },
+        {
+          "chord": "D7",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Adresi meçhule bir mektup yolladım aldın mı?",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 10
+        },
+        {
+          "chord": "A#",
+          "col": 15
+        },
+        {
+          "chord": "Fsus4",
+          "col": 27
+        },
+        {
+          "chord": "F7",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Birkaç yaralı söz bende kalan",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 3
+        },
+        {
+          "chord": "D",
+          "col": 8
+        },
+        {
+          "chord": "Dsus4",
+          "col": 10
+        },
+        {
+          "chord": "D7",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ne olur bir dinle onların suçu yok",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 4
+        },
+        {
+          "chord": "A#",
+          "col": 9
+        },
+        {
+          "chord": "Fsus4",
+          "col": 13
+        },
+        {
+          "chord": "F7",
+          "col": 20
+        },
+        {
+          "chord": "Gm",
+          "col": 24
+        },
+        {
+          "chord": "Gm",
+          "col": 27
+        },
+        {
+          "chord": "D",
+          "col": 32
+        },
+        {
+          "chord": "Dsus4",
+          "col": 34
+        },
+        {
+          "chord": "D7",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dün yine yazdım sana",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 3
+        },
+        {
+          "chord": "D",
+          "col": 8
+        },
+        {
+          "chord": "Dsus4",
+          "col": 10
+        },
+        {
+          "chord": "D7",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Umudun peşi sıra birkaç söz yolladım aldın mı?",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 11
+        },
+        {
+          "chord": "A#",
+          "col": 16
+        },
+        {
+          "chord": "Fsus4",
+          "col": 27
+        },
+        {
+          "chord": "F7",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yarım kalmış, söylenmemiş",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 3
+        },
+        {
+          "chord": "D",
+          "col": 8
+        },
+        {
+          "chord": "Dsus4",
+          "col": 10
+        },
+        {
+          "chord": "D7",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Belki de bulamayıp seni yine dönüş yolunda çaresiz",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 12
+        },
+        {
+          "chord": "A#",
+          "col": 17
+        },
+        {
+          "chord": "Fsus4",
+          "col": 27
+        },
+        {
+          "chord": "F7",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Meğer ne çok şey varmış",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 3
+        },
+        {
+          "chord": "D",
+          "col": 8
+        },
+        {
+          "chord": "Dsus4",
+          "col": 10
+        },
+        {
+          "chord": "D7",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sana bir türlü söyleyemediğim",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 10
+        },
+        {
+          "chord": "A#",
+          "col": 15
+        },
+        {
+          "chord": "Fsus4",
+          "col": 25
+        },
+        {
+          "chord": "F7",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Meğer ne çok şey varmış",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 3
+        },
+        {
+          "chord": "D",
+          "col": 8
+        },
+        {
+          "chord": "Dsus4",
+          "col": 10
+        },
+        {
+          "chord": "D7",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir kez olsun duymak istediğim",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 16
+        },
+        {
+          "chord": "A#",
+          "col": 21
+        },
+        {
+          "chord": "Fsus4",
+          "col": 34
+        },
+        {
+          "chord": "F7",
+          "col": 45
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Meğer ne çok şey varmış",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 3
+        },
+        {
+          "chord": "D",
+          "col": 8
+        },
+        {
+          "chord": "Dsus4",
+          "col": 10
+        },
+        {
+          "chord": "D7",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hala kuytularımda seni nazlanır şu gönlüm",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 23
+        },
+        {
+          "chord": "Cm",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Mecalsiz itiraflarla",
+      "chords": [
+        {
+          "chord": "Dsus4",
+          "col": 17
+        },
+        {
+          "chord": "D7",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kim bilir kaç defa yakalanır kendime",
+      "chords": [
+        {
+          "chord": "Fadd9",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 17
+        },
+        {
+          "chord": "Cm9",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kaybolurum dehlizlerimde kimseler duymaz",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Nak.",
+      "chords": [],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

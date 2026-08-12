@@ -1,0 +1,158 @@
+{
+  "slug": "pera-bittim-ben",
+  "artist": "Pera",
+  "title": "Bittim Ben",
+  "key": "B",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Haklıydın, belki bana kızgındın",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dargın olsak bile söylerdin çok yalnızdın",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 12
+        },
+        {
+          "chord": "G",
+          "col": 52
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bütün günah bendeydi, göz göre mahvettin",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Diye suçlasan bile beni ben haksızım, her şey bitti",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 11
+        },
+        {
+          "chord": "G",
+          "col": 69
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Telefonum çalmaz mı, arasa duyulmaz mı",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Diye bekledim durdum ben öylece gönül yorulmaz mı",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 13
+        },
+        {
+          "chord": "G",
+          "col": 74
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Asılsız hayaller, yalandır biterler ama sözler o gözler seni özler",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 29
+        },
+        {
+          "chord": "E",
+          "col": 65
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yolun vardı gittin sen, sonum geldi bittim ben",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "...den ötesini bir görebilsen, yanılmışım dağılmışım",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 4
+        },
+        {
+          "chord": "G",
+          "col": 47
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yolun vardı gittin sen, sonum geldi bittim ben",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "...den geriye kalanları görsen, bin parçayım, paramparçayım",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 4
+        },
+        {
+          "chord": "G",
+          "col": 50
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

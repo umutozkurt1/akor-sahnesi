@@ -1,0 +1,125 @@
+{
+  "slug": "toygar-isikli-firtina",
+  "artist": "Toygar Işıklı",
+  "title": "Fırtına",
+  "key": "D",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Bu kanayan aşk yüzüme vuruyor",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 18
+        },
+        {
+          "chord": "C",
+          "col": 27
+        },
+        {
+          "chord": "G",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Her yanımdan ah yakıp geçiyor",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 21
+        },
+        {
+          "chord": "C",
+          "col": 28
+        },
+        {
+          "chord": "G",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir yanım gider bir yanım kalır",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 20
+        },
+        {
+          "chord": "Dm",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Fırtına dinmez seni benden alır",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 23
+        },
+        {
+          "chord": "C",
+          "col": 31
+        },
+        {
+          "chord": "Gm",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Zor artık yeniden aşk kalbim biliyor",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İçimde ağlayan çocuk yok olmaz diyor",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir yanım kaçar bir yanım kalır",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Fırtına gelir seni benden alır",
+      "chords": [],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

@@ -1,0 +1,247 @@
+{
+  "slug": "the-beatles-bad-boy",
+  "artist": "The Beatles",
+  "title": "Bad Boy",
+  "key": "D",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "1.  A bad little kid moved into my neighborhood,",
+      "chords": [
+        {
+          "chord": "D7",
+          "col": 4
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "    He won't do nothin' right, just a sits and a looks so good,",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "    He don't wanna go to school and learn to read and write,",
+      "chords": [
+        {
+          "chord": "G7",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "    Just sits around the house and plays that rock and roll music all night.",
+      "chords": [
+        {
+          "chord": "D7",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "    Well he put thumb tacks on teacher's chair, put chewing gum in li'l girl's hair,",
+      "chords": [
+        {
+          "chord": "A7",
+          "col": 12
+        },
+        {
+          "chord": "G7",
+          "col": 48
+        },
+        {
+          "chord": "D",
+          "col": 82
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "        Now Junior behave yourself.",
+      "chords": [
+        {
+          "chord": "A7",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "2.  Buys every rock and roll book on the magazine stand,",
+      "chords": [
+        {
+          "chord": "D7",
+          "col": 5
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "    Every dime that he gets, ooh.. he's off to the jukebox man.",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "    Well he worries that teacher till at night she's aready to poop ,",
+      "chords": [
+        {
+          "chord": "G7",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "    From rockin' and a rollin' spinnin' in a hula-hoop,",
+      "chords": [
+        {
+          "chord": "D7",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "    Well his rock and roll has gotta stop, Junior's head is hard as rock,",
+      "chords": [
+        {
+          "chord": "A7",
+          "col": 13
+        },
+        {
+          "chord": "G7",
+          "col": 45
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "        Now Junior behave yourself.  Oow..",
+      "chords": [
+        {
+          "chord": "A7",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "C7",
+          "col": 37
+        },
+        {
+          "chord": "F7",
+          "col": 40
+        },
+        {
+          "chord": "C7",
+          "col": 43
+        },
+        {
+          "chord": "G7",
+          "col": 46
+        },
+        {
+          "chord": "F7",
+          "col": 49
+        },
+        {
+          "chord": "C",
+          "col": 52
+        },
+        {
+          "chord": "G",
+          "col": 54
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "3.  Gonna tell ya mamma, you'd better do what she said:",
+      "chords": [
+        {
+          "chord": "D7",
+          "col": 6
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "    Get to the barber shop and get that hair cut off your head.",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "    You shoot the canary and you fed it to the neighbor's cat,",
+      "chords": [
+        {
+          "chord": "G7",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "    He gave the cocker spaniel a bath in mother's laundromat.",
+      "chords": [
+        {
+          "chord": "D7",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "    Well ya mamma said it's gotta stop, Junior's head is hard as a rock,",
+      "chords": [
+        {
+          "chord": "A7",
+          "col": 14
+        },
+        {
+          "chord": "G7",
+          "col": 43
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "         Now, Junior behave yourself,",
+      "chords": [
+        {
+          "chord": "D7",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

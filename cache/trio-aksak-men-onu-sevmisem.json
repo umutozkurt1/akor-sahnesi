@@ -1,0 +1,147 @@
+{
+  "slug": "trio-aksak-men-onu-sevmisem",
+  "artist": "Trio Aksak",
+  "title": "Men Onu Sevmişem",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Men onu sevmişem bir ilkbaharda",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 4
+        },
+        {
+          "chord": "G",
+          "col": 11
+        },
+        {
+          "chord": "G#",
+          "col": 20
+        },
+        {
+          "chord": "G",
+          "col": 24
+        },
+        {
+          "chord": "Cm",
+          "col": 28
+        },
+        {
+          "chord": "G",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "O beni terkeyledi boranda garda",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 3
+        },
+        {
+          "chord": "G",
+          "col": 8
+        },
+        {
+          "chord": "G#",
+          "col": 20
+        },
+        {
+          "chord": "G",
+          "col": 26
+        },
+        {
+          "chord": "Cm",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sağ olur her yara unutulanda",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sağ olmaz yaresi ilk mehebbetin ölürem",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 11
+        },
+        {
+          "chord": "G#",
+          "col": 18
+        },
+        {
+          "chord": "G",
+          "col": 23
+        },
+        {
+          "chord": "Cm",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Değmedi elime yârimin eli",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Neylesin yârime lokmanın eli",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sağ olur her yara unutulanda",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sağ olmaz yaresi ilk mehebbetin ölürem",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sağ olmaz yaresi ilk mehebbetin",
+      "chords": [],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

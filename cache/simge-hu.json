@@ -1,0 +1,198 @@
+{
+  "slug": "simge-hu",
+  "artist": "Simge",
+  "title": "Hu",
+  "key": "G",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Bu nasıl dünya, bitmesin bu rüya",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 45
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gözlerim yüzünü gördülerde asılı   kaldı",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 56
+        },
+        {
+          "chord": "G#",
+          "col": 58
+        },
+        {
+          "chord": "G",
+          "col": 63
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yandım kül oldum, döndüm sana geldim",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 58
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bebekken yürek erkenmiş yürümek cahilliğim eyvah",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 70
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kader elini çek sevişerek ölsek sevmişiz eyvah",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 24
+        },
+        {
+          "chord": "G",
+          "col": 52
+        },
+        {
+          "chord": "Fm",
+          "col": 57
+        },
+        {
+          "chord": "G",
+          "col": 67
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gözümün gördüğü dudağımın öptüğü",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 19
+        },
+        {
+          "chord": "Fm",
+          "col": 34
+        },
+        {
+          "chord": "Gm",
+          "col": 60
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Her şey gibi aşkta ölür yasta nişanlı gönül",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 19
+        },
+        {
+          "chord": "Fm",
+          "col": 36
+        },
+        {
+          "chord": "G",
+          "col": 59
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kanayan yerlerde açar çiçekler",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Aşkın kanunudur bu",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 22
+        },
+        {
+          "chord": "G",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gel uzan göğsümde ağlıyor güller",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Duymuyor musun hu",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "G#m",
+          "col": 17
+        },
+        {
+          "chord": "G",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

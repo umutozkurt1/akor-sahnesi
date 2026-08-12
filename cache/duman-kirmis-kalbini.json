@@ -1,0 +1,229 @@
+{
+  "slug": "duman-kirmis-kalbini",
+  "artist": "Duman",
+  "title": "Kırmış Kalbini",
+  "key": "F#",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Kahpe dölün soyu",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ele vermiş seni",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Nice yıllar boyu",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kırmış kalbini     x2",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Aynı yolun eri",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Çekemezmiş seni",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gördüğünden beri",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kırmış kalbini     x4",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yolun ardına bakmadık yorulmadık, bak hala burdayız",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 26
+        },
+        {
+          "chord": "B",
+          "col": 46
+        },
+        {
+          "chord": "A",
+          "col": 66
+        },
+        {
+          "chord": "F#m",
+          "col": 82
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Belki delirdik de belirdik, bak hala burdayız",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 12
+        },
+        {
+          "chord": "B",
+          "col": 30
+        },
+        {
+          "chord": "A",
+          "col": 50
+        },
+        {
+          "chord": "F#m",
+          "col": 66
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Biz neler içtik neler yedik, bak hala burdayız",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 12
+        },
+        {
+          "chord": "B",
+          "col": 27
+        },
+        {
+          "chord": "A",
+          "col": 53
+        },
+        {
+          "chord": "F#m",
+          "col": 69
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sen hiç üzülme hiç ağlama, bak hala burdayız",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 13
+        },
+        {
+          "chord": "B",
+          "col": 30
+        },
+        {
+          "chord": "A",
+          "col": 52
+        },
+        {
+          "chord": "F#m",
+          "col": 69
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

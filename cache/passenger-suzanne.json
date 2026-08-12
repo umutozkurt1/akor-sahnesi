@@ -1,0 +1,683 @@
+{
+  "slug": "passenger-suzanne",
+  "artist": "Passenger",
+  "title": "Suzanne",
+  "key": "D",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 2
+        },
+        {
+          "chord": "C",
+          "col": 5
+        },
+        {
+          "chord": "D",
+          "col": 7
+        },
+        {
+          "chord": "G",
+          "col": 9
+        },
+        {
+          "chord": "Bm",
+          "col": 11
+        },
+        {
+          "chord": "C",
+          "col": 14
+        },
+        {
+          "chord": "D",
+          "col": 17
+        },
+        {
+          "chord": "G",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Who are you when the lights come up",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "When the music fades and the crowd goes down",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 19
+        },
+        {
+          "chord": "D",
+          "col": 67
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Where did you land when the spinning stopped",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 52
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Are you far away in another town",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 15
+        },
+        {
+          "chord": "D",
+          "col": 49
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You were young and the lights were bright",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 41
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You went dancing in to the night",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 48
+        },
+        {
+          "chord": "D",
+          "col": 55
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You always said it would turn out alright",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 50
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Suzanne will you tell me if you can",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Suzanne is it everything you wanted",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 7
+        },
+        {
+          "chord": "Am",
+          "col": 22
+        },
+        {
+          "chord": "C",
+          "col": 49
+        },
+        {
+          "chord": "D",
+          "col": 59
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Suzanne Suzanne is it everything you dreamed it would be",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 7
+        },
+        {
+          "chord": "D",
+          "col": 21
+        },
+        {
+          "chord": "Am",
+          "col": 37
+        },
+        {
+          "chord": "C",
+          "col": 92
+        },
+        {
+          "chord": "D",
+          "col": 99
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You reached for the stars and touched the sky",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 52
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You fell back down and you don’t know why",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 49
+        },
+        {
+          "chord": "D",
+          "col": 75
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Suzanne you still shine bright to me",
+      "chords": [
+        {
+          "chord": "Em7",
+          "col": 5
+        },
+        {
+          "chord": "D",
+          "col": 20
+        },
+        {
+          "chord": "C",
+          "col": 53
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 2
+        },
+        {
+          "chord": "C",
+          "col": 5
+        },
+        {
+          "chord": "D",
+          "col": 7
+        },
+        {
+          "chord": "G",
+          "col": 9
+        },
+        {
+          "chord": "Bm",
+          "col": 11
+        },
+        {
+          "chord": "C",
+          "col": 14
+        },
+        {
+          "chord": "D",
+          "col": 17
+        },
+        {
+          "chord": "G",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You are the first one on and the last one off",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 21
+        },
+        {
+          "chord": "Bm",
+          "col": 64
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Who do you see when the mask comes off",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 48
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "With your red wine teeth and your smokers cough",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 19
+        },
+        {
+          "chord": "Bm",
+          "col": 60
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Suzanne I’m sure you’ve had enough",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 44
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But you never cared for what I had to say",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 49
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Now you go sleeping all through the day",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 56
+        },
+        {
+          "chord": "D",
+          "col": 62
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Please don’t dream your life away",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 41
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Suzanne can you help me to understand",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Suzanne is it everything you wanted",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 7
+        },
+        {
+          "chord": "Am",
+          "col": 22
+        },
+        {
+          "chord": "C",
+          "col": 49
+        },
+        {
+          "chord": "D",
+          "col": 59
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Suzanne Suzanne is it everything you dreamed it would be",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 7
+        },
+        {
+          "chord": "D",
+          "col": 21
+        },
+        {
+          "chord": "Am",
+          "col": 37
+        },
+        {
+          "chord": "C",
+          "col": 92
+        },
+        {
+          "chord": "D",
+          "col": 99
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You reached for the stars and touched the sky",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 52
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You fell back down and you don’t know why",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 49
+        },
+        {
+          "chord": "D",
+          "col": 75
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Suzanne you still shine bright to me",
+      "chords": [
+        {
+          "chord": "Em7",
+          "col": 5
+        },
+        {
+          "chord": "D",
+          "col": 20
+        },
+        {
+          "chord": "C",
+          "col": 53
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 2
+        },
+        {
+          "chord": "C",
+          "col": 5
+        },
+        {
+          "chord": "G",
+          "col": 7
+        },
+        {
+          "chord": "D",
+          "col": 9
+        },
+        {
+          "chord": "Bm",
+          "col": 11
+        },
+        {
+          "chord": "C",
+          "col": 14
+        },
+        {
+          "chord": "D",
+          "col": 17
+        },
+        {
+          "chord": "G",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Now you’re old and the lights are dim",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "The band won’t play and the man won’t sing",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 44
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "All the songs that he sang when you danced with him",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Suzanne can I take you by the hand",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Suzanne is it everything you wanted",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Suzanne Suzanne is it everything you dreamed it would be",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You never knew the rules to the game",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Drawn in like a moth to the flame",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Suzanne it is a crying shame",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "That they’ll never know your name",
+      "chords": [],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

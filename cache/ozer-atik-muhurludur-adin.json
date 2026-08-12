@@ -1,0 +1,186 @@
+{
+  "slug": "ozer-atik-muhurludur-adin",
+  "artist": "Özer Atik",
+  "title": "Mühürlüdür Adın",
+  "key": "A",
+  "capo": 0,
+  "rhythm": "A-K-Y-Y-K",
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Yıldızlar vardır sen görmesen de",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 10
+        },
+        {
+          "chord": "G7",
+          "col": 19
+        },
+        {
+          "chord": "C",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sanma aşkım yalandır sen sevmesen de",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 14
+        },
+        {
+          "chord": "E7",
+          "col": 24
+        },
+        {
+          "chord": "A",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Her şeyi göze aldım gitmedim yanında kaldım",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 11
+        },
+        {
+          "chord": "G7",
+          "col": 22
+        },
+        {
+          "chord": "C",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir hayalin peşinden sürüklenirken ben sen aldanırım sandın",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 23
+        },
+        {
+          "chord": "E7",
+          "col": 41
+        },
+        {
+          "chord": "A",
+          "col": 59
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Mühürlüdür adın adıma bundan sonra",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 12
+        },
+        {
+          "chord": "G7",
+          "col": 20
+        },
+        {
+          "chord": "A",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yeni bir satır aşkın alın yazıma",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 17
+        },
+        {
+          "chord": "G7",
+          "col": 24
+        },
+        {
+          "chord": "A",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Koyma beni perişan benim senden başka bir dermanım yok",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 9
+        },
+        {
+          "chord": "F",
+          "col": 14
+        },
+        {
+          "chord": "Dm",
+          "col": 18
+        },
+        {
+          "chord": "E7",
+          "col": 35
+        },
+        {
+          "chord": "Am7",
+          "col": 45
+        },
+        {
+          "chord": "A",
+          "col": 52
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

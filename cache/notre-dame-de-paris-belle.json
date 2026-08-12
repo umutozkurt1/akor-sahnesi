@@ -1,0 +1,928 @@
+{
+  "slug": "notre-dame-de-paris-belle",
+  "artist": "Notre Dame de Paris",
+  "title": "Belle",
+  "key": "G",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Belle",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "C'est un mot qu'on dirait inventé pour elle",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 19
+        },
+        {
+          "chord": "D",
+          "col": 32
+        },
+        {
+          "chord": "Gm",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Quand elle danse et qu'elle met son corps à jour, tel",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 24
+        },
+        {
+          "chord": "D",
+          "col": 42
+        },
+        {
+          "chord": "Gm",
+          "col": 50
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Un oiseau qui étend ses ailes pour s'envoler",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 11
+        },
+        {
+          "chord": "D",
+          "col": 25
+        },
+        {
+          "chord": "Gm",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Alors je sens l'enfer s'ouvrir sous mes pieds",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 10
+        },
+        {
+          "chord": "D",
+          "col": 28
+        },
+        {
+          "chord": "Em",
+          "col": 41
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "J'ai posé mes yeux sous sa robe de gitane",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 11
+        },
+        {
+          "chord": "B",
+          "col": 28
+        },
+        {
+          "chord": "Em",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "A quoi me sert encore de prier Notre-Dame",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 11
+        },
+        {
+          "chord": "D",
+          "col": 26
+        },
+        {
+          "chord": "G",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Quel",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 1
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Est celui qui lui jettera la première pierre",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 11
+        },
+        {
+          "chord": "B",
+          "col": 22
+        },
+        {
+          "chord": "Em",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Celui-là ne mérite pas d'etre sur terre",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 9
+        },
+        {
+          "chord": "D",
+          "col": 20
+        },
+        {
+          "chord": "G",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "O Lucifer !",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 7
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Oh ! Laisse-moi rien qu'une fois",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Glisser mes doigts dans les cheveux d'Esmeralda",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 13
+        },
+        {
+          "chord": "B",
+          "col": 32
+        },
+        {
+          "chord": "Em",
+          "col": 45
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 5
+        },
+        {
+          "chord": "Gm",
+          "col": 9
+        },
+        {
+          "chord": "Cm",
+          "col": 14
+        },
+        {
+          "chord": "F",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Belle",
+      "chords": [
+        {
+          "chord": "A#m",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Est-ce le diable qui s'est incarné en elle",
+      "chords": [
+        {
+          "chord": "Ebm",
+          "col": 17
+        },
+        {
+          "chord": "F",
+          "col": 33
+        },
+        {
+          "chord": "A#m",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Pour détourner mes yeux du Dieu éternel",
+      "chords": [
+        {
+          "chord": "Ebm",
+          "col": 15
+        },
+        {
+          "chord": "F",
+          "col": 31
+        },
+        {
+          "chord": "A#m",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Qui a mis dans mon etre ce désir charnel",
+      "chords": [
+        {
+          "chord": "Ebm",
+          "col": 11
+        },
+        {
+          "chord": "F",
+          "col": 25
+        },
+        {
+          "chord": "A#m",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Pour m'empecher de regarder vers le Ciel",
+      "chords": [
+        {
+          "chord": "Ebm",
+          "col": 12
+        },
+        {
+          "chord": "F",
+          "col": 25
+        },
+        {
+          "chord": "Gm",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Elle porte en elle le péché originel",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 15
+        },
+        {
+          "chord": "D",
+          "col": 26
+        },
+        {
+          "chord": "Gm",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "La désirer fait-il de moi un criminel",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 8
+        },
+        {
+          "chord": "F",
+          "col": 23
+        },
+        {
+          "chord": "A#",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Celle",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 2
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Qu'on prenait pour une fille de joie une fille de rien",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 15
+        },
+        {
+          "chord": "D",
+          "col": 33
+        },
+        {
+          "chord": "Gm",
+          "col": 51
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Semble soudain porter la croix du genre humain",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 11
+        },
+        {
+          "chord": "F",
+          "col": 27
+        },
+        {
+          "chord": "A#",
+          "col": 44
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "O Notre-Dame !",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Oh ! laisse-moi rien qu'une fois",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Pousser la porte du jardin d'Esmeralda",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 12
+        },
+        {
+          "chord": "D",
+          "col": 24
+        },
+        {
+          "chord": "Gm",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 5
+        },
+        {
+          "chord": "A#m",
+          "col": 9
+        },
+        {
+          "chord": "Ebm",
+          "col": 15
+        },
+        {
+          "chord": "Ab",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Belle",
+      "chords": [
+        {
+          "chord": "Dbm",
+          "col": 1
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Malgré ses grands yeux noirs qui vous ensorcellent",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 18
+        },
+        {
+          "chord": "Ab",
+          "col": 37
+        },
+        {
+          "chord": "Dbm",
+          "col": 47
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "La demoiselle serait-elle encore pucelle ?",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 15
+        },
+        {
+          "chord": "Ab",
+          "col": 28
+        },
+        {
+          "chord": "Dbm",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Quand ses mouvements me font voir monts et merveilles",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 12
+        },
+        {
+          "chord": "Ab",
+          "col": 30
+        },
+        {
+          "chord": "Dbm",
+          "col": 47
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sous son jupon aux couleurs de l'arc-en-ciel",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 10
+        },
+        {
+          "chord": "Ab",
+          "col": 28
+        },
+        {
+          "chord": "A#m",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ma dulcinée laissez-moi vous etre infidèle",
+      "chords": [
+        {
+          "chord": "Ebm",
+          "col": 8
+        },
+        {
+          "chord": "F",
+          "col": 25
+        },
+        {
+          "chord": "A#m",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Avant de vous avoir menée jusqu'à l'autel",
+      "chords": [
+        {
+          "chord": "Ebm",
+          "col": 9
+        },
+        {
+          "chord": "Ab",
+          "col": 23
+        },
+        {
+          "chord": "Db",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Quel",
+      "chords": [
+        {
+          "chord": "A#m",
+          "col": 1
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Est l'homme qui détournerait son regard d'elle",
+      "chords": [
+        {
+          "chord": "Ebm",
+          "col": 12
+        },
+        {
+          "chord": "F",
+          "col": 26
+        },
+        {
+          "chord": "A#m",
+          "col": 43
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sous peine d'etre changé en statue de sel",
+      "chords": [
+        {
+          "chord": "Ebm",
+          "col": 12
+        },
+        {
+          "chord": "Ab",
+          "col": 25
+        },
+        {
+          "chord": "Db",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "O Fleur-de-Lys,",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Je ne suis pas homme de foi",
+      "chords": [
+        {
+          "chord": "A#m",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "J'irai cueillir la fleur d'amour d'Esmeralda",
+      "chords": [
+        {
+          "chord": "Ebm",
+          "col": 11
+        },
+        {
+          "chord": "F",
+          "col": 30
+        },
+        {
+          "chord": "A#m",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Les 3 ensemble",
+      "chords": [
+        {
+          "chord": "Ebm",
+          "col": 0
+        },
+        {
+          "chord": "Ab",
+          "col": 6
+        },
+        {
+          "chord": "Dbm",
+          "col": 11
+        },
+        {
+          "chord": "F#m",
+          "col": 17
+        },
+        {
+          "chord": "Ab",
+          "col": 23
+        },
+        {
+          "chord": "A#m",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "J'ai posé mes yeux sous sa robe de gitane",
+      "chords": [
+        {
+          "chord": "Ebm",
+          "col": 11
+        },
+        {
+          "chord": "F",
+          "col": 28
+        },
+        {
+          "chord": "A#m",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "A quoi me sert encore de prier Notre-Dame",
+      "chords": [
+        {
+          "chord": "Ebm",
+          "col": 11
+        },
+        {
+          "chord": "Ab",
+          "col": 26
+        },
+        {
+          "chord": "Db",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Quel",
+      "chords": [
+        {
+          "chord": "A#m",
+          "col": 1
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Est celui qui lui jettera la première pierre",
+      "chords": [
+        {
+          "chord": "Ebm",
+          "col": 11
+        },
+        {
+          "chord": "F",
+          "col": 22
+        },
+        {
+          "chord": "A#m",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Celui-là ne mérite pas d'etre sur terre",
+      "chords": [
+        {
+          "chord": "Ebm",
+          "col": 9
+        },
+        {
+          "chord": "Ab",
+          "col": 20
+        },
+        {
+          "chord": "Db",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "O Lucifer !",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 7
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Oh ! Laisse-moi rien qu'une fois",
+      "chords": [
+        {
+          "chord": "A#m",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Glisser mes doigts dans les cheveux d'Esmeralda",
+      "chords": [
+        {
+          "chord": "Ebm",
+          "col": 13
+        },
+        {
+          "chord": "F",
+          "col": 32
+        },
+        {
+          "chord": "A#m",
+          "col": 46
+        },
+        {
+          "chord": "Ebm",
+          "col": 52
+        },
+        {
+          "chord": "F",
+          "col": 58
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Esmeralda",
+      "chords": [
+        {
+          "chord": "A#m",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Glisser mes doigts dans les cheveux d'Esmeralda",
+      "chords": [
+        {
+          "chord": "Ebm",
+          "col": 6
+        },
+        {
+          "chord": "F",
+          "col": 25
+        },
+        {
+          "chord": "A#m",
+          "col": 39
+        },
+        {
+          "chord": "Ebm",
+          "col": 45
+        },
+        {
+          "chord": "F",
+          "col": 51
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Esmeralda",
+      "chords": [
+        {
+          "chord": "A#m",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

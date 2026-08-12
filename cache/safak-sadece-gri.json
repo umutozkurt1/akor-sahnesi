@@ -1,0 +1,196 @@
+{
+  "slug": "safak-sadece-gri",
+  "artist": "Şafak",
+  "title": "Sadece Gri",
+  "key": "E",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Em            B7D#",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gökyüzü   gri",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "B7F#          Em",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Güneş  elvedalarda",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "      Cmaj7        F#m7b5",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yağmur     taneleri",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Asılı kalmış camlarda",
+      "chords": [
+        {
+          "chord": "Gdim",
+          "col": 8
+        },
+        {
+          "chord": "B7",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "    Am            F#m7b5      EmG       Em",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ruhum   gibi                 kalbim gibi",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kalbin           gibi          ruhun gibi",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 20
+        },
+        {
+          "chord": "B",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yendim sonunda seni ve kendimi",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 6
+        },
+        {
+          "chord": "Am",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Çıkmazlarım gri, sözler bile bitti",
+      "chords": [
+        {
+          "chord": "B7",
+          "col": 26
+        },
+        {
+          "chord": "Em",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Am                            EmG",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Boşluklarım gri, yok ettim ya seni",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ruhum parlıyor ay gibi",
+      "chords": [
+        {
+          "chord": "F#7",
+          "col": 5
+        },
+        {
+          "chord": "B",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Soğuk   gıpgri                  ne mavi ne siyah           sadece gri",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 4
+        },
+        {
+          "chord": "B7",
+          "col": 35
+        },
+        {
+          "chord": "Em",
+          "col": 75
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Keman Solo:",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "B7",
+          "col": 4
+        },
+        {
+          "chord": "B7",
+          "col": 8
+        },
+        {
+          "chord": "Em",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

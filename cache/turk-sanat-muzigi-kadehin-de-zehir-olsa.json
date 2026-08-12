@@ -1,0 +1,147 @@
+{
+  "slug": "turk-sanat-muzigi-kadehin-de-zehir-olsa",
+  "artist": "Türk Sanat Müziği",
+  "title": "Kadehin De Zehir Olsa",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Kadehinde zehir olsa ben icerim bana getir",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 34
+        },
+        {
+          "chord": "Gm",
+          "col": 50
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dudaklarin muhur olsa ben acarim bana getir",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 17
+        },
+        {
+          "chord": "Bb",
+          "col": 34
+        },
+        {
+          "chord": "Ab",
+          "col": 53
+        },
+        {
+          "chord": "Gm",
+          "col": 61
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Agladigin geceleri kalbindeki acilari",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Cekinmeden bana getir sen tukenme beni bitir",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Ab",
+          "col": 20
+        },
+        {
+          "chord": "Bb",
+          "col": 36
+        },
+        {
+          "chord": "Ab",
+          "col": 57
+        },
+        {
+          "chord": "Gm",
+          "col": 63
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ask baginin gulu ol da dikenini bana batir",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 36
+        },
+        {
+          "chord": "Gm",
+          "col": 60
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bakma canim yandigima sorma benim halim nedir",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 21
+        },
+        {
+          "chord": "Bb",
+          "col": 38
+        },
+        {
+          "chord": "Ab",
+          "col": 59
+        },
+        {
+          "chord": "Gm",
+          "col": 67
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

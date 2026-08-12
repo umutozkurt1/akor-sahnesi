@@ -1,0 +1,147 @@
+{
+  "slug": "hayko-cepkin-huzunle-karisik",
+  "artist": "Hayko Cepkin",
+  "title": "Hüzünle Karışık",
+  "key": "F#",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Bana yol ver, bana iyi bak, son vedadır",
+      "chords": [
+        {
+          "chord": "F#",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 36
+        },
+        {
+          "chord": "F#",
+          "col": 56
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sana son kez, sana bir söz, son defadır",
+      "chords": [
+        {
+          "chord": "F#",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 36
+        },
+        {
+          "chord": "G",
+          "col": 51
+        },
+        {
+          "chord": "F#",
+          "col": 56
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bırak aksın sel sular",
+      "chords": [
+        {
+          "chord": "F#",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 9
+        },
+        {
+          "chord": "Bm",
+          "col": 17
+        },
+        {
+          "chord": "F#",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Can evimden vurdular",
+      "chords": [
+        {
+          "chord": "F#",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 12
+        },
+        {
+          "chord": "Em",
+          "col": 20
+        },
+        {
+          "chord": "Bm",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bana kalsın dar duvar",
+      "chords": [
+        {
+          "chord": "F#",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 9
+        },
+        {
+          "chord": "Bm",
+          "col": 18
+        },
+        {
+          "chord": "F#",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ezilir elbet can çıkar",
+      "chords": [
+        {
+          "chord": "F#",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 11
+        },
+        {
+          "chord": "Em",
+          "col": 18
+        },
+        {
+          "chord": "F#",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

@@ -1,0 +1,187 @@
+{
+  "slug": "hande-yener-yoksa-mani",
+  "artist": "Hande Yener",
+  "title": "Yoksa Mani",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Beni yalnız sen anlarsın, bir bakınca gözlerimden",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Anlayan yok, ne olursun gel",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 21
+        },
+        {
+          "chord": "G",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Beni yalnız sen anlarsın, bir tutunca ellerimden",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hiç tutan yok, ne olursun gel",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 23
+        },
+        {
+          "chord": "G",
+          "col": 41
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hadi bir sor bana, sor nasıl gidiyor",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 5
+        },
+        {
+          "chord": "A#",
+          "col": 23
+        },
+        {
+          "chord": "G#",
+          "col": 38
+        },
+        {
+          "chord": "G",
+          "col": 48
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kimseyi bilmem ama bana zor geliyor",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 10
+        },
+        {
+          "chord": "A#",
+          "col": 28
+        },
+        {
+          "chord": "G#",
+          "col": 44
+        },
+        {
+          "chord": "G",
+          "col": 54
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yoksa mani yoksa engel",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "G#",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gel hayırsız hadi dön gel",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sen gidince kapanan kapılar",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "G#",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sana açık sen gel",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

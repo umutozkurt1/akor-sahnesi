@@ -1,0 +1,566 @@
+{
+  "slug": "duman-vals",
+  "artist": "Duman",
+  "title": "Vals",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 5
+        },
+        {
+          "chord": "Am",
+          "col": 10
+        },
+        {
+          "chord": "Am",
+          "col": 13
+        },
+        {
+          "chord": "B",
+          "col": 16
+        },
+        {
+          "chord": "Am",
+          "col": 20
+        },
+        {
+          "chord": "G",
+          "col": 23
+        },
+        {
+          "chord": "F",
+          "col": 25
+        },
+        {
+          "chord": "C",
+          "col": 30
+        },
+        {
+          "chord": "E",
+          "col": 32
+        },
+        {
+          "chord": "Am",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "kalbimi çaldı",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "ortasından yardı",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 12
+        },
+        {
+          "chord": "B",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "bir tohum ekti",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "çok farklı",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 7
+        },
+        {
+          "chord": "E",
+          "col": 11
+        },
+        {
+          "chord": "Am",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ara Solo:",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 5
+        },
+        {
+          "chord": "Am",
+          "col": 9
+        },
+        {
+          "chord": "Am",
+          "col": 12
+        },
+        {
+          "chord": "B",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "gölgeye kaçtım",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "bir yudum su içtim",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 17
+        },
+        {
+          "chord": "B",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "bin çiçek açtı",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "yok kimseyi duymadım,canımı sıkmadım",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 8
+        },
+        {
+          "chord": "E",
+          "col": 22
+        },
+        {
+          "chord": "F",
+          "col": 40
+        },
+        {
+          "chord": "E",
+          "col": 52
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "fikrini sormadım ben",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 11
+        },
+        {
+          "chord": "E",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "yok benim ayarım yok  ooo  oo",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 8
+        },
+        {
+          "chord": "B",
+          "col": 21
+        },
+        {
+          "chord": "Em",
+          "col": 30
+        },
+        {
+          "chord": "C",
+          "col": 35
+        },
+        {
+          "chord": "B",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "kaybolan zamanım yok  ooo  oo",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 8
+        },
+        {
+          "chord": "B",
+          "col": 21
+        },
+        {
+          "chord": "Em",
+          "col": 30
+        },
+        {
+          "chord": "C",
+          "col": 35
+        },
+        {
+          "chord": "B",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "gel benim şahidim ol      oooooo",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 8
+        },
+        {
+          "chord": "B",
+          "col": 16
+        },
+        {
+          "chord": "Em",
+          "col": 27
+        },
+        {
+          "chord": "C",
+          "col": 35
+        },
+        {
+          "chord": "B",
+          "col": 41
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "ayrılmaz bir can hayalim  ol          ooooo    eeeee   aaaaa",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 18
+        },
+        {
+          "chord": "B",
+          "col": 25
+        },
+        {
+          "chord": "Em",
+          "col": 38
+        },
+        {
+          "chord": "C",
+          "col": 50
+        },
+        {
+          "chord": "B",
+          "col": 54
+        },
+        {
+          "chord": "C",
+          "col": 63
+        },
+        {
+          "chord": "B",
+          "col": 67
+        },
+        {
+          "chord": "C",
+          "col": 73
+        },
+        {
+          "chord": "B",
+          "col": 77
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ara Solo :",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 5
+        },
+        {
+          "chord": "Am",
+          "col": 9
+        },
+        {
+          "chord": "Am",
+          "col": 12
+        },
+        {
+          "chord": "B",
+          "col": 15
+        },
+        {
+          "chord": "Am",
+          "col": 18
+        },
+        {
+          "chord": "G",
+          "col": 21
+        },
+        {
+          "chord": "F",
+          "col": 23
+        },
+        {
+          "chord": "C",
+          "col": 27
+        },
+        {
+          "chord": "E",
+          "col": 29
+        },
+        {
+          "chord": "Am",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "aklımı çeldi",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "ortasından deldi",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 13
+        },
+        {
+          "chord": "B",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "bir ışık yaktı",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "çok renkli",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 6
+        },
+        {
+          "chord": "E",
+          "col": 8
+        },
+        {
+          "chord": "Am",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ara Solo:",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 5
+        },
+        {
+          "chord": "Am",
+          "col": 9
+        },
+        {
+          "chord": "Am",
+          "col": 12
+        },
+        {
+          "chord": "B",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

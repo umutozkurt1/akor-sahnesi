@@ -1,0 +1,616 @@
+{
+  "slug": "tom-dice-me-and-my-guitar",
+  "artist": "Tom Dice",
+  "title": "Me And My Guitar",
+  "key": "B",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "People always say",
+      "chords": [
+        {
+          "chord": "Aadd9",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 7
+        },
+        {
+          "chord": "E",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Tom, this has gone too far",
+      "chords": [
+        {
+          "chord": "Aadd9",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 14
+        },
+        {
+          "chord": "E",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But I'm not afraid to chase my dreams,",
+      "chords": [
+        {
+          "chord": "Aadd9",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 12
+        },
+        {
+          "chord": "C#m",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Just me and my guitar",
+      "chords": [
+        {
+          "chord": "Aadd9",
+          "col": 4
+        },
+        {
+          "chord": "B",
+          "col": 11
+        },
+        {
+          "chord": "E",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And no one may ever know",
+      "chords": [
+        {
+          "chord": "Aadd9",
+          "col": 3
+        },
+        {
+          "chord": "B",
+          "col": 14
+        },
+        {
+          "chord": "E",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "The feelings inside my mind",
+      "chords": [
+        {
+          "chord": "Aadd9",
+          "col": 3
+        },
+        {
+          "chord": "B",
+          "col": 12
+        },
+        {
+          "chord": "E",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "'Cause all of the lines I ever write",
+      "chords": [
+        {
+          "chord": "Aadd9",
+          "col": 6
+        },
+        {
+          "chord": "B",
+          "col": 17
+        },
+        {
+          "chord": "C#m",
+          "col": 25
+        },
+        {
+          "chord": "E",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Are running out of time",
+      "chords": [
+        {
+          "chord": "Aadd9",
+          "col": 3
+        },
+        {
+          "chord": "B",
+          "col": 11
+        },
+        {
+          "chord": "E",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "So maybe I should get a nine to five",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "Dmaj7",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But I don't want to let it go, there's so much more to life",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 40
+        },
+        {
+          "chord": "Bsus4",
+          "col": 48
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Tell me that I've got it wrong",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "Bsus4",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Tell me everything will be okay",
+      "chords": [
+        {
+          "chord": "Aadd9",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Before I fall",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 0
+        },
+        {
+          "chord": "Aadd9",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Tell me they'll play my songs",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "Bsus4",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Tell me they'll sing the words I say",
+      "chords": [
+        {
+          "chord": "Aadd9",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "When darkness falls",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 4
+        },
+        {
+          "chord": "Aadd9",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "All of the stars will see",
+      "chords": [
+        {
+          "chord": "F#7",
+          "col": 10
+        },
+        {
+          "chord": "F#m",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Just me and my guitar",
+      "chords": [
+        {
+          "chord": "Aadd9",
+          "col": 18
+        },
+        {
+          "chord": "B",
+          "col": 25
+        },
+        {
+          "chord": "Bsus4",
+          "col": 28
+        },
+        {
+          "chord": "E",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Aadd9",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 7
+        },
+        {
+          "chord": "Bsus4",
+          "col": 10
+        },
+        {
+          "chord": "E",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'm sure that I'll find my      way",
+      "chords": [
+        {
+          "chord": "Aadd9",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 19
+        },
+        {
+          "chord": "Bsus4",
+          "col": 24
+        },
+        {
+          "chord": "E",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "'Cause I'm not afraid to      try",
+      "chords": [
+        {
+          "chord": "Aadd9",
+          "col": 6
+        },
+        {
+          "chord": "B",
+          "col": 14
+        },
+        {
+          "chord": "Bsus4",
+          "col": 21
+        },
+        {
+          "chord": "E",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Even a world of love and hope can't guarantee that price",
+      "chords": [
+        {
+          "chord": "Aadd9",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 7
+        },
+        {
+          "chord": "C#m",
+          "col": 16
+        },
+        {
+          "chord": "Aadd9",
+          "col": 37
+        },
+        {
+          "chord": "B",
+          "col": 47
+        },
+        {
+          "chord": "E",
+          "col": 52
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "So maybe I should get a nine to five",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "Dmaj7",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But I don't want to let it go, there's so much more to life",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 40
+        },
+        {
+          "chord": "Bsus4",
+          "col": 48
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Tell me that I've got it wrong",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "Bsus4",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Tell me everything will be okay",
+      "chords": [
+        {
+          "chord": "Aadd9",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Before I fall",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 0
+        },
+        {
+          "chord": "Aadd9",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Tell me they'll play my songs",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "Bsus4",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Tell me they'll sing the words I say",
+      "chords": [
+        {
+          "chord": "Aadd9",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "When darkness falls",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 4
+        },
+        {
+          "chord": "Aadd9",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "All of the stars will see",
+      "chords": [
+        {
+          "chord": "F#7",
+          "col": 10
+        },
+        {
+          "chord": "F#m",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Just me and my guitar",
+      "chords": [
+        {
+          "chord": "Aadd9",
+          "col": 18
+        },
+        {
+          "chord": "B",
+          "col": 25
+        },
+        {
+          "chord": "Bsus4",
+          "col": 28
+        },
+        {
+          "chord": "E",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Aadd9",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 7
+        },
+        {
+          "chord": "Bsus4",
+          "col": 10
+        },
+        {
+          "chord": "E",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

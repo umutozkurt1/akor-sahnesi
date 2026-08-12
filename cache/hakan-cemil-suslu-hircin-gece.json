@@ -1,0 +1,161 @@
+{
+  "slug": "hakan-cemil-suslu-hircin-gece",
+  "artist": "Hakan Cemil Süslü",
+  "title": "Hırçın Gece",
+  "key": "E",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "neden hırçınsın bu kadar gece,",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 28
+        },
+        {
+          "chord": "G",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "hangi şehrin katili bu kahır.",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 11
+        },
+        {
+          "chord": "Em",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "2x",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "sararmış bir yaprak gibi düşerken,",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 28
+        },
+        {
+          "chord": "G",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "dalımdan son hecem de sen.",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 16
+        },
+        {
+          "chord": "Em",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "2x",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "söyle söyle bilmediğim bir şey mi var,",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "söyle söyle kim için bu göz yaşların.",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "gözlerin dalar gider bakmaya doymadım,",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "uzaklaştın her adımda peşinden varamadım.",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 35
+        },
+        {
+          "chord": "F",
+          "col": 47
+        },
+        {
+          "chord": "Em",
+          "col": 60
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

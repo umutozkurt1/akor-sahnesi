@@ -1,0 +1,250 @@
+{
+  "slug": "kolpa-boyle-ayrilik-olmaz",
+  "artist": "Kolpa",
+  "title": "Böyle Ayrılık Olmaz",
+  "key": "D",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Kim derdi ki seninle bir gün ayrılacağız",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 18
+        },
+        {
+          "chord": "Gm",
+          "col": 29
+        },
+        {
+          "chord": "Am",
+          "col": 46
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Geçip giden yılların ardından bakacağız",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 18
+        },
+        {
+          "chord": "Gm",
+          "col": 30
+        },
+        {
+          "chord": "Am",
+          "col": 48
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kim derdi ki bir tanem gün gelip bıkacağız",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 18
+        },
+        {
+          "chord": "Gm",
+          "col": 33
+        },
+        {
+          "chord": "Am",
+          "col": 50
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ben ve yenik yüreğim yalnız mı kalacağız",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 20
+        },
+        {
+          "chord": "Gm",
+          "col": 34
+        },
+        {
+          "chord": "Am",
+          "col": 50
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 5
+        },
+        {
+          "chord": "F",
+          "col": 10
+        },
+        {
+          "chord": "Gm",
+          "col": 14
+        },
+        {
+          "chord": "Am",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Böyle ayrılık olmaz",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 29
+        },
+        {
+          "chord": "Gm",
+          "col": 33
+        },
+        {
+          "chord": "F",
+          "col": 37
+        },
+        {
+          "chord": "Gm",
+          "col": 40
+        },
+        {
+          "chord": "Am",
+          "col": 44
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Böyle yalnız kalınmaz",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hani verdiğin sözler hani ellerin nerde",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 35
+        },
+        {
+          "chord": "C",
+          "col": 58
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hani huzur bulduğum deniz gözlerin nerde",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 65
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hani sen hep benimdin şimdi nerdesin nerde",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 26
+        },
+        {
+          "chord": "A#",
+          "col": 46
+        },
+        {
+          "chord": "Gm",
+          "col": 61
+        },
+        {
+          "chord": "Am",
+          "col": 66
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Oo oo",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 5
+        },
+        {
+          "chord": "A#",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

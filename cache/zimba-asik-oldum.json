@@ -1,0 +1,188 @@
+{
+  "slug": "zimba-asik-oldum",
+  "artist": "Zımba",
+  "title": "Aşık Oldum",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 3
+        },
+        {
+          "chord": "G#",
+          "col": 6
+        },
+        {
+          "chord": "A#",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "aklı, oyunlar oynar insana çoğu zaman",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "G#",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "döndürür tersini,",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "yanıltır koşturur yanlış yönlere",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "G#",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "kaybettirir izlerini",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 0
+        },
+        {
+          "chord": "G#",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "ama sonra öylece duruyordu",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 8
+        },
+        {
+          "chord": "Cm",
+          "col": 17
+        },
+        {
+          "chord": "D#",
+          "col": 20
+        },
+        {
+          "chord": "G#",
+          "col": 24
+        },
+        {
+          "chord": "A#",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "ben sana bakıyordum ve aşık oldum.",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 17
+        },
+        {
+          "chord": "D#",
+          "col": 21
+        },
+        {
+          "chord": "G#",
+          "col": 27
+        },
+        {
+          "chord": "A#",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "öylece duruyordu",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 4
+        },
+        {
+          "chord": "D#",
+          "col": 7
+        },
+        {
+          "chord": "G#",
+          "col": 10
+        },
+        {
+          "chord": "A#",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "ben sana bakıyordum ve aşık oldum.",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 8
+        },
+        {
+          "chord": "D#",
+          "col": 13
+        },
+        {
+          "chord": "G#",
+          "col": 19
+        },
+        {
+          "chord": "A#",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

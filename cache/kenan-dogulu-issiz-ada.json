@@ -1,0 +1,496 @@
+{
+  "slug": "kenan-dogulu-issiz-ada",
+  "artist": "Kenan Doğulu",
+  "title": "Issız Ada",
+  "key": "B",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Issız bir adaya düşsem",
+      "chords": [
+        {
+          "chord": "Bbm",
+          "col": 0
+        },
+        {
+          "chord": "Ab",
+          "col": 4
+        },
+        {
+          "chord": "Dbm",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yanıma seni alırdım",
+      "chords": [
+        {
+          "chord": "Bbm",
+          "col": 0
+        },
+        {
+          "chord": "Ab",
+          "col": 11
+        },
+        {
+          "chord": "Ebm",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İki       hakkım daha varsa",
+      "chords": [
+        {
+          "chord": "Bbm",
+          "col": 0
+        },
+        {
+          "chord": "Ab",
+          "col": 6
+        },
+        {
+          "chord": "Bbm",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Onu da sana sorardım",
+      "chords": [
+        {
+          "chord": "Ab",
+          "col": 13
+        },
+        {
+          "chord": "Gb",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yıldızların altında",
+      "chords": [
+        {
+          "chord": "Bbm",
+          "col": 0
+        },
+        {
+          "chord": "Ab",
+          "col": 5
+        },
+        {
+          "chord": "Bbm",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kendi diskomuzu kurarız",
+      "chords": [
+        {
+          "chord": "Bbm",
+          "col": 0
+        },
+        {
+          "chord": "Ab",
+          "col": 14
+        },
+        {
+          "chord": "Ebm",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Suyumuz ateşimiz olsun",
+      "chords": [
+        {
+          "chord": "Bbm",
+          "col": 0
+        },
+        {
+          "chord": "Ab",
+          "col": 12
+        },
+        {
+          "chord": "Gb",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gerisine de bakarız",
+      "chords": [
+        {
+          "chord": "Bbm",
+          "col": 0
+        },
+        {
+          "chord": "Ab",
+          "col": 7
+        },
+        {
+          "chord": "Gb",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Issız bir adaya düşsem",
+      "chords": [
+        {
+          "chord": "Bbm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Issız bir adaya düşsem",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Saklan, bizi göremesinler",
+      "chords": [
+        {
+          "chord": "Fm7",
+          "col": 0
+        },
+        {
+          "chord": "Ebm7",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kurtulmak isteyen kim",
+      "chords": [
+        {
+          "chord": "Bbm7",
+          "col": 0
+        },
+        {
+          "chord": "Ab",
+          "col": 14
+        },
+        {
+          "chord": "Gb",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Çıplak kalsak gündoğumunda",
+      "chords": [
+        {
+          "chord": "Bbm",
+          "col": 0
+        },
+        {
+          "chord": "Ab",
+          "col": 8
+        },
+        {
+          "chord": "Ebm",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Uyanmak isteyen kim",
+      "chords": [
+        {
+          "chord": "Bbm",
+          "col": 0
+        },
+        {
+          "chord": "Ab",
+          "col": 12
+        },
+        {
+          "chord": "Ebm",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Issız bir adaya düşsek",
+      "chords": [
+        {
+          "chord": "Bbm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Issız bir adaya düşsek, göndoğumunda",
+      "chords": [
+        {
+          "chord": "Bbm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Issız bir adaya düşsen",
+      "chords": [
+        {
+          "chord": "Bbm",
+          "col": 0
+        },
+        {
+          "chord": "Ab",
+          "col": 6
+        },
+        {
+          "chord": "Ebm",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yanına kimi alırdın",
+      "chords": [
+        {
+          "chord": "Bbm",
+          "col": 0
+        },
+        {
+          "chord": "Ab",
+          "col": 7
+        },
+        {
+          "chord": "Ebm",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Son bir hakkın daha varsa",
+      "chords": [
+        {
+          "chord": "Bbm",
+          "col": 0
+        },
+        {
+          "chord": "Ab",
+          "col": 9
+        },
+        {
+          "chord": "Ebm",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "O talihli ben olur muydum",
+      "chords": [
+        {
+          "chord": "Bbm",
+          "col": 0
+        },
+        {
+          "chord": "Ab",
+          "col": 9
+        },
+        {
+          "chord": "Ebm",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yıldızların altında",
+      "chords": [
+        {
+          "chord": "Bbm",
+          "col": 0
+        },
+        {
+          "chord": "Ab",
+          "col": 6
+        },
+        {
+          "chord": "Ebm",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kendi dünyamızı kuralım",
+      "chords": [
+        {
+          "chord": "Bbm",
+          "col": 0
+        },
+        {
+          "chord": "Abm",
+          "col": 16
+        },
+        {
+          "chord": "Ebm",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kabuktan bir tef bir tumba",
+      "chords": [
+        {
+          "chord": "Bbm",
+          "col": 0
+        },
+        {
+          "chord": "Ab",
+          "col": 7
+        },
+        {
+          "chord": "Ebm",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ömür boyu çocuk kalalım",
+      "chords": [
+        {
+          "chord": "Bbm",
+          "col": 0
+        },
+        {
+          "chord": "Ab",
+          "col": 16
+        },
+        {
+          "chord": "Ebm",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Saklan, bizi göremesinler",
+      "chords": [
+        {
+          "chord": "Fm7",
+          "col": 0
+        },
+        {
+          "chord": "Ebm7",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kurtulmak isteyen kim",
+      "chords": [
+        {
+          "chord": "Bbm7",
+          "col": 0
+        },
+        {
+          "chord": "Ab",
+          "col": 14
+        },
+        {
+          "chord": "Gb",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Çıplak kalsak gündoğumunda",
+      "chords": [
+        {
+          "chord": "Bbm",
+          "col": 0
+        },
+        {
+          "chord": "Ab",
+          "col": 8
+        },
+        {
+          "chord": "Ebm",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Uyanmak isteyen kim",
+      "chords": [
+        {
+          "chord": "Bbm",
+          "col": 0
+        },
+        {
+          "chord": "Ab",
+          "col": 12
+        },
+        {
+          "chord": "Ebm",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

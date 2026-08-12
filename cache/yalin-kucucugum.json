@@ -1,0 +1,180 @@
+{
+  "slug": "yalin-kucucugum",
+  "artist": "Yalın",
+  "title": "Küçücüğüm",
+  "key": "B",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Hiç özlemediğim kadar özlüyorum bu aralar seni",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 28
+        },
+        {
+          "chord": "A",
+          "col": 47
+        },
+        {
+          "chord": "D",
+          "col": 72
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Niye bilmiyorum ama ben sadece senle mutluyum",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "F#",
+          "col": 32
+        },
+        {
+          "chord": "Bm",
+          "col": 57
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ah şu gönül gözünden görmek dedikleri var ya",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 51
+        },
+        {
+          "chord": "F#",
+          "col": 71
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Seni her halinle seviyorum",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 9
+        },
+        {
+          "chord": "F#",
+          "col": 17
+        },
+        {
+          "chord": "Bm",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Beraber uyansak, bütün gün sarılsak, bana yetmez",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 76
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "o ana dünyaları değişmem",
+      "chords": [
+        {
+          "chord": "F#",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Küçücüğüm her şeyim ne olur çok uzaklara gitme",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "gidersen öleceğim karanlıga döneceğim",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "F#",
+          "col": 15
+        },
+        {
+          "chord": "Em",
+          "col": 32
+        },
+        {
+          "chord": "F#",
+          "col": 52
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 7
+        },
+        {
+          "chord": "Em",
+          "col": 13
+        },
+        {
+          "chord": "F#",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

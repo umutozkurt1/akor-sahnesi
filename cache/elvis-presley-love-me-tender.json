@@ -1,0 +1,409 @@
+{
+  "slug": "elvis-presley-love-me-tender",
+  "artist": "Elvis Presley",
+  "title": "Love Me Tender",
+  "key": "D",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Love me tender, love me sweet",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "E7",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Never let me go",
+      "chords": [
+        {
+          "chord": "A7",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You have made my life complete",
+      "chords": [
+        {
+          "chord": "E7",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And I love you so",
+      "chords": [
+        {
+          "chord": "A7",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Love me tender, love me true",
+      "chords": [
+        {
+          "chord": "F#7",
+          "col": 8
+        },
+        {
+          "chord": "C#",
+          "col": 12
+        },
+        {
+          "chord": "Bm",
+          "col": 16
+        },
+        {
+          "chord": "D7",
+          "col": 24
+        },
+        {
+          "chord": "A",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "All my dreams fulfilled",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "Gm6",
+          "col": 7
+        },
+        {
+          "chord": "D",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "For my darling I love you",
+      "chords": [
+        {
+          "chord": "B7",
+          "col": 7
+        },
+        {
+          "chord": "E7",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And I always will",
+      "chords": [
+        {
+          "chord": "A7",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Love me tender, love me long",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "E7",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Take me to your heart",
+      "chords": [
+        {
+          "chord": "A7",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "For it's there that I belong",
+      "chords": [
+        {
+          "chord": "E7",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And will never part",
+      "chords": [
+        {
+          "chord": "A7",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Love me tender, love me true",
+      "chords": [
+        {
+          "chord": "F#7",
+          "col": 8
+        },
+        {
+          "chord": "C#",
+          "col": 12
+        },
+        {
+          "chord": "Bm",
+          "col": 16
+        },
+        {
+          "chord": "D7",
+          "col": 24
+        },
+        {
+          "chord": "A",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "All my dreams fulfilled",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "Gm6",
+          "col": 7
+        },
+        {
+          "chord": "D",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "For my darling I love you",
+      "chords": [
+        {
+          "chord": "B7",
+          "col": 7
+        },
+        {
+          "chord": "E7",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And I always will",
+      "chords": [
+        {
+          "chord": "A7",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Love me tender love me dear",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "E7",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Tell me you are mine",
+      "chords": [
+        {
+          "chord": "A7",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'll be yours through all the years",
+      "chords": [
+        {
+          "chord": "E7",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Till the end of time",
+      "chords": [
+        {
+          "chord": "A7",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Love me tender, love me true",
+      "chords": [
+        {
+          "chord": "F#7",
+          "col": 8
+        },
+        {
+          "chord": "C#",
+          "col": 12
+        },
+        {
+          "chord": "Bm",
+          "col": 16
+        },
+        {
+          "chord": "D7",
+          "col": 24
+        },
+        {
+          "chord": "A",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "All my dreams fulfilled",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "Gm6",
+          "col": 7
+        },
+        {
+          "chord": "D",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "For my darling I love you",
+      "chords": [
+        {
+          "chord": "B7",
+          "col": 7
+        },
+        {
+          "chord": "E7",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And I always will",
+      "chords": [
+        {
+          "chord": "A7",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

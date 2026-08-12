@@ -1,0 +1,165 @@
+{
+  "slug": "kayahan-mor-menekse",
+  "artist": "Kayahan",
+  "title": "Mor Menekşe",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Akşam oldu penceremde",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yorgun rüzgar esiyor geçiyor renkler suskun",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir masum mor menekşe ağlıyor mu ne",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gölgelerin kollarında",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hatıralar halka halka",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ben ona tutsak",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Nerde   nerde  en    son çizgi nerde",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 3
+        },
+        {
+          "chord": "F",
+          "col": 8
+        },
+        {
+          "chord": "Em",
+          "col": 13
+        },
+        {
+          "chord": "Am",
+          "col": 17
+        },
+        {
+          "chord": "G",
+          "col": 21
+        },
+        {
+          "chord": "F",
+          "col": 31
+        },
+        {
+          "chord": "Em",
+          "col": 41
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Nerde  nerde    çarem nerde",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 4
+        },
+        {
+          "chord": "F",
+          "col": 8
+        },
+        {
+          "chord": "Em",
+          "col": 13
+        },
+        {
+          "chord": "Am",
+          "col": 17
+        },
+        {
+          "chord": "G",
+          "col": 20
+        },
+        {
+          "chord": "Am",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

@@ -1,0 +1,203 @@
+{
+  "slug": "ayna-ay-degil-mevsim-degil",
+  "artist": "Ayna",
+  "title": "Ay Değil Mevsim Değil",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "tadım tuzum kalmadı senden sonra",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "çıkmadım dolaşmadım sokaklarda",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "adını söyletmedim senden sonra",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "ayrılık deyip geçtim soranlara",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "         sonradan kor ayrılık derlerdi inanmazdım",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 9
+        },
+        {
+          "chord": "A#",
+          "col": 30
+        },
+        {
+          "chord": "C",
+          "col": 40
+        },
+        {
+          "chord": "A#",
+          "col": 53
+        },
+        {
+          "chord": "A",
+          "col": 69
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "        görseydim bu günleri ölürdüm bırakmazdım",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 8
+        },
+        {
+          "chord": "A#",
+          "col": 24
+        },
+        {
+          "chord": "C",
+          "col": 41
+        },
+        {
+          "chord": "A#",
+          "col": 58
+        },
+        {
+          "chord": "A",
+          "col": 74
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "ay değil mevsim değil bir ömür geçti sensiz",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "keşke böyle sevmeseydim ağlıyorum çaresiz",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 47
+        },
+        {
+          "chord": "C",
+          "col": 65
+        },
+        {
+          "chord": "A",
+          "col": 77
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "ay değil mevsim değil bir ömür geçti sensiz",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "keşke hiç ayrılmasaydık ağlıyorum çaresiz",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 42
+        },
+        {
+          "chord": "C",
+          "col": 58
+        },
+        {
+          "chord": "A",
+          "col": 70
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

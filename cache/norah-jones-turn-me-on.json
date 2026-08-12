@@ -1,0 +1,204 @@
+{
+  "slug": "norah-jones-turn-me-on",
+  "artist": "Norah Jones",
+  "title": "Turn Me On",
+  "key": "G",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Like a flower, waiting to bloom",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 4
+        },
+        {
+          "chord": "G7",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Like a lightbulb, in a dark room",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'm just sittin' here, waitin' for you",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 18
+        },
+        {
+          "chord": "Am",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "To come on home and turn me on",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 6
+        },
+        {
+          "chord": "G",
+          "col": 21
+        },
+        {
+          "chord": "C",
+          "col": 27
+        },
+        {
+          "chord": "G",
+          "col": 32
+        },
+        {
+          "chord": "D7",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Like the desert, waiting for the rain",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Like a schoolkid waiting for his friend",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'm just sittin' here, waitin' for you",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "To come on home and turn me on",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "My poor heart it's been so dark",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Since you been gone",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "After all you're the one who turns me on",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You're the only one who can turn me back on",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "My Hi-Fi's waiting for a new tune",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Glass is waiting for some fresh ice-cubes",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'm just sittin' here, waitin' for you",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "To come on home and turn me on",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Turn me o-o-on",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

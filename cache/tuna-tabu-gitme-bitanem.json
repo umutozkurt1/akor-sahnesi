@@ -1,0 +1,206 @@
+{
+  "slug": "tuna-tabu-gitme-bitanem",
+  "artist": "Tuna Tabu",
+  "title": "Gitme Bitanem",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "bendim ağladığın zaman gözyaşlarına ortak olan",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "C#",
+          "col": 8
+        },
+        {
+          "chord": "Cm",
+          "col": 18
+        },
+        {
+          "chord": "C#",
+          "col": 37
+        },
+        {
+          "chord": "Cm",
+          "col": 44
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "bendim üzüldüğün zaman dünyayı yakacak olan",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "C#",
+          "col": 17
+        },
+        {
+          "chord": "D#",
+          "col": 24
+        },
+        {
+          "chord": "C#",
+          "col": 33
+        },
+        {
+          "chord": "Cm",
+          "col": 41
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "bendim beni sana harcayan birkere pişman olmadan",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "C#",
+          "col": 17
+        },
+        {
+          "chord": "D#",
+          "col": 27
+        },
+        {
+          "chord": "C#",
+          "col": 36
+        },
+        {
+          "chord": "Cm",
+          "col": 44
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "şimdi elimde iki hece gitmek istercesine",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 6
+        },
+        {
+          "chord": "C#",
+          "col": 14
+        },
+        {
+          "chord": "D#",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "ölüm gibi karanlık ve bir o kadar haince",
+      "chords": [
+        {
+          "chord": "C#",
+          "col": 6
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "vakit geldi diyorsun hiç mi düşünmüyorsun",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 6
+        },
+        {
+          "chord": "C#",
+          "col": 14
+        },
+        {
+          "chord": "D#",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "ardında bırakırken mahşer yerini",
+      "chords": [
+        {
+          "chord": "C#",
+          "col": 6
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "gitme bitanem bu kalbimden seni de ağlatırlar",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "yapma bitanem yaban eller içini sızlatırlar",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "kimse ben olmaz kıymet anlamaz canını sunmaz uğruna ah yar",
+      "chords": [
+        {
+          "chord": "C#",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "hem kendine hem bana kıymak olmaz",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 0
+        },
+        {
+          "chord": "C#",
+          "col": 15
+        },
+        {
+          "chord": "Cm",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

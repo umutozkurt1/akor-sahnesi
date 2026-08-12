@@ -1,0 +1,191 @@
+{
+  "slug": "badem-dog-gunes",
+  "artist": "Badem",
+  "title": "Doğ Güneş",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Güneşin battığı yerden içini çok acımasız bir hüzün kaplar",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 11
+        },
+        {
+          "chord": "Am",
+          "col": 23
+        },
+        {
+          "chord": "D",
+          "col": 32
+        },
+        {
+          "chord": "Am",
+          "col": 38
+        },
+        {
+          "chord": "D",
+          "col": 42
+        },
+        {
+          "chord": "F",
+          "col": 53
+        },
+        {
+          "chord": "G",
+          "col": 55
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Umutlar solar kalbinin derinliklerinde karanlığın sancısı dolar",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 8
+        },
+        {
+          "chord": "Am",
+          "col": 19
+        },
+        {
+          "chord": "D",
+          "col": 28
+        },
+        {
+          "chord": "Am",
+          "col": 39
+        },
+        {
+          "chord": "D",
+          "col": 46
+        },
+        {
+          "chord": "F",
+          "col": 61
+        },
+        {
+          "chord": "G",
+          "col": 63
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ve teninde garip bir his duyarsın sonra bir sessizlik sarar her yerini",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 8
+        },
+        {
+          "chord": "D",
+          "col": 20
+        },
+        {
+          "chord": "Am",
+          "col": 30
+        },
+        {
+          "chord": "D",
+          "col": 41
+        },
+        {
+          "chord": "Am",
+          "col": 56
+        },
+        {
+          "chord": "D",
+          "col": 68
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Tek kelime bile söyleyemezsin",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 10
+        },
+        {
+          "chord": "F",
+          "col": 16
+        },
+        {
+          "chord": "G",
+          "col": 21
+        },
+        {
+          "chord": "Am",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Öyleyse doğ güneş doğ güneş ve de hiç batma ısığından kimseyi hiç kimseyi mahrum",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 5
+        },
+        {
+          "chord": "C",
+          "col": 14
+        },
+        {
+          "chord": "E",
+          "col": 24
+        },
+        {
+          "chord": "Am",
+          "col": 38
+        },
+        {
+          "chord": "F",
+          "col": 50
+        },
+        {
+          "chord": "C",
+          "col": 59
+        },
+        {
+          "chord": "E",
+          "col": 71
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "bırakma",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 1
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

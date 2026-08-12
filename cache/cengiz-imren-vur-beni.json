@@ -1,0 +1,177 @@
+{
+  "slug": "cengiz-imren-vur-beni",
+  "artist": "Cengiz İmren",
+  "title": "Vur Beni",
+  "key": "C#",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Bir de baktım, ne göreyim, ha-var Allah'ım",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 42
+        },
+        {
+          "chord": "C#m",
+          "col": 51
+        },
+        {
+          "chord": "B",
+          "col": 57
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gözlerime inanmadım, yandım Allah'ım",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 42
+        },
+        {
+          "chord": "C#m",
+          "col": 54
+        },
+        {
+          "chord": "B",
+          "col": 60
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Al şu mavzer kurşunuyla vur beni",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Vur beni, vur, zaten öldürdün beni",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 11
+        },
+        {
+          "chord": "F#m",
+          "col": 28
+        },
+        {
+          "chord": "G#m",
+          "col": 41
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Seni sevmekten başka neydi benim günahım",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 23
+        },
+        {
+          "chord": "B",
+          "col": 34
+        },
+        {
+          "chord": "G#m",
+          "col": 55
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Tek suçum aşık olmak sana, hiç olmaz bu yaptığın",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 23
+        },
+        {
+          "chord": "B",
+          "col": 43
+        },
+        {
+          "chord": "G#m",
+          "col": 73
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Durma, durma, durma, vur git",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 9
+        },
+        {
+          "chord": "A",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Durma, durma, vur da çek git",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 13
+        },
+        {
+          "chord": "G#m",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

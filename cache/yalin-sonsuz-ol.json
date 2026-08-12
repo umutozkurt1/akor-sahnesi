@@ -1,0 +1,217 @@
+{
+  "slug": "yalin-sonsuz-ol",
+  "artist": "Yalın",
+  "title": "Sonsuz Ol",
+  "key": "A#",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Sen sözsüz bir şarkı gibi duruyorsun öyle",
+      "chords": [
+        {
+          "chord": "A#m",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 4
+        },
+        {
+          "chord": "A#m",
+          "col": 18
+        },
+        {
+          "chord": "F",
+          "col": 41
+        },
+        {
+          "chord": "D#m",
+          "col": 52
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ne söyledim de bana hala dargınsın",
+      "chords": [
+        {
+          "chord": "F#",
+          "col": 41
+        },
+        {
+          "chord": "F",
+          "col": 52
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ben gördüm hatamı, paylaştım seninle",
+      "chords": [
+        {
+          "chord": "A#m",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 5
+        },
+        {
+          "chord": "A#m",
+          "col": 19
+        },
+        {
+          "chord": "F",
+          "col": 37
+        },
+        {
+          "chord": "D#m",
+          "col": 48
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ne söyledim de bana hala kızgınsın",
+      "chords": [
+        {
+          "chord": "F#",
+          "col": 39
+        },
+        {
+          "chord": "F",
+          "col": 51
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dün sabah erken uyandım",
+      "chords": [
+        {
+          "chord": "D#m",
+          "col": 0
+        },
+        {
+          "chord": "G#",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gittim sana güller aldım",
+      "chords": [
+        {
+          "chord": "A#m",
+          "col": 1
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Mutlu ol diye mutlu ol diye",
+      "chords": [
+        {
+          "chord": "D#m",
+          "col": 11
+        },
+        {
+          "chord": "F",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bu sabah gittiğini anladım",
+      "chords": [
+        {
+          "chord": "D#m",
+          "col": 0
+        },
+        {
+          "chord": "G#",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ağladım sana şarkı yazdım",
+      "chords": [
+        {
+          "chord": "A#m",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sonsuz ol diye sonsuz ol diye",
+      "chords": [
+        {
+          "chord": "D#m",
+          "col": 15
+        },
+        {
+          "chord": "F",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Unutulsan mı, unutmasam mı",
+      "chords": [
+        {
+          "chord": "D#m",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 21
+        },
+        {
+          "chord": "A#m",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Saklansan da bir köşede benle yaşlansan mı",
+      "chords": [
+        {
+          "chord": "D#m",
+          "col": 27
+        },
+        {
+          "chord": "F",
+          "col": 43
+        },
+        {
+          "chord": "A#m",
+          "col": 58
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

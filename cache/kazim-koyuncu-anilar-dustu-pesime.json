@@ -1,0 +1,159 @@
+{
+  "slug": "kazim-koyuncu-anilar-dustu-pesime",
+  "artist": "Kazım Koyuncu",
+  "title": "Anılar Düştü Peşime",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Anılar düştü peşime uyumaz oldum",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 5
+        },
+        {
+          "chord": "F#m",
+          "col": 11
+        },
+        {
+          "chord": "A",
+          "col": 29
+        },
+        {
+          "chord": "Em",
+          "col": 34
+        },
+        {
+          "chord": "F#m",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Düşlerim vardı yamacına varamaz oldum",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 5
+        },
+        {
+          "chord": "F#m",
+          "col": 13
+        },
+        {
+          "chord": "A",
+          "col": 37
+        },
+        {
+          "chord": "Em",
+          "col": 43
+        },
+        {
+          "chord": "F#m",
+          "col": 50
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Rüzgarla yarışırken koşamaz oldum",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 35
+        },
+        {
+          "chord": "F#m",
+          "col": 49
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Düze çıkmaz yolları bilemez oldum",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 39
+        },
+        {
+          "chord": "F#m",
+          "col": 48
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Geçmiş günler düğüm düğüm çözemez oldum güzelim",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 24
+        },
+        {
+          "chord": "Em",
+          "col": 52
+        },
+        {
+          "chord": "F#m",
+          "col": 65
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sevda yüklü bulutlardan geçemez oldum be güzelim",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 19
+        },
+        {
+          "chord": "Em",
+          "col": 40
+        },
+        {
+          "chord": "F#m",
+          "col": 56
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

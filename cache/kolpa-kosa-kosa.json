@@ -1,0 +1,209 @@
+{
+  "slug": "kolpa-kosa-kosa",
+  "artist": "Kolpa",
+  "title": "Koşa Koşa",
+  "key": "D",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Mevsimler geçti, bulutlar gitti bahar geldi",
+      "chords": [
+        {
+          "chord": "A#m",
+          "col": 0
+        },
+        {
+          "chord": "G#",
+          "col": 12
+        },
+        {
+          "chord": "F#",
+          "col": 17
+        },
+        {
+          "chord": "A#m",
+          "col": 21
+        },
+        {
+          "chord": "G#",
+          "col": 32
+        },
+        {
+          "chord": "F#",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sen istedin ve bitti, bitti de ne oldu sanki",
+      "chords": [
+        {
+          "chord": "A#m",
+          "col": 0
+        },
+        {
+          "chord": "G#",
+          "col": 16
+        },
+        {
+          "chord": "F#",
+          "col": 21
+        },
+        {
+          "chord": "A#m",
+          "col": 26
+        },
+        {
+          "chord": "G#",
+          "col": 38
+        },
+        {
+          "chord": "F#",
+          "col": 43
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Nolur gitme diyeceğimi sandın",
+      "chords": [
+        {
+          "chord": "C#",
+          "col": 0
+        },
+        {
+          "chord": "G#",
+          "col": 3
+        },
+        {
+          "chord": "D#m",
+          "col": 10
+        },
+        {
+          "chord": "F#",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ağlayıp gecelerce biteceğimi sandın",
+      "chords": [
+        {
+          "chord": "C#",
+          "col": 0
+        },
+        {
+          "chord": "G#",
+          "col": 3
+        },
+        {
+          "chord": "D#m",
+          "col": 16
+        },
+        {
+          "chord": "F#",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Haberlerini alıyorum her gece",
+      "chords": [
+        {
+          "chord": "C#",
+          "col": 0
+        },
+        {
+          "chord": "G#",
+          "col": 10
+        },
+        {
+          "chord": "D#m",
+          "col": 18
+        },
+        {
+          "chord": "F#",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Beni soruyormuşsun herkese",
+      "chords": [
+        {
+          "chord": "C#",
+          "col": 0
+        },
+        {
+          "chord": "G#",
+          "col": 5
+        },
+        {
+          "chord": "D#m",
+          "col": 19
+        },
+        {
+          "chord": "F#",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Koşa koşa gelsen bile, yıldızları gökten indirsen de",
+      "chords": [
+        {
+          "chord": "C#",
+          "col": 0
+        },
+        {
+          "chord": "G#",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dikkat et sen kendine, iyi bak mutluyum böyle",
+      "chords": [
+        {
+          "chord": "A#m",
+          "col": 0
+        },
+        {
+          "chord": "G#",
+          "col": 36
+        },
+        {
+          "chord": "Fm",
+          "col": 46
+        },
+        {
+          "chord": "G#",
+          "col": 51
+        },
+        {
+          "chord": "A#m",
+          "col": 60
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

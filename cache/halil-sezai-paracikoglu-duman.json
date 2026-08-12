@@ -1,0 +1,164 @@
+{
+  "slug": "halil-sezai-paracikoglu-duman",
+  "artist": "Halil Sezai Paracıkoğlu",
+  "title": "Duman",
+  "key": "B",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Benim bu derdim",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ne yağan yağmurda",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ne yalancı sonbaharda",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ne bomboş sokaklarda…",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "sus            Bm",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kırılmış her yanım",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kaybolur zaman saçlarında",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 12
+        },
+        {
+          "chord": "D",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "                  sus",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gözlerim sokaklarda",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sebebi isyan aşkım…",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sus",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İçim yanar, içim kanar da",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İsyaaaaaan!",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 3
+        },
+        {
+          "chord": "D",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Geriye bir avuç yalaaaan",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Beni bu derde sen attın da, gittin ya kafam hep duman…",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 11
+        },
+        {
+          "chord": "D",
+          "col": 24
+        },
+        {
+          "chord": "Em",
+          "col": 50
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

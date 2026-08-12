@@ -1,0 +1,181 @@
+{
+  "slug": "kargo-renklerin-icinde",
+  "artist": "Kargo",
+  "title": "Renklerin İçinde",
+  "key": "D",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "İfadende kararsızsın          ışıkların altında",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 30
+        },
+        {
+          "chord": "Am",
+          "col": 33
+        },
+        {
+          "chord": "G",
+          "col": 59
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Seni tutan bir şeyler var     korkuların yanında",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 33
+        },
+        {
+          "chord": "Am",
+          "col": 36
+        },
+        {
+          "chord": "G",
+          "col": 64
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Renklerin içinde     düşlerin içinde",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 23
+        },
+        {
+          "chord": "G",
+          "col": 28
+        },
+        {
+          "chord": "C",
+          "col": 50
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Doğmak sessizce",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Renklerin içinde     cennetin içinde",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 22
+        },
+        {
+          "chord": "G",
+          "col": 28
+        },
+        {
+          "chord": "Dm",
+          "col": 48
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ölmek sessizce",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Anlaşılmaz bir yanın var      öldürmeye hevesli",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 34
+        },
+        {
+          "chord": "Am",
+          "col": 38
+        },
+        {
+          "chord": "G",
+          "col": 70
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kupkuru çiçek gibisin        biraz suya özlemli",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 30
+        },
+        {
+          "chord": "Am",
+          "col": 34
+        },
+        {
+          "chord": "G",
+          "col": 66
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

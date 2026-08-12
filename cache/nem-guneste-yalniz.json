@@ -1,0 +1,380 @@
+{
+  "slug": "nem-guneste-yalniz",
+  "artist": "Nem",
+  "title": "Güneşte Yalnız",
+  "key": "C#",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 7
+        },
+        {
+          "chord": "D#m",
+          "col": 10
+        },
+        {
+          "chord": "G#m",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "buz gibiyim",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "G#m",
+          "col": 6
+        },
+        {
+          "chord": "A",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "soluyorum, ellerindeyim",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 4
+        },
+        {
+          "chord": "G#m",
+          "col": 12
+        },
+        {
+          "chord": "A",
+          "col": 18
+        },
+        {
+          "chord": "G#m",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "yağmurunu duyuyorum düşlerimde",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "G#m",
+          "col": 6
+        },
+        {
+          "chord": "A",
+          "col": 11
+        },
+        {
+          "chord": "C#m",
+          "col": 16
+        },
+        {
+          "chord": "G#m",
+          "col": 26
+        },
+        {
+          "chord": "A",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İNTRO",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "yüzüyoruz",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "G#m",
+          "col": 4
+        },
+        {
+          "chord": "A",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "düşlerimde hep seninle",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 3
+        },
+        {
+          "chord": "G#m",
+          "col": 11
+        },
+        {
+          "chord": "A",
+          "col": 20
+        },
+        {
+          "chord": "G#m",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "düşüyoruz",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "G#m",
+          "col": 5
+        },
+        {
+          "chord": "A",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "yükselirken aynı yere",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 4
+        },
+        {
+          "chord": "G#m",
+          "col": 13
+        },
+        {
+          "chord": "A",
+          "col": 20
+        },
+        {
+          "chord": "G#m",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "sözler ıssız günler ıssız",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "D#m",
+          "col": 4
+        },
+        {
+          "chord": "G#m",
+          "col": 10
+        },
+        {
+          "chord": "Bm",
+          "col": 15
+        },
+        {
+          "chord": "D#m",
+          "col": 20
+        },
+        {
+          "chord": "G#m",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "duruyorum güneşte yapayalnız",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "D#m",
+          "col": 4
+        },
+        {
+          "chord": "G#m",
+          "col": 9
+        },
+        {
+          "chord": "Bm",
+          "col": 15
+        },
+        {
+          "chord": "D#m",
+          "col": 22
+        },
+        {
+          "chord": "G#m",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "güneşte yalnız",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "D#m",
+          "col": 5
+        },
+        {
+          "chord": "G#m",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "uçamadım, kanatlarım uzak bir düş",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 3
+        },
+        {
+          "chord": "D#",
+          "col": 7
+        },
+        {
+          "chord": "A",
+          "col": 18
+        },
+        {
+          "chord": "B",
+          "col": 23
+        },
+        {
+          "chord": "F#",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "kaçamadım düşlerimde yapayalnız",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "G#m",
+          "col": 5
+        },
+        {
+          "chord": "A",
+          "col": 10
+        },
+        {
+          "chord": "C#m",
+          "col": 17
+        },
+        {
+          "chord": "G#m",
+          "col": 26
+        },
+        {
+          "chord": "A",
+          "col": 34
+        },
+        {
+          "chord": "G#m",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "güneşte yapayalnız",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "D#m",
+          "col": 10
+        },
+        {
+          "chord": "G#m",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "güneşte yalnız",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "D#m",
+          "col": 4
+        },
+        {
+          "chord": "G#m",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

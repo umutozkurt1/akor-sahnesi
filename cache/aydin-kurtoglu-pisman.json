@@ -1,0 +1,238 @@
+{
+  "slug": "aydin-kurtoglu-pisman",
+  "artist": "Aydın Kurtoğlu",
+  "title": "Pişman",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Geldi sonbahar",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Senden yine yok bir haber",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hep bir yanım eksik",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Uyutmuyor sensiz akşamlar",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 1
+        },
+        {
+          "chord": "Am",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kayıp bir şehir yalnızlığın mateminde",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yar gözlerim aklıma sen düştüğünde",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 15
+        },
+        {
+          "chord": "G",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sevda bazen kanatır",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 2
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kanatsın bırak aşktandır",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 4
+        },
+        {
+          "chord": "G",
+          "col": 12
+        },
+        {
+          "chord": "Am",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sen yeni bir güne uyan",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 9
+        },
+        {
+          "chord": "G",
+          "col": 14
+        },
+        {
+          "chord": "Am",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ben yine her güne pişman",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 9
+        },
+        {
+          "chord": "Em",
+          "col": 14
+        },
+        {
+          "chord": "Am",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Unutamadım kahretsin",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 7
+        },
+        {
+          "chord": "G",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İçim yana yana",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 1
+        },
+        {
+          "chord": "Am",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ben yine her güne pişman",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 7
+        },
+        {
+          "chord": "Em",
+          "col": 14
+        },
+        {
+          "chord": "Am",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 4
+        },
+        {
+          "chord": "Em",
+          "col": 8
+        },
+        {
+          "chord": "Am",
+          "col": 12
+        },
+        {
+          "chord": "Dm",
+          "col": 16
+        },
+        {
+          "chord": "Em",
+          "col": 21
+        },
+        {
+          "chord": "Am",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

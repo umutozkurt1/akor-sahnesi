@@ -1,0 +1,728 @@
+{
+  "slug": "fleetwood-mac-dreams",
+  "artist": "Fleetwood Mac",
+  "title": "Dreams",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Intro",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 6
+        },
+        {
+          "chord": "F",
+          "col": 13
+        },
+        {
+          "chord": "G",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Now here you go again",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You say you want your freedom",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 44
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Well who am I to keep you down?",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "It's only right that you should play the way you feel it",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 21
+        },
+        {
+          "chord": "F",
+          "col": 46
+        },
+        {
+          "chord": "G",
+          "col": 61
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But listen carefully to the sound",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 7
+        },
+        {
+          "chord": "G",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Of your loneliness, like a heartbeat drives you mad",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 19
+        },
+        {
+          "chord": "F",
+          "col": 38
+        },
+        {
+          "chord": "G",
+          "col": 61
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "In the stillness of remembering what you had",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 16
+        },
+        {
+          "chord": "G",
+          "col": 38
+        },
+        {
+          "chord": "F",
+          "col": 61
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And what you lost",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And what you had",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And what you lost",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Oh  thunder only happens when it's raining",
+      "chords": [
+        {
+          "chord": "Fmaj7",
+          "col": 4
+        },
+        {
+          "chord": "G6",
+          "col": 24
+        },
+        {
+          "chord": "Fmaj7",
+          "col": 50
+        },
+        {
+          "chord": "G",
+          "col": 65
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Players only love you when they're playing",
+      "chords": [
+        {
+          "chord": "Fmaj7",
+          "col": 0
+        },
+        {
+          "chord": "G6",
+          "col": 19
+        },
+        {
+          "chord": "Fmaj7",
+          "col": 50
+        },
+        {
+          "chord": "G",
+          "col": 65
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Say, women, they will come and they will go",
+      "chords": [
+        {
+          "chord": "Fmaj7",
+          "col": 7
+        },
+        {
+          "chord": "G6",
+          "col": 26
+        },
+        {
+          "chord": "Fmaj7",
+          "col": 50
+        },
+        {
+          "chord": "G",
+          "col": 65
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "When the rain washes you clean you'll know",
+      "chords": [
+        {
+          "chord": "Fmaj7",
+          "col": 0
+        },
+        {
+          "chord": "G6",
+          "col": 18
+        },
+        {
+          "chord": "Fmaj7",
+          "col": 50
+        },
+        {
+          "chord": "G",
+          "col": 65
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You'll know",
+      "chords": [
+        {
+          "chord": "Fmaj7",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Now here I go again",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I see you crystal visions",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I keep my visions to myself",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 15
+        },
+        {
+          "chord": "F",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "It's only me who wants to wrap around you dreams and,",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 12
+        },
+        {
+          "chord": "F",
+          "col": 29
+        },
+        {
+          "chord": "G",
+          "col": 47
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Have you any dreams you'd like to sell",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 7
+        },
+        {
+          "chord": "G",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dreams of loneliness like a heartbeat drives you mad",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 19
+        },
+        {
+          "chord": "F",
+          "col": 38
+        },
+        {
+          "chord": "G",
+          "col": 61
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "In the stillness of remembering what you had",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 15
+        },
+        {
+          "chord": "G",
+          "col": 30
+        },
+        {
+          "chord": "F",
+          "col": 51
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And what you lost",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And what you had",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ooh and what you lost",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Oh  thunder only happens when it's raining",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "Fmaj7",
+          "col": 5
+        },
+        {
+          "chord": "G6",
+          "col": 21
+        },
+        {
+          "chord": "Fmaj7",
+          "col": 48
+        },
+        {
+          "chord": "G",
+          "col": 63
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Players only love you when they're playing",
+      "chords": [
+        {
+          "chord": "Fmaj7",
+          "col": 0
+        },
+        {
+          "chord": "G6",
+          "col": 18
+        },
+        {
+          "chord": "Fmaj7",
+          "col": 48
+        },
+        {
+          "chord": "G",
+          "col": 63
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Say, women, they will come and they will go",
+      "chords": [
+        {
+          "chord": "Fmaj7",
+          "col": 5
+        },
+        {
+          "chord": "G6",
+          "col": 25
+        },
+        {
+          "chord": "Fmaj7",
+          "col": 48
+        },
+        {
+          "chord": "G",
+          "col": 63
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "When the rain washes you clean you'll know",
+      "chords": [
+        {
+          "chord": "Fmaj7",
+          "col": 0
+        },
+        {
+          "chord": "G6",
+          "col": 21
+        },
+        {
+          "chord": "Fmaj7",
+          "col": 48
+        },
+        {
+          "chord": "G",
+          "col": 63
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You'll know",
+      "chords": [
+        {
+          "chord": "Fmaj7",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Oh  thunder only happens when it's raining",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "Fmaj7",
+          "col": 5
+        },
+        {
+          "chord": "G6",
+          "col": 22
+        },
+        {
+          "chord": "Fmaj7",
+          "col": 48
+        },
+        {
+          "chord": "G",
+          "col": 63
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Players only love you when they're playing",
+      "chords": [
+        {
+          "chord": "Fmaj7",
+          "col": 0
+        },
+        {
+          "chord": "G6",
+          "col": 18
+        },
+        {
+          "chord": "Fmaj7",
+          "col": 48
+        },
+        {
+          "chord": "G",
+          "col": 63
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Say, women, they will come and they will go",
+      "chords": [
+        {
+          "chord": "Fmaj7",
+          "col": 5
+        },
+        {
+          "chord": "G6",
+          "col": 25
+        },
+        {
+          "chord": "Fmaj7",
+          "col": 48
+        },
+        {
+          "chord": "G",
+          "col": 63
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "When the rain washes you clean you'll know",
+      "chords": [
+        {
+          "chord": "Fmaj7",
+          "col": 0
+        },
+        {
+          "chord": "G6",
+          "col": 22
+        },
+        {
+          "chord": "Fmaj7",
+          "col": 48
+        },
+        {
+          "chord": "G",
+          "col": 63
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You'll know",
+      "chords": [
+        {
+          "chord": "Fmaj7",
+          "col": 7
+        },
+        {
+          "chord": "G",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You'll know",
+      "chords": [
+        {
+          "chord": "Fmaj7",
+          "col": 7
+        },
+        {
+          "chord": "G",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You will know",
+      "chords": [],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

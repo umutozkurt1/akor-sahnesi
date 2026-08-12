@@ -1,0 +1,178 @@
+{
+  "slug": "bilal-sonses-yanarim",
+  "artist": "Bilal Sonses",
+  "title": "Yanarım",
+  "key": "B",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Göğsümde uyumadın hiç, çok istedim ama çok gördün",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 8
+        },
+        {
+          "chord": "F#m",
+          "col": 31
+        },
+        {
+          "chord": "G",
+          "col": 48
+        },
+        {
+          "chord": "Em",
+          "col": 63
+        },
+        {
+          "chord": "F#m",
+          "col": 74
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kalbimde durmadın hiç, hep izledim ama çok kördüm",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 11
+        },
+        {
+          "chord": "F#m",
+          "col": 31
+        },
+        {
+          "chord": "G",
+          "col": 48
+        },
+        {
+          "chord": "Em",
+          "col": 63
+        },
+        {
+          "chord": "F#m",
+          "col": 74
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Nankördün aldın vebalimi, yaşattın acının her halini",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 34
+        },
+        {
+          "chord": "A",
+          "col": 47
+        },
+        {
+          "chord": "Em",
+          "col": 72
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Çok gömdüm seni seven şu kalbimi, artık görmüyorum hayalini",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 17
+        },
+        {
+          "chord": "Em",
+          "col": 55
+        },
+        {
+          "chord": "A",
+          "col": 71
+        },
+        {
+          "chord": "G",
+          "col": 81
+        },
+        {
+          "chord": "F#m",
+          "col": 93
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yanarım, kor ateşler üstüme gelir ama",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 26
+        },
+        {
+          "chord": "A",
+          "col": 58
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kanarım, sen söyle bir yalan daha bana",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 26
+        },
+        {
+          "chord": "Bm",
+          "col": 38
+        },
+        {
+          "chord": "Em",
+          "col": 53
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Anarım, adını her özlediğimde ama, bittiyse zorlamam",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 16
+        },
+        {
+          "chord": "A",
+          "col": 55
+        },
+        {
+          "chord": "G",
+          "col": 67
+        },
+        {
+          "chord": "F#m",
+          "col": 78
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

@@ -1,0 +1,106 @@
+{
+  "slug": "ozan-dogulu-ft-hera-yanar",
+  "artist": "Ozan Doğulu Ft. Hera",
+  "title": "Yanar",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Söylene söylene ah çeker yürek",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Her günün akşamında hasretin nüksederek",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yürüyorum dalgalara",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Vuruyorum duvarlara",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yanar şu canım yanar",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 2
+        },
+        {
+          "chord": "Cm",
+          "col": 14
+        },
+        {
+          "chord": "Gm",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Şu içim kanar da",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yine sen diye sen diye sayıklar",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

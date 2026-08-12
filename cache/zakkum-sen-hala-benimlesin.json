@@ -1,0 +1,137 @@
+{
+  "slug": "zakkum-sen-hala-benimlesin",
+  "artist": "Zakkum",
+  "title": "Sen Hala Benimlesin",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Bilmezler ki içimdesin, hiç kimse kokunu silemez",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Göğsümde ta derinde, sakladığım yerini bilemez",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 30
+        },
+        {
+          "chord": "Fm",
+          "col": 38
+        },
+        {
+          "chord": "Cm",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sen hala gözümü alan güneş, üşüyüp yaktığım ateş",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Saatler sende durmuş gibi benimlesin",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sen hala, kanatları yorulmuş",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Diğerlerinden ayrılmış, göç etmeyen bir kuş gibi, benimlesin",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 25
+        },
+        {
+          "chord": "Cm",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bilmezler ki içimdesin, hiç kimse ismini silemez",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 5
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hiç bir dost, hiç bir şarkı, yokluğuna ikna edemez",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 4
+        },
+        {
+          "chord": "Fm",
+          "col": 12
+        },
+        {
+          "chord": "Cm",
+          "col": 41
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

@@ -1,0 +1,160 @@
+{
+  "slug": "derya-bana-birak",
+  "artist": "Derya",
+  "title": "Bana Bırak",
+  "key": "D",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Bana bırak sevdayı giderken sadece",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bana bırak acısını hallederim içimde",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "sınız",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ben senden önce de yaşıyordum senden sonra da yaşarım",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hiç düşünme tüm dünyayı tek başıma savaşırım",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 33
+        },
+        {
+          "chord": "Dm",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gm                        D                x 2",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ben zaten hep savaşıyorum senden sonra da savaşırım",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hiç düşünme hayatımı elbet bir gün uzlaşırım",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 23
+        },
+        {
+          "chord": "Dm",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bana bırak söndürürüm içimdeki yangınımı",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 16
+        },
+        {
+          "chord": "D#",
+          "col": 27
+        },
+        {
+          "chord": "F",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bana bırak ben hallederim aşkımın acısını",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 22
+        },
+        {
+          "chord": "D#",
+          "col": 31
+        },
+        {
+          "chord": "Dm",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

@@ -1,0 +1,541 @@
+{
+  "slug": "radiohead-nice-dream",
+  "artist": "Radiohead",
+  "title": "Nice Dream",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Cmaj7",
+          "col": 0
+        },
+        {
+          "chord": "Badd11",
+          "col": 6
+        },
+        {
+          "chord": "Aadd9",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Cmaj7",
+          "col": 0
+        },
+        {
+          "chord": "Badd11",
+          "col": 6
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 1
+        },
+        {
+          "chord": "Esus4/A",
+          "col": 3
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "       They love me like I was a brother",
+      "chords": [
+        {
+          "chord": "Esus4/A",
+          "col": 1
+        },
+        {
+          "chord": "A",
+          "col": 13
+        },
+        {
+          "chord": "D",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "They protect me, listen to   me",
+      "chords": [
+        {
+          "chord": "Esus4",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " They dug me my very own garden",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 6
+        },
+        {
+          "chord": "D",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gave me sunshine, made me happy",
+      "chords": [
+        {
+          "chord": "Esus4",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Nice dream, nice dream, nice dream",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 1
+        },
+        {
+          "chord": "Bm11",
+          "col": 7
+        },
+        {
+          "chord": "E7",
+          "col": 19
+        },
+        {
+          "chord": "Aadd9",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "                 I call up my friend, the good angel",
+      "chords": [
+        {
+          "chord": "B11/A",
+          "col": 1
+        },
+        {
+          "chord": "Aadd9",
+          "col": 7
+        },
+        {
+          "chord": "B11/A",
+          "col": 13
+        },
+        {
+          "chord": "A",
+          "col": 20
+        },
+        {
+          "chord": "D",
+          "col": 48
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But she's out with her answerphone",
+      "chords": [
+        {
+          "chord": "Esus4",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " She says that she'd love to come help but",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 5
+        },
+        {
+          "chord": "D",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "The sea would electrocute us all",
+      "chords": [
+        {
+          "chord": "Esus4",
+          "col": 15
+        },
+        {
+          "chord": "E",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Nice dream",
+      "chords": [
+        {
+          "chord": "Bm11",
+          "col": 5
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Nice dream",
+      "chords": [
+        {
+          "chord": "E7",
+          "col": 6
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Nice dream",
+      "chords": [
+        {
+          "chord": "Aadd9",
+          "col": 5
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Nice dream",
+      "chords": [
+        {
+          "chord": "B11/F#",
+          "col": 5
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Nice dream",
+      "chords": [
+        {
+          "chord": "Bm11",
+          "col": 5
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Nice dream",
+      "chords": [
+        {
+          "chord": "E7",
+          "col": 5
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Nice dream",
+      "chords": [
+        {
+          "chord": "Aadd9",
+          "col": 5
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "If you think that you're strong enough",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Nice dream",
+      "chords": [
+        {
+          "chord": "B11/F#",
+          "col": 5
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "If you think you belong enough)",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Nice dream",
+      "chords": [
+        {
+          "chord": "Bm11",
+          "col": 5
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "If you think that you're strong enough",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "     Dm6/9",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Nice dream",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "If you think you belong enough",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Asus2",
+          "col": 1
+        },
+        {
+          "chord": "Asus2/B",
+          "col": 7
+        },
+        {
+          "chord": "Asus2/C",
+          "col": 15
+        },
+        {
+          "chord": "E7sus4/D",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Asus2",
+          "col": 0
+        },
+        {
+          "chord": "Asus2/B",
+          "col": 6
+        },
+        {
+          "chord": "Asus2/C",
+          "col": 14
+        },
+        {
+          "chord": "E7sus4/D",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Asus2",
+          "col": 0
+        },
+        {
+          "chord": "Asus2/B",
+          "col": 6
+        },
+        {
+          "chord": "Asus2/C",
+          "col": 14
+        },
+        {
+          "chord": "E7sus4/D",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Asus2",
+          "col": 0
+        },
+        {
+          "chord": "Asus2/B",
+          "col": 6
+        },
+        {
+          "chord": "Asus2/C",
+          "col": 14
+        },
+        {
+          "chord": "Dsus2",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Bm11",
+          "col": 1
+        },
+        {
+          "chord": "E7",
+          "col": 6
+        },
+        {
+          "chord": "Aadd9",
+          "col": 9
+        },
+        {
+          "chord": "B11/F#",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Bm11",
+          "col": 0
+        },
+        {
+          "chord": "E7",
+          "col": 5
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Nice dream",
+      "chords": [
+        {
+          "chord": "Aadd9",
+          "col": 5
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Nice dream",
+      "chords": [
+        {
+          "chord": "B11/F#",
+          "col": 6
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Nice dream",
+      "chords": [
+        {
+          "chord": "Bm11",
+          "col": 5
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Nice dream",
+      "chords": [
+        {
+          "chord": "E7sus4/A#",
+          "col": 5
+        },
+        {
+          "chord": "Aadd9",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

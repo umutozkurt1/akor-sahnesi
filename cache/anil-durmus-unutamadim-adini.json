@@ -1,0 +1,117 @@
+{
+  "slug": "anil-durmus-unutamadim-adini",
+  "artist": "Anıl Durmuş",
+  "title": "Unutamadım Adını",
+  "key": "F#",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Çok bekledim ama senin suçun yok",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sormadım ona buna unutamadım adını",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 65
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bulamadım çare yüreğim pare pare",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sonumu bilmiyorum",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Aşkından da kaçamadım",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Savaştım başaramadım",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yiteceksen gideceksen",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Niye girdin gönlüme be kadın",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 26
+        },
+        {
+          "chord": "Em",
+          "col": 32
+        },
+        {
+          "chord": "F#m",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

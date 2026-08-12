@@ -1,0 +1,130 @@
+{
+  "slug": "aska-ozlem-al-yemeni-mor-yemeni",
+  "artist": "Aşka Özlem",
+  "title": "Al Yemeni Mor Yemeni",
+  "key": "G#",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Al yemeni mor yemeni",
+      "chords": [
+        {
+          "chord": "G#m",
+          "col": 0
+        },
+        {
+          "chord": "C#m",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yemenesi sarı",
+      "chords": [
+        {
+          "chord": "G#m",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 12
+        },
+        {
+          "chord": "C#",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ah nede edalı",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kıbrısın kızları",
+      "chords": [
+        {
+          "chord": "G#m",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Elleri kınalı yar yar aman",
+      "chords": [
+        {
+          "chord": "C#m6",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 13
+        },
+        {
+          "chord": "C#",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "El ele döner buğdayı döver",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 1
+        },
+        {
+          "chord": "C#m",
+          "col": 26
+        },
+        {
+          "chord": "G#m",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Nazlıca döner köy kızları",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "G#m",
+          "col": 16
+        },
+        {
+          "chord": "B",
+          "col": 22
+        },
+        {
+          "chord": "C#",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

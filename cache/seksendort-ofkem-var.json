@@ -1,0 +1,173 @@
+{
+  "slug": "seksendort-ofkem-var",
+  "artist": "Seksendört",
+  "title": "Öfkem var",
+  "key": "F#",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "İstanbul’dan çıktım yola",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bulamadım bir başıma, neredesin al yanına",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yani ben, dolanıyorum boşa",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bulamadım bir başıma, neredesin al yanına",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bizim senle, üzülsem de",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Aşkımız bitmiş mi, iş işten geçmiş mi",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Cevabı bulamıyorum, yine aynı durum",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 16
+        },
+        {
+          "chord": "Bm",
+          "col": 46
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ayakta duramıyorum, ben sensiz olamıyorum",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Öfkem var, sana çok öfkem var",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Başlar var ne acı sonlar var",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gidiyorum aşkından, bize bu yarar",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 21
+        },
+        {
+          "chord": "C#m",
+          "col": 48
+        },
+        {
+          "chord": "Bm7",
+          "col": 52
+        },
+        {
+          "chord": "C#m",
+          "col": 57
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "(Ölüyorum aşkından, bu neye yarar)",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 21
+        },
+        {
+          "chord": "C#m",
+          "col": 48
+        },
+        {
+          "chord": "Bm7",
+          "col": 52
+        },
+        {
+          "chord": "C#m",
+          "col": 57
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

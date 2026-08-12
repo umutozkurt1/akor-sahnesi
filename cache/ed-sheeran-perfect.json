@@ -1,0 +1,616 @@
+{
+  "slug": "ed-sheeran-perfect",
+  "artist": "Ed Sheeran",
+  "title": "Perfect",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Intro",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I found a love for me",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 18
+        },
+        {
+          "chord": "F#m",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Darling just dive right in, and follow my lead",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 22
+        },
+        {
+          "chord": "E",
+          "col": 69
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Well I found a girl beautiful and sweet",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 26
+        },
+        {
+          "chord": "F#m",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I never knew you were the someone waiting for me",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 14
+        },
+        {
+          "chord": "E",
+          "col": 86
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Cause we were just kids when we fell in love",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 61
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Not knowing what it was, I will not give you up this ti-ime",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 23
+        },
+        {
+          "chord": "D",
+          "col": 57
+        },
+        {
+          "chord": "A",
+          "col": 84
+        },
+        {
+          "chord": "E",
+          "col": 87
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But darling just kiss me slow, your heart is all I own",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 32
+        },
+        {
+          "chord": "F#m",
+          "col": 73
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And in your eyes you're holding mine",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 22
+        },
+        {
+          "chord": "E",
+          "col": 56
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Baby, I'm dancing in the dark, with you between my arms",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 9
+        },
+        {
+          "chord": "D",
+          "col": 14
+        },
+        {
+          "chord": "A",
+          "col": 38
+        },
+        {
+          "chord": "E",
+          "col": 55
+        },
+        {
+          "chord": "F#m",
+          "col": 84
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Barefoot on the grass, listening to our favorite song",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 28
+        },
+        {
+          "chord": "E",
+          "col": 38
+        },
+        {
+          "chord": "F#m",
+          "col": 64
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "When you said you looked a mess, I whispered underneath my breath",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 19
+        },
+        {
+          "chord": "A",
+          "col": 49
+        },
+        {
+          "chord": "E",
+          "col": 81
+        },
+        {
+          "chord": "F#m",
+          "col": 109
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But you heard it, darling you look perfect tonight",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 16
+        },
+        {
+          "chord": "A",
+          "col": 43
+        },
+        {
+          "chord": "E",
+          "col": 57
+        },
+        {
+          "chord": "A",
+          "col": 80
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 2
+        },
+        {
+          "chord": "Em",
+          "col": 4
+        },
+        {
+          "chord": "D",
+          "col": 7
+        },
+        {
+          "chord": "C",
+          "col": 9
+        },
+        {
+          "chord": "D",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Well I found a woman, stronger than anyone I know",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 25
+        },
+        {
+          "chord": "F#m",
+          "col": 65
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "She shares my dreams, I hope that someday I'll share her home",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 32
+        },
+        {
+          "chord": "E",
+          "col": 102
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I found a love, to carry more than just my secrets",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 18
+        },
+        {
+          "chord": "F#m",
+          "col": 41
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "To carry love, to carry children of our own",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 16
+        },
+        {
+          "chord": "E",
+          "col": 66
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "We are still kids, but we're so in love, fighting against all odds",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 48
+        },
+        {
+          "chord": "F#m",
+          "col": 84
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I know that we'll be alright this ti-ime",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 31
+        },
+        {
+          "chord": "A",
+          "col": 54
+        },
+        {
+          "chord": "E",
+          "col": 59
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Darling just hold my hand, be my girl, I'll be your man",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 27
+        },
+        {
+          "chord": "F#m",
+          "col": 69
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I see my future in your eyes",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 16
+        },
+        {
+          "chord": "E",
+          "col": 44
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Baby, I'm dancing in the dark, with you between my arms",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 9
+        },
+        {
+          "chord": "D",
+          "col": 14
+        },
+        {
+          "chord": "A",
+          "col": 41
+        },
+        {
+          "chord": "E",
+          "col": 54
+        },
+        {
+          "chord": "F#m",
+          "col": 84
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Barefoot on the grass, listening to our favorite song",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 29
+        },
+        {
+          "chord": "E",
+          "col": 38
+        },
+        {
+          "chord": "F#m",
+          "col": 64
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "When I saw you in that dress, looking so beautiful",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 14
+        },
+        {
+          "chord": "A",
+          "col": 40
+        },
+        {
+          "chord": "E",
+          "col": 73
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I don't deserve this, darling you look perfect tonight",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 2
+        },
+        {
+          "chord": "C",
+          "col": 15
+        },
+        {
+          "chord": "G",
+          "col": 45
+        },
+        {
+          "chord": "D",
+          "col": 60
+        },
+        {
+          "chord": "G",
+          "col": 81
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Baby, I'm dancing in the dark, with you between my arms",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 9
+        },
+        {
+          "chord": "D",
+          "col": 14
+        },
+        {
+          "chord": "A",
+          "col": 37
+        },
+        {
+          "chord": "E",
+          "col": 55
+        },
+        {
+          "chord": "F#m",
+          "col": 86
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Barefoot on the grass, listening to our favorite song",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 28
+        },
+        {
+          "chord": "E",
+          "col": 37
+        },
+        {
+          "chord": "F#m",
+          "col": 65
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I have faith in what I see, now I know I have met an angel",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 12
+        },
+        {
+          "chord": "A",
+          "col": 37
+        },
+        {
+          "chord": "E",
+          "col": 64
+        },
+        {
+          "chord": "F#m",
+          "col": 87
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "In person, and she looks perfect",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 5
+        },
+        {
+          "chord": "A",
+          "col": 25
+        },
+        {
+          "chord": "E",
+          "col": 41
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I don't deserve this, you look perfect tonight",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 3
+        },
+        {
+          "chord": "C",
+          "col": 14
+        },
+        {
+          "chord": "D",
+          "col": 33
+        },
+        {
+          "chord": "G",
+          "col": 65
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

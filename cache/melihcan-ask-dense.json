@@ -1,0 +1,213 @@
+{
+  "slug": "melihcan-ask-dense",
+  "artist": "MelihCan",
+  "title": "Aşk Dense",
+  "key": "B",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "İnsan bazen ağlamaz mı",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bakıp bakıp kendine",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "G#m",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yaşamak varken seni değer mi",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bu kadar üzülmeye",
+      "chords": [
+        {
+          "chord": "G#m",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 13
+        },
+        {
+          "chord": "E",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kim dokunsa yüzüme",
+      "chords": [
+        {
+          "chord": "G#m",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 10
+        },
+        {
+          "chord": "G#m",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Seni görür gözlerim de",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 12
+        },
+        {
+          "chord": "G#m",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kim dokunsa geceme",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 17
+        },
+        {
+          "chord": "G#m",
+          "col": 29
+        },
+        {
+          "chord": "F#m",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Seni bulur sesimde",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 4
+        },
+        {
+          "chord": "F#m",
+          "col": 12
+        },
+        {
+          "chord": "G#m",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kimseyi koymadım yerine",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "G#m",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir sen varsın yangın yeri gönlümde",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 5
+        },
+        {
+          "chord": "F#m",
+          "col": 19
+        },
+        {
+          "chord": "G#m",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Aklıma ilk gelen sen olacaksın",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ne zaman bir yerler de aşk dense",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 16
+        },
+        {
+          "chord": "G#m",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

@@ -1,0 +1,164 @@
+{
+  "slug": "fikret-kizilok-oysa-ben",
+  "artist": "Fikret Kızılok",
+  "title": "Oysa Ben",
+  "key": "F",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Gidiyordum yelkenimin rüzgarında",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 18
+        },
+        {
+          "chord": "Db",
+          "col": 35
+        },
+        {
+          "chord": "C",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Mavi bir gök pamuk gibi bulutlarda",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 16
+        },
+        {
+          "chord": "D#",
+          "col": 35
+        },
+        {
+          "chord": "Db",
+          "col": 52
+        },
+        {
+          "chord": "C",
+          "col": 55
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dudaklarım dalgaların tuzunu tadıyordu",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 15
+        },
+        {
+          "chord": "D#",
+          "col": 32
+        },
+        {
+          "chord": "Db",
+          "col": 43
+        },
+        {
+          "chord": "C",
+          "col": 59
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ve güneş tatlı tatlı tenimi yakıyordu",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 10
+        },
+        {
+          "chord": "D#",
+          "col": 26
+        },
+        {
+          "chord": "Db",
+          "col": 34
+        },
+        {
+          "chord": "C",
+          "col": 50
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Oysa ben yaşanmamış sevdalarda",
+      "chords": [
+        {
+          "chord": "A#m",
+          "col": 9
+        },
+        {
+          "chord": "D#",
+          "col": 30
+        },
+        {
+          "chord": "G#",
+          "col": 43
+        },
+        {
+          "chord": "Fm",
+          "col": 49
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yarım kalmış duygularda",
+      "chords": [
+        {
+          "chord": "A#m",
+          "col": 16
+        },
+        {
+          "chord": "D#",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ve çığ tutmuş umutlarda",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 17
+        },
+        {
+          "chord": "Fm",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Tekrar",
+      "chords": [],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

@@ -1,0 +1,571 @@
+{
+  "slug": "u2-kite",
+  "artist": "U2",
+  "title": "Kite",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Something is about to give, I can feel it coming",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 1
+        },
+        {
+          "chord": "D",
+          "col": 12
+        },
+        {
+          "chord": "A",
+          "col": 23
+        },
+        {
+          "chord": "D",
+          "col": 36
+        },
+        {
+          "chord": "A",
+          "col": 43
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I think I know what it is.",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 12
+        },
+        {
+          "chord": "A",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'm not afraid to die, I'm not afraid to live",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 11
+        },
+        {
+          "chord": "A",
+          "col": 19
+        },
+        {
+          "chord": "D",
+          "col": 34
+        },
+        {
+          "chord": "A",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And when I'm flat on my back, I hope to feel like I did.",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 6
+        },
+        {
+          "chord": "A",
+          "col": 15
+        },
+        {
+          "chord": "D",
+          "col": 42
+        },
+        {
+          "chord": "A",
+          "col": 53
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And hardness, it sets in, you need some protection",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 5
+        },
+        {
+          "chord": "F#m",
+          "col": 44
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "The thinner the skin.",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  I want you to know, that you don't need me anymore",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 18
+        },
+        {
+          "chord": "F#m",
+          "col": 28
+        },
+        {
+          "chord": "D",
+          "col": 49
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  I want you to know, you don't need anyone, or anything at all.",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 18
+        },
+        {
+          "chord": "F#m",
+          "col": 40
+        },
+        {
+          "chord": "D",
+          "col": 60
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Who's to say where the wind will take you",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Who's to say what it is will break you",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Well, I don't know, which way the wind will blow.",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Who's to know when the time is come around",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Don't want to see your cry, I know that this is not goodbye.",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 7
+        },
+        {
+          "chord": "A",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "In the summer I can taste the salt of the sea",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 8
+        },
+        {
+          "chord": "D",
+          "col": 43
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "There's a kite blowing out of control on the breeze",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 11
+        },
+        {
+          "chord": "D",
+          "col": 47
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I wonder what's gonna happen to you",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 3
+        },
+        {
+          "chord": "D",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You wonder what has happened to me.",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 5
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 6
+        },
+        {
+          "chord": "D",
+          "col": 9
+        },
+        {
+          "chord": "F#m",
+          "col": 12
+        },
+        {
+          "chord": "D",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'm a man,     I'm not a child.",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 7
+        },
+        {
+          "chord": "E",
+          "col": 12
+        },
+        {
+          "chord": "D",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'm a man, who sees the shadow behind your eyes",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 7
+        },
+        {
+          "chord": "E",
+          "col": 17
+        },
+        {
+          "chord": "D",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Who's to say where the wind will take you",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Who's to say what it is will break you",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I don't know, where the wind will blow.",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Who's to know when the time has come around",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Don't want to see your cry, I know that this is not goodbye.",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Break: A A X2",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Did I waste it?",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 7
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Not so much i couldn't taste it",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 8
+        },
+        {
+          "chord": "A",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "life should be fragrant",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 7
+        },
+        {
+          "chord": "A",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "rooftop to the basement",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 5
+        },
+        {
+          "chord": "A",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "the last of the rockstars",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 5
+        },
+        {
+          "chord": "A",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "when hip hop turned the beat cars",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 6
+        },
+        {
+          "chord": "A",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "in the time when new media",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 8
+        },
+        {
+          "chord": "A",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "who's the big idea",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 7
+        },
+        {
+          "chord": "A",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "that was the big idea",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 6
+        },
+        {
+          "chord": "A",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

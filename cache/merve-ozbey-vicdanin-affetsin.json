@@ -1,0 +1,133 @@
+{
+  "slug": "merve-ozbey-vicdanin-affetsin",
+  "artist": "Merve Özbey",
+  "title": "Vicdanın affetsin",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Gitme beni üzme biraz olsun hatırım yok mu gitme",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 62
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Duyma beni duyma ama kalbimin sözü var dinle, dinle",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 73
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yalvarıp aşkını dilenmek ağlamamak için direnmek",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Senin yüzünden üzülmek sana elveda demek var mı?",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 86
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir kırık kalp ah etti söz söylenmez üstüne",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 35
+        },
+        {
+          "chord": "F",
+          "col": 67
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Seni vicdanın affetsin benden af bekleme",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 32
+        },
+        {
+          "chord": "Am",
+          "col": 65
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir kırık kalp ah etti söz söylenmez üstüne",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 27
+        },
+        {
+          "chord": "F",
+          "col": 66
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Seni vicdanın affetsin benden af bekleme",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 32
+        },
+        {
+          "chord": "Am",
+          "col": 65
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

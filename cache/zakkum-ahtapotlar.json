@@ -1,0 +1,358 @@
+{
+  "slug": "zakkum-ahtapotlar",
+  "artist": "Zakkum",
+  "title": "Ahtapotlar",
+  "key": "E",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "E5",
+          "col": 0
+        },
+        {
+          "chord": "G#5",
+          "col": 3
+        },
+        {
+          "chord": "C#5",
+          "col": 7
+        },
+        {
+          "chord": "B5",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "biz guzel olamadik, sorular soramadik",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "G#m",
+          "col": 17
+        },
+        {
+          "chord": "C#m",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "birbirimizden baska bir cevap bulamadik",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "biz hic alisamadik, bir kaliba uyamadik",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "G#m",
+          "col": 17
+        },
+        {
+          "chord": "C#m",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "birbirimizden baska bir dala konamadik",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 19
+        },
+        {
+          "chord": "E5",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "son bir gece daha cirkin olalim",
+      "chords": [
+        {
+          "chord": "E5",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "aynalara degil, birbirimize bakalim",
+      "chords": [
+        {
+          "chord": "G#5",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "bir hayatti tutunamadik",
+      "chords": [
+        {
+          "chord": "C#5",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "gel ona bir son yazalim",
+      "chords": [
+        {
+          "chord": "B5",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Giriş (1 kere)",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "biz guzel olamadik, dikis tutturamadik",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "G#m",
+          "col": 18
+        },
+        {
+          "chord": "C#m",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "birbirimizden baska bir siper bulamadik",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "son bir gece daha cirkin olalim",
+      "chords": [
+        {
+          "chord": "E5",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "aynalara degil, birbirimize bakalim",
+      "chords": [
+        {
+          "chord": "G#5",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "bir hayatti tutunamadik",
+      "chords": [
+        {
+          "chord": "C#5",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "gel ona bir son yazalim",
+      "chords": [
+        {
+          "chord": "B5",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "gomlegim beyaz olsun, sen sec kiravatimi",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "G#m",
+          "col": 20
+        },
+        {
+          "chord": "C#m",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "etegin kirmizi olsun, acik birak saclarini",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 19
+        },
+        {
+          "chord": "E",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "son kez giyin benim icin ve sen utule kravatimi",
+      "chords": [
+        {
+          "chord": "G#m",
+          "col": 20
+        },
+        {
+          "chord": "C#m",
+          "col": 44
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "bir kagit bir kalem bul, karala son satirlarini",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "ahtapotlar gibi son defa dolanalim birbirimize",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "G#m",
+          "col": 25
+        },
+        {
+          "chord": "C#m",
+          "col": 46
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "ellerimde ellerin elele..",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "son bir gece daha cirkin olalim",
+      "chords": [
+        {
+          "chord": "E5",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "aynalara degil, birbirimize bakalim",
+      "chords": [
+        {
+          "chord": "G#5",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "bir hayatti tutunamadik",
+      "chords": [
+        {
+          "chord": "C#5",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "gel ona bir son yazalim",
+      "chords": [
+        {
+          "chord": "B5",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

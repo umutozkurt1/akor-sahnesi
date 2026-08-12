@@ -1,0 +1,117 @@
+{
+  "slug": "ahmet-kaya-siz-yanmayin",
+  "artist": "Ahmet Kaya",
+  "title": "Siz Yanmayın",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Ağlama, bu günler gelirde geçer babam",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ağlama, bu dertler elbet biter babam",
+      "chords": [
+        {
+          "chord": "Bb",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ocaksız köylerimde, dumanlar tüter elbet",
+      "chords": [
+        {
+          "chord": "Ab",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ben yandım, sen yanma Allah aşkına..",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "Ab",
+          "col": 22
+        },
+        {
+          "chord": "Gm",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İki damla gözyaşımla satıldım pazarlarda",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kırdılar yüreğimi kırdılar azarlarla",
+      "chords": [
+        {
+          "chord": "Bb",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sürgünlere yolladılar sabah dörtte yağmurlarla",
+      "chords": [
+        {
+          "chord": "Ab",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ben yandım siz yanmayın Allah aşkına.",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "Ab",
+          "col": 22
+        },
+        {
+          "chord": "Gm",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

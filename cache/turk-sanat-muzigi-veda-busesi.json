@@ -1,0 +1,197 @@
+{
+  "slug": "turk-sanat-muzigi-veda-busesi",
+  "artist": "Türk Sanat Müziği",
+  "title": "Veda Busesi",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Hani o bırakıp giderken seni",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 9
+        },
+        {
+          "chord": "Eb",
+          "col": 19
+        },
+        {
+          "chord": "Cm",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bu öksüz tavrını takmayacaktın",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 14
+        },
+        {
+          "chord": "Eb",
+          "col": 22
+        },
+        {
+          "chord": "Cm",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Alnına koyarken veda buseni",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 9
+        },
+        {
+          "chord": "Fm",
+          "col": 23
+        },
+        {
+          "chord": "A#m",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gözüme bu türlü bakmayacaktın",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "Eb",
+          "col": 13
+        },
+        {
+          "chord": "Fm",
+          "col": 26
+        },
+        {
+          "chord": "Cm",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gelse de en acı sözler dilime",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "A#m",
+          "col": 24
+        },
+        {
+          "chord": "Fm",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Uçacak sanırım birkaç kelime",
+      "chords": [
+        {
+          "chord": "A#m",
+          "col": 0
+        },
+        {
+          "chord": "Eb",
+          "col": 25
+        },
+        {
+          "chord": "Fm",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir alev halinde düştün elime",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "A#m",
+          "col": 13
+        },
+        {
+          "chord": "Eb",
+          "col": 18
+        },
+        {
+          "chord": "Fm",
+          "col": 21
+        },
+        {
+          "chord": "Cm",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hani ey gözyaşım akmayacaktın",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 11
+        },
+        {
+          "chord": "A#m",
+          "col": 25
+        },
+        {
+          "chord": "Eb",
+          "col": 31
+        },
+        {
+          "chord": "Fm",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

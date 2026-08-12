@@ -1,0 +1,806 @@
+{
+  "slug": "katy-perry-last-friday-night",
+  "artist": "Katy Perry",
+  "title": "Last Friday Night",
+  "key": "E",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "Db",
+          "col": 2
+        },
+        {
+          "chord": "Abm",
+          "col": 5
+        },
+        {
+          "chord": "F#",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "There s a stranger in my bed",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "There s a pounding my head",
+      "chords": [
+        {
+          "chord": "Dbm",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Glitter all over the room",
+      "chords": [
+        {
+          "chord": "Abm",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Pink flamingos in the pool",
+      "chords": [
+        {
+          "chord": "F#",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I smell like a minibar",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "DJ s passed out in the yard",
+      "chords": [
+        {
+          "chord": "Dbm",
+          "col": 7
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Barbie s on the barbeque",
+      "chords": [
+        {
+          "chord": "Abm",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "There s a hickie or a bruise",
+      "chords": [
+        {
+          "chord": "F#",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "PRA-CHORUS:",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Pictures of last night",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Eended up online",
+      "chords": [
+        {
+          "chord": "Dbm",
+          "col": 7
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I m screwed",
+      "chords": [
+        {
+          "chord": "Abm",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Oh well",
+      "chords": [
+        {
+          "chord": "F#",
+          "col": 4
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "It s a black top blur",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But I m pretty sure it ruled",
+      "chords": [
+        {
+          "chord": "Dbm",
+          "col": 0
+        },
+        {
+          "chord": "Abm",
+          "col": 17
+        },
+        {
+          "chord": "F#",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Last Friday night",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yeah we danced on tabletops",
+      "chords": [
+        {
+          "chord": "Dbm",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And we took too many shots",
+      "chords": [
+        {
+          "chord": "Abm",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Think we kissed but I forgot",
+      "chords": [
+        {
+          "chord": "F#",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Last Friday night",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yeah we maxed our credit cards",
+      "chords": [
+        {
+          "chord": "Dbm",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And got kicked out of the bar",
+      "chords": [
+        {
+          "chord": "Abm",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "So we hit the boulevard",
+      "chords": [
+        {
+          "chord": "F#",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Last Friday night",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "We went streaking in the park",
+      "chords": [
+        {
+          "chord": "Dbm",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Skinny dipping in the dark",
+      "chords": [
+        {
+          "chord": "Abm",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Then had a menage a trois",
+      "chords": [
+        {
+          "chord": "F#",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Last Friday night",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yeah I think we broke the law",
+      "chords": [
+        {
+          "chord": "Dbm",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Always say we re gonna stop-op",
+      "chords": [
+        {
+          "chord": "Abm",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Whoa-oh-oah",
+      "chords": [
+        {
+          "chord": "F#",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "This Friday night",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Do it all again",
+      "chords": [
+        {
+          "chord": "Dbm",
+          "col": 6
+        },
+        {
+          "chord": "Abm",
+          "col": 18
+        },
+        {
+          "chord": "F#",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "This Friday night",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Do it all again",
+      "chords": [
+        {
+          "chord": "Dbm",
+          "col": 6
+        },
+        {
+          "chord": "Abm",
+          "col": 18
+        },
+        {
+          "chord": "F#",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": ".",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Trying to connect the dots",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Don t know what to tell my boss",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Think the city towed my car",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Chandelier is on the floor",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "With my favorite party dress",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Warrants out for my arrest",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Think I need a ginger ale",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "That was such an epic fail",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Pictures of last night",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ended up online",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I m screwed",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Oh well",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "It s a blacked out blur",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But I m pretty sure it ruled",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Last Friday night",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yeah we danced on table tops",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And we took too many shots",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Think we kissed but I forgot",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Last Friday night",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yeah we maxed our credits card",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And got kicked out of the bars",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "So we hit the boulevards",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Last Friday night",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "We went streaking in the park",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Skinny dipping int he dark",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Then had a menage a trois",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yeah I think we broke the law",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Always say we re gonna stop-op",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Oh whoa oh",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "This Friday night",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Do it all again",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Do it all again",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "This Friday night",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Do it all again",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Do it all again",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "This Friday night",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "T.C.I.A#.",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "T.C.I.A#.",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "T.C.I.A#.",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "T.C.I.A#.",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "T.C.I.A#.",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "T.C.I.A#.",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Last Friday night",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yeah we danced on table tops",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And we took too many shots",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Think we kissed but I forgot",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Last Friday night",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yeah we maxed our credit cards",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And got kicked out of the bar",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "So we hit the boulevard",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Last Friday night",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "We went streaking in the park",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Skinny dipping in the dark",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Then had a menage a trois",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Last Friday night",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yeah I think we broke the law",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Always say we re gonna stop",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Oh-whoa-oh",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "This Friday night",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Do it all again",
+      "chords": [],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

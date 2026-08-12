@@ -1,0 +1,149 @@
+{
+  "slug": "ayna-nefes",
+  "artist": "Ayna",
+  "title": "Nefes",
+  "key": "B",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Sesimi duyan yok mu",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yok mu benim gibi bir yalnız daha",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 53
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ne kara gökyüzü bu gece",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 11
+        },
+        {
+          "chord": "B",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yıldızlar, yıldızlar, yıldızlar nerdeler",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 10
+        },
+        {
+          "chord": "B",
+          "col": 24
+        },
+        {
+          "chord": "C",
+          "col": 37
+        },
+        {
+          "chord": "B",
+          "col": 53
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Geleceksen bu gece gel hasret nefes nefese",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gönül aşka düşünce hesap sormuyor",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 43
+        },
+        {
+          "chord": "C",
+          "col": 48
+        },
+        {
+          "chord": "B",
+          "col": 58
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "inden nefes aldım yaşadım iki hece",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ne yaptım ettim ama sensiz olmuyor.",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 37
+        },
+        {
+          "chord": "C",
+          "col": 43
+        },
+        {
+          "chord": "B",
+          "col": 53
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

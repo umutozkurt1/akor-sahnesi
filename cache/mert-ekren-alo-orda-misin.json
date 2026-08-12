@@ -1,0 +1,209 @@
+{
+  "slug": "mert-ekren-alo-orda-misin",
+  "artist": "Mert Ekren",
+  "title": "Alo Orda Mısın?",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Gönlümün binbir yeri var",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Her yerinin öyküsü var",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "G#",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir yerinde biri var ama",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Şu kalbimi dağ mı sanar",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "G#",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Haberin yok seni sordum",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Daha dün yakınlarına",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bilemem ben yerini senin",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir numaran kaldı bana",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 16
+        },
+        {
+          "chord": "G",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Alo orda mısın, rahatta mısın",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 7
+        },
+        {
+          "chord": "A#",
+          "col": 17
+        },
+        {
+          "chord": "Fm",
+          "col": 27
+        },
+        {
+          "chord": "Cm",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir başına uzakta mısın",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 14
+        },
+        {
+          "chord": "Fm",
+          "col": 21
+        },
+        {
+          "chord": "Cm",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sendeki huyları bilirim ama",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 25
+        },
+        {
+          "chord": "D#",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hadi telefonu aç da konuşalım aman",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 9
+        },
+        {
+          "chord": "G",
+          "col": 34
+        },
+        {
+          "chord": "Cm",
+          "col": 52
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

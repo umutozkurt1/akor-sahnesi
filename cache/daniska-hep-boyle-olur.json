@@ -1,0 +1,394 @@
+{
+  "slug": "daniska-hep-boyle-olur",
+  "artist": "Daniska",
+  "title": "Hep Böyle Olur",
+  "key": "B",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Intro:",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 4
+        },
+        {
+          "chord": "G",
+          "col": 7
+        },
+        {
+          "chord": "Em",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 4
+        },
+        {
+          "chord": "Em",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hep böyle olur",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 4
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gözlerin değince gözlerime",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 5
+        },
+        {
+          "chord": "Em",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İçimde bir çocuk saklanır",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hep böyle olur",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 4
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hep böyle olur",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 4
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ne zaman çözülse saçların",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 4
+        },
+        {
+          "chord": "Em",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Göğümde kuşlar kanatlanır",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 4
+        },
+        {
+          "chord": "Bm",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hep böyle olur",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 4
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Koynumun güvercini",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Evini mi özlemiş",
+      "chords": [
+        {
+          "chord": "F#",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Al gecemi, gündüzümü, gökyüzümü al",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Al sesimi, nefesimi, son sözümü al",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gidene kal demek yalnızca aşıkların işi",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 5
+        },
+        {
+          "chord": "G",
+          "col": 21
+        },
+        {
+          "chord": "Em",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ne olursun bir ömür, bir ömür yanımda kal",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "F#",
+          "col": 11
+        },
+        {
+          "chord": "G",
+          "col": 26
+        },
+        {
+          "chord": "A",
+          "col": 30
+        },
+        {
+          "chord": "Bm",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 4
+        },
+        {
+          "chord": "Em",
+          "col": 8
+        },
+        {
+          "chord": "Bm",
+          "col": 12
+        },
+        {
+          "chord": "F#m",
+          "col": 16
+        },
+        {
+          "chord": "Em",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hep böyle olur",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 4
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ellerin değince ellerime",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 5
+        },
+        {
+          "chord": "Em",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İçimde kışlar baharlanır",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hep böyle olur",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 4
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hep böyle olur",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 4
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gülersin teslim olur gece",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 4
+        },
+        {
+          "chord": "Em",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bekledim bir ömür sadece",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 4
+        },
+        {
+          "chord": "Bm",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kalsan ne olur",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 4
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

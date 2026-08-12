@@ -1,0 +1,533 @@
+{
+  "slug": "ansizin-bi-infilak-bi-sekil-yap",
+  "artist": "Ansızın Bi' İnfilak",
+  "title": "Bi' Şekil Yap",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Intro",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Am7",
+          "col": 0
+        },
+        {
+          "chord": "Fmaj7",
+          "col": 4
+        },
+        {
+          "chord": "G",
+          "col": 12
+        },
+        {
+          "chord": "G#",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Verse 1",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Geçemem bu akşam üstü buralardan",
+      "chords": [
+        {
+          "chord": "Am7",
+          "col": 0
+        },
+        {
+          "chord": "Fmaj7",
+          "col": 6
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Çok sıkıldım yanımda sen olmadan dolaşmaktan",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "G#",
+          "col": 4
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bi şekil yap unuttur bana seni",
+      "chords": [
+        {
+          "chord": "Am7",
+          "col": 0
+        },
+        {
+          "chord": "Fmaj7",
+          "col": 4
+        },
+        {
+          "chord": "G",
+          "col": 12
+        },
+        {
+          "chord": "G#",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Çekemem şu an hiç kimseyi oralardan",
+      "chords": [
+        {
+          "chord": "Am7",
+          "col": 0
+        },
+        {
+          "chord": "Fmaj7",
+          "col": 6
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hep demiştim haz etmem sen olmadan konuşmaktan",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "G#",
+          "col": 4
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bi şekil yap unuttur",
+      "chords": [
+        {
+          "chord": "Am7",
+          "col": 0
+        },
+        {
+          "chord": "Fmaj7",
+          "col": 4
+        },
+        {
+          "chord": "G",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Chorus",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "Bana seni  oooh",
+      "chords": [
+        {
+          "chord": "Am7",
+          "col": 0
+        },
+        {
+          "chord": "Fmaj7",
+          "col": 6
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Nerden geldiğini,",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "G#",
+          "col": 4
+        },
+        {
+          "chord": "Am7",
+          "col": 17
+        },
+        {
+          "chord": "Fmaj7",
+          "col": 21
+        },
+        {
+          "chord": "G",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "neden gittiğini (Bi şekil yap unuttur)",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 0
+        },
+        {
+          "chord": "Am7",
+          "col": 9
+        },
+        {
+          "chord": "Fmaj7",
+          "col": 13
+        },
+        {
+          "chord": "G",
+          "col": 21
+        },
+        {
+          "chord": "G#",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Verse 2",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kalamam artık bu şehirde, oralardan hep kovuldum",
+      "chords": [
+        {
+          "chord": "Am7",
+          "col": 0
+        },
+        {
+          "chord": "Fmaj7",
+          "col": 6
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Söylerdim sen olmadan koşturmaktan",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "G#",
+          "col": 4
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bi şekil yap unuttur bana seni",
+      "chords": [
+        {
+          "chord": "Am7",
+          "col": 0
+        },
+        {
+          "chord": "Fmaj7",
+          "col": 4
+        },
+        {
+          "chord": "G",
+          "col": 12
+        },
+        {
+          "chord": "G#",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kaçamam aslında senden ama artık çok yoruldum",
+      "chords": [
+        {
+          "chord": "Am7",
+          "col": 0
+        },
+        {
+          "chord": "Fmaj7",
+          "col": 6
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Aklımda sen olmadan sevişmekten",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "G#",
+          "col": 4
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bi şekil yap unuttur bana seni",
+      "chords": [
+        {
+          "chord": "Am7",
+          "col": 0
+        },
+        {
+          "chord": "Fmaj7",
+          "col": 4
+        },
+        {
+          "chord": "G",
+          "col": 12
+        },
+        {
+          "chord": "G#",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Chorus",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "Bana seni  oooh",
+      "chords": [
+        {
+          "chord": "Am7",
+          "col": 0
+        },
+        {
+          "chord": "Fmaj7",
+          "col": 6
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Nerden geldiğini,",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "G#",
+          "col": 4
+        },
+        {
+          "chord": "Am7",
+          "col": 17
+        },
+        {
+          "chord": "Fmaj7",
+          "col": 21
+        },
+        {
+          "chord": "G",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "neden gittiğini (Bi şekil yap unuttur)",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 0
+        },
+        {
+          "chord": "Am7",
+          "col": 9
+        },
+        {
+          "chord": "Fmaj7",
+          "col": 13
+        },
+        {
+          "chord": "G",
+          "col": 21
+        },
+        {
+          "chord": "G#",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gitar Solo",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Am7",
+          "col": 0
+        },
+        {
+          "chord": "Fmaj7",
+          "col": 4
+        },
+        {
+          "chord": "G",
+          "col": 12
+        },
+        {
+          "chord": "G#",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Chorus",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "Bana seni  oooh",
+      "chords": [
+        {
+          "chord": "Am7",
+          "col": 0
+        },
+        {
+          "chord": "Fmaj7",
+          "col": 6
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Nerden geldiğini,",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "G#",
+          "col": 4
+        },
+        {
+          "chord": "Am7",
+          "col": 17
+        },
+        {
+          "chord": "Fmaj7",
+          "col": 21
+        },
+        {
+          "chord": "G",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "neden gittiğini",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 0
+        },
+        {
+          "chord": "Am7",
+          "col": 9
+        },
+        {
+          "chord": "Fmaj7",
+          "col": 13
+        },
+        {
+          "chord": "G",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Outro",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 0
+        },
+        {
+          "chord": "Am7",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

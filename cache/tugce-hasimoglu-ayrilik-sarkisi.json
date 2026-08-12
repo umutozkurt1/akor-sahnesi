@@ -1,0 +1,181 @@
+{
+  "slug": "tugce-hasimoglu-ayrilik-sarkisi",
+  "artist": "Tuğçe Haşimoğlu",
+  "title": "Ayrılık Şarkısı",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Bitmez sandım ama bitti, güzel günler sona erdi",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 33
+        },
+        {
+          "chord": "C#m",
+          "col": 39
+        },
+        {
+          "chord": "F#m",
+          "col": 68
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yaşanacak çok şey vardı hepsi yarım kaldı",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "G#m",
+          "col": 41
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Seviyorum demiştin ya bu sana yakışmadı",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "G#m",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Baktığım gözler, tuttuğum eller, duygular hep yalandı",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 10
+        },
+        {
+          "chord": "G#m",
+          "col": 38
+        },
+        {
+          "chord": "A",
+          "col": 61
+        },
+        {
+          "chord": "G#m",
+          "col": 83
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sen benim sevdiğim, ömrümü ömrüne verdiğim",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "G#m",
+          "col": 17
+        },
+        {
+          "chord": "F#m",
+          "col": 31
+        },
+        {
+          "chord": "G#m",
+          "col": 60
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Git artık bu gönülden, sen buna değmezsin",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "G#m",
+          "col": 19
+        },
+        {
+          "chord": "F#m",
+          "col": 34
+        },
+        {
+          "chord": "G#m",
+          "col": 60
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Nerdesin şimdi kimlesin, baktığım her yerdesin",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "G#m",
+          "col": 24
+        },
+        {
+          "chord": "F#m",
+          "col": 36
+        },
+        {
+          "chord": "G#m",
+          "col": 58
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sen bana yalan oldun da, aşk nasıl bitti",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "G#m",
+          "col": 17
+        },
+        {
+          "chord": "F#m",
+          "col": 37
+        },
+        {
+          "chord": "G#m",
+          "col": 54
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

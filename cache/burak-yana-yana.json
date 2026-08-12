@@ -1,0 +1,170 @@
+{
+  "slug": "burak-yana-yana",
+  "artist": "Burak",
+  "title": "Yana Yana",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "İntro :",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Bbm",
+          "col": 4
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Söz etmeyin ondan bana",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sevda bende derin yara",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kaç geceler sabahladım",
+      "chords": [
+        {
+          "chord": "Bbm",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hasretiyle yana yana",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bitti deyip çekip gitti",
+      "chords": [
+        {
+          "chord": "Ab",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir maziyi yıkıp gitti",
+      "chords": [
+        {
+          "chord": "Bb",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Onu candan çok sevmiştim",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yüreğimi yakıp gitti",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 11
+        },
+        {
+          "chord": "Cm",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "O günlere döndürmeyin",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Beni tekrar öldürmeyin",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Senin cezan hasret deyin",
+      "chords": [
+        {
+          "chord": "Bbm",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ben çekerim yana yana",
+      "chords": [
+        {
+          "chord": "Eb",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

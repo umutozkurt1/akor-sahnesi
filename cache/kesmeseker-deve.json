@@ -1,0 +1,415 @@
+{
+  "slug": "kesmeseker-deve",
+  "artist": "Kesmeşeker",
+  "title": "Deve",
+  "key": "E",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 2
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "mevsim yazmış ben de okudum.",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 8
+        },
+        {
+          "chord": "B",
+          "col": 14
+        },
+        {
+          "chord": "E",
+          "col": 25
+        },
+        {
+          "chord": "B",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "güneşte, güneyde, sahilde, şehirde okudum.",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 5
+        },
+        {
+          "chord": "B",
+          "col": 23
+        },
+        {
+          "chord": "E",
+          "col": 39
+        },
+        {
+          "chord": "B",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "bezgin bir deve gördüm sahilde",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "G#m",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "ben de içmişim biraz, kafam tatilde.",
+      "chords": [
+        {
+          "chord": "F#m7",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 23
+        },
+        {
+          "chord": "B",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "götür beni de gittiğin yerlere.",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "G#m",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "iki yalnızız biz aynı gezegende",
+      "chords": [
+        {
+          "chord": "F#m7",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 18
+        },
+        {
+          "chord": "B",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "bir deve asla bir deve değilmiş!",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 5
+        },
+        {
+          "chord": "B",
+          "col": 8
+        },
+        {
+          "chord": "E",
+          "col": 18
+        },
+        {
+          "chord": "B",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "bunu bil, konu bu!",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 6
+        },
+        {
+          "chord": "B",
+          "col": 9
+        },
+        {
+          "chord": "E",
+          "col": 16
+        },
+        {
+          "chord": "B",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "mevsim yazmıştı da, ben de okudum hani,",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "G#m",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "ben de gittim bir bara, barlar dolmuş tiki.",
+      "chords": [
+        {
+          "chord": "F#m7",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 25
+        },
+        {
+          "chord": "B",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "hepsi aynı şarkıyı dinliyor gibi.",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "G#m",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "hepsi aynı kızları kesiyor gibi.",
+      "chords": [
+        {
+          "chord": "F#m7",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 20
+        },
+        {
+          "chord": "B",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "o gözlükler, arabalar, falan filanlar.",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "kariyer dersen bende bol bol var.",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 12
+        },
+        {
+          "chord": "B",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "kariyer dersen bende bol bol var.",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 12
+        },
+        {
+          "chord": "B",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "sığmıyor cebime, yani o kadar!",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 13
+        },
+        {
+          "chord": "B",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "neden zenginim sandın, çünkü öğrendim.",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 11
+        },
+        {
+          "chord": "B",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "bir deve asla bir deve değilmiş!",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 5
+        },
+        {
+          "chord": "B",
+          "col": 8
+        },
+        {
+          "chord": "E",
+          "col": 19
+        },
+        {
+          "chord": "B",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "bunu bil, konu bu!",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 6
+        },
+        {
+          "chord": "B",
+          "col": 8
+        },
+        {
+          "chord": "E",
+          "col": 15
+        },
+        {
+          "chord": "B",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "güneşte, güneyde, sahilde, şehirde",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 6
+        },
+        {
+          "chord": "B",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "bunu bil... (üzme beni)",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 6
+        },
+        {
+          "chord": "B",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

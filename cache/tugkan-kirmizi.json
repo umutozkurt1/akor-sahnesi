@@ -1,0 +1,110 @@
+{
+  "slug": "tugkan-kirmizi",
+  "artist": "Tuğkan",
+  "title": "Kırmızı",
+  "key": "A",
+  "capo": 0,
+  "rhythm": "A",
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Düşlerine dokundum, yokluğunda soğuk",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kalbin bende kaldıysa eğer",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Aşkım sen, kırmızı",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 9
+        },
+        {
+          "chord": "Am",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Islak gözlerinde birkaç zamandan kalan yalan",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 9
+        },
+        {
+          "chord": "Dm",
+          "col": 71
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dokunsam ağlayacak gibisin sen kırmızı",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 12
+        },
+        {
+          "chord": "Am",
+          "col": 67
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Katilim olur musun yeniden yaşamaya inat",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 6
+        },
+        {
+          "chord": "Dm",
+          "col": 66
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Serin bir yaz günü sen kırmızı",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 10
+        },
+        {
+          "chord": "Am",
+          "col": 48
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

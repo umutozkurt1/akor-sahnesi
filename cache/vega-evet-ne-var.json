@@ -1,0 +1,352 @@
+{
+  "slug": "vega-evet-ne-var",
+  "artist": "Vega",
+  "title": "Evet, Ne Var?",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Raksederken balkonumda",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Ab",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yine uçmak var aklımda",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gülüyorum, arkamda kaldı yaptıkların",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Ab",
+          "col": 12
+        },
+        {
+          "chord": "F",
+          "col": 30
+        },
+        {
+          "chord": "G",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir yudum çay, bir yudum sen",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Ab",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir yudumken manzara",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Maalesef hakkımda bütün korktuklarım",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Ab",
+          "col": 13
+        },
+        {
+          "chord": "F",
+          "col": 30
+        },
+        {
+          "chord": "G",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Tenin tenimi çeker aşkım",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Çivin çivimi söker tatlım",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "Ab",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ne var? evet ne var?",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Durduğum yeter",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Korktuğum yeter",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ben her zaman böyle",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Ab",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ben böyle vesaire",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 4
+        },
+        {
+          "chord": "G",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ben her zaman seni istiyordum",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Ab",
+          "col": 11
+        },
+        {
+          "chord": "F",
+          "col": 24
+        },
+        {
+          "chord": "G",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sen her zaman söyle",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Ab",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sen söyle vesaire",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 4
+        },
+        {
+          "chord": "G",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sen her zaman beni bekliyordun",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Ab",
+          "col": 11
+        },
+        {
+          "chord": "F",
+          "col": 24
+        },
+        {
+          "chord": "G",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Evet ne var maskelerin arkasında",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yakalandın",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Evet ne var, hem oyundum, hem oyunumu bozandım",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Evet ne var yüzlerce kez sevildim, aldatıldım",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ben her zaman böyle",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ben böyle vesaire",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ben her zaman seni istiyordum",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sen her zaman söyle",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sen söyle vesaire",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sen her zaman beni bekliyordun",
+      "chords": [],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

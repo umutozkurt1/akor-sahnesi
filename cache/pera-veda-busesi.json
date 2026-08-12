@@ -1,0 +1,211 @@
+{
+  "slug": "pera-veda-busesi",
+  "artist": "Pera",
+  "title": "Veda Busesi",
+  "key": "E",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Yorgun denizler usanmış fırtınadan, bense bir gemi ve kaybolmuşum",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 65
+        },
+        {
+          "chord": "Bm7",
+          "col": 98
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kıyıları görünmez, fenerinde ışık, ay bile gizlenmiş, yıldızlar karanlık",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 63
+        },
+        {
+          "chord": "Bm7",
+          "col": 93
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ne bir ses var, ne bir nefes aldırıyor, ayrılık yakın vuslat görünmüyor",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 66
+        },
+        {
+          "chord": "Bm7",
+          "col": 89
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Öncesi yok, sonrası yok sanki hepsi hayaldi",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "Bm7",
+          "col": 22
+        },
+        {
+          "chord": "Em",
+          "col": 48
+        },
+        {
+          "chord": "D",
+          "col": 65
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bana sevgisi yok yokluğu çok ağır gelirdi",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "Bm7",
+          "col": 28
+        },
+        {
+          "chord": "Em",
+          "col": 64
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kulağımda hala sesi, bir veda busesi",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "Bm7",
+          "col": 30
+        },
+        {
+          "chord": "Em",
+          "col": 37
+        },
+        {
+          "chord": "D",
+          "col": 52
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bile bırakmadan gitti gidiş o gidiş",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "Bm7",
+          "col": 30
+        },
+        {
+          "chord": "Em",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Küskün bu dallar kırılmış rüzgarlardan, bense filizlenmiş açacakken solmuşum",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 73
+        },
+        {
+          "chord": "Bm7",
+          "col": 120
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Baharı beklerken güze boğulmuş bir çiçek, gülümsemeler gibi o da solup gidecek",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 81
+        },
+        {
+          "chord": "Bm7",
+          "col": 122
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ne bir umut ne ihtimal kar etmiyor, ayrılık yakın vuslat görünmüyor",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 65
+        },
+        {
+          "chord": "Bm7",
+          "col": 93
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

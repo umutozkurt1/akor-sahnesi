@@ -1,0 +1,188 @@
+{
+  "slug": "zeynep-bastik-sorma",
+  "artist": "Zeynep Bastık",
+  "title": "Sorma",
+  "key": "B",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Gemi yakıldı dönüş ümidi hayal oldu",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 19
+        },
+        {
+          "chord": "F#m",
+          "col": 49
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Zaman daraldı kalbimin anlamı yazık oldu",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 23
+        },
+        {
+          "chord": "F#m",
+          "col": 59
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yeri dolmadı gelen olmadı olamaz ki",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 19
+        },
+        {
+          "chord": "F#m",
+          "col": 50
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Nefes almadan o sesi duymadan yatamam  ki",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 24
+        },
+        {
+          "chord": "F#m",
+          "col": 64
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Vücut iklimimin kimyası",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 14
+        },
+        {
+          "chord": "F#m",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dünyayı ters yüz eden kadın",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 13
+        },
+        {
+          "chord": "F#m",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hayatımın manası bende gizli bende saklı",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 20
+        },
+        {
+          "chord": "D",
+          "col": 48
+        },
+        {
+          "chord": "C#7",
+          "col": 62
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "       Sorma kim diye sorma",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 12
+        },
+        {
+          "chord": "E",
+          "col": 25
+        },
+        {
+          "chord": "F#m",
+          "col": 43
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "       O sensin bir daha sorma",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 11
+        },
+        {
+          "chord": "E",
+          "col": 21
+        },
+        {
+          "chord": "F#m",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

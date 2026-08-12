@@ -1,0 +1,206 @@
+{
+  "slug": "yasar-ayrilanlara",
+  "artist": "Yaşar",
+  "title": "Ayrılanlara",
+  "key": "C#",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Ayrılıkla biten aşkların sabahı sessiz olurmuş",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 66
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yaprak dökümü senden çok şey götürmüş",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 66
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hani dereler çağlar denizlere koşardı",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 60
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ela gözlerinden denizler taşardı",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 50
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gayrı yollar ayrı",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yarım sözler yarım",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 3
+        },
+        {
+          "chord": "C#m",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gayrı yollar ayrı",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yarım herşey yarım",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 3
+        },
+        {
+          "chord": "C#m",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ve bu kalabalığın ortasında yalnızım",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 1
+        },
+        {
+          "chord": "B",
+          "col": 26
+        },
+        {
+          "chord": "A",
+          "col": 42
+        },
+        {
+          "chord": "G#m",
+          "col": 49
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Üstümde kara bulutlar",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "G#m",
+          "col": 12
+        },
+        {
+          "chord": "C#m",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Başa Döner..",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Puslu bir eylül akşamı",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "G#",
+          "col": 11
+        },
+        {
+          "chord": "E",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Şahit olmadı kimselere",
+      "chords": [
+        {
+          "chord": "F#",
+          "col": 13
+        },
+        {
+          "chord": "B",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ayrılanlara",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

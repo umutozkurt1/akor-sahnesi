@@ -1,0 +1,211 @@
+{
+  "slug": "zakkum-zehr-i-zakkum",
+  "artist": "Zakkum",
+  "title": "Zehr-i Zakkum",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "küskün, üzgün, düşkün bakışların",
+      "chords": [
+        {
+          "chord": "C5",
+          "col": 0
+        },
+        {
+          "chord": "G#5",
+          "col": 17
+        },
+        {
+          "chord": "C5",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "gözlerime saplanan iki mızrak sanki",
+      "chords": [
+        {
+          "chord": "C5",
+          "col": 0
+        },
+        {
+          "chord": "G#5",
+          "col": 20
+        },
+        {
+          "chord": "C5",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "bitkin, gergin, yorgun gözyaşların",
+      "chords": [
+        {
+          "chord": "C5",
+          "col": 0
+        },
+        {
+          "chord": "G#5",
+          "col": 17
+        },
+        {
+          "chord": "C5",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "sararıp da dökülen birkaç yaprak belki.",
+      "chords": [
+        {
+          "chord": "G#5",
+          "col": 0
+        },
+        {
+          "chord": "D#5",
+          "col": 20
+        },
+        {
+          "chord": "A#5",
+          "col": 28
+        },
+        {
+          "chord": "G5",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "küsmüş de solmuş bir zakkumdu sözlerin",
+      "chords": [
+        {
+          "chord": "C5",
+          "col": 0
+        },
+        {
+          "chord": "G5",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "yorgun.",
+      "chords": [
+        {
+          "chord": "G#5",
+          "col": 0
+        },
+        {
+          "chord": "A#5",
+          "col": 8
+        },
+        {
+          "chord": "D#5",
+          "col": 14
+        },
+        {
+          "chord": "D5",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "yaşlarla dolmuş bir kadehti gözlerin.",
+      "chords": [
+        {
+          "chord": "C5",
+          "col": 0
+        },
+        {
+          "chord": "G5",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "sarhoş.",
+      "chords": [
+        {
+          "chord": "G#5",
+          "col": 0
+        },
+        {
+          "chord": "A#5",
+          "col": 8
+        },
+        {
+          "chord": "D#5",
+          "col": 14
+        },
+        {
+          "chord": "D5",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "kırgın, bıkkın, dargın yakarışların",
+      "chords": [
+        {
+          "chord": "C5",
+          "col": 0
+        },
+        {
+          "chord": "G#5",
+          "col": 17
+        },
+        {
+          "chord": "C5",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "lunaparkta unutulan bir çocuk sanki",
+      "chords": [
+        {
+          "chord": "G#5",
+          "col": 0
+        },
+        {
+          "chord": "D#5",
+          "col": 20
+        },
+        {
+          "chord": "A#5",
+          "col": 27
+        },
+        {
+          "chord": "G5",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

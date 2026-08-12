@@ -1,0 +1,149 @@
+{
+  "slug": "zulfu-livaneli-hakim-bey",
+  "artist": "Zülfü Livaneli",
+  "title": "Hakim Bey",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Şikayetim var cümle yasaktan",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dillerimi hakim bey bağlasan durmaz",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gelsin jandarma polis karakoldan",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Fikrim firarda mahpusa sığmaz eyvah",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "Eb",
+          "col": 22
+        },
+        {
+          "chord": "Am",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gün olur yerle yeksan olurum",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gün olur şahım devri devranda",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kanun üstüne kanun yapsalar",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Söz uçar yazı iki cihanda eyvah",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "Eb",
+          "col": 20
+        },
+        {
+          "chord": "Am",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sussan olmuyor susmasan olmaz",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dil dursa hakim bey tende can durmaz",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yazsan olmuyor yazmasan olmaz",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kaleme tedbir koma tek durmaz",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

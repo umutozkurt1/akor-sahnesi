@@ -1,0 +1,136 @@
+{
+  "slug": "demet-akalin-allahindan-bul",
+  "artist": "Demet Akalın",
+  "title": "Allahından Bul",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Gecelere sığmıyor",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 1
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Terkediyor dertlerim",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Çaresizim allahım neyleyim",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 6
+        },
+        {
+          "chord": "A",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Keşke sevmez olaydım gönül vermez olaydım",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 6
+        },
+        {
+          "chord": "A#",
+          "col": 18
+        },
+        {
+          "chord": "Dm",
+          "col": 28
+        },
+        {
+          "chord": "A#",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ben aşkı senin gibi satmadım",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 12
+        },
+        {
+          "chord": "A",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Pişman olup birgün dönerse geri",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yıllar geçti unutmadım ihanetini",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ben affetsem de yalan gözlerini",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Allahından bul ben susuyorum",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

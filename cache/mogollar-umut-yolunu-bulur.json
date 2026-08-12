@@ -1,0 +1,480 @@
+{
+  "slug": "mogollar-umut-yolunu-bulur",
+  "artist": "Moğollar",
+  "title": "Umut Yolunu Bulur",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "8x",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 2
+        },
+        {
+          "chord": "F#m",
+          "col": 4
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Savrulurken düşünceler her an aklımda",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 13
+        },
+        {
+          "chord": "E",
+          "col": 20
+        },
+        {
+          "chord": "F#m",
+          "col": 24
+        },
+        {
+          "chord": "Bm",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ben kalırım zaman gider bakmaz ardına",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 13
+        },
+        {
+          "chord": "E",
+          "col": 20
+        },
+        {
+          "chord": "F#m",
+          "col": 24
+        },
+        {
+          "chord": "Bm",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gün değirmeni boş duvarlarda dur dönüp durma",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 4
+        },
+        {
+          "chord": "F#m",
+          "col": 11
+        },
+        {
+          "chord": "A",
+          "col": 16
+        },
+        {
+          "chord": "E",
+          "col": 20
+        },
+        {
+          "chord": "F#m",
+          "col": 26
+        },
+        {
+          "chord": "A",
+          "col": 31
+        },
+        {
+          "chord": "E",
+          "col": 36
+        },
+        {
+          "chord": "F#m",
+          "col": 43
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dur dönüp durma",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 5
+        },
+        {
+          "chord": "F#m",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Her günüm köprü oldu bilinmez bir ana.",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 11
+        },
+        {
+          "chord": "E",
+          "col": 18
+        },
+        {
+          "chord": "F#m",
+          "col": 22
+        },
+        {
+          "chord": "Bm",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yürüdükçe yalnızlaşır döndüm varlığıma.",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 13
+        },
+        {
+          "chord": "E",
+          "col": 20
+        },
+        {
+          "chord": "F#m",
+          "col": 24
+        },
+        {
+          "chord": "Bm",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gördüm kendimi kirli aynada",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 7
+        },
+        {
+          "chord": "F#m",
+          "col": 11
+        },
+        {
+          "chord": "A",
+          "col": 16
+        },
+        {
+          "chord": "E",
+          "col": 21
+        },
+        {
+          "chord": "F#m",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Çizdim yeniden boş bir sayfada.",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 6
+        },
+        {
+          "chord": "F#m",
+          "col": 11
+        },
+        {
+          "chord": "A",
+          "col": 16
+        },
+        {
+          "chord": "E",
+          "col": 24
+        },
+        {
+          "chord": "F#m",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Can dayanır keder yorulur karanlık elbet güneşi doğurur.",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 13
+        },
+        {
+          "chord": "B",
+          "col": 32
+        },
+        {
+          "chord": "Bm",
+          "col": 42
+        },
+        {
+          "chord": "F#m",
+          "col": 55
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "En bulanık sular bile durulur, umut kaybolsa da yolunu bulur.",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "C#7",
+          "col": 16
+        },
+        {
+          "chord": "F#m",
+          "col": 31
+        },
+        {
+          "chord": "C#7",
+          "col": 50
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Her günüm köprü oldu bilinmez bir ana.",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 11
+        },
+        {
+          "chord": "E",
+          "col": 18
+        },
+        {
+          "chord": "F#m",
+          "col": 22
+        },
+        {
+          "chord": "Bm",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yürüdükçe yalnızlaşır döndüm varlığıma.",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 13
+        },
+        {
+          "chord": "E",
+          "col": 20
+        },
+        {
+          "chord": "F#m",
+          "col": 24
+        },
+        {
+          "chord": "Bm",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gördüm kendimi kirli aynada",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 7
+        },
+        {
+          "chord": "F#m",
+          "col": 11
+        },
+        {
+          "chord": "A",
+          "col": 16
+        },
+        {
+          "chord": "E",
+          "col": 21
+        },
+        {
+          "chord": "F#m",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Çizdim yeniden boş bir sayfada.",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 6
+        },
+        {
+          "chord": "F#m",
+          "col": 11
+        },
+        {
+          "chord": "A",
+          "col": 16
+        },
+        {
+          "chord": "E",
+          "col": 24
+        },
+        {
+          "chord": "F#m",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Can dayanır keder yorulur karanlık elbet güneşi doğurur.",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 13
+        },
+        {
+          "chord": "B",
+          "col": 32
+        },
+        {
+          "chord": "Bm",
+          "col": 42
+        },
+        {
+          "chord": "F#m",
+          "col": 55
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "En bulanık sular bile durulur, umut kaybolsa da yolunu bulur.",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "C#7",
+          "col": 16
+        },
+        {
+          "chord": "F#m",
+          "col": 31
+        },
+        {
+          "chord": "C#7",
+          "col": 50
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

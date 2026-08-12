@@ -1,0 +1,815 @@
+{
+  "slug": "savage-garden-i-knew-i-loved-you",
+  "artist": "Savage Garden",
+  "title": "İ Knew İ Loved You",
+  "key": "D",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "VERSA 1",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Maybe it's intuition",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "Em7",
+          "col": 11
+        },
+        {
+          "chord": "F#m7",
+          "col": 20
+        },
+        {
+          "chord": "G",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But some things you just don't question",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "Em7",
+          "col": 20
+        },
+        {
+          "chord": "F#m7",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Like in your eyes",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I see my future in an instant",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "Em7",
+          "col": 9
+        },
+        {
+          "chord": "F#m7",
+          "col": 23
+        },
+        {
+          "chord": "G",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And there it goes",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 4
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I think I've found my best friend",
+      "chords": [
+        {
+          "chord": "Em7",
+          "col": 2
+        },
+        {
+          "chord": "G",
+          "col": 21
+        },
+        {
+          "chord": "A",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I know that it might sound more than a little crazy",
+      "chords": [
+        {
+          "chord": "Em7",
+          "col": 4
+        },
+        {
+          "chord": "F#m7",
+          "col": 18
+        },
+        {
+          "chord": "G",
+          "col": 31
+        },
+        {
+          "chord": "A",
+          "col": 39
+        },
+        {
+          "chord": "Em7",
+          "col": 49
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But I believe",
+      "chords": [
+        {
+          "chord": "F#m7",
+          "col": 2
+        },
+        {
+          "chord": "G2",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "CHORUS",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "I knew I loved you before I met you",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 14
+        },
+        {
+          "chord": "Em7",
+          "col": 22
+        },
+        {
+          "chord": "G",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I think I dreamed you into life",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 13
+        },
+        {
+          "chord": "Em7",
+          "col": 23
+        },
+        {
+          "chord": "G",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I knew I loved you before I met you",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 13
+        },
+        {
+          "chord": "Em7",
+          "col": 22
+        },
+        {
+          "chord": "G",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I have been waiting all my life",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 16
+        },
+        {
+          "chord": "Em7",
+          "col": 21
+        },
+        {
+          "chord": "G2",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "VERSA 2",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "There's just no rhyme or reason",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "Em7",
+          "col": 16
+        },
+        {
+          "chord": "F#m7",
+          "col": 27
+        },
+        {
+          "chord": "G",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Only this sense of completion",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "Em7",
+          "col": 11
+        },
+        {
+          "chord": "F#m7",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And in your eyes",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I see the missing pieces",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "Em7",
+          "col": 10
+        },
+        {
+          "chord": "F#m7",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'm seaching for",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I think I've found my way home",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "Em7",
+          "col": 13
+        },
+        {
+          "chord": "G",
+          "col": 22
+        },
+        {
+          "chord": "A",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I know that it might sound more than a little crazy",
+      "chords": [
+        {
+          "chord": "Em7",
+          "col": 4
+        },
+        {
+          "chord": "F#m7",
+          "col": 18
+        },
+        {
+          "chord": "G",
+          "col": 31
+        },
+        {
+          "chord": "A",
+          "col": 39
+        },
+        {
+          "chord": "Em7",
+          "col": 49
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But I believe",
+      "chords": [
+        {
+          "chord": "F#m7",
+          "col": 2
+        },
+        {
+          "chord": "G",
+          "col": 9
+        },
+        {
+          "chord": "A",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "CHORUS",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "I knew I loved you before I met you",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 14
+        },
+        {
+          "chord": "Em7",
+          "col": 22
+        },
+        {
+          "chord": "G",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I think I dreamed you into life",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 13
+        },
+        {
+          "chord": "Em7",
+          "col": 23
+        },
+        {
+          "chord": "G",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I knew I loved you before I met you",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 13
+        },
+        {
+          "chord": "Em7",
+          "col": 22
+        },
+        {
+          "chord": "G",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I have been waiting all my life",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 16
+        },
+        {
+          "chord": "Em7",
+          "col": 21
+        },
+        {
+          "chord": "G",
+          "col": 28
+        },
+        {
+          "chord": "A",
+          "col": 32
+        },
+        {
+          "chord": "G",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "BRIDGA",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "ooooh   ooh     aaaaah",
+      "chords": [
+        {
+          "chord": "F#m7",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 6
+        },
+        {
+          "chord": "G",
+          "col": 11
+        },
+        {
+          "chord": "D",
+          "col": 15
+        },
+        {
+          "chord": "Bm",
+          "col": 18
+        },
+        {
+          "chord": "G",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "A thousand angels dance around you",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 12
+        },
+        {
+          "chord": "G",
+          "col": 21
+        },
+        {
+          "chord": "F#m7",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "ooooh   ooh     aaaaah",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 7
+        },
+        {
+          "chord": "D",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I am complete now that I've found you",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 8
+        },
+        {
+          "chord": "A",
+          "col": 12
+        },
+        {
+          "chord": "G",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "CHORUS",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "I knew I loved you before I met you",
+      "chords": [
+        {
+          "chord": "Eb",
+          "col": 15
+        },
+        {
+          "chord": "Fm7",
+          "col": 24
+        },
+        {
+          "chord": "Ab",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I think I dreamed you into life",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 0
+        },
+        {
+          "chord": "Eb",
+          "col": 17
+        },
+        {
+          "chord": "Ab",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I knew I loved you before I met you",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 0
+        },
+        {
+          "chord": "Eb",
+          "col": 16
+        },
+        {
+          "chord": "Fm7",
+          "col": 25
+        },
+        {
+          "chord": "Ab",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I have been waiting all my life",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 0
+        },
+        {
+          "chord": "Eb",
+          "col": 17
+        },
+        {
+          "chord": "Ab",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "OUTTRO",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I knew I loved you before I met you",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 0
+        },
+        {
+          "chord": "Eb",
+          "col": 16
+        },
+        {
+          "chord": "Fm7",
+          "col": 25
+        },
+        {
+          "chord": "Ab",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I think I dreamed you into life",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 0
+        },
+        {
+          "chord": "Eb",
+          "col": 17
+        },
+        {
+          "chord": "Ab",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I knew I loved you before I met you",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 0
+        },
+        {
+          "chord": "Eb",
+          "col": 16
+        },
+        {
+          "chord": "Fm7",
+          "col": 25
+        },
+        {
+          "chord": "Ab",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I knew I loved",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 0
+        },
+        {
+          "chord": "Eb",
+          "col": 16
+        },
+        {
+          "chord": "Fm7",
+          "col": 25
+        },
+        {
+          "chord": "Ab",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "A# (fade)",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I knew I loved",
+      "chords": [],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

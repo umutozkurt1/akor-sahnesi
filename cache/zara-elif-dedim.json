@@ -1,0 +1,144 @@
+{
+  "slug": "zara-elif-dedim",
+  "artist": "Zara",
+  "title": "Elif Dedim",
+  "key": "B",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "elif dedim be dedim a man",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 11
+        },
+        {
+          "chord": "Bm",
+          "col": 16
+        },
+        {
+          "chord": "C",
+          "col": 20
+        },
+        {
+          "chord": "Bm",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "kız ben sana   ne dedim",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 10
+        },
+        {
+          "chord": "Em",
+          "col": 13
+        },
+        {
+          "chord": "Bm",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 5
+        },
+        {
+          "chord": "Bm",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "kuş ganedi   kalem ol sa aman",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 8
+        },
+        {
+          "chord": "Em",
+          "col": 11
+        },
+        {
+          "chord": "Am",
+          "col": 19
+        },
+        {
+          "chord": "Bm",
+          "col": 22
+        },
+        {
+          "chord": "D",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "ah yazılmaz be   nim derdim",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 8
+        },
+        {
+          "chord": "Bm",
+          "col": 12
+        },
+        {
+          "chord": "D",
+          "col": 15
+        },
+        {
+          "chord": "Am",
+          "col": 21
+        },
+        {
+          "chord": "Bm",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

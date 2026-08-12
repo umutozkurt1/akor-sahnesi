@@ -1,0 +1,185 @@
+{
+  "slug": "tugba-yurt-masal",
+  "artist": "Tuğba Yurt",
+  "title": "Masal",
+  "key": "E",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Başının altında yabancı omuz",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 3
+        },
+        {
+          "chord": "D",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kaderin yazdığına teslim ruhumuz",
+      "chords": [
+        {
+          "chord": "D#m",
+          "col": 4
+        },
+        {
+          "chord": "F#",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Güvendiğim ne varsa hep yıkık dökük",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 4
+        },
+        {
+          "chord": "F#",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dün çoktuk, bugün az.. Yarın yokmuşuz",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 4
+        },
+        {
+          "chord": "F#",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İki kalbin cezası aynı değilken",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kırılanın rızası alınmamışken",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Her ayrılık gibi, zamansız erken",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 4
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İzini bırakıyor masal biterken",
+      "chords": [
+        {
+          "chord": "D#m",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 12
+        },
+        {
+          "chord": "F#",
+          "col": 19
+        },
+        {
+          "chord": "D",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kirpikten damla düşmeden, dön",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sevabı sana yazılsın",
+      "chords": [
+        {
+          "chord": "F#",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ayrılık ölümden farklı değilken, sen",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "D#m",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hala nasıl hayattasın?",
+      "chords": [
+        {
+          "chord": "F#",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 8
+        },
+        {
+          "chord": "D",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

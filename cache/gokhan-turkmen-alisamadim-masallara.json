@@ -1,0 +1,173 @@
+{
+  "slug": "gokhan-turkmen-alisamadim-masallara",
+  "artist": "Gökhan Türkmen",
+  "title": "Alışamadım Masallara",
+  "key": "C#",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Belki günahsız değil; ama hala masum.",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "C#m",
+          "col": 32
+        },
+        {
+          "chord": "Bm",
+          "col": 49
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yılların yorgunluğundan böyle mahsun.",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "C#m",
+          "col": 30
+        },
+        {
+          "chord": "Bm",
+          "col": 51
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hiç pişman değil, gönlün dediği dedik.",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 25
+        },
+        {
+          "chord": "Bm",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bekliyorum seni, özlüyorum seni!",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 8
+        },
+        {
+          "chord": "A",
+          "col": 33
+        },
+        {
+          "chord": "E",
+          "col": 48
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir tebessümün döndürür uçurumun kenarından beni.",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "C#m",
+          "col": 15
+        },
+        {
+          "chord": "D",
+          "col": 31
+        },
+        {
+          "chord": "C#m",
+          "col": 38
+        },
+        {
+          "chord": "Bm",
+          "col": 53
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir öpüşün söndürür alev alev yanan gönlümü.",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "C#m",
+          "col": 8
+        },
+        {
+          "chord": "D",
+          "col": 21
+        },
+        {
+          "chord": "C#m",
+          "col": 26
+        },
+        {
+          "chord": "Bm",
+          "col": 41
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Alışamadım, yapamadım; dön!",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 8
+        },
+        {
+          "chord": "D",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Beceremedim, yaşayamadım; dön!",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 8
+        },
+        {
+          "chord": "Bm",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

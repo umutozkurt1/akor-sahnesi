@@ -1,0 +1,123 @@
+{
+  "slug": "demir-demirkan-yarina-kadar",
+  "artist": "Demir Demirkan",
+  "title": "Yarına Kadar",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": " Bana senden kalan yalnız özledigim hatıran",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Başka hayattan senle çaldıgımız zaman",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 1
+        },
+        {
+          "chord": "Gm",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Son bir kez",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 1
+        },
+        {
+          "chord": "G",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Adımı söyle nefesinde tenimi hisset teninde",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 1
+        },
+        {
+          "chord": "A#",
+          "col": 13
+        },
+        {
+          "chord": "Cm",
+          "col": 23
+        },
+        {
+          "chord": "G",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Yarına kadar bırak herseyi unut",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 1
+        },
+        {
+          "chord": "Fm",
+          "col": 24
+        },
+        {
+          "chord": "Gm",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Bitse bile hayat ölüm gibi sev beni",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 1
+        },
+        {
+          "chord": "A#",
+          "col": 14
+        },
+        {
+          "chord": "Cm",
+          "col": 28
+        },
+        {
+          "chord": "A#",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

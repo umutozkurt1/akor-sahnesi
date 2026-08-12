@@ -1,0 +1,294 @@
+{
+  "slug": "zakkum-veda-busesi",
+  "artist": "Zakkum",
+  "title": "Veda Busesi",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Hani o bırakıp giderken seni",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Db",
+          "col": 7
+        },
+        {
+          "chord": "D#",
+          "col": 15
+        },
+        {
+          "chord": "Cm",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bu oksuz tavrini takmayacaktin",
+      "chords": [
+        {
+          "chord": "Db",
+          "col": 0
+        },
+        {
+          "chord": "A#m",
+          "col": 9
+        },
+        {
+          "chord": "D#",
+          "col": 18
+        },
+        {
+          "chord": "Cm",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 0
+        },
+        {
+          "chord": "Db",
+          "col": 3
+        },
+        {
+          "chord": "Cm",
+          "col": 6
+        },
+        {
+          "chord": "A#m",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Alnina koyarken veda busemi",
+      "chords": [
+        {
+          "chord": "A#m",
+          "col": 0
+        },
+        {
+          "chord": "G#",
+          "col": 7
+        },
+        {
+          "chord": "Db",
+          "col": 18
+        },
+        {
+          "chord": "D#m",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yuzume bu turlu bakmayacaktin",
+      "chords": [
+        {
+          "chord": "A#m",
+          "col": 0
+        },
+        {
+          "chord": "G#",
+          "col": 6
+        },
+        {
+          "chord": "Db",
+          "col": 10
+        },
+        {
+          "chord": "D#m",
+          "col": 14
+        },
+        {
+          "chord": "A#m",
+          "col": 19
+        },
+        {
+          "chord": "G#",
+          "col": 24
+        },
+        {
+          "chord": "Fm",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 0
+        },
+        {
+          "chord": "Db",
+          "col": 3
+        },
+        {
+          "chord": "Cm",
+          "col": 6
+        },
+        {
+          "chord": "A#m",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gelsede en aci sozler dilime",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Db",
+          "col": 8
+        },
+        {
+          "chord": "D#",
+          "col": 15
+        },
+        {
+          "chord": "Cm",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Uçacak sanirim birkac kelime",
+      "chords": [
+        {
+          "chord": "Db",
+          "col": 0
+        },
+        {
+          "chord": "A#m",
+          "col": 7
+        },
+        {
+          "chord": "D#",
+          "col": 16
+        },
+        {
+          "chord": "Cm",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 0
+        },
+        {
+          "chord": "Db",
+          "col": 3
+        },
+        {
+          "chord": "Cm",
+          "col": 6
+        },
+        {
+          "chord": "A#m",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir alev halinde düştün elime",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 4
+        },
+        {
+          "chord": "Db",
+          "col": 11
+        },
+        {
+          "chord": "A#m",
+          "col": 18
+        },
+        {
+          "chord": "D#",
+          "col": 26
+        },
+        {
+          "chord": "Cm",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hani ey göz yaşım akmayacaktın",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "Db",
+          "col": 5
+        },
+        {
+          "chord": "D#",
+          "col": 8
+        },
+        {
+          "chord": "A#m",
+          "col": 19
+        },
+        {
+          "chord": "Db",
+          "col": 27
+        },
+        {
+          "chord": "Cm",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

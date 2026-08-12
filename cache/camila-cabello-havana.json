@@ -1,0 +1,921 @@
+{
+  "slug": "camila-cabello-havana",
+  "artist": "Camila Cabello",
+  "title": "Havana",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Intro",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "      Hey",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "B7",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "                      Havana, ooh-na-na  (ay)",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "B7",
+          "col": 7
+        },
+        {
+          "chord": "Em",
+          "col": 11
+        },
+        {
+          "chord": "B7",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Half of my heart is in Havana, ooh-na-na  (ay)",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 43
+        },
+        {
+          "chord": "B7",
+          "col": 68
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "                                                 Em               C7m",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "He took me back to East Atlanta, na-na-na",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Oh, but my heart is in Havana (ay)",
+      "chords": [
+        {
+          "chord": "B7",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 45
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "              C7m                     B7",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "There's somethin' 'bout his manners (uh huh)",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Havana, ooh na na",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "He didn't walk up with that how you doin'? (uh)",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 6
+        },
+        {
+          "chord": "B7",
+          "col": 63
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "(When he came in the room)",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "He said there's a lot of girls I  can do with (uh)",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 6
+        },
+        {
+          "chord": "B7",
+          "col": 59
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "(But I can't without you)",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'm doin' forever in a minute (hey)",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 7
+        },
+        {
+          "chord": "B7",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "(That summer night in June)",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And papa says he got malo in him (uh)",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 8
+        },
+        {
+          "chord": "B7",
+          "col": 46
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "He got me feelin' like",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ooh-ooh-ooh      (yeah)",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "B7",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I knew it when I met him (yeah)",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  C7m                    B7",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I loved him when I left him",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Got me feelin' like",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ooh-ooh-ooh,",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "B7",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And then I had to tell him I had to go,",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 32
+        },
+        {
+          "chord": "B7",
+          "col": 57
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "oh na-na-na-na-na",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "                      Havana, ooh-na-na  (ay)",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "B7",
+          "col": 7
+        },
+        {
+          "chord": "Em",
+          "col": 11
+        },
+        {
+          "chord": "B7",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Half of my heart is in Havana, ooh-na-na  (ay)",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 43
+        },
+        {
+          "chord": "B7",
+          "col": 68
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "                                                 Em               C7m",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "He took me back to East Atlanta, na-na-na",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Oh, but my heart is in Havana (ay)",
+      "chords": [
+        {
+          "chord": "B7",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 45
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "              C7m                     B7",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "There's somethin' 'bout his manners (uh huh)",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Havana, ooh na na",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "    C7m",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Jeffery",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Just graduated, fresh on campus, mm",
+      "chords": [
+        {
+          "chord": "B7",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "      Fresh out East Atlanta with no manners, damn",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "B7",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Fresh out East Atlanta",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "C7m          B7",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bump on her bumper like a traffic jam",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "    Hey,   I was quick to pay that girl like Uncle Sam",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "B7",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "(Here you go, ay)",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "                  C7m B7",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Back it on me, shawty cravin' on me",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Get to diggin' on me (on me)",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 44
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "                        C7m",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "She waited on me (then what?)",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Shawty cakin' on me, got the bacon on me (wait up)",
+      "chords": [
+        {
+          "chord": "B7",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 83
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "                                     C7m                 B7",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "This is history in the makin' on me (on me)",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Point blank, close range, that be (tam tam)",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "                          C7m               B7",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "If it cost a million, that's me (that's me)",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I was gettin' mula, they feel",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "                      Havana, ooh-na-na  (ay)",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "B7",
+          "col": 7
+        },
+        {
+          "chord": "Em",
+          "col": 11
+        },
+        {
+          "chord": "B7",
+          "col": 41
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Half of my heart is in Havana, ooh-na-na  (ay)",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 43
+        },
+        {
+          "chord": "B7",
+          "col": 68
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "                                                 Em               C7m",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "He took me back to East Atlanta, na-na-na",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Oh, but my heart is in Havana (ay)",
+      "chords": [
+        {
+          "chord": "B7",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 45
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "              C7m                     B7",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "There's somethin' 'bout his manners (uh huh)",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Havana, ooh na na",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Na-na-na-na-na,   oh-na-na-na",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "B7",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Take me back, back, back like",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ooh  na na-na-na,   oh na-na-na",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 7
+        },
+        {
+          "chord": "B7",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Take me back, back, back like",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ooh-na-na,   oh-na-na-na",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "B7",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Take me back, back, back like",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ooh-na-na-na-na,   oh-na-na-na",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "B7",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Take me back, back, back",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ahha                  Ooh-ooh-ooh",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 2
+        },
+        {
+          "chord": "B7",
+          "col": 5
+        },
+        {
+          "chord": "Em",
+          "col": 12
+        },
+        {
+          "chord": "B7",
+          "col": 19
+        },
+        {
+          "chord": "Em",
+          "col": 22
+        },
+        {
+          "chord": "B7",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ooh-ooh-ooh",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "B7",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Take me back to my",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Havana, oohna-na",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 2
+        },
+        {
+          "chord": "B7",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Half of my heart is in Havana, ooh-na na (oh, yeah)",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 43
+        },
+        {
+          "chord": "B7",
+          "col": 74
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "He took me back to East Atlanta, na-na-na",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 49
+        },
+        {
+          "chord": "B7",
+          "col": 72
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Oh, but my heart is in Havana",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 44
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "       C7m            B7",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "My heart is in Havana",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Havana, ooh-na-na Uh huh",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "C7m",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Oh na-na-na (oh no, yeah yeah)",
+      "chords": [
+        {
+          "chord": "B7",
+          "col": 12
+        },
+        {
+          "chord": "Em",
+          "col": 44
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Oh na-na-na",
+      "chords": [
+        {
+          "chord": "B7",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "      Oh na-na-na",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "B7",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "                   Em  C7m",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "No, no, take me back",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Oh na-na-na",
+      "chords": [
+        {
+          "chord": "B7",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Havana, oohna-na",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

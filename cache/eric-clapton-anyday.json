@@ -1,0 +1,359 @@
+{
+  "slug": "eric-clapton-anyday",
+  "artist": "Eric Clapton",
+  "title": "Anyday",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Heard you talking and I thought I heard you say",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 33
+        },
+        {
+          "chord": "F",
+          "col": 43
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yeah, Please leave me alone",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 1
+        },
+        {
+          "chord": "D",
+          "col": 24
+        },
+        {
+          "chord": "F",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Nothing in this world can make me stay",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 27
+        },
+        {
+          "chord": "F",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'd rather go back, I'd rather go back home",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 16
+        },
+        {
+          "chord": "F",
+          "col": 25
+        },
+        {
+          "chord": "G",
+          "col": 39
+        },
+        {
+          "chord": "D7",
+          "col": 42
+        },
+        {
+          "chord": "A",
+          "col": 46
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "CHORUS:",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "But if you believe in me",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 5
+        },
+        {
+          "chord": "G",
+          "col": 13
+        },
+        {
+          "chord": "D7",
+          "col": 18
+        },
+        {
+          "chord": "A",
+          "col": 23
+        },
+        {
+          "chord": "D",
+          "col": 25
+        },
+        {
+          "chord": "G",
+          "col": 27
+        },
+        {
+          "chord": "D7",
+          "col": 29
+        },
+        {
+          "chord": "A",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Like I believe in you",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 10
+        },
+        {
+          "chord": "D7",
+          "col": 16
+        },
+        {
+          "chord": "A",
+          "col": 20
+        },
+        {
+          "chord": "D",
+          "col": 22
+        },
+        {
+          "chord": "G",
+          "col": 24
+        },
+        {
+          "chord": "D7",
+          "col": 26
+        },
+        {
+          "chord": "A",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "We could have a love so true",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 11
+        },
+        {
+          "chord": "G",
+          "col": 18
+        },
+        {
+          "chord": "D7",
+          "col": 21
+        },
+        {
+          "chord": "A",
+          "col": 26
+        },
+        {
+          "chord": "D",
+          "col": 29
+        },
+        {
+          "chord": "G",
+          "col": 31
+        },
+        {
+          "chord": "D7",
+          "col": 33
+        },
+        {
+          "chord": "A",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "We would go on endlessly",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 10
+        },
+        {
+          "chord": "G",
+          "col": 16
+        },
+        {
+          "chord": "D7",
+          "col": 19
+        },
+        {
+          "chord": "A",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And I know anyday, anyday, I will see you smile",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 12
+        },
+        {
+          "chord": "G",
+          "col": 22
+        },
+        {
+          "chord": "D",
+          "col": 43
+        },
+        {
+          "chord": "G",
+          "col": 48
+        },
+        {
+          "chord": "Em7",
+          "col": 50
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Any way, any way, (if) only for a little while",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 14
+        },
+        {
+          "chord": "D",
+          "col": 44
+        },
+        {
+          "chord": "G",
+          "col": 47
+        },
+        {
+          "chord": "Em7",
+          "col": 49
+        },
+        {
+          "chord": "A7",
+          "col": 54
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Well someday baby, I know you're gonna need me",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "When this whole world has got you down",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'll be right here, so woman call me",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And I'll never ever let you down ...CHORUS",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Break the glass and twist the knife into yourself",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You've got to be a fool to understand",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "To bring your woman back home",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "After she's left you for another",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You've got to be a, you've got to be a man ...CHORUS",
+      "chords": [],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

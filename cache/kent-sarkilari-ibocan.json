@@ -1,0 +1,171 @@
+{
+  "slug": "kent-sarkilari-ibocan",
+  "artist": "Kent Şarkıları",
+  "title": "İbocan",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "İbocan senin öykün dağda çoban kavalında",
+      "chords": [
+        {
+          "chord": "Cm7",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İbocan senin yüzün yerde toprak kokusunda",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 20
+        },
+        {
+          "chord": "Ebmaj7",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Aslında senin gözün gökte güvercin kanadında",
+      "chords": [
+        {
+          "chord": "Fm7",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 10
+        },
+        {
+          "chord": "Fm7",
+          "col": 22
+        },
+        {
+          "chord": "Gm",
+          "col": 33
+        },
+        {
+          "chord": "G7",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İbocan senin yolun petekte bal seferinde",
+      "chords": [
+        {
+          "chord": "Cm7",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yorgunsun yaşamaktan ama umut her halinde",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 22
+        },
+        {
+          "chord": "Ebmaj7",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İçinde düşüncende yenilgi deniz ötesinde",
+      "chords": [
+        {
+          "chord": "Fm7",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 10
+        },
+        {
+          "chord": "Fm7",
+          "col": 15
+        },
+        {
+          "chord": "Gm",
+          "col": 20
+        },
+        {
+          "chord": "G7",
+          "col": 25
+        },
+        {
+          "chord": "Bdim",
+          "col": 29
+        },
+        {
+          "chord": "C#dim",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İbocan dilimiz türkü tutma telaşında",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Közde kül yüreğimiz  şiirdaşların ardında",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Diz dize mısra mısra yaşayabilme telaşında",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İbocan tut ki biz yarın sabah gideceğiz",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ucu sonu kıpkızıl diyarlara yürüyeceğiz",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Aslında biz gittik mi  daha da dönemeyeceğiz",
+      "chords": [],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

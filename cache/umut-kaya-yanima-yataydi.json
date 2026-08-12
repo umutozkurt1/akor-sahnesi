@@ -1,0 +1,149 @@
+{
+  "slug": "umut-kaya-yanima-yataydi",
+  "artist": "Umut Kaya",
+  "title": "Yanıma Yataydı",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Gördü mü kıpırdayamaz gözlerim gözlerini",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 10
+        },
+        {
+          "chord": "A",
+          "col": 18
+        },
+        {
+          "chord": "A#",
+          "col": 21
+        },
+        {
+          "chord": "A",
+          "col": 28
+        },
+        {
+          "chord": "A#",
+          "col": 31
+        },
+        {
+          "chord": "A",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ben zaten sessizce gözlerim gözlerini",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 11
+        },
+        {
+          "chord": "A",
+          "col": 17
+        },
+        {
+          "chord": "A#",
+          "col": 19
+        },
+        {
+          "chord": "A",
+          "col": 25
+        },
+        {
+          "chord": "A#",
+          "col": 28
+        },
+        {
+          "chord": "C#",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "O bunu bilmiyordu",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gözyaşlarım içime içime akardı",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 17
+        },
+        {
+          "chord": "Dm",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "O buna aldırmadan keyfine bakardı",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İstedim yalnız bir kez yanıma yataydı",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 23
+        },
+        {
+          "chord": "Dm",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hiçbir şey yapmasa da elimi tutaydı",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

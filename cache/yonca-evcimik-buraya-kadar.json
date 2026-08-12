@@ -1,0 +1,152 @@
+{
+  "slug": "yonca-evcimik-buraya-kadar",
+  "artist": "Yonca Evcimik",
+  "title": "Buraya Kadar",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Tükendi tüm sevgiler zaman vurdu sevdayı",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sevişmeler yorgun artık sevişmeler yaralı",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ellerim alışkanlık hep ezbere sevişler",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Vazgeç benden vazgeç nekaldı söyle bizden",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bize yollar gözüktü yar ah yar",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 9
+        },
+        {
+          "chord": "Fm",
+          "col": 20
+        },
+        {
+          "chord": "A#",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yolların sonunda ayrılık var",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Pişman olmam son defa sev beni sar yar",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 9
+        },
+        {
+          "chord": "Fm",
+          "col": 23
+        },
+        {
+          "chord": "A#",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sonlar aynı boşver buraya kadar",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 27
+        },
+        {
+          "chord": "G#",
+          "col": 30
+        },
+        {
+          "chord": "G",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Buraya kadar",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

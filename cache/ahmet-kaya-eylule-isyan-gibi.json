@@ -1,0 +1,283 @@
+{
+  "slug": "ahmet-kaya-eylule-isyan-gibi",
+  "artist": "Ahmet Kaya",
+  "title": "Eylüle İsyan Gibi",
+  "key": "E",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Sen betonlar içinde ben senin özleminde",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 4
+        },
+        {
+          "chord": "Bm",
+          "col": 18
+        },
+        {
+          "chord": "Em",
+          "col": 21
+        },
+        {
+          "chord": "F#m",
+          "col": 25
+        },
+        {
+          "chord": "G",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sen yanginlar içinde ben mazlumun türküsünde",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 18
+        },
+        {
+          "chord": "Em",
+          "col": 22
+        },
+        {
+          "chord": "G",
+          "col": 31
+        },
+        {
+          "chord": "F#m",
+          "col": 43
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Aydinliği aradik karanliklar içinde",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 4
+        },
+        {
+          "chord": "Bm",
+          "col": 15
+        },
+        {
+          "chord": "Em",
+          "col": 18
+        },
+        {
+          "chord": "F#m",
+          "col": 22
+        },
+        {
+          "chord": "G",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sen dünün hasretinde ben yarinlarin derdinde",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 18
+        },
+        {
+          "chord": "Em",
+          "col": 22
+        },
+        {
+          "chord": "G",
+          "col": 31
+        },
+        {
+          "chord": "F#m",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sen bir yana ben bir yana dostlarımız bir yana",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 13
+        },
+        {
+          "chord": "G",
+          "col": 26
+        },
+        {
+          "chord": "F#m",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bölünsekte çözülsekte başkaldırdık zamana",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 11
+        },
+        {
+          "chord": "G",
+          "col": 22
+        },
+        {
+          "chord": "F#m",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Güneşte kavruluruz kıraç topraklar gibi",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 4
+        },
+        {
+          "chord": "Bm",
+          "col": 17
+        },
+        {
+          "chord": "Em",
+          "col": 20
+        },
+        {
+          "chord": "F#m",
+          "col": 23
+        },
+        {
+          "chord": "G",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hazanda savruluruz serseri yapraklar gibi",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 19
+        },
+        {
+          "chord": "F#m",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yanlızlığı yaşarız geride kalan gibi",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 4
+        },
+        {
+          "chord": "Bm",
+          "col": 17
+        },
+        {
+          "chord": "Em",
+          "col": 20
+        },
+        {
+          "chord": "F#m",
+          "col": 24
+        },
+        {
+          "chord": "G",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Düşer düşer kalkarız her eylül'e isyan gibi",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 18
+        },
+        {
+          "chord": "Em",
+          "col": 22
+        },
+        {
+          "chord": "G",
+          "col": 31
+        },
+        {
+          "chord": "F#m",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

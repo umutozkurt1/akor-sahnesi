@@ -1,0 +1,281 @@
+{
+  "slug": "deprem-gurdal-al-beni",
+  "artist": "Deprem Gürdal",
+  "title": "Al Beni",
+  "key": "G",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Bazı şeylerin hatrına duruyorum",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 7
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kolaydı sanki düşünmeden çekip gitmek",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 8
+        },
+        {
+          "chord": "Dm",
+          "col": 15
+        },
+        {
+          "chord": "Eb",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ama yok artık bir karar verdim bir söz verdim",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 9
+        },
+        {
+          "chord": "Dm",
+          "col": 24
+        },
+        {
+          "chord": "Eb",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kendime acımam sen üzülme tek derdim",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 16
+        },
+        {
+          "chord": "Dm",
+          "col": 30
+        },
+        {
+          "chord": "Eb",
+          "col": 41
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sustuğum oldu konuşmadım olan oldu",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 15
+        },
+        {
+          "chord": "Dm",
+          "col": 27
+        },
+        {
+          "chord": "Eb",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kaderimi bozamam yazılmamış şeyler oldu",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 13
+        },
+        {
+          "chord": "Dm",
+          "col": 29
+        },
+        {
+          "chord": "Eb",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kötü düşünme alışkanlık bizi yordu",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 7
+        },
+        {
+          "chord": "Dm",
+          "col": 21
+        },
+        {
+          "chord": "Eb",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Attım hep içime gözlerim senle doldu",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 13
+        },
+        {
+          "chord": "Dm",
+          "col": 24
+        },
+        {
+          "chord": "Eb",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Al beni götür uzaklara",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 9
+        },
+        {
+          "chord": "Eb",
+          "col": 13
+        },
+        {
+          "chord": "F",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hiçbir şeyim kalmaz senin yanında",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 19
+        },
+        {
+          "chord": "Eb",
+          "col": 30
+        },
+        {
+          "chord": "F",
+          "col": 43
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yaşanmaz oldu buralar dar bana",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 21
+        },
+        {
+          "chord": "Eb",
+          "col": 29
+        },
+        {
+          "chord": "F",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Al hadi sorma, sar kollarına",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 10
+        },
+        {
+          "chord": "Eb",
+          "col": 17
+        },
+        {
+          "chord": "F",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

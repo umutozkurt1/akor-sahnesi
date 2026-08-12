@@ -1,0 +1,233 @@
+{
+  "slug": "emre-altug-sans",
+  "artist": "Emre Altuğ",
+  "title": "Şans",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Intro:",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 3
+        },
+        {
+          "chord": "F",
+          "col": 6
+        },
+        {
+          "chord": "C",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 3
+        },
+        {
+          "chord": "F",
+          "col": 6
+        },
+        {
+          "chord": "Am",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   Bu vücudun içinde olmasada şansım",
+      "chords": [
+        {
+          "chord": "Am7",
+          "col": 3
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   Bir tebessüm yüzünde küsmem mi lazım",
+      "chords": [
+        {
+          "chord": "Am7",
+          "col": 3
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   Her yeni bir günde dönerse diye şansım",
+      "chords": [
+        {
+          "chord": "Am7",
+          "col": 3
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   Bir ümit bekleyince nefessiz kaldım",
+      "chords": [
+        {
+          "chord": "Am7",
+          "col": 3
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   İnan bana sen başkaydın",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 12
+        },
+        {
+          "chord": "F",
+          "col": 15
+        },
+        {
+          "chord": "Em",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   Gerçek diye kendimi kandırdım",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 16
+        },
+        {
+          "chord": "F",
+          "col": 29
+        },
+        {
+          "chord": "Em",
+          "col": 46
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   Bilseydim yalanmış umursarmıydım şansı",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 10
+        },
+        {
+          "chord": "F",
+          "col": 14
+        },
+        {
+          "chord": "C",
+          "col": 22
+        },
+        {
+          "chord": "Am",
+          "col": 28
+        },
+        {
+          "chord": "Em",
+          "col": 33
+        },
+        {
+          "chord": "F",
+          "col": 50
+        },
+        {
+          "chord": "Am",
+          "col": 55
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   Bilseydim yalanmış buymuş hayatın dansı",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 10
+        },
+        {
+          "chord": "F",
+          "col": 14
+        },
+        {
+          "chord": "C",
+          "col": 22
+        },
+        {
+          "chord": "Am",
+          "col": 28
+        },
+        {
+          "chord": "Em",
+          "col": 32
+        },
+        {
+          "chord": "F",
+          "col": 50
+        },
+        {
+          "chord": "Am",
+          "col": 56
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

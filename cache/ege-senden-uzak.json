@@ -1,0 +1,172 @@
+{
+  "slug": "ege-senden-uzak",
+  "artist": "Ege",
+  "title": "Senden Uzak",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": " Senden uzak senden uzak bir otel odasinda simdi yalnizim",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 1
+        },
+        {
+          "chord": "Dm",
+          "col": 86
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Anlami yok anlami yok dost olmuyor basucumda duran kitabim",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 22
+        },
+        {
+          "chord": "Am",
+          "col": 106
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Sonu gelmez sonu yok ucu yok dibi yok",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Bir hasret girdabindayim",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Gel desen gel desen de gelemem ki",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Çaresizligimin ortasindayim",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Tüm yollarim sana dogru sana dogru tüm sarkilarim",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 39
+        },
+        {
+          "chord": "Am",
+          "col": 83
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Sensiz hersey keyifsiz bölük pörçük uykularim",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 32
+        },
+        {
+          "chord": "E",
+          "col": 53
+        },
+        {
+          "chord": "Am",
+          "col": 67
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Nasil anlatmali bunu seni çok özledim",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Sensiz geçen günlerde aramani bekledim",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 1
+        },
+        {
+          "chord": "E",
+          "col": 41
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Nasil anlatmali bunu seni çok özledim",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 1
+        },
+        {
+          "chord": "Dm",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Sensiz geçen gecelerde aramani istedim",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 1
+        },
+        {
+          "chord": "E",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

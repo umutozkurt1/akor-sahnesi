@@ -1,0 +1,145 @@
+{
+  "slug": "pelin-gedik-cello",
+  "artist": "Pelin Gedik",
+  "title": "Çello",
+  "key": "F",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Hiç hayal kurma, yeşilde durma gözüme girmen zor",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "Gb",
+          "col": 17
+        },
+        {
+          "chord": "F",
+          "col": 44
+        },
+        {
+          "chord": "Ebm",
+          "col": 76
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Herkese hello, çalıyor çello ama içi zurna, boş",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "Gb",
+          "col": 18
+        },
+        {
+          "chord": "F",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir kere olmazı oldurmaz, kendine hiç toz kondurmaz",
+      "chords": [
+        {
+          "chord": "Bbm",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 29
+        },
+        {
+          "chord": "Bbm",
+          "col": 43
+        },
+        {
+          "chord": "Ebm",
+          "col": 73
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İkna oldum bu beni yangın çıksa kurtarmaz",
+      "chords": [
+        {
+          "chord": "Gb",
+          "col": 0
+        },
+        {
+          "chord": "Ebm",
+          "col": 26
+        },
+        {
+          "chord": "F",
+          "col": 51
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ne ara ne sor ne de kapıma dayan",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Senin aşkın hep koca bi yalan",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bi sen kalsan bi ben kalsam",
+      "chords": [
+        {
+          "chord": "Gb",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dünya yansa geri aramam",
+      "chords": [
+        {
+          "chord": "Ebm",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

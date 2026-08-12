@@ -1,0 +1,133 @@
+{
+  "slug": "mfo-sude",
+  "artist": "MFÖ",
+  "title": "Sude",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Day, dahi ya hum, nurunda nurunda nurunda nurunda, hiya hiya",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Bb",
+          "col": 75
+        },
+        {
+          "chord": "Am",
+          "col": 106
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gele gele gel gel, gele gele gele gele gele gele gel kız gel",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ha bu ya da feste sebaha, ha bu ya da feste sebaha, dasdisdos",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sude sude su",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 7
+        },
+        {
+          "chord": "F",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Day, dahi ya hum, nurunda nurunda nurunda nurunda, hiya hiya",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Bb",
+          "col": 75
+        },
+        {
+          "chord": "Am",
+          "col": 106
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ha bu ya da feste sebaha, ha bu ya da feste sebaha, dasdisdos",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sude sude su",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 7
+        },
+        {
+          "chord": "F",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

@@ -1,0 +1,125 @@
+{
+  "slug": "anonim-happy-birthday-to-you",
+  "artist": "Anonim",
+  "title": "Happy Birthday To You",
+  "key": "E",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Happy birthday to you",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Happy birthday to you",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Happy birthday happy birthday",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Happy birthday to you",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 14
+        },
+        {
+          "chord": "B",
+          "col": 27
+        },
+        {
+          "chord": "E",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "mutlu yıllar sana",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "mutlu yıllar sana",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "mutlu yıllar sana mutlu yıllar sana",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "mutlu yıllar sana",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 12
+        },
+        {
+          "chord": "B",
+          "col": 21
+        },
+        {
+          "chord": "E",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

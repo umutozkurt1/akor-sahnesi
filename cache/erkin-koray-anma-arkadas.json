@@ -1,0 +1,167 @@
+{
+  "slug": "erkin-koray-anma-arkadas",
+  "artist": "Erkin Koray",
+  "title": "Anma Arkadaş",
+  "key": "D",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Bir sevgili uğruna sen de benim gibi yanma arkadaş",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 30
+        },
+        {
+          "chord": "D#",
+          "col": 59
+        },
+        {
+          "chord": "D",
+          "col": 77
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "O yaşlı gözlerine o yalan sözlerine kanma arkadaş",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 25
+        },
+        {
+          "chord": "D#",
+          "col": 55
+        },
+        {
+          "chord": "D",
+          "col": 73
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Giden gelir mi sandın",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Aldandın boşa yandın",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bırakıp gitti seni",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Niçin ismini andın",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Anma arkadaş anma arkadaş",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 15
+        },
+        {
+          "chord": "D#",
+          "col": 19
+        },
+        {
+          "chord": "D",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir gün geri gelecek senden af dileyecek sanma arkadaş",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 34
+        },
+        {
+          "chord": "D#",
+          "col": 66
+        },
+        {
+          "chord": "D",
+          "col": 84
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yırt at gitsin resmini unut artık ismini anma arkadaş",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 33
+        },
+        {
+          "chord": "D#",
+          "col": 61
+        },
+        {
+          "chord": "D",
+          "col": 76
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

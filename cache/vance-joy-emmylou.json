@@ -1,0 +1,442 @@
+{
+  "slug": "vance-joy-emmylou",
+  "artist": "Vance Joy",
+  "title": "Emmylou",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Oh, if you're losing sleep,",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 7
+        },
+        {
+          "chord": "Em",
+          "col": 29
+        },
+        {
+          "chord": "D",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "oh if you're losing sleep, scared of shadows",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 6
+        },
+        {
+          "chord": "Em",
+          "col": 43
+        },
+        {
+          "chord": "D",
+          "col": 47
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I see it's just a chair,",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 1
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "See the clothes hang there",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Don't go losing sleep scared of shadows.",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 38
+        },
+        {
+          "chord": "D",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Oh don't feel bad",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 17
+        },
+        {
+          "chord": "Am",
+          "col": 23
+        },
+        {
+          "chord": "G",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I never have",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 13
+        },
+        {
+          "chord": "Em",
+          "col": 18
+        },
+        {
+          "chord": "D",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Since I got you",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 13
+        },
+        {
+          "chord": "Em",
+          "col": 18
+        },
+        {
+          "chord": "D",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "My Emmylou",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 7
+        },
+        {
+          "chord": "Em",
+          "col": 12
+        },
+        {
+          "chord": "D",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You wear your socks to bed",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 4
+        },
+        {
+          "chord": "Em",
+          "col": 27
+        },
+        {
+          "chord": "D",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You wear your socks to bed, that's what I do",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 4
+        },
+        {
+          "chord": "Em",
+          "col": 45
+        },
+        {
+          "chord": "D",
+          "col": 49
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Oh come on sleepyhead, get yourself to bed,",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 4
+        },
+        {
+          "chord": "Em",
+          "col": 23
+        },
+        {
+          "chord": "D",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Don't go losing all the night time",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 33
+        },
+        {
+          "chord": "D",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Oh don't feel bad",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 18
+        },
+        {
+          "chord": "Em",
+          "col": 24
+        },
+        {
+          "chord": "D",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I never have",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 13
+        },
+        {
+          "chord": "Em",
+          "col": 18
+        },
+        {
+          "chord": "D",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Since I got you",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 13
+        },
+        {
+          "chord": "Em",
+          "col": 18
+        },
+        {
+          "chord": "D",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "My Emmylou",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 7
+        },
+        {
+          "chord": "Em",
+          "col": 12
+        },
+        {
+          "chord": "D",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   You are loved, you are loved, you are loved, you are loved",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 52
+        },
+        {
+          "chord": "D",
+          "col": 62
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 2
+        },
+        {
+          "chord": "Am",
+          "col": 4
+        },
+        {
+          "chord": "G",
+          "col": 7
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Oh don't feel bad (You are loved, you are loved, you are loved, you are",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 17
+        },
+        {
+          "chord": "Em",
+          "col": 68
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "loved)",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 7
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I never have (You are loved, you are loved, you are loved, you are loved)",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 12
+        },
+        {
+          "chord": "Em",
+          "col": 63
+        },
+        {
+          "chord": "D",
+          "col": 74
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Since I got you (You are loved, you are loved, you are loved, you are loved)",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 14
+        },
+        {
+          "chord": "Em",
+          "col": 66
+        },
+        {
+          "chord": "D",
+          "col": 73
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "       F (strum once)",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "My Emmylou",
+      "chords": [],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

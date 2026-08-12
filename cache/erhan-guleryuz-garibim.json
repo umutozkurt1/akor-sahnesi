@@ -1,0 +1,135 @@
+{
+  "slug": "erhan-guleryuz-garibim",
+  "artist": "Erhan Güleryüz",
+  "title": "Garibim",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Garip  geldim dünya, şan şöhrete aldanma",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 33
+        },
+        {
+          "chord": "Fm",
+          "col": 54
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bedel ettim aşkımı, yürek kaldı dağlarda",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 30
+        },
+        {
+          "chord": "Fm",
+          "col": 51
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ne acılar yaşandı, ne yareler kapandı",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 13
+        },
+        {
+          "chord": "A#",
+          "col": 25
+        },
+        {
+          "chord": "D#",
+          "col": 43
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Uykular haram iken, gülüşlerin yalandı",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 16
+        },
+        {
+          "chord": "Cm",
+          "col": 52
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Garibim hadi gül biraz, bu bahar dallar kiraz",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 20
+        },
+        {
+          "chord": "A#",
+          "col": 33
+        },
+        {
+          "chord": "D#",
+          "col": 54
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yaşamak hep böyledir, su biter seller durmaz",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 23
+        },
+        {
+          "chord": "Cm",
+          "col": 59
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

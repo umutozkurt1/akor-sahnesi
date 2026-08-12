@@ -1,0 +1,243 @@
+{
+  "slug": "teoman-uc-bes-kisi",
+  "artist": "Teoman",
+  "title": "Üç Beş Kişi",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Her şey değişirken, yalnız biz aynı kaldık",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 22
+        },
+        {
+          "chord": "E",
+          "col": 37
+        },
+        {
+          "chord": "A",
+          "col": 58
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Küçücük üç beş kişi, geçmişle oyalandık",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 20
+        },
+        {
+          "chord": "E",
+          "col": 32
+        },
+        {
+          "chord": "A",
+          "col": 52
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yollar bitmez gibiyken, düşlere ulaşılmaz",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 22
+        },
+        {
+          "chord": "E",
+          "col": 39
+        },
+        {
+          "chord": "A",
+          "col": 60
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Konuşmadan kaybetmeden, yaşanmadan anlanmaz",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 25
+        },
+        {
+          "chord": "E",
+          "col": 43
+        },
+        {
+          "chord": "A",
+          "col": 67
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Uzak her şey çok uzak, tek sesin yakın bana",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 12
+        },
+        {
+          "chord": "C#m",
+          "col": 31
+        },
+        {
+          "chord": "Bm",
+          "col": 47
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yok her şey bitmemiş, seni bana hatırlatan",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 18
+        },
+        {
+          "chord": "E",
+          "col": 32
+        },
+        {
+          "chord": "A",
+          "col": 50
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Taksinin camında, vuran rüzgarla ayrıldım",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 18
+        },
+        {
+          "chord": "E",
+          "col": 33
+        },
+        {
+          "chord": "A",
+          "col": 56
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yorgun uykusuz, anıları aradım",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 10
+        },
+        {
+          "chord": "E",
+          "col": 22
+        },
+        {
+          "chord": "A",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yoruyorsa artık seni, eskinin eğlencesi",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 22
+        },
+        {
+          "chord": "E",
+          "col": 38
+        },
+        {
+          "chord": "A",
+          "col": 56
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Değişen sen misin, sen misin",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 11
+        },
+        {
+          "chord": "E",
+          "col": 23
+        },
+        {
+          "chord": "A",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

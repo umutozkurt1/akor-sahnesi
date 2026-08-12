@@ -1,0 +1,354 @@
+{
+  "slug": "the-pretty-reckless-you",
+  "artist": "The Pretty Reckless",
+  "title": "You",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Intro:",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 3
+        },
+        {
+          "chord": "C#m",
+          "col": 5
+        },
+        {
+          "chord": "F#m",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 4
+        },
+        {
+          "chord": "C#m",
+          "col": 8
+        },
+        {
+          "chord": "A",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You dont want me, no",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You dont need me",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 16
+        },
+        {
+          "chord": "C#m",
+          "col": 18
+        },
+        {
+          "chord": "F#m",
+          "col": 22
+        },
+        {
+          "chord": "F#m",
+          "col": 26
+        },
+        {
+          "chord": "C#m",
+          "col": 30
+        },
+        {
+          "chord": "A",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Like I want you, oh",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Like I need you",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 15
+        },
+        {
+          "chord": "C#m",
+          "col": 17
+        },
+        {
+          "chord": "F#m",
+          "col": 21
+        },
+        {
+          "chord": "F#m",
+          "col": 25
+        },
+        {
+          "chord": "C#m",
+          "col": 29
+        },
+        {
+          "chord": "A",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And I want you in my life",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 16
+        },
+        {
+          "chord": "C#m",
+          "col": 19
+        },
+        {
+          "chord": "F#m",
+          "col": 25
+        },
+        {
+          "chord": "F#m",
+          "col": 29
+        },
+        {
+          "chord": "C#m",
+          "col": 33
+        },
+        {
+          "chord": "A",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And I need you in my life",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 16
+        },
+        {
+          "chord": "C#m",
+          "col": 19
+        },
+        {
+          "chord": "F#m",
+          "col": 26
+        },
+        {
+          "chord": "F#m",
+          "col": 31
+        },
+        {
+          "chord": "C#m",
+          "col": 35
+        },
+        {
+          "chord": "A",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "(Aynı olduğu için tekrar yazmadım)",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You cant see me, no",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Like I see you",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I cant have you, no",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Like you have me",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And I want you in my life",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And I need you in my life",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "La La La",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 4
+        },
+        {
+          "chord": "Bm",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "La  La  La",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 4
+        },
+        {
+          "chord": "Bm",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "La  La   La",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 4
+        },
+        {
+          "chord": "Bm",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You cant feel me, no",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Like I feel you",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I cant steal you, no",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Like you stole me",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And I want you in my life",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And I need you in my life",
+      "chords": [],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

@@ -1,0 +1,133 @@
+{
+  "slug": "gece-yolculari-dur-gitme",
+  "artist": "Gece Yolcuları",
+  "title": "Dur Gitme",
+  "key": "D",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Gelir geçer ve biter birlikte tutunalım hayata.",
+      "chords": [
+        {
+          "chord": "D5",
+          "col": 0
+        },
+        {
+          "chord": "A#5",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Düşüncelerden sıyrılıp oturuver yanıma...",
+      "chords": [
+        {
+          "chord": "A5",
+          "col": 0
+        },
+        {
+          "chord": "A#5",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ne gelişin bitişin anlamsız hiç mi mutlu olmadık...",
+      "chords": [
+        {
+          "chord": "D5",
+          "col": 0
+        },
+        {
+          "chord": "A#5",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yüreğimde buruk bir acı herşeye yabancı..",
+      "chords": [
+        {
+          "chord": "A5",
+          "col": 0
+        },
+        {
+          "chord": "A#5",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dur gitme eğer gidersen dönüşü olmayacak..",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kırık dökük kalbimde yerin hiç dolmayacak...",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dur gitme eğer gidersen dönüşü olmayacak..",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kırık dökük kalbimde yerin hiç dolmayacak...",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

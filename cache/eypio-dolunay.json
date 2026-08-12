@@ -1,0 +1,156 @@
+{
+  "slug": "eypio-dolunay",
+  "artist": "Eypio",
+  "title": "Dolunay",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Beni duy beni gör beni anla beni banka gibi soy",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 6
+        },
+        {
+          "chord": "Fm",
+          "col": 37
+        },
+        {
+          "chord": "Cm",
+          "col": 72
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bana kız beni üz bana söv beni babam gibi döv",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 9
+        },
+        {
+          "chord": "Cm",
+          "col": 23
+        },
+        {
+          "chord": "Fm",
+          "col": 34
+        },
+        {
+          "chord": "Cm",
+          "col": 69
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Beni al ya götür ya da göm ya da eve dön",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 9
+        },
+        {
+          "chord": "Fm",
+          "col": 37
+        },
+        {
+          "chord": "Cm",
+          "col": 62
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bi sazım bi sözüm bi yanım Veysel gibi kör",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 9
+        },
+        {
+          "chord": "Fm",
+          "col": 40
+        },
+        {
+          "chord": "Cm",
+          "col": 63
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Boşum doldurma yokuşum durdurma",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Faiz gibisin gitmezsin zoruma",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gece gene vay dolunay dolunay yanarım",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 26
+        },
+        {
+          "chord": "A#",
+          "col": 36
+        },
+        {
+          "chord": "G#",
+          "col": 50
+        },
+        {
+          "chord": "Gm",
+          "col": 58
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "[Şarkı tamamlanacaktır]",
+      "chords": [],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

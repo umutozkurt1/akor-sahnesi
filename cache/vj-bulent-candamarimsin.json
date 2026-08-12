@@ -1,0 +1,155 @@
+{
+  "slug": "vj-bulent-candamarimsin",
+  "artist": "Vj Bülent",
+  "title": "Candamarımsın",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Senden önce öylesine nefes almış bu beden",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 12
+        },
+        {
+          "chord": "A#",
+          "col": 21
+        },
+        {
+          "chord": "Am",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Seni beklemişim ben bir ömür boyu meğerse hiç bilmeden",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 20
+        },
+        {
+          "chord": "A#",
+          "col": 34
+        },
+        {
+          "chord": "Am",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "En büyük aşkımdın belki ama en büyük korkumdun bir yandanda",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 17
+        },
+        {
+          "chord": "Gm",
+          "col": 27
+        },
+        {
+          "chord": "C",
+          "col": 46
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ya birgün biterse bu aşk diye ağlıyorum her gece",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 17
+        },
+        {
+          "chord": "Gm",
+          "col": 30
+        },
+        {
+          "chord": "C",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ben senin kalbinde hayat buldum sen alın yazım ilk baharımsın",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 19
+        },
+        {
+          "chord": "Gm",
+          "col": 32
+        },
+        {
+          "chord": "C",
+          "col": 47
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "yokluğun sanki kıyamet gibi sevgilim sen benim candamarımsın",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 16
+        },
+        {
+          "chord": "Dm",
+          "col": 28
+        },
+        {
+          "chord": "Gm",
+          "col": 38
+        },
+        {
+          "chord": "Am",
+          "col": 53
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

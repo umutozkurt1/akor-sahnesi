@@ -1,0 +1,131 @@
+{
+  "slug": "usher-climax",
+  "artist": "Usher",
+  "title": "Climax",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Going nowhere fast",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "We've reached the climax",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 6
+        },
+        {
+          "chord": "G",
+          "col": 16
+        },
+        {
+          "chord": "F",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "We're together, now we're undone",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 20
+        },
+        {
+          "chord": "Am",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Won't commit so we choose to",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Run away, do we separate",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 4
+        },
+        {
+          "chord": "E",
+          "col": 8
+        },
+        {
+          "chord": "C#m",
+          "col": 16
+        },
+        {
+          "chord": "B",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Don't wanna give in",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 6
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "So we both gave up",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 6
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Can't take it back",
+      "chords": [
+        {
+          "chord": "C#",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "It's too late we've reached the climax, climax.",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

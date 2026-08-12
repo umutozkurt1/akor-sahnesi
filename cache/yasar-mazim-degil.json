@@ -1,0 +1,183 @@
+{
+  "slug": "yasar-mazim-degil",
+  "artist": "Yaşar",
+  "title": "Mazim Değil",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "eskidim kendim kadar",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 18
+        },
+        {
+          "chord": "Cm",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "kapandı tüm kapılar",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 10
+        },
+        {
+          "chord": "Cm",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "geçip giden zamanlar",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "artık gözümde değil",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 4
+        },
+        {
+          "chord": "G",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "artık gözümde değil",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "savruldum yıllar yılı",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 13
+        },
+        {
+          "chord": "A#",
+          "col": 21
+        },
+        {
+          "chord": "Cm",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "ağlattım bulutları",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 10
+        },
+        {
+          "chord": "G#",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "şu hayatın kahrını",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "çeksem de lüzum değil",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 15
+        },
+        {
+          "chord": "Cm",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "resimler mi karışmış",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "bu benim mazim değil",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "aynalar mı buruşmuş",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "bu benim yüzüm değil",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

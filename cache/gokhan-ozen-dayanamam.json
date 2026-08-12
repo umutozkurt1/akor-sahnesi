@@ -1,0 +1,157 @@
+{
+  "slug": "gokhan-ozen-dayanamam",
+  "artist": "Gökhan Özen",
+  "title": "Dayanamam",
+  "key": "A#",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Yorgunum özlemekten hayalini",
+      "chords": [
+        {
+          "chord": "A#m",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 16
+        },
+        {
+          "chord": "A#m",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ağlarım gözlerimde yaşlar seli",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 0
+        },
+        {
+          "chord": "D#m",
+          "col": 16
+        },
+        {
+          "chord": "B",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir seni unutmadım yıllardır",
+      "chords": [
+        {
+          "chord": "D#m",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Birde ben ağlarken gittiğini",
+      "chords": [
+        {
+          "chord": "C#",
+          "col": 0
+        },
+        {
+          "chord": "G#m",
+          "col": 15
+        },
+        {
+          "chord": "A#m",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dayanamam inan dayanamam buna",
+      "chords": [
+        {
+          "chord": "A#m",
+          "col": 0
+        },
+        {
+          "chord": "D#m",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Unutamam biran dokunamam sana",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 5
+        },
+        {
+          "chord": "A#m",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Harcanırım uğruna aldırmadan zamana",
+      "chords": [
+        {
+          "chord": "C#",
+          "col": 7
+        },
+        {
+          "chord": "D#m",
+          "col": 25
+        },
+        {
+          "chord": "B",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Diyemem dilim varmaz diyemem elveda",
+      "chords": [
+        {
+          "chord": "G#m",
+          "col": 4
+        },
+        {
+          "chord": "A#m",
+          "col": 17
+        },
+        {
+          "chord": "B",
+          "col": 25
+        },
+        {
+          "chord": "A#m",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

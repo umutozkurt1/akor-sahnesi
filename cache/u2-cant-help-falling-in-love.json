@@ -1,0 +1,169 @@
+{
+  "slug": "u2-cant-help-falling-in-love",
+  "artist": "U2",
+  "title": "Can't Help Falling İn Love",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Wise men say, only fools rush in",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "C#m",
+          "col": 4
+        },
+        {
+          "chord": "F#m",
+          "col": 10
+        },
+        {
+          "chord": "D",
+          "col": 26
+        },
+        {
+          "chord": "A",
+          "col": 29
+        },
+        {
+          "chord": "E7",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But I   can't help falling in love with you",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 4
+        },
+        {
+          "chord": "E7",
+          "col": 9
+        },
+        {
+          "chord": "A",
+          "col": 15
+        },
+        {
+          "chord": "Bm",
+          "col": 20
+        },
+        {
+          "chord": "A",
+          "col": 29
+        },
+        {
+          "chord": "E7",
+          "col": 33
+        },
+        {
+          "chord": "A",
+          "col": 44
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Shall I stay, would it be a sin",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "If I can't help falling in love with you",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Like a river flows surely to the sea",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 1
+        },
+        {
+          "chord": "G#7",
+          "col": 18
+        },
+        {
+          "chord": "C#m",
+          "col": 26
+        },
+        {
+          "chord": "G#7",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Darling so it goes, some things are meant to be",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 1
+        },
+        {
+          "chord": "G#7",
+          "col": 13
+        },
+        {
+          "chord": "C#m",
+          "col": 21
+        },
+        {
+          "chord": "F#7",
+          "col": 37
+        },
+        {
+          "chord": "Bm",
+          "col": 43
+        },
+        {
+          "chord": "E7",
+          "col": 49
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Take my hand, take my whole life too",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "For I can't help falling in love with you",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "For I can't help falling in love with you",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "For I can't help falling in love with you",
+      "chords": [],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

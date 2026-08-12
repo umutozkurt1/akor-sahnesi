@@ -1,0 +1,209 @@
+{
+  "slug": "berksan-kiyamadigim",
+  "artist": "Berksan",
+  "title": "Kıyamadığım",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "SENİN DE İÇİN ACIYOR MU",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 2
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "AKLINA GELİYOR MUYUM HİÇ",
+      "chords": [
+        {
+          "chord": "Dm7",
+          "col": 4
+        },
+        {
+          "chord": "A#7",
+          "col": 8
+        },
+        {
+          "chord": "Am7",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "GÖZLERİNE DOLUP DOLUP",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "YANAKLARINDAN AKIYOR MUYUM HİÇ",
+      "chords": [
+        {
+          "chord": "Dm7",
+          "col": 5
+        },
+        {
+          "chord": "A#7",
+          "col": 14
+        },
+        {
+          "chord": "Am",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "BENİ ARADIĞIN OLUYOR MU",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "GECELER UYUYABİLİYOR MUSUN",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "KIYAMADIĞIM SÖYLE",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 6
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "MERAK EDİYORUM",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 2
+        },
+        {
+          "chord": "Am",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "HANİ BİR SİGARA YAKAR",
+      "chords": [
+        {
+          "chord": "Dm7",
+          "col": 5
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "GÜNEŞİN BATIŞINA BAKAR",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 4
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "KALP DİKEN DOLU GÜLLER AÇAR",
+      "chords": [
+        {
+          "chord": "E7",
+          "col": 7
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "BUNLARI YAŞIYOR MUSUN",
+      "chords": [
+        {
+          "chord": "C7",
+          "col": 0
+        },
+        {
+          "chord": "A7",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "ACILAR PİŞMANLIKLAR",
+      "chords": [
+        {
+          "chord": "Dm7",
+          "col": 3
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "GEÇMİŞE YOLCULUKLAR",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 5
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "SEBEPLİ SEBEPSİZ DALIP AĞLIYOR MUSUN",
+      "chords": [
+        {
+          "chord": "E7",
+          "col": 5
+        },
+        {
+          "chord": "C7",
+          "col": 17
+        },
+        {
+          "chord": "E7",
+          "col": 22
+        },
+        {
+          "chord": "Am",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

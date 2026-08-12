@@ -1,0 +1,153 @@
+{
+  "slug": "hakan-yesilyurt-sen-asksin",
+  "artist": "Hakan Yeşilyurt",
+  "title": "Sen Aşksın",
+  "key": "E",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Azalır geceler bu dertler biter",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "C#m",
+          "col": 7
+        },
+        {
+          "chord": "E",
+          "col": 16
+        },
+        {
+          "chord": "D",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sen üzülme sen üzülme ölürüm sana ben sana beeeen",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 10
+        },
+        {
+          "chord": "A",
+          "col": 21
+        },
+        {
+          "chord": "G#m",
+          "col": 31
+        },
+        {
+          "chord": "G#m",
+          "col": 42
+        },
+        {
+          "chord": "F#m",
+          "col": 49
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Uzun uzun anlatılmaz tek bildiğim sen aşksın",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 11
+        },
+        {
+          "chord": "Dm",
+          "col": 23
+        },
+        {
+          "chord": "D",
+          "col": 26
+        },
+        {
+          "chord": "E",
+          "col": 34
+        },
+        {
+          "chord": "F#m",
+          "col": 41
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Senin için yaşıyorum herşeyimsin sen aşkım",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 12
+        },
+        {
+          "chord": "Dm",
+          "col": 23
+        },
+        {
+          "chord": "D",
+          "col": 26
+        },
+        {
+          "chord": "E",
+          "col": 33
+        },
+        {
+          "chord": "C#m",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Değişir mevsim yine yaz gelir",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sen üzülme sen üzülme yanarım sana ben",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Uzun uzun anlatılmaz tek bildiğim sen aşksın",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Senin için yaşıyorum herşeyimsin sen aşkım",
+      "chords": [],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

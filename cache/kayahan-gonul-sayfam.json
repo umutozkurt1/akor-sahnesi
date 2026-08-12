@@ -1,0 +1,169 @@
+{
+  "slug": "kayahan-gonul-sayfam",
+  "artist": "Kayahan",
+  "title": "Gönül Sayfam",
+  "key": "A#",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Öpüştüm resimlerinle, şarkımız çaldı dinledim",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "A#m",
+          "col": 31
+        },
+        {
+          "chord": "F#",
+          "col": 38
+        },
+        {
+          "chord": "F",
+          "col": 65
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bütün gece bekledim, yine sabah oluyor",
+      "chords": [
+        {
+          "chord": "D#m",
+          "col": 30
+        },
+        {
+          "chord": "F#",
+          "col": 36
+        },
+        {
+          "chord": "F",
+          "col": 59
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Belki gelirsin sen diye, ışıkları söndürmedim",
+      "chords": [
+        {
+          "chord": "A#m",
+          "col": 31
+        },
+        {
+          "chord": "F#",
+          "col": 36
+        },
+        {
+          "chord": "F",
+          "col": 65
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yeni doğan sabaha hezimetim oluyor",
+      "chords": [
+        {
+          "chord": "D#m",
+          "col": 27
+        },
+        {
+          "chord": "F#",
+          "col": 32
+        },
+        {
+          "chord": "F",
+          "col": 54
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İçimde hatıralar delik deşik, mektupları okudum seçip seçip",
+      "chords": [
+        {
+          "chord": "A#m",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 47
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Karanfili kokladım senin için, odam hasret kokuyor",
+      "chords": [
+        {
+          "chord": "F#",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 25
+        },
+        {
+          "chord": "D#m",
+          "col": 50
+        },
+        {
+          "chord": "F",
+          "col": 77
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Aynanın karşısına geçip geçip, kaderime ağladım içip içip",
+      "chords": [
+        {
+          "chord": "A#m",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 51
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gönül sayfamda canım açık seçik, senin adın yazıyor",
+      "chords": [
+        {
+          "chord": "F#",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 25
+        },
+        {
+          "chord": "D#m",
+          "col": 50
+        },
+        {
+          "chord": "F",
+          "col": 77
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

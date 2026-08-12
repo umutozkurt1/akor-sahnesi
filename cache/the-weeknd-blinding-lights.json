@@ -1,0 +1,536 @@
+{
+  "slug": "the-weeknd-blinding-lights",
+  "artist": "The Weeknd",
+  "title": "Blinding Lights",
+  "key": "F",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Intro :",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 3
+        },
+        {
+          "chord": "Eb",
+          "col": 6
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Bb",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I been tryna call",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I been on my own for long enough",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Maybe you can show me how to love, maybe",
+      "chords": [
+        {
+          "chord": "Eb",
+          "col": 14
+        },
+        {
+          "chord": "Bb",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'm going through withdrawals",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You don't even have to do too much",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You can turn me on with just a touch, baby",
+      "chords": [
+        {
+          "chord": "Eb",
+          "col": 16
+        },
+        {
+          "chord": "Bb",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I look around and  Sin City's cold and empty",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  No one's around to judge me",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  I can't see clearly when you're gone",
+      "chords": [
+        {
+          "chord": "Eb",
+          "col": 0
+        },
+        {
+          "chord": "Bb",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I said, ooh, I'm blinded by the lights",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 8
+        },
+        {
+          "chord": "Cm",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "No, I can't sleep until I feel your  touch",
+      "chords": [
+        {
+          "chord": "Eb",
+          "col": 4
+        },
+        {
+          "chord": "Bb",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I said, ooh, I'm drowning in the night",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 8
+        },
+        {
+          "chord": "Cm",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Oh, when I'm like this, you're the one I  trust",
+      "chords": [
+        {
+          "chord": "Eb",
+          "col": 9
+        },
+        {
+          "chord": "Bb",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hey, hey, hey",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "           I'm running out of time",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 3
+        },
+        {
+          "chord": "Eb",
+          "col": 6
+        },
+        {
+          "chord": "Bb",
+          "col": 9
+        },
+        {
+          "chord": "Fm",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "'Cause I can see the sun light up the sky",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "So I hit the road in overdrive, baby",
+      "chords": [
+        {
+          "chord": "Eb",
+          "col": 13
+        },
+        {
+          "chord": "Bb",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Oh,  the city's cold and empty",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 3
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  No one's around to judge me",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I can't see clearly when you're gone",
+      "chords": [
+        {
+          "chord": "Eb",
+          "col": 0
+        },
+        {
+          "chord": "Bb",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I said, ooh, I'm blinded by the lights",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 8
+        },
+        {
+          "chord": "Cm",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "No, I can't sleep until I feel your  touch",
+      "chords": [
+        {
+          "chord": "Eb",
+          "col": 4
+        },
+        {
+          "chord": "Bb",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I said, ooh, I'm drowning in the night",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 8
+        },
+        {
+          "chord": "Cm",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Oh, when I'm like this, you're the one I  trust",
+      "chords": [
+        {
+          "chord": "Eb",
+          "col": 4
+        },
+        {
+          "chord": "Bb",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'm just walking by to let you know",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I can never say it on the phone",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Will never let you go this time",
+      "chords": [
+        {
+          "chord": "Eb",
+          "col": 5
+        },
+        {
+          "chord": "Bb",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I said, ooh, I'm blinded by the lights",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 8
+        },
+        {
+          "chord": "Cm",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "No, I can't sleep until I feel your  touch",
+      "chords": [
+        {
+          "chord": "Eb",
+          "col": 4
+        },
+        {
+          "chord": "Bb",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hey, hey, hey",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "      Oh,  Hey, hey, hey",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 3
+        },
+        {
+          "chord": "Eb",
+          "col": 6
+        },
+        {
+          "chord": "Bb",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "      Oh",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 3
+        },
+        {
+          "chord": "Eb",
+          "col": 6
+        },
+        {
+          "chord": "Bb",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I said, ooh, I'm blinded by the lights",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 8
+        },
+        {
+          "chord": "Cm",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "No, I can't sleep until I feel your  touch",
+      "chords": [
+        {
+          "chord": "Eb",
+          "col": 4
+        },
+        {
+          "chord": "Bb",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

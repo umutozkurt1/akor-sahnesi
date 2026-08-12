@@ -1,0 +1,185 @@
+{
+  "slug": "tarkan-biz-nereye",
+  "artist": "Tarkan",
+  "title": "Biz Nereye",
+  "key": "D",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Takılmışım sözlerine, ben mecburum gözlerine",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 16
+        },
+        {
+          "chord": "Bb",
+          "col": 30
+        },
+        {
+          "chord": "Dm",
+          "col": 58
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bunlara inanmak zor bir anda",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 20
+        },
+        {
+          "chord": "Bb",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kim ne varsa alacak, rüzgar çıktı ne kalacak",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 20
+        },
+        {
+          "chord": "Bb",
+          "col": 32
+        },
+        {
+          "chord": "Dm",
+          "col": 51
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bütün bunlar delilikse ben deliyim",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 26
+        },
+        {
+          "chord": "Bb",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Uçmasam da göklere, bir kuş olsam pencerede",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 21
+        },
+        {
+          "chord": "C",
+          "col": 36
+        },
+        {
+          "chord": "Am",
+          "col": 60
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Perdeyi kapatsam da ben seninle",
+      "chords": [
+        {
+          "chord": "Bb",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 24
+        },
+        {
+          "chord": "C",
+          "col": 38
+        },
+        {
+          "chord": "Am",
+          "col": 47
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bin ses buldum isminde, bin renk buldum yüzünde",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 29
+        },
+        {
+          "chord": "C",
+          "col": 40
+        },
+        {
+          "chord": "Am",
+          "col": 69
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bu bir zaman denizi, biz nereye",
+      "chords": [
+        {
+          "chord": "Bb",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 23
+        },
+        {
+          "chord": "C",
+          "col": 34
+        },
+        {
+          "chord": "Am",
+          "col": 45
+        },
+        {
+          "chord": "Dm",
+          "col": 50
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

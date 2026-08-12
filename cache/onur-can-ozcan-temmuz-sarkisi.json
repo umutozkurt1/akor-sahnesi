@@ -1,0 +1,174 @@
+{
+  "slug": "onur-can-ozcan-temmuz-sarkisi",
+  "artist": "Onur Can Özcan",
+  "title": "Temmuz Şarkısı",
+  "key": "F#",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Söylesin artık, temmuz şarkısını",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bu sonbahar bize yaramadı",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Özlesin artık, Mayıs Haziran'ı",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 9
+        },
+        {
+          "chord": "D",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kavuşsunlar, ayrılık yakışmadı",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 18
+        },
+        {
+          "chord": "C#",
+          "col": 46
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gelsin birden uyandırsın, kokusu yosunlarının",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 6
+        },
+        {
+          "chord": "C#m",
+          "col": 14
+        },
+        {
+          "chord": "E",
+          "col": 29
+        },
+        {
+          "chord": "D",
+          "col": 45
+        },
+        {
+          "chord": "Bm",
+          "col": 65
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Uyutsun dizinde , safir geceler uyansın",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 9
+        },
+        {
+          "chord": "E",
+          "col": 21
+        },
+        {
+          "chord": "F#m",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "x2",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Temmuzu kadehine doldur, şerefine kara kışa",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "C#m",
+          "col": 47
+        },
+        {
+          "chord": "D",
+          "col": 70
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dolunayı durdur, güneşi görsün o da",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 24
+        },
+        {
+          "chord": "D",
+          "col": 59
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yalnızlığına inat karışsın      turkuaz sabahlara",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 18
+        },
+        {
+          "chord": "E",
+          "col": 33
+        },
+        {
+          "chord": "Bm",
+          "col": 38
+        },
+        {
+          "chord": "C#",
+          "col": 68
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

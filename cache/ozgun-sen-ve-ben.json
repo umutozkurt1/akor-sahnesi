@@ -1,0 +1,199 @@
+{
+  "slug": "ozgun-sen-ve-ben",
+  "artist": "Özgün",
+  "title": "Sen ve Ben",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Elim telefona gidiyor, şunu bi arasam mı diyorum",
+      "chords": [
+        {
+          "chord": "A#m",
+          "col": 0
+        },
+        {
+          "chord": "G#",
+          "col": 42
+        },
+        {
+          "chord": "D#m",
+          "col": 72
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Mantık aşka hükmediyor, yine en başa dönüyorum",
+      "chords": [
+        {
+          "chord": "F#",
+          "col": 12
+        },
+        {
+          "chord": "D#m",
+          "col": 33
+        },
+        {
+          "chord": "F",
+          "col": 53
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Aklım geçmişe gidiyor, aynı sahneyi görüyorum",
+      "chords": [
+        {
+          "chord": "A#m",
+          "col": 0
+        },
+        {
+          "chord": "G#",
+          "col": 42
+        },
+        {
+          "chord": "D#m",
+          "col": 72
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sen aşkı tavaf ederken, ben sözümden dönüyorum",
+      "chords": [
+        {
+          "chord": "F#",
+          "col": 12
+        },
+        {
+          "chord": "D#m",
+          "col": 33
+        },
+        {
+          "chord": "F",
+          "col": 53
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hiç umut kalmadı ama, derdim de bu değil ki",
+      "chords": [
+        {
+          "chord": "F#",
+          "col": 10
+        },
+        {
+          "chord": "D#m",
+          "col": 28
+        },
+        {
+          "chord": "F",
+          "col": 42
+        },
+        {
+          "chord": "A#m",
+          "col": 61
+        },
+        {
+          "chord": "G#",
+          "col": 67
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Eski günlerin hatırına, bir cümle söyleyeyim mi",
+      "chords": [
+        {
+          "chord": "F#",
+          "col": 9
+        },
+        {
+          "chord": "D#m",
+          "col": 27
+        },
+        {
+          "chord": "F",
+          "col": 40
+        },
+        {
+          "chord": "A#m",
+          "col": 66
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Benim en iyi yanım sendin, bir olmazdın ama bütünlerdin",
+      "chords": [
+        {
+          "chord": "A#m",
+          "col": 11
+        },
+        {
+          "chord": "F#",
+          "col": 63
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Üzülmektiyse bütün derdin, inan üzmezdim üzülmezdin",
+      "chords": [
+        {
+          "chord": "D#m",
+          "col": 15
+        },
+        {
+          "chord": "F",
+          "col": 65
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Benim en iyi yanım sendin, hatalarımı senle öğrendim",
+      "chords": [
+        {
+          "chord": "A#m",
+          "col": 11
+        },
+        {
+          "chord": "F#",
+          "col": 63
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bugünkü aklım o gün olsa, inan üzmezdim üzülmezdin",
+      "chords": [
+        {
+          "chord": "D#m",
+          "col": 18
+        },
+        {
+          "chord": "F",
+          "col": 68
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

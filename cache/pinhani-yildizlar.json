@@ -1,0 +1,205 @@
+{
+  "slug": "pinhani-yildizlar",
+  "artist": "Pinhani",
+  "title": "Yıldızlar",
+  "key": "B",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Gökyüzünde ne çok yıldız var",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 10
+        },
+        {
+          "chord": "G",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Biri parlak biri ürkek biri yalnız diğeri sanki burda",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 8
+        },
+        {
+          "chord": "F#m",
+          "col": 22
+        },
+        {
+          "chord": "G",
+          "col": 36
+        },
+        {
+          "chord": "Em",
+          "col": 56
+        },
+        {
+          "chord": "Bm",
+          "col": 65
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İçimizde ne çok hırsız var",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 7
+        },
+        {
+          "chord": "G",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Biri aldı beni götürdü sonra sattı hem de yok pahasına",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 8
+        },
+        {
+          "chord": "F#m",
+          "col": 22
+        },
+        {
+          "chord": "G",
+          "col": 36
+        },
+        {
+          "chord": "Em",
+          "col": 56
+        },
+        {
+          "chord": "Bm",
+          "col": 65
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ah       şu hırsızlar",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 5
+        },
+        {
+          "chord": "Bm",
+          "col": 19
+        },
+        {
+          "chord": "A",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Her gece rüyamda senin kılığında dolaşırlar",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 8
+        },
+        {
+          "chord": "F#m",
+          "col": 18
+        },
+        {
+          "chord": "G",
+          "col": 32
+        },
+        {
+          "chord": "Em",
+          "col": 52
+        },
+        {
+          "chord": "Bm",
+          "col": 61
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ah        karanlıklar",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 5
+        },
+        {
+          "chord": "Bm",
+          "col": 17
+        },
+        {
+          "chord": "A",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Seni benden seni dünden seni gerçeklerden korurlar",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 9
+        },
+        {
+          "chord": "F#m",
+          "col": 25
+        },
+        {
+          "chord": "G",
+          "col": 44
+        },
+        {
+          "chord": "Em",
+          "col": 64
+        },
+        {
+          "chord": "Bm",
+          "col": 73
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

@@ -1,0 +1,227 @@
+{
+  "slug": "teoman-sus-konusma",
+  "artist": "Teoman",
+  "title": "Sus Konuşma",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Küçücüktüm ufacıktım dilenci kraldım",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Çok yürüdüm çok acıktım",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 19
+        },
+        {
+          "chord": "Dm",
+          "col": 27
+        },
+        {
+          "chord": "Am",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kalbim sızlar yüzüm gizler",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir tren camından dünyayı gördüm",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 46
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Haline üzüldüm",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sus konuşma sözler kimin umurunda",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 14
+        },
+        {
+          "chord": "F",
+          "col": 24
+        },
+        {
+          "chord": "G",
+          "col": 44
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Son bir öpücük yeter açık yaralarıma",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 16
+        },
+        {
+          "chord": "F",
+          "col": 28
+        },
+        {
+          "chord": "G",
+          "col": 49
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Belki sen umutsuzluktan sessiz",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 10
+        },
+        {
+          "chord": "F",
+          "col": 19
+        },
+        {
+          "chord": "G",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sen zaten her zaman kaybettik senle ben",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 10
+        },
+        {
+          "chord": "F",
+          "col": 19
+        },
+        {
+          "chord": "Am",
+          "col": 62
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hayat bir yarış dersin hep",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 1
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir meydan savaşı bir kavga sakın yara alma",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 43
+        },
+        {
+          "chord": "Dm",
+          "col": 53
+        },
+        {
+          "chord": "Am",
+          "col": 64
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sen bir kağıt gemisin gazteden",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kıvrımların açılırken yorulmaz mısın her gün ölmekten",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 45
+        },
+        {
+          "chord": "Dm",
+          "col": 68
+        },
+        {
+          "chord": "Am",
+          "col": 83
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

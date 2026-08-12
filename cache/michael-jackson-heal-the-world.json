@@ -1,0 +1,998 @@
+{
+  "slug": "michael-jackson-heal-the-world",
+  "artist": "Michael Jackson",
+  "title": "Heal The World",
+  "key": "D",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "INTRO & VERSES",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "E----------------------------------------------------------",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "B-------2-------------3--------------5--------------3------",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "G-----2---2---2-----2---2---2------6---6---6------2--------",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "D---2-------2-----4-------4------6-------6------4----------",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "A-0-------------0--------------0--------------0------------",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "E----------------------------------------------------------",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "VERSA 1",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "There's a place in your heart",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 10
+        },
+        {
+          "chord": "Em7",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And I know that it is love",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 6
+        },
+        {
+          "chord": "Em7",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And this place could be much",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Brighter than tomorrow",
+      "chords": [
+        {
+          "chord": "Em7",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 19
+        },
+        {
+          "chord": "Em7",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And if you really try",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 7
+        },
+        {
+          "chord": "Em7",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You'll find there's no need to cry",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 12
+        },
+        {
+          "chord": "Em7",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "In this place you'll feel",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "There's no hurt or sorrow",
+      "chords": [
+        {
+          "chord": "Em7",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 22
+        },
+        {
+          "chord": "Em7",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "PRA-CHORUS",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "There are ways to get there",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 15
+        },
+        {
+          "chord": "F#m",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "If you care enough for the living",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 7
+        },
+        {
+          "chord": "F#m",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Make a little space",
+      "chords": [
+        {
+          "chord": "Em7",
+          "col": 7
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Make a better place",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "CHORUS",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "Heal the world",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Make it a better place",
+      "chords": [
+        {
+          "chord": "Em7",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "For you and for me",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 4
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And the entire human race",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 8
+        },
+        {
+          "chord": "A",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "There are people dying",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 10
+        },
+        {
+          "chord": "F#m",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "If you care enough for the living",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 7
+        },
+        {
+          "chord": "F#m",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Make a better place for you and for me",
+      "chords": [
+        {
+          "chord": "Em7",
+          "col": 7
+        },
+        {
+          "chord": "G",
+          "col": 26
+        },
+        {
+          "chord": "D",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Em7",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 11
+        },
+        {
+          "chord": "Em7",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "VERSA 2",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "If you want to know why",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 7
+        },
+        {
+          "chord": "Em7",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "There's a love that cannot lie",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 10
+        },
+        {
+          "chord": "Em7",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Love is strong it only cares for joyful giving",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 8
+        },
+        {
+          "chord": "Em7",
+          "col": 24
+        },
+        {
+          "chord": "F#m",
+          "col": 43
+        },
+        {
+          "chord": "Em7",
+          "col": 51
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "If we try we shall see",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 6
+        },
+        {
+          "chord": "Em7",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "In this bliss we cannot feel",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 8
+        },
+        {
+          "chord": "Em7",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Fear or dread we stop existing",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 8
+        },
+        {
+          "chord": "Em7",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And start living",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 10
+        },
+        {
+          "chord": "Em7",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "PRA-CHORUS",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Then it feels that always",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 14
+        },
+        {
+          "chord": "F#m",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Love's enough for us growing",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "So make a better world",
+      "chords": [
+        {
+          "chord": "Em7",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Make a better world",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "[CHORUS]",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "BRIDGA",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And the dream we were conceived in",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Will reveal a joyful face",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And the world we once believed in",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Will shine again in grace",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Then why do we keep strangling life",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 5
+        },
+        {
+          "chord": "F#m",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Wound this earth crucify this soul",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 11
+        },
+        {
+          "chord": "F#m",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Though it's plain to see",
+      "chords": [
+        {
+          "chord": "Em7",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "This world is heavenly",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Be God's glow",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 3
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "VERSA 3",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "We could fly so high",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 9
+        },
+        {
+          "chord": "Em7",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Let our spirits never die",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 8
+        },
+        {
+          "chord": "Em7",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "In my heart I feel you are all my brothers",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 6
+        },
+        {
+          "chord": "Em7",
+          "col": 13
+        },
+        {
+          "chord": "F#m",
+          "col": 24
+        },
+        {
+          "chord": "Em7",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Create a world with no fear",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 9
+        },
+        {
+          "chord": "Em7",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Together we cry happy tears",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 12
+        },
+        {
+          "chord": "Em7",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "See the nations turn their swords",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 8
+        },
+        {
+          "chord": "Em7",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Into plowshares",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 5
+        },
+        {
+          "chord": "Em7",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "[PRA-CHORUS]",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "[CHORUS]",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "OUTRO",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "Heal the world",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Make it a better place",
+      "chords": [
+        {
+          "chord": "F#m7",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "For you and for me",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 4
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And the entire human race",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 8
+        },
+        {
+          "chord": "B",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "There are people dying",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 10
+        },
+        {
+          "chord": "G#m",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "If you care enough for the living",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 7
+        },
+        {
+          "chord": "G#m",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Make a better place for you and for me",
+      "chords": [
+        {
+          "chord": "F#m7",
+          "col": 7
+        },
+        {
+          "chord": "A",
+          "col": 27
+        },
+        {
+          "chord": "E",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Heal the world",
+      "chords": [
+        {
+          "chord": "F#",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Make it a better place",
+      "chords": [
+        {
+          "chord": "G#m7",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "For you and for me",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 4
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And the entire human race",
+      "chords": [
+        {
+          "chord": "F#",
+          "col": 8
+        },
+        {
+          "chord": "C#",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "There are people dying",
+      "chords": [
+        {
+          "chord": "D#m",
+          "col": 10
+        },
+        {
+          "chord": "A#m",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "If you care enough for the living",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 7
+        },
+        {
+          "chord": "A#m",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Make a better place for you and for me",
+      "chords": [
+        {
+          "chord": "G#m7",
+          "col": 7
+        },
+        {
+          "chord": "B",
+          "col": 27
+        },
+        {
+          "chord": "F#",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "ENDINC",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You and for me",
+      "chords": [
+        {
+          "chord": "F#",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 14
+        },
+        {
+          "chord": "F#",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

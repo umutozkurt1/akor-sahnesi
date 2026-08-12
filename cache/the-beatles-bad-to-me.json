@@ -1,0 +1,359 @@
+{
+  "slug": "the-beatles-bad-to-me",
+  "artist": "The Beatles",
+  "title": "Bad To Me",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "   If you ever leave me   I`ll be sad and blue",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   Don`t you ever leave me, I`m so in love wiyh you",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 1
+        },
+        {
+          "chord": "Dm",
+          "col": 31
+        },
+        {
+          "chord": "G7",
+          "col": 48
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   The birds in the sky would be sad and lonely",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 7
+        },
+        {
+          "chord": "Em",
+          "col": 20
+        },
+        {
+          "chord": "Am",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   If they know that I lost my one and only",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 11
+        },
+        {
+          "chord": "Em",
+          "col": 21
+        },
+        {
+          "chord": "Am",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   They`d be sad if you`re bad to me",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 13
+        },
+        {
+          "chord": "G7",
+          "col": 27
+        },
+        {
+          "chord": "C",
+          "col": 34
+        },
+        {
+          "chord": "F",
+          "col": 38
+        },
+        {
+          "chord": "G7",
+          "col": 41
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   The leaves in the tree would be softly sighin`",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 7
+        },
+        {
+          "chord": "Em",
+          "col": 21
+        },
+        {
+          "chord": "Am",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   If they heard from the breeze that you left me",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 11
+        },
+        {
+          "chord": "Em",
+          "col": 26
+        },
+        {
+          "chord": "Am",
+          "col": 41
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   crying They`ll be sad don`t be bad to me",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 21
+        },
+        {
+          "chord": "G7",
+          "col": 34
+        },
+        {
+          "chord": "C",
+          "col": 41
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   But I know you won`t leave me",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   Cause you told me so",
+      "chords": [
+        {
+          "chord": "G7",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   And I have no intention of letting you go",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 7
+        },
+        {
+          "chord": "Am",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   Just as long as you let me know",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 3
+        },
+        {
+          "chord": "G7",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   You won`t be bad to me",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 7
+        },
+        {
+          "chord": "G7",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   So the birds in the sky won`t be sad and lonely",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 10
+        },
+        {
+          "chord": "Em",
+          "col": 23
+        },
+        {
+          "chord": "Am",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   Cause they know that I got my one and only",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 14
+        },
+        {
+          "chord": "Em",
+          "col": 24
+        },
+        {
+          "chord": "Am",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   They`ll be glad, you`re not bad to me",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 14
+        },
+        {
+          "chord": "G7",
+          "col": 31
+        },
+        {
+          "chord": "C",
+          "col": 38
+        },
+        {
+          "chord": "B",
+          "col": 41
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   They`ll be glad, you`re not bad to me",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 14
+        },
+        {
+          "chord": "G7",
+          "col": 31
+        },
+        {
+          "chord": "C",
+          "col": 38
+        },
+        {
+          "chord": "F",
+          "col": 41
+        },
+        {
+          "chord": "G7",
+          "col": 44
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   To me,     To me      To me....",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 6
+        },
+        {
+          "chord": "F",
+          "col": 9
+        },
+        {
+          "chord": "G7",
+          "col": 12
+        },
+        {
+          "chord": "C",
+          "col": 17
+        },
+        {
+          "chord": "F",
+          "col": 20
+        },
+        {
+          "chord": "G7",
+          "col": 23
+        },
+        {
+          "chord": "C",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

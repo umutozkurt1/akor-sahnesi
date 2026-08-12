@@ -1,0 +1,225 @@
+{
+  "slug": "bendeniz-elveda-dedin",
+  "artist": "Bendeniz",
+  "title": "Elveda Dedin",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "İntro :",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 4
+        },
+        {
+          "chord": "Ab",
+          "col": 8
+        },
+        {
+          "chord": "Bb",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Elveda dedin",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bunu nasıl söyledin",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sokaklar yine bomboş",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Acınacak haldeyim",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 6
+        },
+        {
+          "chord": "Eb",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gözlerim doluyor",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Tenimde bir üşüme",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gün geçer gönül döner",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Unuturum belki de",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 7
+        },
+        {
+          "chord": "Eb",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kurtulur mu söyle",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 9
+        },
+        {
+          "chord": "Gm",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bu kalbim bu sevdadan",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 10
+        },
+        {
+          "chord": "Gm",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kolay olmaz öyle",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 11
+        },
+        {
+          "chord": "Gm",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Toparlanmak ardından",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 9
+        },
+        {
+          "chord": "Gm",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yalvarmam boşuna bekleme hiç aramam",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 11
+        },
+        {
+          "chord": "Gm",
+          "col": 55
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gün olur ayrılık unutulur, yeterim kendime",
+      "chords": [
+        {
+          "chord": "Ab",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yok olamam acılarla",
+      "chords": [
+        {
+          "chord": "Bb",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

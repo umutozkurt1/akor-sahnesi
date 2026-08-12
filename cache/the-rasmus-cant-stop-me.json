@@ -1,0 +1,229 @@
+{
+  "slug": "the-rasmus-cant-stop-me",
+  "artist": "The Rasmus",
+  "title": "Can't Stop Me",
+  "key": "E",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 8
+        },
+        {
+          "chord": "G",
+          "col": 11
+        },
+        {
+          "chord": "C",
+          "col": 13
+        },
+        {
+          "chord": "G",
+          "col": 15
+        },
+        {
+          "chord": "B",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Verse:",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "Time to laughter but you know the answer. Who will be the one.",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 17
+        },
+        {
+          "chord": "C",
+          "col": 42
+        },
+        {
+          "chord": "G",
+          "col": 58
+        },
+        {
+          "chord": "B",
+          "col": 62
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "To finally stand up and take a chance. 'Cause life has just begun.",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 20
+        },
+        {
+          "chord": "C",
+          "col": 39
+        },
+        {
+          "chord": "G",
+          "col": 60
+        },
+        {
+          "chord": "B",
+          "col": 64
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And I don't need the tv, I don't need the shotgun",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I don't have to run, I can reach you",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 27
+        },
+        {
+          "chord": "B",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'll follow the feeling and swallow the meaning",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I don't have to run if I need you. I can reach you",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 25
+        },
+        {
+          "chord": "B",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I will do what I feel like. Hey, can't stop me now.",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 28
+        },
+        {
+          "chord": "G",
+          "col": 39
+        },
+        {
+          "chord": "C",
+          "col": 47
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I will do what I feel like. Hey, can't stop me now.",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 7
+        },
+        {
+          "chord": "B",
+          "col": 17
+        },
+        {
+          "chord": "Em",
+          "col": 28
+        },
+        {
+          "chord": "G",
+          "col": 39
+        },
+        {
+          "chord": "C",
+          "col": 47
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I will do what I feel like.",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 7
+        },
+        {
+          "chord": "B",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

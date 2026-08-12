@@ -1,0 +1,158 @@
+{
+  "slug": "sila-acisa-da-oldurmez",
+  "artist": "Sıla",
+  "title": "Acısa da Öldürmez",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Bir bir aklımda söylediklerin, işe yaramaz bu bildiklerim",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hatırlamak laneti aklımın, acımaz anlatsam hadi buyrun",
+      "chords": [
+        {
+          "chord": "A#m",
+          "col": 0
+        },
+        {
+          "chord": "Db",
+          "col": 75
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ben birine aşık o bana vurgun, soranların kuzey yıldızıydık",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Beraber de yapamadık, kendi dünyamızın yalnızıydık",
+      "chords": [
+        {
+          "chord": "Bbm",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 78
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Anlayınca çok geç oldu",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "Eb",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Mahvolduk kahrolduk",
+      "chords": [
+        {
+          "chord": "Db",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sonra döndük dedik ki",
+      "chords": [
+        {
+          "chord": "Bbm",
+          "col": 15
+        },
+        {
+          "chord": "Eb",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Acısa da öldürmez",
+      "chords": [
+        {
+          "chord": "Bbm",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Cehenneme döndürmez",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hayatını söndürmez",
+      "chords": [
+        {
+          "chord": "Db",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gideni de döndürmez artık",
+      "chords": [
+        {
+          "chord": "Bbm",
+          "col": 17
+        },
+        {
+          "chord": "Cm",
+          "col": 41
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

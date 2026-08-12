@@ -1,0 +1,137 @@
+{
+  "slug": "yeni-turku-yesilmisik",
+  "artist": "Yeni Türkü",
+  "title": "Yeşilmişik",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Bir çift yaprakmis dalinda yumusacik",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 40
+        },
+        {
+          "chord": "A",
+          "col": 57
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Tutmusum tutmusum ellerinden senin",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 43
+        },
+        {
+          "chord": "A",
+          "col": 62
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Düsmüsüz yavasça bir sakin derenin",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 41
+        },
+        {
+          "chord": "A",
+          "col": 58
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Içindeymisik yesilmisik sazmisik",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 27
+        },
+        {
+          "chord": "A",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Baliklar gibiymis sessiz ve karanlik",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 34
+        },
+        {
+          "chord": "A",
+          "col": 54
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yüzermis saçlarin yüzermis nefesin",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 36
+        },
+        {
+          "chord": "A",
+          "col": 55
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Susarmisiz öyle bir sakin derenin",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 34
+        },
+        {
+          "chord": "A",
+          "col": 52
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Içindeymisik yesilmisik sazmisik",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 27
+        },
+        {
+          "chord": "A",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

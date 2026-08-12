@@ -1,0 +1,264 @@
+{
+  "slug": "zaz-les-passants",
+  "artist": "ZAZ",
+  "title": "Les Passants",
+  "key": "D",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 7
+        },
+        {
+          "chord": "A#",
+          "col": 10
+        },
+        {
+          "chord": "A",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 6
+        },
+        {
+          "chord": "C",
+          "col": 9
+        },
+        {
+          "chord": "Dm",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Verse:",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "Les passants passant,",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "j'passe mon temps",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "a les regarder penser,",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " leurs pas presse,",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "dans leurs corps leses",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "leurs passes se devoilent",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "dans les pas sans se soucier,",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Que, suspicieuse, a l'affut",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "je percois le jeu de pan,",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "leurs visages comme des masques",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "me fait l'effet repugnant",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "que faire semblant",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "c'est dans l'air du temps.",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Nak.:",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Passe, passe, passera",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "la derniere restera...",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "E-----------3--6-5--",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "B-------------------",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "G--------5---------",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "D-------------------",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "A-------------------",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "E-------------------",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Passe, passe, passera",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "la derniere restera...",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

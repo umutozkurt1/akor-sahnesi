@@ -1,0 +1,183 @@
+{
+  "slug": "rengin-yalniz-gece",
+  "artist": "Rengin",
+  "title": "Yalnız Gece",
+  "key": "B",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Aslında diğerlerinden bir farkı yok, biraz daha yalnızım sadece",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 6
+        },
+        {
+          "chord": "Em",
+          "col": 38
+        },
+        {
+          "chord": "F#",
+          "col": 92
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Biraz daha yorgun bu gece",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "F#",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ya senden vazgeçip yalnız kalmalı ya da sır gibi seni yaşamalı",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 9
+        },
+        {
+          "chord": "Em",
+          "col": 41
+        },
+        {
+          "chord": "F#",
+          "col": 90
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bu derde derman yok, nafile",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "F#",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ağlama ah gönlüm ah ağlama, sen istedin bunları",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 34
+        },
+        {
+          "chord": "Em",
+          "col": 64
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sakın ağlama, suç sende, suç sevende",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 27
+        },
+        {
+          "chord": "F#",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ağlama ah gönlüm ah ağlama, sen yaptın hataları",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 34
+        },
+        {
+          "chord": "Em",
+          "col": 64
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bedelini öde",
+      "chords": [
+        {
+          "chord": "F#",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Pes etme gönül, ses etme gönül ah",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "F#",
+          "col": 25
+        },
+        {
+          "chord": "Bm",
+          "col": 49
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Zamanla geçer dert etme gönül",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "F#",
+          "col": 23
+        },
+        {
+          "chord": "Bm",
+          "col": 41
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

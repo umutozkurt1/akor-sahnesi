@@ -1,0 +1,309 @@
+{
+  "slug": "fikret-kizilok-gidiyorsun",
+  "artist": "Fikret Kızılok",
+  "title": "Gidiyorsun",
+  "key": "B",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "D7B",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gidiyorsun",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "C           CB        Am       D5 D5C D5B",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Beni bana bırakıp ayrılığa katlanıp",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "D7B",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gidiyorsun",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "    C             CB   Am       D5 D5C D5B",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sen de benim gibi ayrılığa katlanıp",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Artık bir derin sızıdır",
+      "chords": [
+        {
+          "chord": "Am9",
+          "col": 0
+        },
+        {
+          "chord": "F#7sus4",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bize bizden kalan",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 3
+        },
+        {
+          "chord": "Am",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "            D5 D5C D5B",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İçimizde saklanan",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Artık bir ömür boyudur",
+      "chords": [
+        {
+          "chord": "Am9",
+          "col": 0
+        },
+        {
+          "chord": "F#7sus4",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Seni bana çağıran",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 5
+        },
+        {
+          "chord": "Am",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "           D5  D5C    D5B",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kalbimin kuytusundan",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Geceyarıları sokak lambaları",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Penceremde meraklı rüzgar",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Okul çocukları pürtelaş insanlar",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hiç birşey olmamış gibi",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 10
+        },
+        {
+          "chord": "Am",
+          "col": 15
+        },
+        {
+          "chord": "Bm",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Oysa içimden kopan bir sen değilsin",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 5
+        },
+        {
+          "chord": "Am",
+          "col": 16
+        },
+        {
+          "chord": "Bm",
+          "col": 32
+        },
+        {
+          "chord": "G",
+          "col": 49
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Umutlarım, anılarım, inançlarım var",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 1
+        },
+        {
+          "chord": "F#7sus4",
+          "col": 16
+        },
+        {
+          "chord": "C",
+          "col": 26
+        },
+        {
+          "chord": "Em",
+          "col": 43
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kendine gülümseyen bir halim olsa da",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 17
+        },
+        {
+          "chord": "Bm",
+          "col": 40
+        },
+        {
+          "chord": "G",
+          "col": 56
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İçin için akan gözyaşlarım var",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 39
+        },
+        {
+          "chord": "F#7sus4",
+          "col": 42
+        },
+        {
+          "chord": "Em",
+          "col": 52
+        },
+        {
+          "chord": "F#7sus4",
+          "col": 55
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

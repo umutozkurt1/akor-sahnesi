@@ -1,0 +1,118 @@
+{
+  "slug": "ardem-beyaz-bulut",
+  "artist": "Ardem",
+  "title": "Beyaz Bulut",
+  "key": "F#",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Bana bakma sen, dilim söyler kalbim susar",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 1
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Güneşin rengi bende siyah olur",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 2
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Demir atma bu limanda, gemilerin batar",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hayallerin küser ziyan olur",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Şimdi git beni unut",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ben sana zararlıyım,",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Şimdi git belki ben aşklara yasaklıyım",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Unut, unut içimdeki boşluk",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 3
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bana bile büyük",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ben fırtına, sen beyaz bulut.",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

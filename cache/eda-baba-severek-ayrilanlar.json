@@ -1,0 +1,230 @@
+{
+  "slug": "eda-baba-severek-ayrilanlar",
+  "artist": "Eda Baba",
+  "title": "Severek Ayrılanlar",
+  "key": "E",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Severek ayrılanlar bilirler ayrılığı",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 21
+        },
+        {
+          "chord": "F",
+          "col": 31
+        },
+        {
+          "chord": "E",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Severek ayrılanlar yaşarlar pişmanlığı",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 22
+        },
+        {
+          "chord": "F",
+          "col": 34
+        },
+        {
+          "chord": "E",
+          "col": 51
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Çok uzak şehirlerde aynı çarpar iki yürek",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 11
+        },
+        {
+          "chord": "Am",
+          "col": 24
+        },
+        {
+          "chord": "F",
+          "col": 36
+        },
+        {
+          "chord": "E",
+          "col": 54
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Çok uzak bir şehirde beklendiğini bilerek",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 11
+        },
+        {
+          "chord": "Am",
+          "col": 24
+        },
+        {
+          "chord": "F",
+          "col": 38
+        },
+        {
+          "chord": "E",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gün gelir için yanar elin gider mektuplara",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 7
+        },
+        {
+          "chord": "Am",
+          "col": 19
+        },
+        {
+          "chord": "E",
+          "col": 33
+        },
+        {
+          "chord": "Am",
+          "col": 48
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gün gelir beni ararsın gözün dalar uzaklara",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 23
+        },
+        {
+          "chord": "F",
+          "col": 32
+        },
+        {
+          "chord": "E",
+          "col": 60
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yaz gelir sıcak olur akşam sahil yollarında",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 6
+        },
+        {
+          "chord": "Am",
+          "col": 20
+        },
+        {
+          "chord": "E",
+          "col": 39
+        },
+        {
+          "chord": "Am",
+          "col": 51
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Her adımda beni anarsın gözün dalar ufuklara",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 28
+        },
+        {
+          "chord": "F",
+          "col": 37
+        },
+        {
+          "chord": "E",
+          "col": 63
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Rüzgar aşkımı kucağına alsa",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dağları tepeleri aşsa",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Saçlarına ulaşsa",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

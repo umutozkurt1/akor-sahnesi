@@ -1,0 +1,821 @@
+{
+  "slug": "john-legend-you-and-i-nobody-in-the-world",
+  "artist": "John Legend",
+  "title": "You And I Nobody In The World",
+  "key": "E",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "   (G)    (Bm)         (A)",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "e---------2-----------------------------------------------------------------",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "B----------------3-----2----------------------------------------------------",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "G------4---------4-----2----------------------------------------------------",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "D----------------------2----------------------------------------------------",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "A--------------2-------0----------------------------------------------------",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "E---3-----------------------------------------------------------------------",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "[Verse]",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You fix your make up, just so",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 25
+        },
+        {
+          "chord": "C#m",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Guess you don't know, that you’re beautiful",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 1
+        },
+        {
+          "chord": "B",
+          "col": 17
+        },
+        {
+          "chord": "G#m",
+          "col": 27
+        },
+        {
+          "chord": "A",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Try on every dress that you own",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 24
+        },
+        {
+          "chord": "C#m",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You were fine in my eyes, a half hour ago",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 21
+        },
+        {
+          "chord": "G#m",
+          "col": 29
+        },
+        {
+          "chord": "A",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "[Pre-Chorus]",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "If your mirror won't make it any clearer i'll",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 20
+        },
+        {
+          "chord": "E",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "          D Bass)    A (strum)",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Be the one to let you know",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Out of all of the girls",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You’re my one and only girl",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 12
+        },
+        {
+          "chord": "B",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ain't nobody in the world tonight",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 11
+        },
+        {
+          "chord": "C#m",
+          "col": 26
+        },
+        {
+          "chord": "B",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "All of the stars, you make them shine like they were ours",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "C#m",
+          "col": 32
+        },
+        {
+          "chord": "B",
+          "col": 54
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ain't nobody in the world but you and i",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "C#m",
+          "col": 30
+        },
+        {
+          "chord": "B",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "C#mB        A",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You and i",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ain't nobody in the world but you",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 2
+        },
+        {
+          "chord": "G#m",
+          "col": 10
+        },
+        {
+          "chord": "F#m",
+          "col": 18
+        },
+        {
+          "chord": "F#m7",
+          "col": 27
+        },
+        {
+          "chord": "B",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "[Verse]",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You stop the room when we walk in",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 23
+        },
+        {
+          "chord": "C#m",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Spotlights on everybody staring",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 1
+        },
+        {
+          "chord": "B",
+          "col": 9
+        },
+        {
+          "chord": "G#m",
+          "col": 24
+        },
+        {
+          "chord": "A",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Tell all of these boys, they're wasting their time",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 8
+        },
+        {
+          "chord": "B",
+          "col": 31
+        },
+        {
+          "chord": "C#m",
+          "col": 41
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Stop standing in line, cause you’re all mine",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 8
+        },
+        {
+          "chord": "B",
+          "col": 17
+        },
+        {
+          "chord": "G#m",
+          "col": 36
+        },
+        {
+          "chord": "A",
+          "col": 43
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "[Pre-Chorus]",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And this evening I, won't let the feeling die",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 1
+        },
+        {
+          "chord": "A",
+          "col": 18
+        },
+        {
+          "chord": "E",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "        A (strum)",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I never wanna leave your side",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Out of all of the girls",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You my one and only girl",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 7
+        },
+        {
+          "chord": "B",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ain't nobody in the world tonight",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 7
+        },
+        {
+          "chord": "C#m",
+          "col": 29
+        },
+        {
+          "chord": "B",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "All of the stars, you make them shine like they were ours",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "C#m",
+          "col": 35
+        },
+        {
+          "chord": "B",
+          "col": 53
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ain't nobody in the world but you and i",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 4
+        },
+        {
+          "chord": "C#m",
+          "col": 31
+        },
+        {
+          "chord": "B",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "C#mB      A",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You and i",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ain't nobody in the world but you and i",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 4
+        },
+        {
+          "chord": "G#m",
+          "col": 12
+        },
+        {
+          "chord": "F#m",
+          "col": 20
+        },
+        {
+          "chord": "F#m7",
+          "col": 29
+        },
+        {
+          "chord": "B",
+          "col": 41
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You keep wondering if you're what I'm wanting",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 23
+        },
+        {
+          "chord": "E",
+          "col": 44
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "                          A (strum through build-up)       G",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You don't even have to try",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You don't have to try",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 4
+        },
+        {
+          "chord": "G",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Don't try",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 4
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Don't try",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You don't have to try",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 5
+        },
+        {
+          "chord": "G",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bm (strum)",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "*build-up*",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Out of all of the girls",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You're my one and only girl",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 7
+        },
+        {
+          "chord": "B",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ain't nobody in the world tonight",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "C#m",
+          "col": 22
+        },
+        {
+          "chord": "B",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "All of the stars, they don't shine brighter than you are",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 4
+        },
+        {
+          "chord": "C#m",
+          "col": 45
+        },
+        {
+          "chord": "B",
+          "col": 53
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ain't nobody in the world but you and i",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 5
+        },
+        {
+          "chord": "C#m",
+          "col": 32
+        },
+        {
+          "chord": "B",
+          "col": 36
+        },
+        {
+          "chord": "A",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "C#mB    A",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You and I",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "C#mB    A",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You and I",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Nobody in the world tonight",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 13
+        },
+        {
+          "chord": "A",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ain't nobody in the world but you and i",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 7
+        },
+        {
+          "chord": "D",
+          "col": 13
+        },
+        {
+          "chord": "Bm",
+          "col": 21
+        },
+        {
+          "chord": "G",
+          "col": 26
+        },
+        {
+          "chord": "Bm",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

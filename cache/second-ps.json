@@ -1,0 +1,275 @@
+{
+  "slug": "second-ps",
+  "artist": "Second",
+  "title": "PS",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 7
+        },
+        {
+          "chord": "F",
+          "col": 10
+        },
+        {
+          "chord": "C",
+          "col": 12
+        },
+        {
+          "chord": "G",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "burda ümitler kelebekler kadar yaşar",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 10
+        },
+        {
+          "chord": "C",
+          "col": 19
+        },
+        {
+          "chord": "G",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "kalbimizin damarı tıkanmış, sevgimiz taşar",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 11
+        },
+        {
+          "chord": "C",
+          "col": 23
+        },
+        {
+          "chord": "Am",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "olsun sonum kendi ellerimden",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 6
+        },
+        {
+          "chord": "C",
+          "col": 13
+        },
+        {
+          "chord": "G",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "gözüm açık gitmem artık",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İçtim aşk zehirinden..",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 10
+        },
+        {
+          "chord": "Am",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "eller var birgün elbet tutulur sandın",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 7
+        },
+        {
+          "chord": "C",
+          "col": 16
+        },
+        {
+          "chord": "G",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "diller var, bigün elbet duyulur sandın",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 7
+        },
+        {
+          "chord": "C",
+          "col": 16
+        },
+        {
+          "chord": "G",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "aldandın, nasıl olsa unutur sandın",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 7
+        },
+        {
+          "chord": "C",
+          "col": 16
+        },
+        {
+          "chord": "G",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "aldandın, gördüğün masallara",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 7
+        },
+        {
+          "chord": "C",
+          "col": 12
+        },
+        {
+          "chord": "G",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "burda ümitler kelebekler kadar yaşar",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "kalbimizin damarı tıkanmış, kederimiz taşar",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "olsun sonum kendi ellerimden",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "gözüm açık gitmem artık içtim aşk zehirinden",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "eller var birgün elbet tutulur sandın",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "diller var, bigün elbet duyulur sandın",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "aldandın, nasıl olsa unutur sandın",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "aldandın, gördüğün masallara..",
+      "chords": [],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

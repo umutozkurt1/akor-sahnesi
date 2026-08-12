@@ -1,0 +1,191 @@
+{
+  "slug": "burak-bedirli-cehennem",
+  "artist": "Burak Bedirli",
+  "title": "Cehennem",
+  "key": "D",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Gün ışığım yok evimde",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Bb",
+          "col": 8
+        },
+        {
+          "chord": "Gm",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Geçmez bu yürek sancısı",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Her vedan yeni bir yol içimde",
+      "chords": [
+        {
+          "chord": "Bb",
+          "col": 23
+        },
+        {
+          "chord": "Gm",
+          "col": 44
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bitmez bu kalp ağrısı",
+      "chords": [
+        {
+          "chord": "Bb",
+          "col": 5
+        },
+        {
+          "chord": "Am",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yeri dolmaz gidenlerin sözüne güven olmaz",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 12
+        },
+        {
+          "chord": "Bb",
+          "col": 29
+        },
+        {
+          "chord": "Am",
+          "col": 50
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sensiz olmaz, çok sevmişim üzülen iflah olmaz",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 13
+        },
+        {
+          "chord": "Bb",
+          "col": 37
+        },
+        {
+          "chord": "Am",
+          "col": 56
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ah bu cehennem cehennem yanarım",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 7
+        },
+        {
+          "chord": "Gm",
+          "col": 23
+        },
+        {
+          "chord": "Dm",
+          "col": 47
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kal bu kez yeniden yeniden umalım",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 19
+        },
+        {
+          "chord": "Gm",
+          "col": 30
+        },
+        {
+          "chord": "Dm",
+          "col": 50
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Artık evimden evimden uzağım",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 9
+        },
+        {
+          "chord": "Bb",
+          "col": 43
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dön yine dön yine",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 10
+        },
+        {
+          "chord": "Dm",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

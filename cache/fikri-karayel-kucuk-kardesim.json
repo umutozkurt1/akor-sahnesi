@@ -1,0 +1,108 @@
+{
+  "slug": "fikri-karayel-kucuk-kardesim",
+  "artist": "Fikri Karayel",
+  "title": "Küçük Kardeşim",
+  "key": "E",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Küçük kardeşim aşık olmuş çare istiyor",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 23
+        },
+        {
+          "chord": "E",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ne zaman geçermiş ağrısı diye soruyor",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 22
+        },
+        {
+          "chord": "E",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yaralanmış elleri bacakları gözleri umutsuz",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 20
+        },
+        {
+          "chord": "E",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sakin olmaya vaktim hiç olmadıki duyduğumdan beri",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "G#m",
+          "col": 18
+        },
+        {
+          "chord": "A",
+          "col": 32
+        },
+        {
+          "chord": "B",
+          "col": 48
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bu yüzden durgunmuş kaç zamandır küçük kardeşim tıpkı benim gibi",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "G#m",
+          "col": 21
+        },
+        {
+          "chord": "A",
+          "col": 47
+        },
+        {
+          "chord": "B",
+          "col": 63
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

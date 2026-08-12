@@ -1,0 +1,149 @@
+{
+  "slug": "murat-boz-kalben",
+  "artist": "Murat Boz",
+  "title": "Kalben",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Bana öyle bir umut ver ki asla bitmesin",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 11
+        },
+        {
+          "chord": "Em",
+          "col": 31
+        },
+        {
+          "chord": "F",
+          "col": 44
+        },
+        {
+          "chord": "Em",
+          "col": 58
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Aşk öyle kolay falan değil ki bizden gitmesin",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 8
+        },
+        {
+          "chord": "Em",
+          "col": 31
+        },
+        {
+          "chord": "F",
+          "col": 47
+        },
+        {
+          "chord": "Em",
+          "col": 58
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yalnız başıma, anılar burada",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 12
+        },
+        {
+          "chord": "Dm",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Nefessiz kaldıkça sarılıyorum, inkarda edemem ya",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 16
+        },
+        {
+          "chord": "F",
+          "col": 41
+        },
+        {
+          "chord": "Em",
+          "col": 54
+        },
+        {
+          "chord": "Dm",
+          "col": 68
+        },
+        {
+          "chord": "F",
+          "col": 80
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bana gel sevgilim oralar soğuktur zaten",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ama var bi kararsızlık anladım esasen",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ben de bu değilim yoktur hiç tevazum",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Olur da gidersen bende soğurum kalben",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 3
+        },
+        {
+          "chord": "Am",
+          "col": 59
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

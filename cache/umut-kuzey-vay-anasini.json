@@ -1,0 +1,129 @@
+{
+  "slug": "umut-kuzey-vay-anasini",
+  "artist": "Umut Kuzey",
+  "title": "Vay Anasını",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Sanarsın herşey yolunda",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "kanarsın aşkın sonunda",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 5
+        },
+        {
+          "chord": "Gm",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "yanarsın sönmüş haline kör talihine",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 5
+        },
+        {
+          "chord": "Fm",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "dönersin vicdansız deliye",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 5
+        },
+        {
+          "chord": "Cm",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "vay anasını hatırasını",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "sat anasını kahrını söyle şarkını",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 2
+        },
+        {
+          "chord": "A#",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "çak kibriti tamam yak ne varsa kalan",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 2
+        },
+        {
+          "chord": "A#",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "sütten ağzım yanar derinde bir yaram",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 2
+        },
+        {
+          "chord": "A#",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

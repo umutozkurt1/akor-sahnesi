@@ -1,0 +1,87 @@
+{
+  "slug": "film-muzikleri-zilleri-takip-golleri-aticaz",
+  "artist": "Film Müzikleri",
+  "title": "Zilleri Takıp Golleri Atıcaz",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Zilleri Takıp Golleri Atıcaz Gari Garide Gari",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Paraları Alıp Pavyona Gidicez Gari Garide Gari Hop",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 29
+        },
+        {
+          "chord": "Cm",
+          "col": 46
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Baresiz İstiyenlere",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Zilleri Takıp Golleri Atıcaz Gari Garide Gari",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Paraları Alıp Pavyona Kaçıcaz Gari Garide Gari Hop",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 30
+        },
+        {
+          "chord": "Dm",
+          "col": 48
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

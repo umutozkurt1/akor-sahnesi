@@ -1,0 +1,165 @@
+{
+  "slug": "samet-kor-bu-yagmurlar",
+  "artist": "Samet Kor",
+  "title": "Bu Yağmurlar",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Gözleri dolu sağnak yağışı.Etkisinde Kalmış bir ten.",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ve sen aldırış etmeden yarınları düşünmeden.Beni terk eden.",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 3
+        },
+        {
+          "chord": "A#",
+          "col": 26
+        },
+        {
+          "chord": "Dm",
+          "col": 46
+        },
+        {
+          "chord": "Gm",
+          "col": 51
+        },
+        {
+          "chord": "Am",
+          "col": 56
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Unuttumu sence bu gönül seni.yoksa umudunmu beni sana itti.",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 2
+        },
+        {
+          "chord": "Am",
+          "col": 30
+        },
+        {
+          "chord": "Gm",
+          "col": 55
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Oysa sen demezmiydin benim olan senin,senin olan benim.",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 6
+        },
+        {
+          "chord": "Am",
+          "col": 23
+        },
+        {
+          "chord": "Gm",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ne olduysa oldu artık bize.Sen gittin çoktan ellere.",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 1
+        },
+        {
+          "chord": "Gm",
+          "col": 23
+        },
+        {
+          "chord": "A#",
+          "col": 34
+        },
+        {
+          "chord": "Dm",
+          "col": 41
+        },
+        {
+          "chord": "Am",
+          "col": 50
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bu yağmurlarda elbet birgün biter.",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sevgin ardırdan gelen güneşi bekler.unutmam belki ama.",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 14
+        },
+        {
+          "chord": "A#",
+          "col": 44
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hasretin çoktan içimde söner",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 8
+        },
+        {
+          "chord": "Dm",
+          "col": 18
+        },
+        {
+          "chord": "Am",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

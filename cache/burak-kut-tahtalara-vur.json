@@ -1,0 +1,160 @@
+{
+  "slug": "burak-kut-tahtalara-vur",
+  "artist": "Burak Kut",
+  "title": "Tahtalara Vur",
+  "key": "D",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "ORJİNAL TONU: C",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hiç hevesim yoktu, ümitsizdim niyetsizdim",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 43
+        },
+        {
+          "chord": "Am",
+          "col": 61
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Son günler vasat işler kesat sebepsizdim",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 40
+        },
+        {
+          "chord": "Am",
+          "col": 60
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kapılarım kapalı, askerliği yapalı",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 19
+        },
+        {
+          "chord": "Am",
+          "col": 45
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kafa karışık bulanık, İstanbul'a geleli, gel de inanma",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 22
+        },
+        {
+          "chord": "Em",
+          "col": 53
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Allah korusun, nazarlardan kazalardan belalardan",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 13
+        },
+        {
+          "chord": "Gm",
+          "col": 21
+        },
+        {
+          "chord": "Am",
+          "col": 31
+        },
+        {
+          "chord": "F",
+          "col": 36
+        },
+        {
+          "chord": "A#",
+          "col": 43
+        },
+        {
+          "chord": "Gm",
+          "col": 49
+        },
+        {
+          "chord": "Am",
+          "col": 56
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Tahtalara vur, dağlara taşlara",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yanarsa yansın, dünya aşktan",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 17
+        },
+        {
+          "chord": "Gm",
+          "col": 23
+        },
+        {
+          "chord": "Am",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

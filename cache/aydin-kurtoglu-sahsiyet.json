@@ -1,0 +1,119 @@
+{
+  "slug": "aydin-kurtoglu-sahsiyet",
+  "artist": "Aydın Kurtoğlu",
+  "title": "Şahsiyet",
+  "key": "D",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Yalan değil bir zamanlar sevmişliğim var seni",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "Bb",
+          "col": 54
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kalbimde şimdi yeni bir aşk hayır ya merak edersen beni",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "Bb",
+          "col": 57
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir düşün bakalım dilimden dökülen neyin ahıydı günahıydı",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 73
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hatırlıyorum giderken bana attığın o son kahkahayı",
+      "chords": [
+        {
+          "chord": "Bb",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 55
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Aşk nasıl yaşanırmış gelip yakından seyret",
+      "chords": [
+        {
+          "chord": "Bb",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 48
+        },
+        {
+          "chord": "Am",
+          "col": 68
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hadi beni tebrik et ama nerde sende o şahsiyet",
+      "chords": [
+        {
+          "chord": "Bb",
+          "col": 10
+        },
+        {
+          "chord": "Gm",
+          "col": 27
+        },
+        {
+          "chord": "C",
+          "col": 43
+        },
+        {
+          "chord": "Bb",
+          "col": 55
+        },
+        {
+          "chord": "Am",
+          "col": 71
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

@@ -1,0 +1,389 @@
+{
+  "slug": "emre-fel-eda",
+  "artist": "Emre Fel",
+  "title": "Eda",
+  "key": "C#",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Bahar gözlerin’ deminde",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 6
+        },
+        {
+          "chord": "B",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Soluyor güllerim elimde",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 14
+        },
+        {
+          "chord": "A",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ne yazık ellerim elinde",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 14
+        },
+        {
+          "chord": "G#",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gidiyorsun sanırım",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kanarım ah deli divane",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 9
+        },
+        {
+          "chord": "B",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir eda bu halime bi’ çare",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 13
+        },
+        {
+          "chord": "F#",
+          "col": 24
+        },
+        {
+          "chord": "A",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bu veda tütecek derinde",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 11
+        },
+        {
+          "chord": "G#",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Biliyorsun gelirim",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir yandan bir yana savrulur gönül virane",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 15
+        },
+        {
+          "chord": "A",
+          "col": 29
+        },
+        {
+          "chord": "B",
+          "col": 48
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kim candan sevecek delice",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 17
+        },
+        {
+          "chord": "A",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yanıyor içim vurgun biçare",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 6
+        },
+        {
+          "chord": "B",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Nerde böyle ah seven, nerede",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 17
+        },
+        {
+          "chord": "C#m",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sana     söyledim bi’ dinle",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 8
+        },
+        {
+          "chord": "B",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gideme gitme dur yerinde",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 11
+        },
+        {
+          "chord": "A",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ne zaman ah ne gün dilersen",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 15
+        },
+        {
+          "chord": "G#",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yüreğim aralı",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bu   bakış bu ne hoş gülümseme",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 9
+        },
+        {
+          "chord": "B",
+          "col": 41
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Geliyor gel de yar gülümseme",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 11
+        },
+        {
+          "chord": "A",
+          "col": 45
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Oluyor sanki binbir sene",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 9
+        },
+        {
+          "chord": "G#",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gideli a canım",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir yandan bir yana savrulur gönül virane",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 15
+        },
+        {
+          "chord": "A",
+          "col": 29
+        },
+        {
+          "chord": "B",
+          "col": 48
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kim candan sevecek delice",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 17
+        },
+        {
+          "chord": "A",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yanıyor içim vurgun biçare",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 6
+        },
+        {
+          "chord": "B",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Nerde böyle ah seven, nerede",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 17
+        },
+        {
+          "chord": "C#m",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

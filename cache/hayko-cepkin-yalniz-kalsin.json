@@ -1,0 +1,147 @@
+{
+  "slug": "hayko-cepkin-yalniz-kalsin",
+  "artist": "Hayko Cepkin",
+  "title": "Yalnız Kalsın",
+  "key": "B",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Gömdüm sandım gittiğinde    Em Em",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir demet çiçeğim bile yok  Em Em",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Toprak kaldım gittiğinde    Em Em",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Filiz verdimde suyu yok     Em Em",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yanlız kalsın dediğin diline",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 7
+        },
+        {
+          "chord": "Am",
+          "col": 15
+        },
+        {
+          "chord": "Em",
+          "col": 25
+        },
+        {
+          "chord": "Bm",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bedduadır sesinin teline",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 8
+        },
+        {
+          "chord": "Am",
+          "col": 15
+        },
+        {
+          "chord": "Em",
+          "col": 25
+        },
+        {
+          "chord": "Bm",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gömdüm sandım gittiğinde",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir demet çiçeğim bile yok",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Toprak kaldım gittiğinde",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Filiz verdimde suyu yok",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yanlız kalsın dediğin diline",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bedduadır sesinin teline",
+      "chords": [],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

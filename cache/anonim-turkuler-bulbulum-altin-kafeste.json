@@ -1,0 +1,182 @@
+{
+  "slug": "anonim-turkuler-bulbulum-altin-kafeste",
+  "artist": "Anonim Türküler",
+  "title": "Bülbülüm Altın Kafeste",
+  "key": "C",
+  "capo": 0,
+  "rhythm": "A",
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Bülbülüm altın kafeste aman",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 10
+        },
+        {
+          "chord": "Em",
+          "col": 17
+        },
+        {
+          "chord": "F",
+          "col": 24
+        },
+        {
+          "chord": "C",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Öter aheste aheste",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 8
+        },
+        {
+          "chord": "Em",
+          "col": 12
+        },
+        {
+          "chord": "F",
+          "col": 15
+        },
+        {
+          "chord": "Em",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ötme bülbül yarim hasta aman",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 10
+        },
+        {
+          "chord": "Em",
+          "col": 18
+        },
+        {
+          "chord": "F",
+          "col": 25
+        },
+        {
+          "chord": "C",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ah neyleyim şu gönlüme",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 11
+        },
+        {
+          "chord": "Em",
+          "col": 18
+        },
+        {
+          "chord": "F",
+          "col": 27
+        },
+        {
+          "chord": "Em",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hasret kaldım sevdiğime",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 11
+        },
+        {
+          "chord": "Em",
+          "col": 20
+        },
+        {
+          "chord": "F",
+          "col": 27
+        },
+        {
+          "chord": "Em",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ben sana aldanamam yarim",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ben sana dayanamam",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 22
+        },
+        {
+          "chord": "Em",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

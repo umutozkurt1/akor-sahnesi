@@ -1,0 +1,207 @@
+{
+  "slug": "yasar-deniz-yoksulu",
+  "artist": "Yaşar",
+  "title": "Deniz Yoksulu",
+  "key": "G",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Hey benim ellerim mi var",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 10
+        },
+        {
+          "chord": "Cm",
+          "col": 22
+        },
+        {
+          "chord": "D",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hey benim dört yanım duvar",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 11
+        },
+        {
+          "chord": "Cm",
+          "col": 27
+        },
+        {
+          "chord": "D",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Eh işte imkansız, bir aşkı isteriz",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 7
+        },
+        {
+          "chord": "Gm",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bize Akdenizli derler",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hep böyle içimde kal, kim daha sen",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 41
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kim daha bana yakın",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 11
+        },
+        {
+          "chord": "Gm",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Uzak olma eller gibi, çok özledim deliler gibi",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 10
+        },
+        {
+          "chord": "Gm",
+          "col": 47
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ben daha deniz yoksulu",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 9
+        },
+        {
+          "chord": "Gm",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Başa döner",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hep böyle içimde kal, kim daha sen",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 41
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kim daha bana yakın",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 11
+        },
+        {
+          "chord": "Gm",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sen şimdi uykuda, sabahlar uzaklarda",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 9
+        },
+        {
+          "chord": "Gm",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ben hala deniz yoksulu",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 8
+        },
+        {
+          "chord": "Gm",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

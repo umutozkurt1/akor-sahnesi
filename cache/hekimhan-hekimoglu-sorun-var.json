@@ -1,0 +1,503 @@
+{
+  "slug": "hekimhan-hekimoglu-sorun-var",
+  "artist": "Hekimhan Hekimoğlu",
+  "title": "Sorun Var",
+  "key": "E",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Görmüyorsan Herşeye Kör Bakıyorsan",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 5
+        },
+        {
+          "chord": "Em",
+          "col": 7
+        },
+        {
+          "chord": "Em",
+          "col": 20
+        },
+        {
+          "chord": "D",
+          "col": 27
+        },
+        {
+          "chord": "Em",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Olaylara İnsanlara Sağır Oluyorsan Zaman Zaman",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 4
+        },
+        {
+          "chord": "D",
+          "col": 9
+        },
+        {
+          "chord": "Em",
+          "col": 11
+        },
+        {
+          "chord": "Em",
+          "col": 27
+        },
+        {
+          "chord": "D",
+          "col": 30
+        },
+        {
+          "chord": "Em",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sorun Var   Sorunun Var",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 2
+        },
+        {
+          "chord": "A",
+          "col": 5
+        },
+        {
+          "chord": "Em",
+          "col": 19
+        },
+        {
+          "chord": "D",
+          "col": 23
+        },
+        {
+          "chord": "Em",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sorun Var   Sorunun Var",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 2
+        },
+        {
+          "chord": "G",
+          "col": 4
+        },
+        {
+          "chord": "Em",
+          "col": 17
+        },
+        {
+          "chord": "D",
+          "col": 21
+        },
+        {
+          "chord": "Em",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Korkaksan Dalkavuksan Hissetmiyorsan",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 1
+        },
+        {
+          "chord": "D",
+          "col": 6
+        },
+        {
+          "chord": "Em",
+          "col": 9
+        },
+        {
+          "chord": "Em",
+          "col": 24
+        },
+        {
+          "chord": "D",
+          "col": 29
+        },
+        {
+          "chord": "Em",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kurt Yerine Kuzuyu     Boğazlıyorsan",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 4
+        },
+        {
+          "chord": "D",
+          "col": 9
+        },
+        {
+          "chord": "Em",
+          "col": 11
+        },
+        {
+          "chord": "Em",
+          "col": 24
+        },
+        {
+          "chord": "D",
+          "col": 27
+        },
+        {
+          "chord": "Em",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ve Hiçbir Şey Yokmuş Gibi Davranıyorsan",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 10
+        },
+        {
+          "chord": "G",
+          "col": 17
+        },
+        {
+          "chord": "A",
+          "col": 22
+        },
+        {
+          "chord": "Em",
+          "col": 35
+        },
+        {
+          "chord": "D",
+          "col": 39
+        },
+        {
+          "chord": "Em",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sorun Var           Sorunun Var",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 7
+        },
+        {
+          "chord": "G",
+          "col": 9
+        },
+        {
+          "chord": "A",
+          "col": 11
+        },
+        {
+          "chord": "Em",
+          "col": 27
+        },
+        {
+          "chord": "D",
+          "col": 31
+        },
+        {
+          "chord": "Em",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sorun Var          Sorunun Var",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 2
+        },
+        {
+          "chord": "G",
+          "col": 4
+        },
+        {
+          "chord": "Em",
+          "col": 24
+        },
+        {
+          "chord": "D",
+          "col": 28
+        },
+        {
+          "chord": "Em",
+          "col": 31
+        },
+        {
+          "chord": "G",
+          "col": 38
+        },
+        {
+          "chord": "D",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yalana Sarılıyorsan  İnanmıyorsan",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Düşünmüyorsan Eğer",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sevmiyorsan Çoğu Zaman",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 7
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sorun Var Sorunun Var",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sorun Var Sorunun Var",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 9
+        },
+        {
+          "chord": "Em",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 3
+        },
+        {
+          "chord": "Em",
+          "col": 6
+        },
+        {
+          "chord": "D",
+          "col": 9
+        },
+        {
+          "chord": "Em",
+          "col": 13
+        },
+        {
+          "chord": "D",
+          "col": 16
+        },
+        {
+          "chord": "Em",
+          "col": 19
+        },
+        {
+          "chord": "D",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 3
+        },
+        {
+          "chord": "Em",
+          "col": 6
+        },
+        {
+          "chord": "D",
+          "col": 9
+        },
+        {
+          "chord": "Em",
+          "col": 13
+        },
+        {
+          "chord": "D",
+          "col": 16
+        },
+        {
+          "chord": "Em",
+          "col": 19
+        },
+        {
+          "chord": "D",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 10
+        },
+        {
+          "chord": "D",
+          "col": 20
+        },
+        {
+          "chord": "Em",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 10
+        },
+        {
+          "chord": "A",
+          "col": 20
+        },
+        {
+          "chord": "Cm",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

@@ -1,0 +1,188 @@
+{
+  "slug": "yalin-bir-bakmissin",
+  "artist": "Yalın",
+  "title": "Bir Bakmışsın",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Eski fotoğraflar, mutlu gülen iki yüz",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Merdivende sarılmışız, hiç bırakmayacak gibi",
+      "chords": [
+        {
+          "chord": "Bb",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Adım adım eksildik, nedenini ben anlamadım",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sormaya korkar oldum, yıllandık diye mi yıprandık",
+      "chords": [
+        {
+          "chord": "Bb",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 40
+        },
+        {
+          "chord": "G",
+          "col": 56
+        },
+        {
+          "chord": "Cm",
+          "col": 76
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yaşlandık diye mi paslandık",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 22
+        },
+        {
+          "chord": "Cm",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Güvenme bu kadar aşkıma hiç öyle sağlam da değilsin",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "Bb",
+          "col": 32
+        },
+        {
+          "chord": "Eb",
+          "col": 57
+        },
+        {
+          "chord": "Ab7",
+          "col": 78
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Titrerim kendi üstüme benden değerli değilsin, değilsin",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 23
+        },
+        {
+          "chord": "Ab7",
+          "col": 43
+        },
+        {
+          "chord": "Fm",
+          "col": 63
+        },
+        {
+          "chord": "G",
+          "col": 77
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bi bakmışın ben yokmuşum, üzülmeye doymuşum",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 25
+        },
+        {
+          "chord": "Bb",
+          "col": 44
+        },
+        {
+          "chord": "Eb",
+          "col": 60
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İsyanımı yola koyup hayatından kaybolmuşum",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 15
+        },
+        {
+          "chord": "G",
+          "col": 36
+        },
+        {
+          "chord": "Cm",
+          "col": 73
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

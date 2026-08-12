@@ -1,0 +1,735 @@
+{
+  "slug": "sia-chandelier",
+  "artist": "Sia",
+  "title": "Chandelier",
+  "key": "Bb",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Intro",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Bbm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   Party girls don't get hurt",
+      "chords": [
+        {
+          "chord": "Bbm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Can't feel  anything, when will I learn",
+      "chords": [
+        {
+          "chord": "Gbmaj7",
+          "col": 6
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I push it down, push it down",
+      "chords": [
+        {
+          "chord": "Ab",
+          "col": 2
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "      I'm the one for a good time call",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "Bbm",
+          "col": 3
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Phone's blowin' up, ringin' my doorbell",
+      "chords": [
+        {
+          "chord": "Gbmaj7",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I feel the love, feel the love",
+      "chords": [
+        {
+          "chord": "Ab",
+          "col": 2
+        },
+        {
+          "chord": "Fm",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "1 2 3, 1 2 3, drink",
+      "chords": [
+        {
+          "chord": "Gb",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "1  2 3, 1 2 3, drink",
+      "chords": [
+        {
+          "chord": "Bbm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "1 2 3, 1 2 3, drink",
+      "chords": [
+        {
+          "chord": "Ab",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Throw 'em back till I lose count",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'm gonna swing from the chandelier",
+      "chords": [
+        {
+          "chord": "Gb",
+          "col": 0
+        },
+        {
+          "chord": "Ab",
+          "col": 10
+        },
+        {
+          "chord": "Fm",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "From the chandelier",
+      "chords": [
+        {
+          "chord": "Gb",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'm gonna live like tomorrow doesn't exist",
+      "chords": [
+        {
+          "chord": "Gb",
+          "col": 0
+        },
+        {
+          "chord": "Ab",
+          "col": 10
+        },
+        {
+          "chord": "Fm",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Like it doesn't exist",
+      "chords": [
+        {
+          "chord": "Gb",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'm gonna fly like a bird through the night",
+      "chords": [
+        {
+          "chord": "Gb",
+          "col": 0
+        },
+        {
+          "chord": "Ab",
+          "col": 10
+        },
+        {
+          "chord": "Fm",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Feel my tears as they dry",
+      "chords": [
+        {
+          "chord": "Gb",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'm gonna swing from the chandelier",
+      "chords": [
+        {
+          "chord": "Gb",
+          "col": 0
+        },
+        {
+          "chord": "Ab",
+          "col": 10
+        },
+        {
+          "chord": "Fm",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "From the chandelier",
+      "chords": [
+        {
+          "chord": "Gb",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But I'm holding on for dear life",
+      "chords": [
+        {
+          "chord": "Gb",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Won't look down, won't open my eyes",
+      "chords": [
+        {
+          "chord": "Ab",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Keep my glass full until morning light",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Cause I'm just holding on for tonight",
+      "chords": [
+        {
+          "chord": "Gb",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Help me, I'm holding on for dear life",
+      "chords": [
+        {
+          "chord": "Gb",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Won't look down, won't open my eyes",
+      "chords": [
+        {
+          "chord": "Ab",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Keep my glass full until morning light",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "'Cause I'm just holding on for tonight",
+      "chords": [
+        {
+          "chord": "Gb",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "On for tonight",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   Sun is up, I'm a mess",
+      "chords": [
+        {
+          "chord": "Bbm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gotta get   out now, gotta run from this",
+      "chords": [
+        {
+          "chord": "Gbmaj7",
+          "col": 6
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Here comes the shame, here comes the shame",
+      "chords": [
+        {
+          "chord": "Ab",
+          "col": 5
+        },
+        {
+          "chord": "Fm",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "1 2 3, 1 2 3, drink",
+      "chords": [
+        {
+          "chord": "Gb",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "1  2 3, 1 2 3, drink",
+      "chords": [
+        {
+          "chord": "Bbm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "1 2 3, 1 2 3, drink",
+      "chords": [
+        {
+          "chord": "Ab",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Throw 'em back till I lose count",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'm gonna swing from the chandelier",
+      "chords": [
+        {
+          "chord": "Gb",
+          "col": 0
+        },
+        {
+          "chord": "Ab",
+          "col": 10
+        },
+        {
+          "chord": "Fm",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "From the chandelier",
+      "chords": [
+        {
+          "chord": "Gb",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'm gonna live like tomorrow doesn't exist",
+      "chords": [
+        {
+          "chord": "Gb",
+          "col": 0
+        },
+        {
+          "chord": "Ab",
+          "col": 10
+        },
+        {
+          "chord": "Fm",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Like it doesn't exist",
+      "chords": [
+        {
+          "chord": "Gb",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'm gonna fly like a bird through the night",
+      "chords": [
+        {
+          "chord": "Gb",
+          "col": 0
+        },
+        {
+          "chord": "Ab",
+          "col": 10
+        },
+        {
+          "chord": "Fm",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Feel my tears as they dry",
+      "chords": [
+        {
+          "chord": "Gb",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'm gonna swing from the chandelier",
+      "chords": [
+        {
+          "chord": "Gb",
+          "col": 0
+        },
+        {
+          "chord": "Ab",
+          "col": 10
+        },
+        {
+          "chord": "Fm",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "From the chandelier",
+      "chords": [
+        {
+          "chord": "Gb",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But I'm holding on for dear life",
+      "chords": [
+        {
+          "chord": "Gb",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Won't look down, won't open my eyes",
+      "chords": [
+        {
+          "chord": "Ab",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Keep my glass full until morning light",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "'Cause I'm just holding on for tonight",
+      "chords": [
+        {
+          "chord": "Gb",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Help me, I'm holding on for dear life",
+      "chords": [
+        {
+          "chord": "Gb",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Won't look down, won't open my eyes",
+      "chords": [
+        {
+          "chord": "Ab",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Keep my glass full until morning light",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "'Cause I'm just holding on for tonight",
+      "chords": [
+        {
+          "chord": "Gb",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "On for tonight",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "On for tonight",
+      "chords": [
+        {
+          "chord": "Gb",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yeah I'm just holding on for tonight",
+      "chords": [
+        {
+          "chord": "Ab",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Oh, I'm just holding on for tonight",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "On for tonight, on for tonight",
+      "chords": [
+        {
+          "chord": "Gb",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yeah I'm just holding on for tonight",
+      "chords": [
+        {
+          "chord": "Gb",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'm just holding on for tonight",
+      "chords": [
+        {
+          "chord": "Ab",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Oh, I'm just holding on for tonight",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "On for tonight, on for tonight",
+      "chords": [
+        {
+          "chord": "Gb",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

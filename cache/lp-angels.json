@@ -1,0 +1,906 @@
+{
+  "slug": "lp-angels",
+  "artist": "LP",
+  "title": "Angels",
+  "key": "F",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "I've been looking for answers",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I've been looking for change",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I've been looking for dancers",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "Bb",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "In the middle of the rain",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Might seem a mile away",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 25
+        },
+        {
+          "chord": "C",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "It might seem insane",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You could be a smile away",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 8
+        },
+        {
+          "chord": "Bb",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Could you feel my pain",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "How do I reach you",
+      "chords": [
+        {
+          "chord": "Bb",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "What's underneath you",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Keeping you safe and sound",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Found what I'm chasing",
+      "chords": [
+        {
+          "chord": "Bb",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Heart's racing",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "When you're around it feels like",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Angels over me",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 4
+        },
+        {
+          "chord": "Dm",
+          "col": 10
+        },
+        {
+          "chord": "C",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I've never seen them before",
+      "chords": [
+        {
+          "chord": "Bb",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 15
+        },
+        {
+          "chord": "Dm",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But I feel angels over me",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 17
+        },
+        {
+          "chord": "C",
+          "col": 21
+        },
+        {
+          "chord": "Dm",
+          "col": 27
+        },
+        {
+          "chord": "C",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I hear them sing I love you more, I love you more, I love you more",
+      "chords": [
+        {
+          "chord": "Bb",
+          "col": 21
+        },
+        {
+          "chord": "C",
+          "col": 45
+        },
+        {
+          "chord": "Dm",
+          "col": 74
+        },
+        {
+          "chord": "Bb",
+          "col": 99
+        },
+        {
+          "chord": "C",
+          "col": 103
+        },
+        {
+          "chord": "Dm",
+          "col": 106
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I love you more, I love you more",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 18
+        },
+        {
+          "chord": "Bb",
+          "col": 46
+        },
+        {
+          "chord": "C",
+          "col": 54
+        },
+        {
+          "chord": "F",
+          "col": 58
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Got the keys to the kingdom",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And it felt like a cage",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I had to look for the wisdom",
+      "chords": [
+        {
+          "chord": "Bb",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Right there on the page",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And are you kings and queens and in betweens",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 23
+        },
+        {
+          "chord": "C",
+          "col": 62
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "We're okay",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Staying higher than the mezzanine",
+      "chords": [
+        {
+          "chord": "Bb",
+          "col": 14
+        },
+        {
+          "chord": "C",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "We're okay",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "How do I reach you",
+      "chords": [
+        {
+          "chord": "Bb",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "What's underneath you",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Keeping you safe and sound",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "If you see me",
+      "chords": [
+        {
+          "chord": "Bb",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Do they see me?",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "When you're around it feels like",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Angels over me",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 4
+        },
+        {
+          "chord": "Dm",
+          "col": 10
+        },
+        {
+          "chord": "C",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I've never seen them before",
+      "chords": [
+        {
+          "chord": "Bb",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 15
+        },
+        {
+          "chord": "Dm",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But I feel angels over me",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 17
+        },
+        {
+          "chord": "C",
+          "col": 21
+        },
+        {
+          "chord": "Dm",
+          "col": 27
+        },
+        {
+          "chord": "C",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I hear them sing I love you more, I love you more, I love you more",
+      "chords": [
+        {
+          "chord": "Bb",
+          "col": 21
+        },
+        {
+          "chord": "C",
+          "col": 45
+        },
+        {
+          "chord": "Dm",
+          "col": 74
+        },
+        {
+          "chord": "Bb",
+          "col": 99
+        },
+        {
+          "chord": "C",
+          "col": 103
+        },
+        {
+          "chord": "Dm",
+          "col": 106
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "It's only a case of denial",
+      "chords": [
+        {
+          "chord": "Bb",
+          "col": 6
+        },
+        {
+          "chord": "C",
+          "col": 15
+        },
+        {
+          "chord": "Dm",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "That messes with my inner child",
+      "chords": [
+        {
+          "chord": "Bb",
+          "col": 9
+        },
+        {
+          "chord": "C",
+          "col": 29
+        },
+        {
+          "chord": "Dm",
+          "col": 45
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But you bring out the best in me and fill me with ecstasy",
+      "chords": [
+        {
+          "chord": "Bb",
+          "col": 15
+        },
+        {
+          "chord": "C",
+          "col": 36
+        },
+        {
+          "chord": "F",
+          "col": 62
+        },
+        {
+          "chord": "Dm",
+          "col": 82
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Like I haven't seen in a while",
+      "chords": [
+        {
+          "chord": "Bb",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 21
+        },
+        {
+          "chord": "Dm",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I see angels",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "When you're around it feels like",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Angels over me",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 4
+        },
+        {
+          "chord": "Dm",
+          "col": 10
+        },
+        {
+          "chord": "C",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I've never seen them before",
+      "chords": [
+        {
+          "chord": "Bb",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 15
+        },
+        {
+          "chord": "Dm",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But I feel angels over me",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 17
+        },
+        {
+          "chord": "C",
+          "col": 21
+        },
+        {
+          "chord": "Dm",
+          "col": 27
+        },
+        {
+          "chord": "C",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I hear them sing I love you more, I love you more, I love you more",
+      "chords": [
+        {
+          "chord": "Bb",
+          "col": 21
+        },
+        {
+          "chord": "C",
+          "col": 45
+        },
+        {
+          "chord": "Dm",
+          "col": 74
+        },
+        {
+          "chord": "Bb",
+          "col": 99
+        },
+        {
+          "chord": "C",
+          "col": 103
+        },
+        {
+          "chord": "Dm",
+          "col": 106
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "When you're around it feels like",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Angels over me",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 4
+        },
+        {
+          "chord": "Dm",
+          "col": 10
+        },
+        {
+          "chord": "C",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I've never seen them before",
+      "chords": [
+        {
+          "chord": "Bb",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 15
+        },
+        {
+          "chord": "Dm",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But I feel angels over me",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 17
+        },
+        {
+          "chord": "C",
+          "col": 21
+        },
+        {
+          "chord": "Dm",
+          "col": 27
+        },
+        {
+          "chord": "C",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I hear them sing I love you more, I love you more, I love you more",
+      "chords": [
+        {
+          "chord": "Bb",
+          "col": 21
+        },
+        {
+          "chord": "C",
+          "col": 45
+        },
+        {
+          "chord": "Dm",
+          "col": 74
+        },
+        {
+          "chord": "Bb",
+          "col": 99
+        },
+        {
+          "chord": "C",
+          "col": 103
+        },
+        {
+          "chord": "Dm",
+          "col": 106
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I love you more, I love you more",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 18
+        },
+        {
+          "chord": "Bb",
+          "col": 46
+        },
+        {
+          "chord": "C",
+          "col": 54
+        },
+        {
+          "chord": "F",
+          "col": 58
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

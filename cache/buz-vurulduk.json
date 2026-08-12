@@ -1,0 +1,295 @@
+{
+  "slug": "buz-vurulduk",
+  "artist": "Buz",
+  "title": "Vurulduk",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "A5",
+          "col": 0
+        },
+        {
+          "chord": "G5",
+          "col": 3
+        },
+        {
+          "chord": "C5",
+          "col": 6
+        },
+        {
+          "chord": "A5",
+          "col": 9
+        },
+        {
+          "chord": "Em5",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "A5",
+          "col": 0
+        },
+        {
+          "chord": "G5",
+          "col": 3
+        },
+        {
+          "chord": "C5",
+          "col": 6
+        },
+        {
+          "chord": "G5",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ne çok hata yaptık",
+      "chords": [
+        {
+          "chord": "A5",
+          "col": 0
+        },
+        {
+          "chord": "C5",
+          "col": 13
+        },
+        {
+          "chord": "D5",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ne çok hırpalandık",
+      "chords": [
+        {
+          "chord": "A5",
+          "col": 0
+        },
+        {
+          "chord": "C5",
+          "col": 13
+        },
+        {
+          "chord": "D5",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kırık dökük",
+      "chords": [
+        {
+          "chord": "A5",
+          "col": 0
+        },
+        {
+          "chord": "C5",
+          "col": 6
+        },
+        {
+          "chord": "D5",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hayatlarımız lekeli",
+      "chords": [
+        {
+          "chord": "A5",
+          "col": 0
+        },
+        {
+          "chord": "C5",
+          "col": 14
+        },
+        {
+          "chord": "D5",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ne renk ne ışık var",
+      "chords": [
+        {
+          "chord": "A5",
+          "col": 0
+        },
+        {
+          "chord": "C5",
+          "col": 14
+        },
+        {
+          "chord": "D5",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Her şey ne kadar ortalama",
+      "chords": [
+        {
+          "chord": "A5",
+          "col": 0
+        },
+        {
+          "chord": "C5",
+          "col": 20
+        },
+        {
+          "chord": "D5",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yazık yazık yazık yazık oldu",
+      "chords": [
+        {
+          "chord": "D5",
+          "col": 0
+        },
+        {
+          "chord": "C5",
+          "col": 8
+        },
+        {
+          "chord": "D5",
+          "col": 14
+        },
+        {
+          "chord": "A5",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yazık yazık yazık yazık oldu",
+      "chords": [
+        {
+          "chord": "D5",
+          "col": 0
+        },
+        {
+          "chord": "C5",
+          "col": 8
+        },
+        {
+          "chord": "D5",
+          "col": 14
+        },
+        {
+          "chord": "A5",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "ince ince",
+      "chords": [
+        {
+          "chord": "A5",
+          "col": 0
+        },
+        {
+          "chord": "C5",
+          "col": 7
+        },
+        {
+          "chord": "A5",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ayrılıklara bölündük",
+      "chords": [
+        {
+          "chord": "A5",
+          "col": 0
+        },
+        {
+          "chord": "D5",
+          "col": 15
+        },
+        {
+          "chord": "A5",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Farketmedik senelerce",
+      "chords": [
+        {
+          "chord": "D5",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yalnızlıkla yürüdük",
+      "chords": [
+        {
+          "chord": "E5",
+          "col": 0
+        },
+        {
+          "chord": "C5",
+          "col": 12
+        },
+        {
+          "chord": "B5",
+          "col": 16
+        },
+        {
+          "chord": "A5",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

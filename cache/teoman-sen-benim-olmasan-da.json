@@ -1,0 +1,284 @@
+{
+  "slug": "teoman-sen-benim-olmasan-da",
+  "artist": "Teoman",
+  "title": "Sen Benim Olmasan da",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 6
+        },
+        {
+          "chord": "E",
+          "col": 11
+        },
+        {
+          "chord": "D",
+          "col": 17
+        },
+        {
+          "chord": "E",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Daha gün ışığı görmeden, bana görünmeden yolunda",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 25
+        },
+        {
+          "chord": "A",
+          "col": 55
+        },
+        {
+          "chord": "E",
+          "col": 85
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hergün arar o sevgiyi, mışıl mışıl uykusunda",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 25
+        },
+        {
+          "chord": "A",
+          "col": 47
+        },
+        {
+          "chord": "E",
+          "col": 66
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sanma seni hatırlarım, önce sonra görmediğinde",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 21
+        },
+        {
+          "chord": "C#m",
+          "col": 39
+        },
+        {
+          "chord": "Bm",
+          "col": 54
+        },
+        {
+          "chord": "C#m",
+          "col": 64
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sanma sana çok kızarım, zaten odam hep dar geliyor bana",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 21
+        },
+        {
+          "chord": "C#m",
+          "col": 40
+        },
+        {
+          "chord": "Bm",
+          "col": 62
+        },
+        {
+          "chord": "C#m",
+          "col": 81
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sen benim olmasan olmasan olmasan da  x2",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 19
+        },
+        {
+          "chord": "E",
+          "col": 35
+        },
+        {
+          "chord": "D",
+          "col": 49
+        },
+        {
+          "chord": "E",
+          "col": 63
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yazı bitiren o ellerin, seni sevenlerin koynunda",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 23
+        },
+        {
+          "chord": "A",
+          "col": 43
+        },
+        {
+          "chord": "E",
+          "col": 67
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gördüm acılı resmini, bana gülümsedi sonunda",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 23
+        },
+        {
+          "chord": "A",
+          "col": 43
+        },
+        {
+          "chord": "E",
+          "col": 67
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Nakarat",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "Ya siz beni sevenler, unuttunuz sonunda",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 18
+        },
+        {
+          "chord": "A",
+          "col": 33
+        },
+        {
+          "chord": "D",
+          "col": 56
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bu oteller kentinin diğer yakasında",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 19
+        },
+        {
+          "chord": "A",
+          "col": 30
+        },
+        {
+          "chord": "F#m",
+          "col": 46
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Zaten odam hep dar geliyor bana",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 24
+        },
+        {
+          "chord": "C#m",
+          "col": 44
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

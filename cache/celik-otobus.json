@@ -1,0 +1,179 @@
+{
+  "slug": "celik-otobus",
+  "artist": "Çelik",
+  "title": "Otobüs",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "A Bölümü",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "nereye kadar",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 5
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "nereye kadar gider böyle bu",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "yaptığın az mı",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "için acımaz mı",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "B Bölümü",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "sabaha kadar düşündüm",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "aramasam hiç aramaz mı",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "hiç düşünmez mi yalnız",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "hiç üşümez mi",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "    NAKARAT",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "sen anla artık sen anla",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "birimiz fazla(yolcu) bu aşkta",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "sevenler otobüsünden inersen",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "ilk durakta dönüş yok asla",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "TEKRAR A",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "TEKRAR B...",
+      "chords": [],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

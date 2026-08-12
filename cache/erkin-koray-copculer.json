@@ -1,0 +1,133 @@
+{
+  "slug": "erkin-koray-copculer",
+  "artist": "Erkin Koray",
+  "title": "Çöpçüler",
+  "key": "E",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Aşktan yana şansım yok ağlıyorum derdim çok    x2",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Aşkımı kaybetmişim, sordum sordum bulan yok    x2",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 18
+        },
+        {
+          "chord": "F",
+          "col": 34
+        },
+        {
+          "chord": "Em",
+          "col": 63
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dün gece çok aradım aradım bulamadım",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 24
+        },
+        {
+          "chord": "F",
+          "col": 55
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kör olası çöpçüler aşkımı süpürmüşler",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 22
+        },
+        {
+          "chord": "F",
+          "col": 29
+        },
+        {
+          "chord": "Em",
+          "col": 51
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sokaklarda ne ararsın beni kimden sorarsın    x2",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ben düştüm aşk ateşine sen de düşme yanarsın    x2",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 28
+        },
+        {
+          "chord": "F",
+          "col": 41
+        },
+        {
+          "chord": "Em",
+          "col": 65
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Nakarat",
+      "chords": [],
+      "section": true,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

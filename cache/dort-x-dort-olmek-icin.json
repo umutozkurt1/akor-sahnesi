@@ -1,0 +1,238 @@
+{
+  "slug": "dort-x-dort-olmek-icin",
+  "artist": "Dört X Dört",
+  "title": "Ölmek için",
+  "key": "D",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "ORJİNAL TONU: C",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Intro",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "G#",
+          "col": 5
+        },
+        {
+          "chord": "Cm",
+          "col": 9
+        },
+        {
+          "chord": "A#",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 5
+        },
+        {
+          "chord": "Cm",
+          "col": 9
+        },
+        {
+          "chord": "A#",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Seninle biz her zaman, sevmiştik birbirimizi",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 25
+        },
+        {
+          "chord": "Fm",
+          "col": 31
+        },
+        {
+          "chord": "Cm",
+          "col": 48
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dudaklarımda hep sen vardın",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Şimdi sadece rüzgar, şimdi sen sadece uzakta",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 21
+        },
+        {
+          "chord": "A#",
+          "col": 32
+        },
+        {
+          "chord": "Fm",
+          "col": 60
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Seninle biz çok zaman, denedik ayrı yerlerde",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 25
+        },
+        {
+          "chord": "Fm",
+          "col": 32
+        },
+        {
+          "chord": "Cm",
+          "col": 51
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Denedik çok çok sevmeyi, uzaktan çok sevmeyi",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 28
+        },
+        {
+          "chord": "A#",
+          "col": 39
+        },
+        {
+          "chord": "Fm",
+          "col": 58
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ben şimdi ölmek için",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Seni görmek için gelebilirim",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 8
+        },
+        {
+          "chord": "Cm",
+          "col": 35
+        },
+        {
+          "chord": "A#",
+          "col": 44
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Şimdi ben son kez olsun",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Seni görmek için ölebilirim",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 8
+        },
+        {
+          "chord": "Cm",
+          "col": 31
+        },
+        {
+          "chord": "A#",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

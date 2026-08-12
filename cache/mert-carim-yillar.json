@@ -1,0 +1,181 @@
+{
+  "slug": "mert-carim-yillar",
+  "artist": "Mert Carim",
+  "title": "Yıllar",
+  "key": "Bb",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Ah yıllar yaralarım var ince sızlar derin",
+      "chords": [
+        {
+          "chord": "Bbm",
+          "col": 0
+        },
+        {
+          "chord": "F#",
+          "col": 11
+        },
+        {
+          "chord": "Fm",
+          "col": 26
+        },
+        {
+          "chord": "Bbm",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Of meczhuplar anca anlar viran yurdum yerim",
+      "chords": [
+        {
+          "chord": "Bbm",
+          "col": 0
+        },
+        {
+          "chord": "F#",
+          "col": 15
+        },
+        {
+          "chord": "Fm",
+          "col": 27
+        },
+        {
+          "chord": "Bbm",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Söyleyemem derdimi döker kadehe içerim",
+      "chords": [
+        {
+          "chord": "F#",
+          "col": 0
+        },
+        {
+          "chord": "Bbm",
+          "col": 12
+        },
+        {
+          "chord": "Ebm",
+          "col": 21
+        },
+        {
+          "chord": "Fm",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dermansız dert vermesin tanrım ben yine severim",
+      "chords": [
+        {
+          "chord": "F#",
+          "col": 0
+        },
+        {
+          "chord": "Bbm",
+          "col": 16
+        },
+        {
+          "chord": "Ebm",
+          "col": 33
+        },
+        {
+          "chord": "Fm",
+          "col": 47
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sen mi beni ben mi seni üzdüm kırdım",
+      "chords": [
+        {
+          "chord": "Bbm",
+          "col": 0
+        },
+        {
+          "chord": "F#",
+          "col": 8
+        },
+        {
+          "chord": "Ebm",
+          "col": 21
+        },
+        {
+          "chord": "Fm",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yalancı yıllar",
+      "chords": [
+        {
+          "chord": "Ebm",
+          "col": 0
+        },
+        {
+          "chord": "Bbm",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Eziyet senden çekmesi benden kindar hükümdar",
+      "chords": [
+        {
+          "chord": "Bbm",
+          "col": 0
+        },
+        {
+          "chord": "F#",
+          "col": 15
+        },
+        {
+          "chord": "Ebm",
+          "col": 31
+        },
+        {
+          "chord": "Fm",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yalancı yıllar",
+      "chords": [
+        {
+          "chord": "Ebm",
+          "col": 0
+        },
+        {
+          "chord": "Bbm",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

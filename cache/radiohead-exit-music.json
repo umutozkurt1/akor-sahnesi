@@ -1,0 +1,412 @@
+{
+  "slug": "radiohead-exit-music",
+  "artist": "Radiohead",
+  "title": "Exit Music",
+  "key": "E",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Wake from your sleep",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "    CG            Dsus4",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "The drying of your tears",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "To day we escape",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 3
+        },
+        {
+          "chord": "E",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "We escape",
+      "chords": [
+        {
+          "chord": "Asus4",
+          "col": 5
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  Pack and get dressed",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 2
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Before your father hears us",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "Dsus4",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Before all hell breaks lose",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 4
+        },
+        {
+          "chord": "E",
+          "col": 13
+        },
+        {
+          "chord": "Asus4",
+          "col": 23
+        },
+        {
+          "chord": "A",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gm           D7F#",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Breathe keep breathing",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dont't lose      your nerve",
+      "chords": [
+        {
+          "chord": "Asus2",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 7
+        },
+        {
+          "chord": "Asus2",
+          "col": 11
+        },
+        {
+          "chord": "Asus4",
+          "col": 17
+        },
+        {
+          "chord": "Am",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "      Breathe keep breathing",
+      "chords": [
+        {
+          "chord": "Asus2",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 6
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I can't do this         alone",
+      "chords": [
+        {
+          "chord": "Asus2",
+          "col": 2
+        },
+        {
+          "chord": "Am",
+          "col": 15
+        },
+        {
+          "chord": "Asus2",
+          "col": 18
+        },
+        {
+          "chord": "Asus4",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Esus4",
+          "col": 3
+        },
+        {
+          "chord": "E",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sing us a song",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " A song to keep us warm",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "Dsus4",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "There is such a chill",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Such a chill",
+      "chords": [
+        {
+          "chord": "Asus4",
+          "col": 7
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " And you can laugh",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 5
+        },
+        {
+          "chord": "B",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "A spine less laugh",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 2
+        },
+        {
+          "chord": "F",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "We hope your rules and wisdom choke you",
+      "chords": [
+        {
+          "chord": "Bb",
+          "col": 13
+        },
+        {
+          "chord": "E",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Now we are one",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   CG          Dsus4",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "In ever lasting peace",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "We hope that you choke that you choke",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 3
+        },
+        {
+          "chord": "E",
+          "col": 17
+        },
+        {
+          "chord": "Asus4",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " We hope that you choke that you choke",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 4
+        },
+        {
+          "chord": "E",
+          "col": 18
+        },
+        {
+          "chord": "Asus4",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " We hope that you choke that you choke",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 4
+        },
+        {
+          "chord": "E",
+          "col": 18
+        },
+        {
+          "chord": "Asus4",
+          "col": 33
+        },
+        {
+          "chord": "A",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

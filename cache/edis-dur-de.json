@@ -1,0 +1,272 @@
+{
+  "slug": "edis-dur-de",
+  "artist": "Edis",
+  "title": "Dur De",
+  "key": "G",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Tanrım bu nasıl bi yıkım üstüme kalan",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 1
+        },
+        {
+          "chord": "D#",
+          "col": 17
+        },
+        {
+          "chord": "Gm",
+          "col": 27
+        },
+        {
+          "chord": "D#",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Güçlü durmak ne fayda, içim hep talan",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Susmaktan ne çıkar giderek büyür hislerim",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 7
+        },
+        {
+          "chord": "Dm",
+          "col": 14
+        },
+        {
+          "chord": "Cm",
+          "col": 22
+        },
+        {
+          "chord": "Dm",
+          "col": 29
+        },
+        {
+          "chord": "Gm",
+          "col": 37
+        },
+        {
+          "chord": "D#",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hem uzak hem acı ne kadar deli özledim",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 13
+        },
+        {
+          "chord": "Cm",
+          "col": 17
+        },
+        {
+          "chord": "Dm",
+          "col": 26
+        },
+        {
+          "chord": "Gm",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir sonuç bulamazsın ya",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 4
+        },
+        {
+          "chord": "D#",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Düzlüğe çıkamazsın ya",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 5
+        },
+        {
+          "chord": "D#",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İşte ben bulamam ama",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 3
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sen bize bir dur de",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 13
+        },
+        {
+          "chord": "Dm",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gitmeye kıyamazsın ya",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 5
+        },
+        {
+          "chord": "D#",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sabredip duramazsın ya",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 5
+        },
+        {
+          "chord": "D#",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ben bi sen bulamam",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 4
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hadi sen bize bir dur de",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 5
+        },
+        {
+          "chord": "Cm",
+          "col": 19
+        },
+        {
+          "chord": "Gm",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Başa döner",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İnan burda değilim",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 5
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ölmekten beterim",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 5
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ne oluur, bize bir dur de",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

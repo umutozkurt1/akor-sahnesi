@@ -1,0 +1,148 @@
+{
+  "slug": "ozgur-cevik-seni-alirsa-firtina",
+  "artist": "Özgür Çevik",
+  "title": "Seni Alırsa Fırtına",
+  "key": "G",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Stopa kesto sana leo stoyalomin ka tevis",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 12
+        },
+        {
+          "chord": "Cm",
+          "col": 22
+        },
+        {
+          "chord": "A#",
+          "col": 29
+        },
+        {
+          "chord": "Cm",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Köyoska li fırtuna kelipayi kelya pi",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 8
+        },
+        {
+          "chord": "A#",
+          "col": 12
+        },
+        {
+          "chord": "Fm",
+          "col": 20
+        },
+        {
+          "chord": "Cm",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Söylemiştim sana gitme gönlünün sahiline",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 12
+        },
+        {
+          "chord": "Cm",
+          "col": 23
+        },
+        {
+          "chord": "A#",
+          "col": 29
+        },
+        {
+          "chord": "Cm",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Seni alırsa fırtına dayanamam vurguna",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 9
+        },
+        {
+          "chord": "A#",
+          "col": 13
+        },
+        {
+          "chord": "Fm",
+          "col": 21
+        },
+        {
+          "chord": "Cm",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Seni alırsa fırtına dayanamam yokluguna",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 9
+        },
+        {
+          "chord": "A#",
+          "col": 13
+        },
+        {
+          "chord": "Fm",
+          "col": 21
+        },
+        {
+          "chord": "Cm",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

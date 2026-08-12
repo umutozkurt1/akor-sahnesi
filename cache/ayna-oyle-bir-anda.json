@@ -1,0 +1,454 @@
+{
+  "slug": "ayna-oyle-bir-anda",
+  "artist": "Ayna",
+  "title": "Öyle Bir Anda",
+  "key": "G",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Gözüm dalıp gidiyor",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "Bm7",
+          "col": 14
+        },
+        {
+          "chord": "F#",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İçim garip bu günlerde",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 2
+        },
+        {
+          "chord": "D",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ağlamak istiyorum",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "Bm7",
+          "col": 11
+        },
+        {
+          "chord": "F#",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Olur, olmaz yerlerde",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 5
+        },
+        {
+          "chord": "D",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Aklımda sen varsın",
+      "chords": [
+        {
+          "chord": "Am9",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 5
+        },
+        {
+          "chord": "Am9",
+          "col": 9
+        },
+        {
+          "chord": "A",
+          "col": 14
+        },
+        {
+          "chord": "B",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ne kadar uzaksa",
+      "chords": [
+        {
+          "chord": "Cmaj7",
+          "col": 0
+        },
+        {
+          "chord": "Bm7",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "O kadar ruhumdasın",
+      "chords": [
+        {
+          "chord": "Am9",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 8
+        },
+        {
+          "chord": "F#",
+          "col": 11
+        },
+        {
+          "chord": "E",
+          "col": 15
+        },
+        {
+          "chord": "D",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kaderin cilvesi",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 7
+        },
+        {
+          "chord": "F#",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Söylediğin sözleri hayal edip gülüyorum",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "Bm7",
+          "col": 5
+        },
+        {
+          "chord": "F#",
+          "col": 10
+        },
+        {
+          "chord": "Em",
+          "col": 18
+        },
+        {
+          "chord": "D",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ayrılık görmüş aşklar",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "Bm7",
+          "col": 10
+        },
+        {
+          "chord": "F#",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kolay yıkılmaz diyordun",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 3
+        },
+        {
+          "chord": "D",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ne güzel demişsin",
+      "chords": [
+        {
+          "chord": "Am9",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 8
+        },
+        {
+          "chord": "Am9",
+          "col": 16
+        },
+        {
+          "chord": "A",
+          "col": 24
+        },
+        {
+          "chord": "B",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Umuttan başka sığınacak bir liman yok",
+      "chords": [
+        {
+          "chord": "Cmaj7",
+          "col": 0
+        },
+        {
+          "chord": "Bm7",
+          "col": 10
+        },
+        {
+          "chord": "Am9",
+          "col": 17
+        },
+        {
+          "chord": "G",
+          "col": 23
+        },
+        {
+          "chord": "F#",
+          "col": 27
+        },
+        {
+          "chord": "E",
+          "col": 31
+        },
+        {
+          "chord": "D",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Öyle bir anda aklına esse",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 6
+        },
+        {
+          "chord": "G",
+          "col": 11
+        },
+        {
+          "chord": "Am",
+          "col": 15
+        },
+        {
+          "chord": "G",
+          "col": 20
+        },
+        {
+          "chord": "C",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Arasan beni bu gece",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 5
+        },
+        {
+          "chord": "Am",
+          "col": 9
+        },
+        {
+          "chord": "G",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Nasıl hasret kaldım sesine",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 4
+        },
+        {
+          "chord": "C",
+          "col": 10
+        },
+        {
+          "chord": "C",
+          "col": 16
+        },
+        {
+          "chord": "D",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Öyle bir anda, bir rüzgâr esse",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 6
+        },
+        {
+          "chord": "G",
+          "col": 15
+        },
+        {
+          "chord": "Am",
+          "col": 19
+        },
+        {
+          "chord": "G",
+          "col": 26
+        },
+        {
+          "chord": "C",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Arasan beni bu gece",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 5
+        },
+        {
+          "chord": "Am",
+          "col": 12
+        },
+        {
+          "chord": "G",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Nasıl muhtacım her şeyine",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 5
+        },
+        {
+          "chord": "C",
+          "col": 10
+        },
+        {
+          "chord": "C",
+          "col": 15
+        },
+        {
+          "chord": "D",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

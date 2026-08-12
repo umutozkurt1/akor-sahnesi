@@ -1,0 +1,110 @@
+{
+  "slug": "zakkum-butun-sarkilar-biter",
+  "artist": "Zakkum",
+  "title": "Bütün Şarkılar Biter",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Nereye düşerse yolum sanki hep benimleydin",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 1
+        },
+        {
+          "chord": "Em",
+          "col": 71
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hep uzattım yolumu sen yürümeyi severdin",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 67
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Geceler yordu beni, uyku çöktü düşmedim",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 1
+        },
+        {
+          "chord": "Em",
+          "col": 56
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Beraber izleyecekmişiz gibi, gün doğumunu bekledim",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 84
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   kez",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gün geceyle diner, yanan her ateş söner",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 1
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bütün şarkılar biter, sen bitmiyorsun",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hayat elbet güler, gidenler bir gün döner",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bütün ağrılar geçer, sen geçmiyorsun",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

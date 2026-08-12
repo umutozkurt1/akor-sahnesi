@@ -1,0 +1,139 @@
+{
+  "slug": "cem-cinar-sen-delisin",
+  "artist": "Cem Çınar",
+  "title": "Sen Delisin",
+  "key": "G",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "yok mu söyleyecek bir söz",
+      "chords": [
+        {
+          "chord": "Gm7",
+          "col": 0
+        },
+        {
+          "chord": "Dm7",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "öylece severken, niye bırakıp gittin",
+      "chords": [
+        {
+          "chord": "Cm7",
+          "col": 9
+        },
+        {
+          "chord": "Bmaj7",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "kendine bir söz ver",
+      "chords": [
+        {
+          "chord": "Gm7",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "hiç kimseyi sevme",
+      "chords": [
+        {
+          "chord": "Dm7",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "kimse sevemez seni",
+      "chords": [
+        {
+          "chord": "Cm7",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "böyle delice",
+      "chords": [
+        {
+          "chord": "Bbmaj7",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "sen delisin delisin delisin",
+      "chords": [
+        {
+          "chord": "Ebmaj7",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "usulca hayatımdan çıkıp gittin",
+      "chords": [
+        {
+          "chord": "Dm7",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "yine ben deliyim deliyim deliyim",
+      "chords": [
+        {
+          "chord": "Cm7",
+          "col": 5
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "hayatımı zehirleyen birini sevdim",
+      "chords": [
+        {
+          "chord": "Dm7",
+          "col": 16
+        },
+        {
+          "chord": "Bb",
+          "col": 20
+        },
+        {
+          "chord": "Gm",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

@@ -1,0 +1,611 @@
+{
+  "slug": "ed-sheeran-stay-with-me",
+  "artist": "Ed Sheeran",
+  "title": "Stay With Me",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Intro:",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "Cm G#D#",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Cm G#A#sus2D#",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Guess it's true, I'm not good at a one night stand",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "G#",
+          "col": 24
+        },
+        {
+          "chord": "D#",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " But I still need love cause I'm just a man",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "G#",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " These nights never seem to go to plan",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "G#",
+          "col": 19
+        },
+        {
+          "chord": "D#",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " I don't want you to leave can you hold my hand?",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "G#",
+          "col": 20
+        },
+        {
+          "chord": "D#",
+          "col": 41
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Oh won't you  sta-ay with me?",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 3
+        },
+        {
+          "chord": "Cm",
+          "col": 11
+        },
+        {
+          "chord": "G#",
+          "col": 17
+        },
+        {
+          "chord": "D#",
+          "col": 25
+        },
+        {
+          "chord": "A#sus2",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Cause you're  all  I need",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 12
+        },
+        {
+          "chord": "G#",
+          "col": 17
+        },
+        {
+          "chord": "D#",
+          "col": 21
+        },
+        {
+          "chord": "A#sus2",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "This ain't love it's clear to see",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 11
+        },
+        {
+          "chord": "G#",
+          "col": 21
+        },
+        {
+          "chord": "D#",
+          "col": 30
+        },
+        {
+          "chord": "A#sus2",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But darling, stay with me",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 11
+        },
+        {
+          "chord": "G#",
+          "col": 17
+        },
+        {
+          "chord": "D#",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Why am I so emotional?",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "G#",
+          "col": 8
+        },
+        {
+          "chord": "D#",
+          "col": 19
+        },
+        {
+          "chord": "A#sus2",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " No it's not a good look, gain some self control",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "G#",
+          "col": 20
+        },
+        {
+          "chord": "D#",
+          "col": 45
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " And deep down I know this never works",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "G#",
+          "col": 17
+        },
+        {
+          "chord": "D#",
+          "col": 33
+        },
+        {
+          "chord": "A#sus2",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " But you can lay with me so it doesn't hurt",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "G#",
+          "col": 22
+        },
+        {
+          "chord": "D#",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Oh won't you  sta-ay with me?",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 12
+        },
+        {
+          "chord": "G#",
+          "col": 18
+        },
+        {
+          "chord": "D#",
+          "col": 26
+        },
+        {
+          "chord": "A#sus2",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Cause you're  all  I need",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 12
+        },
+        {
+          "chord": "G#",
+          "col": 17
+        },
+        {
+          "chord": "D#",
+          "col": 21
+        },
+        {
+          "chord": "A#sus2",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "This ain't love it's clear to see",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 11
+        },
+        {
+          "chord": "G#",
+          "col": 21
+        },
+        {
+          "chord": "D#",
+          "col": 30
+        },
+        {
+          "chord": "A#sus2",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But darling, stay with me",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 11
+        },
+        {
+          "chord": "G#",
+          "col": 17
+        },
+        {
+          "chord": "D#",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "ohhoh......",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 1
+        },
+        {
+          "chord": "G#",
+          "col": 5
+        },
+        {
+          "chord": "D#",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "ohhoh.....",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 1
+        },
+        {
+          "chord": "G#",
+          "col": 5
+        },
+        {
+          "chord": "D#",
+          "col": 9
+        },
+        {
+          "chord": "A#sus2",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "ohhoh.....",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 1
+        },
+        {
+          "chord": "G#",
+          "col": 5
+        },
+        {
+          "chord": "D#",
+          "col": 9
+        },
+        {
+          "chord": "A#sus2",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 1
+        },
+        {
+          "chord": "G#",
+          "col": 5
+        },
+        {
+          "chord": "D#",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Won't you  sta-ay with me?",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 9
+        },
+        {
+          "chord": "G#",
+          "col": 14
+        },
+        {
+          "chord": "D#",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Cause you're  all  I need",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 12
+        },
+        {
+          "chord": "G#",
+          "col": 16
+        },
+        {
+          "chord": "D#",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But this ain't love it's clear to     see",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 15
+        },
+        {
+          "chord": "G#",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But darling, stay with me",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 11
+        },
+        {
+          "chord": "G#",
+          "col": 17
+        },
+        {
+          "chord": "D#",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Oh won't you  stay with me?",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 12
+        },
+        {
+          "chord": "G#",
+          "col": 18
+        },
+        {
+          "chord": "D#",
+          "col": 24
+        },
+        {
+          "chord": "A#sus2",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Cause you're  all  I need",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 12
+        },
+        {
+          "chord": "G#",
+          "col": 17
+        },
+        {
+          "chord": "D#",
+          "col": 21
+        },
+        {
+          "chord": "A#sus2",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "This ain't love it's clear to see",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 11
+        },
+        {
+          "chord": "G#",
+          "col": 21
+        },
+        {
+          "chord": "D#",
+          "col": 30
+        },
+        {
+          "chord": "A#sus2",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But darling, sta-ay with me",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 13
+        },
+        {
+          "chord": "G#",
+          "col": 16
+        },
+        {
+          "chord": "D#",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

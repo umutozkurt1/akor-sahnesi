@@ -1,0 +1,206 @@
+{
+  "slug": "pink-floyd-another-brick-in-the-wall",
+  "artist": "Pink Floyd",
+  "title": "Another Brick In The Wall",
+  "key": "D",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "We don't need no education,",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "we don't need no thought control,",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "No dark sarcasm in the classroom.",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Teachers, leave them kids alone.",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Hey, teacher! Leave them kids alone!",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " All in all it's just another brick in the wall.",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 24
+        },
+        {
+          "chord": "Dm",
+          "col": 43
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " All in all you're just another brick in the wall.",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 26
+        },
+        {
+          "chord": "Dm",
+          "col": 45
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "We don't need no education,",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "We don't need no thought control,",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "No dark sarcasm in the classroom.",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Teachers, leave them kids alone.",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Hey, teacher! Leave us kids alone!",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " All in all you're just another brick in the wall.",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 26
+        },
+        {
+          "chord": "Dm",
+          "col": 45
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " All in all you're just another brick in the wall.",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 26
+        },
+        {
+          "chord": "Dm",
+          "col": 45
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dm GD Dm GD",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dm GD Dm GD",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dm CD BbD CD",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

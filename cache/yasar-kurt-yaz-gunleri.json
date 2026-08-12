@@ -1,0 +1,125 @@
+{
+  "slug": "yasar-kurt-yaz-gunleri",
+  "artist": "Yaşar Kurt",
+  "title": "Yaz Günleri",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Yaz günleri en    tatlı hayaller gibi geçti",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 8
+        },
+        {
+          "chord": "Am",
+          "col": 12
+        },
+        {
+          "chord": "Dm",
+          "col": 18
+        },
+        {
+          "chord": "Am",
+          "col": 30
+        },
+        {
+          "chord": "E",
+          "col": 38
+        },
+        {
+          "chord": "Am",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Rüyadaki esrar dolu haller gibi geçti",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 12
+        },
+        {
+          "chord": "Am",
+          "col": 24
+        },
+        {
+          "chord": "E",
+          "col": 32
+        },
+        {
+          "chord": "Am",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ruhumda derin en derin hicrandır o günler",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 18
+        },
+        {
+          "chord": "E",
+          "col": 26
+        },
+        {
+          "chord": "Am",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Rüyadaki esrar dolu haller gibi geçti",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 12
+        },
+        {
+          "chord": "Am",
+          "col": 24
+        },
+        {
+          "chord": "E",
+          "col": 32
+        },
+        {
+          "chord": "Am",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

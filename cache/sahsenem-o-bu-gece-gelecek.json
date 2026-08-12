@@ -1,0 +1,174 @@
+{
+  "slug": "sahsenem-o-bu-gece-gelecek",
+  "artist": "Şahsenem",
+  "title": "O Bu Gece Gelecek",
+  "key": "E",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Çekilir bir dert mi bu, gençliğin soldu",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 23
+        },
+        {
+          "chord": "C",
+          "col": 32
+        },
+        {
+          "chord": "Bm",
+          "col": 51
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yaşanır bir aşk mı bu, iki gözün kör mü",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 23
+        },
+        {
+          "chord": "C",
+          "col": 31
+        },
+        {
+          "chord": "Bm",
+          "col": 51
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dün kolaydı, ah olaydı, ilk yalanda son bulaydı",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 20
+        },
+        {
+          "chord": "Bm",
+          "col": 34
+        },
+        {
+          "chord": "Am",
+          "col": 48
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yardım edin bana, yardım edin bana",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 13
+        },
+        {
+          "chord": "C",
+          "col": 25
+        },
+        {
+          "chord": "Bm",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ben onu çok sevdim geri verin bana",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 12
+        },
+        {
+          "chord": "C",
+          "col": 29
+        },
+        {
+          "chord": "Bm",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "O bu gece gelecek, hasret sona erecek",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 15
+        },
+        {
+          "chord": "Am",
+          "col": 26
+        },
+        {
+          "chord": "Bm",
+          "col": 45
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Söyler bana kuşlar o bu gece gelecek",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 18
+        },
+        {
+          "chord": "Am",
+          "col": 26
+        },
+        {
+          "chord": "Bm",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

@@ -1,0 +1,127 @@
+{
+  "slug": "replikas-kor-tasin-kiyisinda",
+  "artist": "Replikas",
+  "title": "Kör Taşın Kıyısında",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": " kör taşın kıyısında. kör yılanın hanında.",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " su içsen, zehir olur. hanın kör kuyusunda. Aaaaaaaaa....",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 44
+        },
+        {
+          "chord": "A#",
+          "col": 47
+        },
+        {
+          "chord": "G",
+          "col": 51
+        },
+        {
+          "chord": "A",
+          "col": 53
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " kör taşın gerisinde. zor dağın tepesinde.  C  A#  G A",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 1
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "                                            Aaaaaaaaa....",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " bir ölsen, bin olur. körlerin gölgesinde.",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " zor dağın inişinde. itin namerdin ininde.  C  A#  G A",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 1
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "                                            Aaaaaaaaa....",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " ağır çeker kül dumandan. körlerin ateşinde.",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " kabuslar arasında. insaf yoktur karasında.",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 1
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " bir duran taş ollur.kör taşın kıyısında    Aaaaaaaaa...",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 44
+        },
+        {
+          "chord": "A#",
+          "col": 47
+        },
+        {
+          "chord": "G",
+          "col": 51
+        },
+        {
+          "chord": "A",
+          "col": 53
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

@@ -1,0 +1,196 @@
+{
+  "slug": "demet-akalin-aglar-o-deli",
+  "artist": "Demet Akalın",
+  "title": "Ağlar O Deli",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Bırak gelirse gelsin",
+      "chords": [
+        {
+          "chord": "Abm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Üstüme dünya",
+      "chords": [
+        {
+          "chord": "Ebm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bırak tütsün yangın yeri",
+      "chords": [
+        {
+          "chord": "Abm",
+          "col": 0
+        },
+        {
+          "chord": "Ebm7",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hala aşık hala deli",
+      "chords": [
+        {
+          "chord": "Abm",
+          "col": 0
+        },
+        {
+          "chord": "Ebm7",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "O da benim gibi",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Olmayınca olmuyor işte",
+      "chords": [
+        {
+          "chord": "Emaj7",
+          "col": 0
+        },
+        {
+          "chord": "Dbm7",
+          "col": 16
+        },
+        {
+          "chord": "Ebm7",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kaderim bana kestiği cezasın, cezasın",
+      "chords": [
+        {
+          "chord": "Emaj7",
+          "col": 0
+        },
+        {
+          "chord": "Ebm7",
+          "col": 36
+        },
+        {
+          "chord": "Dbm7",
+          "col": 46
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir ömür benim başıma belasın, belasın",
+      "chords": [
+        {
+          "chord": "Emaj7",
+          "col": 0
+        },
+        {
+          "chord": "Ebm7",
+          "col": 39
+        },
+        {
+          "chord": "Dbm7",
+          "col": 48
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ona benden bahsetmeyin",
+      "chords": [
+        {
+          "chord": "Abm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Anlar anlar hala sevdiğimi",
+      "chords": [
+        {
+          "chord": "Gb",
+          "col": 0
+        },
+        {
+          "chord": "Emaj7",
+          "col": 7
+        },
+        {
+          "chord": "Dbm",
+          "col": 13
+        },
+        {
+          "chord": "Ebm7",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bu şarkıyı dinletmeyin",
+      "chords": [
+        {
+          "chord": "Ebm7",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ağlar ağlar o deli",
+      "chords": [
+        {
+          "chord": "Gb",
+          "col": 0
+        },
+        {
+          "chord": "Emaj7",
+          "col": 5
+        },
+        {
+          "chord": "Dbm",
+          "col": 11
+        },
+        {
+          "chord": "Ebm7",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

@@ -1,0 +1,243 @@
+{
+  "slug": "yasar-yaz-bitti",
+  "artist": "Yaşar",
+  "title": "Yaz Bitti",
+  "key": "B",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Yaz bitti aşıklar şehre döndüler",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 11
+        },
+        {
+          "chord": "Em",
+          "col": 18
+        },
+        {
+          "chord": "B",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yarıda kaldı sabah biten geceler",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 28
+        },
+        {
+          "chord": "B",
+          "col": 48
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Daha vardı yaşanacak tatlı günler",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 28
+        },
+        {
+          "chord": "B",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yaşanamadı erkenden bittiler",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 27
+        },
+        {
+          "chord": "B",
+          "col": 43
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yazacağım canım dendi doldu gözler",
+      "chords": [
+        {
+          "chord": "G#m",
+          "col": 0
+        },
+        {
+          "chord": "C#m",
+          "col": 18
+        },
+        {
+          "chord": "F#",
+          "col": 26
+        },
+        {
+          "chord": "B",
+          "col": 46
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Alındı birer birer adresler",
+      "chords": [
+        {
+          "chord": "G#m",
+          "col": 0
+        },
+        {
+          "chord": "C#m",
+          "col": 6
+        },
+        {
+          "chord": "E",
+          "col": 13
+        },
+        {
+          "chord": "D#",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ya kalem bitti ne naz",
+      "chords": [
+        {
+          "chord": "G#m",
+          "col": 0
+        },
+        {
+          "chord": "C#m",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bu yalan gibi biraz",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 0
+        },
+        {
+          "chord": "G#m",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ya istilada kalpler sessiz",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yazılmadı postacılar işsiz",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 10
+        },
+        {
+          "chord": "D#",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Mevsim biterken böyle asklar da biter",
+      "chords": [
+        {
+          "chord": "G#m",
+          "col": 0
+        },
+        {
+          "chord": "C#m",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Başka biriyle başka başka sehirler",
+      "chords": [
+        {
+          "chord": "F#",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yaz yaklaşınca düşer akıllar başa",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "C#m",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sonra postacılar işe yağmurlar bitince",
+      "chords": [
+        {
+          "chord": "F#",
+          "col": 13
+        },
+        {
+          "chord": "D#",
+          "col": 47
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

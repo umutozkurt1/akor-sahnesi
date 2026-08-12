@@ -1,0 +1,861 @@
+{
+  "slug": "ed-sheeran-wonderwall",
+  "artist": "Ed Sheeran",
+  "title": "Wonderwall",
+  "key": "D",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Intro:",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Em7",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 6
+        },
+        {
+          "chord": "Dsus4",
+          "col": 10
+        },
+        {
+          "chord": "A7sus4",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Em7",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 6
+        },
+        {
+          "chord": "Dsus4",
+          "col": 10
+        },
+        {
+          "chord": "A7sus4",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Today is gonna be the day",
+      "chords": [
+        {
+          "chord": "Dm7",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "             Csus                   G7sus",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "That they're gonna throw it back to you,",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "By now you should of somehow",
+      "chords": [
+        {
+          "chord": "Dm7",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   Csus                 G7sus",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Realized what you gotta do.",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I don't believe that anybody feels the way I do",
+      "chords": [
+        {
+          "chord": "Dm7",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 21
+        },
+        {
+          "chord": "Csus",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "About you now.",
+      "chords": [
+        {
+          "chord": "Dm7",
+          "col": 10
+        },
+        {
+          "chord": "F",
+          "col": 14
+        },
+        {
+          "chord": "Csus",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Back beat, the word is on the street",
+      "chords": [
+        {
+          "chord": "Dm7",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "         Csus                  G7sus",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "That the fire in your heart is out,",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'm sure you've heard it all before,",
+      "chords": [
+        {
+          "chord": "Dm7",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "        Csus               G7sus",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But you never really had a doubt.",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I don't believe that anybody feels the way I do",
+      "chords": [
+        {
+          "chord": "Dm7",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 21
+        },
+        {
+          "chord": "Csus",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "About you now.",
+      "chords": [
+        {
+          "chord": "Dm7",
+          "col": 10
+        },
+        {
+          "chord": "F",
+          "col": 14
+        },
+        {
+          "chord": "Csus",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And all the roads we have to walk are winding,",
+      "chords": [
+        {
+          "chord": "A#add9",
+          "col": 4
+        },
+        {
+          "chord": "Csus",
+          "col": 21
+        },
+        {
+          "chord": "Dm7",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And all the lights that lead us there are blinding,",
+      "chords": [
+        {
+          "chord": "A#add9",
+          "col": 4
+        },
+        {
+          "chord": "Csus",
+          "col": 24
+        },
+        {
+          "chord": "Dm7",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "There are many things that I would like to say to you",
+      "chords": [
+        {
+          "chord": "Cadd9",
+          "col": 0
+        },
+        {
+          "chord": "Dsus4",
+          "col": 15
+        },
+        {
+          "chord": "G",
+          "col": 35
+        },
+        {
+          "chord": "Em7",
+          "col": 49
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "      F          G7sus",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But I don't know how.",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Because maybe,",
+      "chords": [
+        {
+          "chord": "A#add9",
+          "col": 8
+        },
+        {
+          "chord": "Dm7",
+          "col": 15
+        },
+        {
+          "chord": "F",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You're gonna be the one that saves me,",
+      "chords": [
+        {
+          "chord": "Dm7",
+          "col": 7
+        },
+        {
+          "chord": "A#add9",
+          "col": 29
+        },
+        {
+          "chord": "Dm7",
+          "col": 39
+        },
+        {
+          "chord": "F",
+          "col": 43
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And after all,",
+      "chords": [
+        {
+          "chord": "Dm7",
+          "col": 4
+        },
+        {
+          "chord": "A#add9",
+          "col": 10
+        },
+        {
+          "chord": "Dm7",
+          "col": 17
+        },
+        {
+          "chord": "F",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You're my wonderwall.",
+      "chords": [
+        {
+          "chord": "Em7",
+          "col": 10
+        },
+        {
+          "chord": "Cadd9",
+          "col": 16
+        },
+        {
+          "chord": "Em7",
+          "col": 23
+        },
+        {
+          "chord": "G",
+          "col": 28
+        },
+        {
+          "chord": "Em7",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Today was gonna be the day,",
+      "chords": [
+        {
+          "chord": "Dm7",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "            Csus                   G7sus",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But they'll never throw it back at you,",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "By now you should have somehow",
+      "chords": [
+        {
+          "chord": "Dm7",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   Csus                    G7sus",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Realized what you've gotta do.",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I don't believe that anybody feels the way I do",
+      "chords": [
+        {
+          "chord": "Dm7",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 21
+        },
+        {
+          "chord": "Csus",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "About you now.",
+      "chords": [
+        {
+          "chord": "Dm7",
+          "col": 10
+        },
+        {
+          "chord": "F",
+          "col": 15
+        },
+        {
+          "chord": "Csus",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And all the roads we have to walk are winding,",
+      "chords": [
+        {
+          "chord": "A#add9",
+          "col": 4
+        },
+        {
+          "chord": "Csus",
+          "col": 21
+        },
+        {
+          "chord": "Dm7",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And all the lights that lead us there are blinding,",
+      "chords": [
+        {
+          "chord": "A#add9",
+          "col": 4
+        },
+        {
+          "chord": "Csus",
+          "col": 24
+        },
+        {
+          "chord": "Dm7",
+          "col": 46
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "There are many things that I would like to say to you",
+      "chords": [
+        {
+          "chord": "A#add9",
+          "col": 0
+        },
+        {
+          "chord": "Csus",
+          "col": 15
+        },
+        {
+          "chord": "F",
+          "col": 35
+        },
+        {
+          "chord": "Dm7",
+          "col": 48
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "      F          G7sus",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But I don't know how.",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I said maybe,",
+      "chords": [
+        {
+          "chord": "A#add9",
+          "col": 8
+        },
+        {
+          "chord": "Dm7",
+          "col": 15
+        },
+        {
+          "chord": "F",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You're gonna be the one that saves me,",
+      "chords": [
+        {
+          "chord": "Dm7",
+          "col": 7
+        },
+        {
+          "chord": "A#add9",
+          "col": 29
+        },
+        {
+          "chord": "Dm7",
+          "col": 39
+        },
+        {
+          "chord": "F",
+          "col": 45
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And after all,",
+      "chords": [
+        {
+          "chord": "Dm7",
+          "col": 4
+        },
+        {
+          "chord": "A#add9",
+          "col": 10
+        },
+        {
+          "chord": "Dm7",
+          "col": 17
+        },
+        {
+          "chord": "F",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You're my wonderwall.",
+      "chords": [
+        {
+          "chord": "Dm7",
+          "col": 10
+        },
+        {
+          "chord": "A#add9",
+          "col": 16
+        },
+        {
+          "chord": "Dm7",
+          "col": 23
+        },
+        {
+          "chord": "F",
+          "col": 29
+        },
+        {
+          "chord": "Dm7",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I said maybe,",
+      "chords": [
+        {
+          "chord": "A#add9",
+          "col": 8
+        },
+        {
+          "chord": "Dm7",
+          "col": 15
+        },
+        {
+          "chord": "F",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You're gonna be the one that saves me,",
+      "chords": [
+        {
+          "chord": "Dm7",
+          "col": 7
+        },
+        {
+          "chord": "A#add9",
+          "col": 29
+        },
+        {
+          "chord": "Dm7",
+          "col": 39
+        },
+        {
+          "chord": "F",
+          "col": 45
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And after all,",
+      "chords": [
+        {
+          "chord": "Dm7",
+          "col": 4
+        },
+        {
+          "chord": "A#add9",
+          "col": 10
+        },
+        {
+          "chord": "Dm7",
+          "col": 17
+        },
+        {
+          "chord": "F",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You're my wonderwall.",
+      "chords": [
+        {
+          "chord": "Dm7",
+          "col": 10
+        },
+        {
+          "chord": "A#add9",
+          "col": 16
+        },
+        {
+          "chord": "Dm7",
+          "col": 23
+        },
+        {
+          "chord": "F",
+          "col": 29
+        },
+        {
+          "chord": "Dm7",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Outro",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "I said maybe,",
+      "chords": [
+        {
+          "chord": "A#add9",
+          "col": 8
+        },
+        {
+          "chord": "Dm7",
+          "col": 15
+        },
+        {
+          "chord": "F",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You're gonna be the one that saves me,",
+      "chords": [
+        {
+          "chord": "Dm7",
+          "col": 7
+        },
+        {
+          "chord": "A#add9",
+          "col": 29
+        },
+        {
+          "chord": "Dm7",
+          "col": 39
+        },
+        {
+          "chord": "F",
+          "col": 45
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You're gonna be the one that saves me,",
+      "chords": [
+        {
+          "chord": "Dm7",
+          "col": 7
+        },
+        {
+          "chord": "A#add9",
+          "col": 29
+        },
+        {
+          "chord": "Dm7",
+          "col": 39
+        },
+        {
+          "chord": "F",
+          "col": 45
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You're gonna be the one that saves me",
+      "chords": [
+        {
+          "chord": "Dm7",
+          "col": 7
+        },
+        {
+          "chord": "A#add9",
+          "col": 29
+        },
+        {
+          "chord": "Dm7",
+          "col": 39
+        },
+        {
+          "chord": "F",
+          "col": 45
+        },
+        {
+          "chord": "Dm7",
+          "col": 47
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

@@ -1,0 +1,151 @@
+{
+  "slug": "sakin-hamur-isleri",
+  "artist": "Sakin",
+  "title": "Hamur İşleri",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "kavanozların dibi göründü",
+      "chords": [
+        {
+          "chord": "Am7",
+          "col": 0
+        },
+        {
+          "chord": "Bm7",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "çörek otu ve susam sam sam sam...",
+      "chords": [
+        {
+          "chord": "Am7",
+          "col": 0
+        },
+        {
+          "chord": "Bm7",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "bütün bu poğaçalar, kurabiyeler",
+      "chords": [
+        {
+          "chord": "Am7",
+          "col": 0
+        },
+        {
+          "chord": "Bm7",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "beni içime kapatan",
+      "chords": [
+        {
+          "chord": "Am7",
+          "col": 0
+        },
+        {
+          "chord": "Bm7",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "kapıyı açasım yok",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "G#",
+          "col": 9
+        },
+        {
+          "chord": "Bm",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "dışarı çıkasım da",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 7
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "kapıyı açasım da",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "G#",
+          "col": 9
+        },
+        {
+          "chord": "Bm",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "dışarı çıkasım da",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 7
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "kör taklidi yapıyorum",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "tıpkı ağaçlar gibi",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "hiçbir yere gitmemek için",
+      "chords": [],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

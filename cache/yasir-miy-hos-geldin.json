@@ -1,0 +1,134 @@
+{
+  "slug": "yasir-miy-hos-geldin",
+  "artist": "Yasir Miy",
+  "title": "Hoş Geldin",
+  "key": "Ab",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Yanmışım seninle gözyaşlarım hep tükendi",
+      "chords": [
+        {
+          "chord": "Db",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 25
+        },
+        {
+          "chord": "Db",
+          "col": 35
+        },
+        {
+          "chord": "Cm",
+          "col": 48
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kalkarım yeniden eskilerde nasıl gülerdim",
+      "chords": [
+        {
+          "chord": "Db",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 23
+        },
+        {
+          "chord": "Db",
+          "col": 27
+        },
+        {
+          "chord": "Cm",
+          "col": 45
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bu yolu seçtin",
+      "chords": [
+        {
+          "chord": "Ab",
+          "col": 0
+        },
+        {
+          "chord": "Eb",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sen vazgeçtin",
+      "chords": [
+        {
+          "chord": "Db",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hoş geldin",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Şimdi bütün günler sendin",
+      "chords": [
+        {
+          "chord": "Ab",
+          "col": 0
+        },
+        {
+          "chord": "Eb",
+          "col": 14
+        },
+        {
+          "chord": "Db",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hoş geldin, sen hoş geldin",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 13
+        },
+        {
+          "chord": "Bbm",
+          "col": 18
+        },
+        {
+          "chord": "Cm",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

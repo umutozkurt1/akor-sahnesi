@@ -1,0 +1,152 @@
+{
+  "slug": "fettah-can-ara-ara",
+  "artist": "Fettah Can",
+  "title": "Ara Ara",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Ara ara ara düşmedi ama",
+      "chords": [
+        {
+          "chord": "Amaj7",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ezberimde numaran",
+      "chords": [
+        {
+          "chord": "Eadd9",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yana yana yana yakıla aradım",
+      "chords": [
+        {
+          "chord": "Amaj7",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gece vakti yok sigaram",
+      "chords": [
+        {
+          "chord": "Eadd9",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bana ne Oluyor sana ne oluyor",
+      "chords": [
+        {
+          "chord": "F#m7",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yok ki arayı bulan",
+      "chords": [
+        {
+          "chord": "Eadd9",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Unutuluyor acıtılıyor",
+      "chords": [
+        {
+          "chord": "F#m7",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yok ki aşkı koruyan",
+      "chords": [
+        {
+          "chord": "Eadd9",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hayır hayır inanmıyorum",
+      "chords": [
+        {
+          "chord": "F#m7",
+          "col": 0
+        },
+        {
+          "chord": "Amaj7",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bu beni son Öpüşün Olamaz",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Durumu ciddiye almıyorum",
+      "chords": [
+        {
+          "chord": "Eadd9",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yüreğim bunu kaldıramaz",
+      "chords": [
+        {
+          "chord": "F#m7",
+          "col": 0
+        },
+        {
+          "chord": "Am7",
+          "col": 21
+        },
+        {
+          "chord": "G#m7",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

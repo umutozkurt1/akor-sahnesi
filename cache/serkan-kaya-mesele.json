@@ -1,0 +1,173 @@
+{
+  "slug": "serkan-kaya-mesele",
+  "artist": "Serkan Kaya",
+  "title": "Mesele",
+  "key": "F#",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Şimdi düşünüyorum da giderken beni de almışsın",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 68
+        },
+        {
+          "chord": "F#m",
+          "col": 74
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İstemeye istemeye belki de inatla ayrıldık",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 57
+        },
+        {
+          "chord": "F#m",
+          "col": 62
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hayıflanmam, üzülmem, zor olan seni düşünmem",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 20
+        },
+        {
+          "chord": "F#m",
+          "col": 30
+        },
+        {
+          "chord": "G",
+          "col": 55
+        },
+        {
+          "chord": "F#m",
+          "col": 65
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Belki de çektiğim bu sancı senin yüzünden",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 12
+        },
+        {
+          "chord": "G",
+          "col": 26
+        },
+        {
+          "chord": "F#m",
+          "col": 30
+        },
+        {
+          "chord": "Em",
+          "col": 36
+        },
+        {
+          "chord": "F#m",
+          "col": 47
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Mesele ne senin benden ayrılman",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ne de benim sana darılmam",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ne aramaman ne de sormaman",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Mesele şu ki hâlâ bitmedi sevdam",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 21
+        },
+        {
+          "chord": "Em",
+          "col": 27
+        },
+        {
+          "chord": "G",
+          "col": 35
+        },
+        {
+          "chord": "F#m",
+          "col": 43
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

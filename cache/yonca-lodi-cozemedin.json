@@ -1,0 +1,174 @@
+{
+  "slug": "yonca-lodi-cozemedin",
+  "artist": "Yonca Lodi",
+  "title": "Çözemedin",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Önce rüzgarlarla konuş sonra yağmurla ağla",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 17
+        },
+        {
+          "chord": "Fm",
+          "col": 23
+        },
+        {
+          "chord": "Cm",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sen görmeden gideceğim geriye dönmem asla",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 13
+        },
+        {
+          "chord": "G",
+          "col": 23
+        },
+        {
+          "chord": "C",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sence ayrılıklar kolay yalnız kal bak göreceksin",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 17
+        },
+        {
+          "chord": "Fm",
+          "col": 23
+        },
+        {
+          "chord": "Cm",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ben hatıraları aldım neyinle övüneceksin?",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 15
+        },
+        {
+          "chord": "G",
+          "col": 21
+        },
+        {
+          "chord": "C",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ben hatıraları aldım neyine güveneceksin?",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 15
+        },
+        {
+          "chord": "G",
+          "col": 21
+        },
+        {
+          "chord": "Cm",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Beni seven bir kadın var deme artık inanmazlar",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 7
+        },
+        {
+          "chord": "G",
+          "col": 21
+        },
+        {
+          "chord": "Ab",
+          "col": 25
+        },
+        {
+          "chord": "Cm",
+          "col": 43
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İçimdeki düğümleri çözemedin, kalsın onlar",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 6
+        },
+        {
+          "chord": "G",
+          "col": 16
+        },
+        {
+          "chord": "Ab",
+          "col": 19
+        },
+        {
+          "chord": "Cm",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

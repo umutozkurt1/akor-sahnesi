@@ -1,0 +1,175 @@
+{
+  "slug": "yedinci-ev-utaniyorum-halimden",
+  "artist": "Yedinci Ev",
+  "title": "Utanıyorum Halimden",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Satırlar bile bıktı benden, anlatamıyorum seni",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 26
+        },
+        {
+          "chord": "D",
+          "col": 40
+        },
+        {
+          "chord": "F#m",
+          "col": 62
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yaptığım son şarkı utanıyor halinden, anlatamıyorum seni",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 30
+        },
+        {
+          "chord": "D",
+          "col": 62
+        },
+        {
+          "chord": "F#m",
+          "col": 83
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dokundum dokundum ezberlettim tenime",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 32
+        },
+        {
+          "chord": "D",
+          "col": 67
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kokladım kokladım doldurdum içime",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 31
+        },
+        {
+          "chord": "D",
+          "col": 58
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dokundum dokundum ezberlettim tenime",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 35
+        },
+        {
+          "chord": "D",
+          "col": 70
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kokladım kokladım",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hiç bir şey bulamadım seni anlatan",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 35
+        },
+        {
+          "chord": "F#m",
+          "col": 59
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Konuşmadı kimse yetmedi rüyalar",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 58
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hiç bir şey bulamadım seni unutturan",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 35
+        },
+        {
+          "chord": "F#m",
+          "col": 61
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Geçemedi yerine melekler bile",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 53
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

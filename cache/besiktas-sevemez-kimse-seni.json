@@ -1,0 +1,89 @@
+{
+  "slug": "besiktas-sevemez-kimse-seni",
+  "artist": "Beşiktaş",
+  "title": "Sevemez Kimse Seni",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Sevemez kimse seni, benim sevdiğim kadar",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "A#m",
+          "col": 20
+        },
+        {
+          "chord": "C",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Beşiktaş sen olmasan, yaşamak neye yarar",
+      "chords": [
+        {
+          "chord": "C#",
+          "col": 16
+        },
+        {
+          "chord": "A#m",
+          "col": 23
+        },
+        {
+          "chord": "C",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Her an seni düşünür, her an seni yaşarım",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 13
+        },
+        {
+          "chord": "A#m",
+          "col": 21
+        },
+        {
+          "chord": "C",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Seni sevmekten değil, kaybetmekten korkarım",
+      "chords": [
+        {
+          "chord": "C#",
+          "col": 16
+        },
+        {
+          "chord": "A#m",
+          "col": 23
+        },
+        {
+          "chord": "C",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

@@ -1,0 +1,173 @@
+{
+  "slug": "omer-gunes-feveran",
+  "artist": "Ömer Güneş",
+  "title": "Feveran",
+  "key": "B",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Pek beceremem anlatmayı",
+      "chords": [
+        {
+          "chord": "Bbm",
+          "col": 0
+        },
+        {
+          "chord": "Ebm",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sevmezdin biliyorum konuşmayı",
+      "chords": [
+        {
+          "chord": "Gb",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Heyecanını gizlemeden",
+      "chords": [
+        {
+          "chord": "Bbm",
+          "col": 0
+        },
+        {
+          "chord": "Ebm",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bilmezdin çok gülüp ağlamayı",
+      "chords": [
+        {
+          "chord": "Gb",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kokuyordu gül değil güle benzer tenin",
+      "chords": [
+        {
+          "chord": "Gb",
+          "col": 0
+        },
+        {
+          "chord": "Ab",
+          "col": 17
+        },
+        {
+          "chord": "Ebm",
+          "col": 55
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Eriyor içim günbegün solar çiçeklerim",
+      "chords": [
+        {
+          "chord": "Gb",
+          "col": 61
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İnan artık son sözlerim bu söylediğim",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ahhh    senden önce böyle değildim",
+      "chords": [
+        {
+          "chord": "Bbm",
+          "col": 0
+        },
+        {
+          "chord": "Ebm",
+          "col": 8
+        },
+        {
+          "chord": "Gb",
+          "col": 46
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Peki hala sevdiğin adam değil miyim?",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 17
+        },
+        {
+          "chord": "Bbm",
+          "col": 54
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Zorla dön diyince dönmüyor dilim",
+      "chords": [
+        {
+          "chord": "Ebm",
+          "col": 10
+        },
+        {
+          "chord": "Gb",
+          "col": 50
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Feveranım dinmedi hala yerimdeyim",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 19
+        },
+        {
+          "chord": "Bbm",
+          "col": 55
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

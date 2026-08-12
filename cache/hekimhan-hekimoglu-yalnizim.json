@@ -1,0 +1,129 @@
+{
+  "slug": "hekimhan-hekimoglu-yalnizim",
+  "artist": "Hekimhan Hekimoğlu",
+  "title": "Yalnızım",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Cm (add9)",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yalnızım Yine Kaybedenlerden Olmuşum",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yine Kendimi Ararken",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Fm (add9)                        Cm (add9)",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yarım Düşler Kırık Hayaller İçinde",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bulmuşum Yorgun Ruhumu",
+      "chords": [
+        {
+          "chord": "G7",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kazananı Kim Belli Değil Bu Oyunun",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 4
+        },
+        {
+          "chord": "Cm",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Nerede Dursam Nereye Gitsem Hep Aynı Yüzler",
+      "chords": [
+        {
+          "chord": "G#maj7",
+          "col": 4
+        },
+        {
+          "chord": "Cm",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İçi Boş Anlamsız Gereksiz Sözler",
+      "chords": [
+        {
+          "chord": "G7",
+          "col": 4
+        },
+        {
+          "chord": "Cm",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kirli Gölgeler Altında Isınmazki Yüreğim",
+      "chords": [
+        {
+          "chord": "G#maj7",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yoksa Bu Durum Hep Böylemiydi Benmi Yeni Öğrendim",
+      "chords": [
+        {
+          "chord": "G7",
+          "col": 6
+        },
+        {
+          "chord": "Cm",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

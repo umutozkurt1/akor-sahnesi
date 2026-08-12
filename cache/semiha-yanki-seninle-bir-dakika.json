@@ -1,0 +1,155 @@
+{
+  "slug": "semiha-yanki-seninle-bir-dakika",
+  "artist": "Semiha Yankı",
+  "title": "Seninle Bir Dakika",
+  "key": "F#",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Seninle bir dakika umutlandırıyor beni",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 21
+        },
+        {
+          "chord": "Bm",
+          "col": 32
+        },
+        {
+          "chord": "F#m",
+          "col": 48
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir dakika siliyor canım yılların özlemini",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 22
+        },
+        {
+          "chord": "E",
+          "col": 42
+        },
+        {
+          "chord": "F#m",
+          "col": 53
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hasret tükenmez gibi, kavuşmak bir dakika",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 46
+        },
+        {
+          "chord": "E",
+          "col": 55
+        },
+        {
+          "chord": "A",
+          "col": 63
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sevmek bir ömür sürer, sevişmek bir dakika",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 16
+        },
+        {
+          "chord": "D",
+          "col": 30
+        },
+        {
+          "chord": "C#",
+          "col": 47
+        },
+        {
+          "chord": "F#m",
+          "col": 58
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Seninle buluşmamız bir dakikada geçti",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 21
+        },
+        {
+          "chord": "Bm",
+          "col": 34
+        },
+        {
+          "chord": "F#m",
+          "col": 50
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gözlerim gözlerini canım, bir dakikada içti",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 23
+        },
+        {
+          "chord": "E",
+          "col": 43
+        },
+        {
+          "chord": "F#m",
+          "col": 61
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

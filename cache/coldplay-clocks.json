@@ -1,0 +1,827 @@
+{
+  "slug": "coldplay-clocks",
+  "artist": "Coldplay",
+  "title": "Clocks",
+  "key": "Eb",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Eb",
+          "col": 0
+        },
+        {
+          "chord": "Bbm",
+          "col": 3
+        },
+        {
+          "chord": "Fm7",
+          "col": 7
+        },
+        {
+          "chord": "Eb",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Bbm",
+          "col": 0
+        },
+        {
+          "chord": "Fm7",
+          "col": 4
+        },
+        {
+          "chord": "Eb",
+          "col": 8
+        },
+        {
+          "chord": "Bbm",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Fm7",
+          "col": 0
+        },
+        {
+          "chord": "Eb",
+          "col": 4
+        },
+        {
+          "chord": "Bbm",
+          "col": 7
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Fm7",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Lights go out and I can't be saved",
+      "chords": [
+        {
+          "chord": "Eb",
+          "col": 0
+        },
+        {
+          "chord": "Bbm",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Tides that I tried to swim against",
+      "chords": [
+        {
+          "chord": "Fm7",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You've put me down upon my knees",
+      "chords": [
+        {
+          "chord": "Eb",
+          "col": 7
+        },
+        {
+          "chord": "Bbm",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Oh I beg, I beg and plead",
+      "chords": [
+        {
+          "chord": "Fm7",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Singin',  come out if things aren't said",
+      "chords": [
+        {
+          "chord": "Eb",
+          "col": 8
+        },
+        {
+          "chord": "Bbm",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Shoot an apple off my head",
+      "chords": [
+        {
+          "chord": "Fm7",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And a,  trouble that can't be named",
+      "chords": [
+        {
+          "chord": "Eb",
+          "col": 6
+        },
+        {
+          "chord": "Bbm",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Tigers waitin' to be tamed",
+      "chords": [
+        {
+          "chord": "Fm7",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Singing,",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  You   are",
+      "chords": [
+        {
+          "chord": "Eb",
+          "col": 0
+        },
+        {
+          "chord": "Bbm",
+          "col": 5
+        },
+        {
+          "chord": "Fm7",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  You   are",
+      "chords": [
+        {
+          "chord": "Eb",
+          "col": 0
+        },
+        {
+          "chord": "Bbm",
+          "col": 5
+        },
+        {
+          "chord": "Fm7",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Eb",
+          "col": 0
+        },
+        {
+          "chord": "Bbm",
+          "col": 3
+        },
+        {
+          "chord": "Fm7",
+          "col": 7
+        },
+        {
+          "chord": "Eb",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Bbm",
+          "col": 0
+        },
+        {
+          "chord": "Fm7",
+          "col": 4
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Confusion that ever stops",
+      "chords": [
+        {
+          "chord": "Eb",
+          "col": 0
+        },
+        {
+          "chord": "Bbm",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Closing walls and ticking clocks",
+      "chords": [
+        {
+          "chord": "Fm7",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gonna,  come back and take you home",
+      "chords": [
+        {
+          "chord": "Eb",
+          "col": 6
+        },
+        {
+          "chord": "Bbm",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I could not stop that you now know",
+      "chords": [
+        {
+          "chord": "Fm7",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Singin',  come out upon my seas",
+      "chords": [
+        {
+          "chord": "Eb",
+          "col": 8
+        },
+        {
+          "chord": "Bbm",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Curse missed opportunities",
+      "chords": [
+        {
+          "chord": "Fm7",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Am I,  a part of the cure",
+      "chords": [
+        {
+          "chord": "Eb",
+          "col": 5
+        },
+        {
+          "chord": "Bbm",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "or am I part of the disease",
+      "chords": [
+        {
+          "chord": "Fm7",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Singing,",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  You   are",
+      "chords": [
+        {
+          "chord": "Eb",
+          "col": 0
+        },
+        {
+          "chord": "Bbm",
+          "col": 5
+        },
+        {
+          "chord": "Fm7",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  You   are",
+      "chords": [
+        {
+          "chord": "Eb",
+          "col": 0
+        },
+        {
+          "chord": "Bbm",
+          "col": 5
+        },
+        {
+          "chord": "Fm7",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  You   are",
+      "chords": [
+        {
+          "chord": "Eb",
+          "col": 0
+        },
+        {
+          "chord": "Bbm",
+          "col": 5
+        },
+        {
+          "chord": "Fm7",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  You   are",
+      "chords": [
+        {
+          "chord": "Eb",
+          "col": 0
+        },
+        {
+          "chord": "Bbm",
+          "col": 5
+        },
+        {
+          "chord": "Fm7",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Eb",
+          "col": 0
+        },
+        {
+          "chord": "Bbm",
+          "col": 3
+        },
+        {
+          "chord": "Fm7",
+          "col": 7
+        },
+        {
+          "chord": "Eb",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Bbm",
+          "col": 0
+        },
+        {
+          "chord": "Fm7",
+          "col": 4
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  You   are",
+      "chords": [
+        {
+          "chord": "Eb",
+          "col": 0
+        },
+        {
+          "chord": "Bbm",
+          "col": 5
+        },
+        {
+          "chord": "Fm7",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  You   are",
+      "chords": [
+        {
+          "chord": "Eb",
+          "col": 0
+        },
+        {
+          "chord": "Bbm",
+          "col": 5
+        },
+        {
+          "chord": "Fm7",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  Oh, nothing else compares",
+      "chords": [
+        {
+          "chord": "Gb",
+          "col": 0
+        },
+        {
+          "chord": "Db",
+          "col": 19
+        },
+        {
+          "chord": "Ab",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  And nothing else compares",
+      "chords": [
+        {
+          "chord": "Gb",
+          "col": 0
+        },
+        {
+          "chord": "Db",
+          "col": 19
+        },
+        {
+          "chord": "Ab",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  Oh, nothing else comp__ares",
+      "chords": [
+        {
+          "chord": "Gb",
+          "col": 0
+        },
+        {
+          "chord": "Db",
+          "col": 8
+        },
+        {
+          "chord": "Ab",
+          "col": 23
+        },
+        {
+          "chord": "Gb",
+          "col": 26
+        },
+        {
+          "chord": "Gb",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Eb",
+          "col": 0
+        },
+        {
+          "chord": "Eb",
+          "col": 3
+        },
+        {
+          "chord": "Bbm",
+          "col": 6
+        },
+        {
+          "chord": "Fm7",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Eb",
+          "col": 0
+        },
+        {
+          "chord": "Bbm",
+          "col": 3
+        },
+        {
+          "chord": "Fm7",
+          "col": 7
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  You   are",
+      "chords": [
+        {
+          "chord": "Eb",
+          "col": 0
+        },
+        {
+          "chord": "Bbm",
+          "col": 5
+        },
+        {
+          "chord": "Fm7",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  You   are",
+      "chords": [
+        {
+          "chord": "Eb",
+          "col": 0
+        },
+        {
+          "chord": "Bbm",
+          "col": 5
+        },
+        {
+          "chord": "Fm7",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Home, home, where I wanted to go",
+      "chords": [
+        {
+          "chord": "Eb",
+          "col": 0
+        },
+        {
+          "chord": "Bbm",
+          "col": 7
+        },
+        {
+          "chord": "Fm7",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Home, home, where I wanted to go",
+      "chords": [
+        {
+          "chord": "Eb",
+          "col": 0
+        },
+        {
+          "chord": "Bbm",
+          "col": 6
+        },
+        {
+          "chord": "Fm7",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Home, home, where I wanted to go",
+      "chords": [
+        {
+          "chord": "Eb",
+          "col": 0
+        },
+        {
+          "chord": "Bbm",
+          "col": 7
+        },
+        {
+          "chord": "Fm7",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Home, home, where I wanted to go",
+      "chords": [
+        {
+          "chord": "Eb",
+          "col": 0
+        },
+        {
+          "chord": "Bbm",
+          "col": 6
+        },
+        {
+          "chord": "Fm7",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Eb",
+          "col": 0
+        },
+        {
+          "chord": "Bbm",
+          "col": 3
+        },
+        {
+          "chord": "Fm7",
+          "col": 7
+        },
+        {
+          "chord": "Eb",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Bbm",
+          "col": 0
+        },
+        {
+          "chord": "Fm7",
+          "col": 4
+        },
+        {
+          "chord": "Eb",
+          "col": 8
+        },
+        {
+          "chord": "Bbm",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Fm7",
+          "col": 0
+        },
+        {
+          "chord": "Eb",
+          "col": 4
+        },
+        {
+          "chord": "Bbm",
+          "col": 7
+        },
+        {
+          "chord": "Fm7",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

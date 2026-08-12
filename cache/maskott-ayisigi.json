@@ -1,0 +1,195 @@
+{
+  "slug": "maskott-ayisigi",
+  "artist": "Maskott",
+  "title": "Ayışığı",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Zamanı geldi Ay ışığında Yıkanmanın da Bir adabı var",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 9
+        },
+        {
+          "chord": "E7",
+          "col": 14
+        },
+        {
+          "chord": "Am",
+          "col": 21
+        },
+        {
+          "chord": "Dm",
+          "col": 35
+        },
+        {
+          "chord": "E7",
+          "col": 43
+        },
+        {
+          "chord": "Am",
+          "col": 52
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Son nefesini Verirken kalbinden",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "E7",
+          "col": 12
+        },
+        {
+          "chord": "Am",
+          "col": 16
+        },
+        {
+          "chord": "F",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Canın hiç acıdı mı söyle",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 2
+        },
+        {
+          "chord": "E7",
+          "col": 15
+        },
+        {
+          "chord": "Am",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sen bir meleksin Tutmak boşuna Dualarımla Ay ışığında",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 10
+        },
+        {
+          "chord": "E7",
+          "col": 18
+        },
+        {
+          "chord": "Am",
+          "col": 25
+        },
+        {
+          "chord": "Dm",
+          "col": 33
+        },
+        {
+          "chord": "E7",
+          "col": 42
+        },
+        {
+          "chord": "Am",
+          "col": 47
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Beklerken dön diye Umutsuzca İçinden çıkılmaz Bir durumda",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "E7",
+          "col": 11
+        },
+        {
+          "chord": "Am",
+          "col": 20
+        },
+        {
+          "chord": "F",
+          "col": 27
+        },
+        {
+          "chord": "Dm",
+          "col": 32
+        },
+        {
+          "chord": "E7",
+          "col": 40
+        },
+        {
+          "chord": "Am",
+          "col": 50
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sonuna geldim Uçurumun ucunda Ama sen dur dedin Yanımda…",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "E7",
+          "col": 8
+        },
+        {
+          "chord": "Am",
+          "col": 17
+        },
+        {
+          "chord": "F",
+          "col": 24
+        },
+        {
+          "chord": "Dm",
+          "col": 29
+        },
+        {
+          "chord": "E7",
+          "col": 40
+        },
+        {
+          "chord": "Am",
+          "col": 50
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

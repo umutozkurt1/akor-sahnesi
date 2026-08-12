@@ -1,0 +1,188 @@
+{
+  "slug": "toygar-isikli-korkuyorum",
+  "artist": "Toygar Işıklı",
+  "title": "Korkuyorum",
+  "key": "C#",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Uyku nedir bilmeyen ben",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bu aralar dertten midir",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "G#m",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kendimi yataklara atıyorum",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "G#m",
+          "col": 11
+        },
+        {
+          "chord": "C#m",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ağzımın tadı pek bir bozuk",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Herkes havalandandır diyor",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "G#m",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ben esas sebebi çok iyi biliyorum",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "G#m",
+          "col": 24
+        },
+        {
+          "chord": "C#m",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Korkuyorum cesaretim kayıp",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dünya mı zor bünyem mi zayıf",
+      "chords": [
+        {
+          "chord": "G#m",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Derdime suları katıp katıp içiyorum",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 16
+        },
+        {
+          "chord": "A",
+          "col": 41
+        },
+        {
+          "chord": "C#m",
+          "col": 53
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Üzülüyorum kayıplarımı sayıp",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İçinden aşkları ayıklayıp",
+      "chords": [
+        {
+          "chord": "G#m",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Geriye hiçbir şey kalmadığını görüyorum",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 13
+        },
+        {
+          "chord": "A",
+          "col": 38
+        },
+        {
+          "chord": "C#m",
+          "col": 62
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

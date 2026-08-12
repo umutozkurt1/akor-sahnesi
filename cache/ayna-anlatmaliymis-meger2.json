@@ -1,0 +1,185 @@
+{
+  "slug": "ayna-anlatmaliymis-meger2",
+  "artist": "Ayna",
+  "title": "Anlatmalıymış Meğer",
+  "key": "D",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Dün gece seni gördüm yine bembeyaz bir yağmur içinde",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "Bb",
+          "col": 28
+        },
+        {
+          "chord": "Dm",
+          "col": 43
+        },
+        {
+          "chord": "Bb",
+          "col": 78
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir rüya değil sanki gülüyordun gözlerime",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "Bb",
+          "col": 16
+        },
+        {
+          "chord": "Dm",
+          "col": 31
+        },
+        {
+          "chord": "Bb",
+          "col": 51
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Her damla bir keder gözlerimde yaş oldun",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yetti bundan fazlası ölüm gelme artık gecelerime",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "Bb",
+          "col": 22
+        },
+        {
+          "chord": "F",
+          "col": 40
+        },
+        {
+          "chord": "A",
+          "col": 72
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "O günlerden bir rüzgar eser ümitlerin seni terkeder",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 29
+        },
+        {
+          "chord": "Bb",
+          "col": 45
+        },
+        {
+          "chord": "A",
+          "col": 69
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Senden o bakışları gizler kapkaranlık bir keder",
+      "chords": [
+        {
+          "chord": "Bb",
+          "col": 27
+        },
+        {
+          "chord": "Gm",
+          "col": 43
+        },
+        {
+          "chord": "Bb",
+          "col": 53
+        },
+        {
+          "chord": "A",
+          "col": 68
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hayat da paylaşmaya değer bildiğin bir sır varsa eğer",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 32
+        },
+        {
+          "chord": "Bb",
+          "col": 45
+        },
+        {
+          "chord": "A",
+          "col": 73
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Haykırıp dağlara taşlara anlatmalıymış meğer",
+      "chords": [
+        {
+          "chord": "Bb",
+          "col": 32
+        },
+        {
+          "chord": "Gm",
+          "col": 41
+        },
+        {
+          "chord": "Bb",
+          "col": 53
+        },
+        {
+          "chord": "A",
+          "col": 64
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

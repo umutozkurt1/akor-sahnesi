@@ -1,0 +1,117 @@
+{
+  "slug": "buz-onyedi",
+  "artist": "Buz",
+  "title": "Onyedi",
+  "key": "F",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "tam on yedi yerinden",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 1
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "bıçakladım seni",
+      "chords": [
+        {
+          "chord": "C#",
+          "col": 3
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "kanın aktı derinden",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 3
+        },
+        {
+          "chord": "C",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "ellerimle doğradım",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 3
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "her parçanı öpüp kokladım",
+      "chords": [
+        {
+          "chord": "C#",
+          "col": 3
+        },
+        {
+          "chord": "G#",
+          "col": 13
+        },
+        {
+          "chord": "C",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "tam onyedi kez vurdum kendimi",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "tam on yedi kez vurdum kendimi",
+      "chords": [
+        {
+          "chord": "C#",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "ama ölmedim ama ölmedim ama ölmedim ama ölmedim",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

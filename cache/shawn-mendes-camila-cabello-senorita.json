@@ -1,0 +1,630 @@
+{
+  "slug": "shawn-mendes-camila-cabello-senorita",
+  "artist": "Shawn Mendes & Camila Cabello",
+  "title": "Senorita",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Intro",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Cmaj7",
+          "col": 3
+        },
+        {
+          "chord": "Fmaj7",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Em7",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 4
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I love it when you call me senorita",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I wish I could pretend I didn't need ya",
+      "chords": [
+        {
+          "chord": "Cmaj7",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But every touch is oohlalala",
+      "chords": [
+        {
+          "chord": "Fmaj7",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "It's true, lalala",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ooh,   I should be runnin'",
+      "chords": [
+        {
+          "chord": "Em7",
+          "col": 4
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ooh, you keep me coming for ya",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Land in Miami",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "The air was hot from summer rain",
+      "chords": [
+        {
+          "chord": "Cmaj7",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sweat drippin' off me",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Before I even knew her name, lalala",
+      "chords": [
+        {
+          "chord": "Fmaj7",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "It felt like oohlalala, yeah, no",
+      "chords": [
+        {
+          "chord": "Em7",
+          "col": 13
+        },
+        {
+          "chord": "G",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  Sapphire moonlight, we danced for hours in the sand",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Cmaj7",
+          "col": 49
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Tequila sunrise, her body fit right in my hands, lalala",
+      "chords": [
+        {
+          "chord": "Fmaj7",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "It felt like oohlalala, yeah",
+      "chords": [
+        {
+          "chord": "Em7",
+          "col": 13
+        },
+        {
+          "chord": "G",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I love it when you call me senorita",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I wish I could pretend I didn't need ya",
+      "chords": [
+        {
+          "chord": "Cmaj7",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But every touch is oohlalala",
+      "chords": [
+        {
+          "chord": "Fmaj7",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "It's true, lalala",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ooh,   I should be runnin'",
+      "chords": [
+        {
+          "chord": "Em7",
+          "col": 4
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ooh, you know I love it when you call me senorita",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I wish it wasn't so   damn hard to leave ya",
+      "chords": [
+        {
+          "chord": "Cmaj7",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But every touch is oohlalala",
+      "chords": [
+        {
+          "chord": "Fmaj7",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "It's true, lalala",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ooh,   I should be runnin'",
+      "chords": [
+        {
+          "chord": "Em7",
+          "col": 4
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ooh, you keep me coming for ya",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Locked in the hotel",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "There's just some things that never change",
+      "chords": [
+        {
+          "chord": "Cmaj7",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You say we're just friends",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But friends don't know the way you taste, lalala",
+      "chords": [
+        {
+          "chord": "Fmaj7",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "'Cause you know it's been a long time coming Don't ya let me",
+      "chords": [
+        {
+          "chord": "Em7",
+          "col": 11
+        },
+        {
+          "chord": "G",
+          "col": 60
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "fall, oh",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ooh, when your lips undress me, hooked on your tongue",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ooh, love, your kiss is deadly, don't stop",
+      "chords": [
+        {
+          "chord": "Cmaj7",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I love it when you call me senorita",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I wish I could pretend I didn't need ya",
+      "chords": [
+        {
+          "chord": "Cmaj7",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But every touch is oohlalala",
+      "chords": [
+        {
+          "chord": "Fmaj7",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "It's true, lalala",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ooh,   I should be runnin'",
+      "chords": [
+        {
+          "chord": "Em7",
+          "col": 4
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ooh, you know I love it when you call me senorita",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I wish it wasn't so   damn hard to leave ya",
+      "chords": [
+        {
+          "chord": "Cmaj7",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But every touch is oohlalala",
+      "chords": [
+        {
+          "chord": "Fmaj7",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "It's true, lalala",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ooh,   I should be runnin'",
+      "chords": [
+        {
+          "chord": "Em7",
+          "col": 4
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ooh, you keep me coming for ya",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "All along I've been coming for ya",
+      "chords": [
+        {
+          "chord": "Cmaj7",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And I hope it meant something to you",
+      "chords": [
+        {
+          "chord": "Fmaj7",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Call my name, I'll be coming for ya",
+      "chords": [
+        {
+          "chord": "Em7",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Coming for ya",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 7
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "For ya",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 6
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "For ya",
+      "chords": [
+        {
+          "chord": "Cmaj7",
+          "col": 6
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "For ya",
+      "chords": [
+        {
+          "chord": "Fmaj7",
+          "col": 6
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ooh,   I should be runnin'",
+      "chords": [
+        {
+          "chord": "Em7",
+          "col": 4
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ooh, you keep me coming for ya",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

@@ -1,0 +1,254 @@
+{
+  "slug": "buray-vazgectim",
+  "artist": "Buray",
+  "title": "Vazgeçtim",
+  "key": "B",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": " Vazgeçtim gözlerinden",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 3
+        },
+        {
+          "chord": "Bm",
+          "col": 7
+        },
+        {
+          "chord": "D",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Vazgeçtim sözlerinden",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 1
+        },
+        {
+          "chord": "Bm",
+          "col": 4
+        },
+        {
+          "chord": "A",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Bir ah de yeter",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 1
+        },
+        {
+          "chord": "Bm",
+          "col": 5
+        },
+        {
+          "chord": "F#m",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Sessizce kimsesizce",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 1
+        },
+        {
+          "chord": "F#m",
+          "col": 4
+        },
+        {
+          "chord": "Bm",
+          "col": 8
+        },
+        {
+          "chord": "D",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Gönderdim dudaklarımı",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 1
+        },
+        {
+          "chord": "Bm",
+          "col": 4
+        },
+        {
+          "chord": "A",
+          "col": 7
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Öpme al yeter",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 1
+        },
+        {
+          "chord": "Bm",
+          "col": 6
+        },
+        {
+          "chord": "F#m",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Hiç tanımaz tenim ellerini",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 1
+        },
+        {
+          "chord": "Em",
+          "col": 9
+        },
+        {
+          "chord": "F#m",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Bilmez yüreğim bilmez yüreğini",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 1
+        },
+        {
+          "chord": "Em",
+          "col": 12
+        },
+        {
+          "chord": "F#m",
+          "col": 19
+        },
+        {
+          "chord": "Bm",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Ah bu koku bu ten bu dokunuş",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 1
+        },
+        {
+          "chord": "Em",
+          "col": 10
+        },
+        {
+          "chord": "F#m",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Ah bu delilik sarsar bedenimi",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 4
+        },
+        {
+          "chord": "Em",
+          "col": 11
+        },
+        {
+          "chord": "F#m",
+          "col": 17
+        },
+        {
+          "chord": "Bm",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Yok olmak anıdır şimdi",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 1
+        },
+        {
+          "chord": "D",
+          "col": 5
+        },
+        {
+          "chord": "F#m",
+          "col": 8
+        },
+        {
+          "chord": "Bm",
+          "col": 12
+        },
+        {
+          "chord": "A",
+          "col": 15
+        },
+        {
+          "chord": "G",
+          "col": 17
+        },
+        {
+          "chord": "F#m",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

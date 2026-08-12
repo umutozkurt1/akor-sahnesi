@@ -1,0 +1,181 @@
+{
+  "slug": "gokhan-turkmen-askin-enkazi",
+  "artist": "Gökhan Türkmen",
+  "title": "Aşkın Enkazı",
+  "key": "E",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Ooooooooo Aaaaaaaa",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 5
+        },
+        {
+          "chord": "Am",
+          "col": 9
+        },
+        {
+          "chord": "Em",
+          "col": 15
+        },
+        {
+          "chord": "D",
+          "col": 19
+        },
+        {
+          "chord": "C",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Anladım tamam vazgeçtin çoktan",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Söylemen yeterdi",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gülleri solan bir bahçe bana kalan",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 21
+        },
+        {
+          "chord": "D",
+          "col": 39
+        },
+        {
+          "chord": "C",
+          "col": 47
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bu kadarı yeterli",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 18
+        },
+        {
+          "chord": "Em",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Şimdi bütün şarkılarda kendini mumla ara",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 14
+        },
+        {
+          "chord": "C",
+          "col": 31
+        },
+        {
+          "chord": "Bm",
+          "col": 52
+        },
+        {
+          "chord": "Am",
+          "col": 60
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Atıyorum içime, sıkıştı kaldı kalbimde",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 10
+        },
+        {
+          "chord": "Am",
+          "col": 17
+        },
+        {
+          "chord": "Em",
+          "col": 34
+        },
+        {
+          "chord": "D",
+          "col": 44
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yıkıp gittiğin aşkın enkazı",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 16
+        },
+        {
+          "chord": "Em",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

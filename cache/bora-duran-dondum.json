@@ -1,0 +1,175 @@
+{
+  "slug": "bora-duran-dondum",
+  "artist": "Bora Duran",
+  "title": "Döndüm",
+  "key": "G",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "İntro :",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 4
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ne kadar acısa da canım",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Seni düşünmekten korkmadım, yorulmadım.",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 47
+        },
+        {
+          "chord": "Bm",
+          "col": 70
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Uyumadım gecelerce, dilimdeydin hep içimde,",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 76
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kötüydü sensizlik.",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Karanlık yollardan geçtim, içinden çok çile seçtim",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 82
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yorgunum yollardan değil.",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 20
+        },
+        {
+          "chord": "G",
+          "col": 41
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yanıldım aşkından kaçtım, utandım kendimden sustum",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 92
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İçimden geçenleri dinledim, koştum sana",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 16
+        },
+        {
+          "chord": "G",
+          "col": 41
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Döndüm yine san sana,",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Öldüm yine san sana",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Döndüm yine sana sana, öldüm.",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 47
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

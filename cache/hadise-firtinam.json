@@ -1,0 +1,180 @@
+{
+  "slug": "hadise-firtinam",
+  "artist": "Hadise",
+  "title": "Fırtınam",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Bak, geri dönüp o anlara",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 17
+        },
+        {
+          "chord": "F",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Değişmezdim seni ben dünyalara",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 17
+        },
+        {
+          "chord": "F",
+          "col": 31
+        },
+        {
+          "chord": "Am",
+          "col": 51
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Son, bu gidişin dönüşü yok",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 20
+        },
+        {
+          "chord": "F",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Vakit tamam, razıyım yalnızlığa",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 14
+        },
+        {
+          "chord": "F",
+          "col": 29
+        },
+        {
+          "chord": "Am",
+          "col": 47
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Pusu kurmuş yalanların",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 14
+        },
+        {
+          "chord": "Am",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hükümsüz aşk, yaralandım",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 41
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sana dair ne varsa günahına değmezmiş, anladım",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 13
+        },
+        {
+          "chord": "Am",
+          "col": 36
+        },
+        {
+          "chord": "Am",
+          "col": 76
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Acısına aldırmadan gidiyorum hayatından",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 7
+        },
+        {
+          "chord": "F",
+          "col": 26
+        },
+        {
+          "chord": "G",
+          "col": 42
+        },
+        {
+          "chord": "Am",
+          "col": 61
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kırıldığı yerden koptu yüreğimde fırtınam",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 9
+        },
+        {
+          "chord": "F",
+          "col": 30
+        },
+        {
+          "chord": "G",
+          "col": 44
+        },
+        {
+          "chord": "Am",
+          "col": 61
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

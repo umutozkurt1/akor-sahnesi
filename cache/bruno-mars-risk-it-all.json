@@ -1,0 +1,555 @@
+{
+  "slug": "bruno-mars-risk-it-all",
+  "artist": "Bruno Mars",
+  "title": "Risk It All",
+  "key": "E",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Em7",
+          "col": 0
+        },
+        {
+          "chord": "A7",
+          "col": 4
+        },
+        {
+          "chord": "Dmaj7",
+          "col": 7
+        },
+        {
+          "chord": "B7",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Em7",
+          "col": 0
+        },
+        {
+          "chord": "A7",
+          "col": 4
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "For just the chance to win your heart",
+      "chords": [
+        {
+          "chord": "Em7",
+          "col": 13
+        },
+        {
+          "chord": "A7",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You could set the bar beyond the stars",
+      "chords": [
+        {
+          "chord": "Dmaj7",
+          "col": 18
+        },
+        {
+          "chord": "B",
+          "col": 33
+        },
+        {
+          "chord": "B7",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'll do anything, anything you ask me to",
+      "chords": [
+        {
+          "chord": "Em7",
+          "col": 8
+        },
+        {
+          "chord": "A7",
+          "col": 18
+        },
+        {
+          "chord": "F#m7",
+          "col": 41
+        },
+        {
+          "chord": "Am",
+          "col": 46
+        },
+        {
+          "chord": "B7",
+          "col": 49
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Say you want the Moon",
+      "chords": [
+        {
+          "chord": "Em7",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Watch me learn to fly",
+      "chords": [
+        {
+          "chord": "Gm7",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ain't no mountain you could point to",
+      "chords": [
+        {
+          "chord": "F#m7",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I wouldn't climb",
+      "chords": [
+        {
+          "chord": "B7",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "It's crazy, but it's true",
+      "chords": [
+        {
+          "chord": "Em7",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "There's nothing I won't do",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'd risk it all for you",
+      "chords": [
+        {
+          "chord": "Dmaj7",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "To hold your hand and call you mine",
+      "chords": [
+        {
+          "chord": "Em7",
+          "col": 13
+        },
+        {
+          "chord": "A",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'm tryna be your man 'til the end of time",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 18
+        },
+        {
+          "chord": "B",
+          "col": 38
+        },
+        {
+          "chord": "B7",
+          "col": 43
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Oh, I'll do anything, anything you ask me to",
+      "chords": [
+        {
+          "chord": "Em7",
+          "col": 12
+        },
+        {
+          "chord": "A",
+          "col": 22
+        },
+        {
+          "chord": "F#m7",
+          "col": 42
+        },
+        {
+          "chord": "Am",
+          "col": 47
+        },
+        {
+          "chord": "B7",
+          "col": 50
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I would run through a fire",
+      "chords": [
+        {
+          "chord": "Em7",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Just to be by your side",
+      "chords": [
+        {
+          "chord": "Gm7",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "If your hearts on the line",
+      "chords": [
+        {
+          "chord": "F#m7",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You could take mine",
+      "chords": [
+        {
+          "chord": "B7",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "It's crazy, but it's true",
+      "chords": [
+        {
+          "chord": "Em7",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "There's nothing I won't do",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'd risk it all for you",
+      "chords": [
+        {
+          "chord": "Cmaj7",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I would swim across the sea just to show you",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 8
+        },
+        {
+          "chord": "C7",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sacrifice my life just to hold you",
+      "chords": [
+        {
+          "chord": "Am7",
+          "col": 5
+        },
+        {
+          "chord": "Bbmaj7",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I could go on and on",
+      "chords": [
+        {
+          "chord": "Ebmaj7",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "To prove that you belong here in my arms",
+      "chords": [
+        {
+          "chord": "A7",
+          "col": 18
+        },
+        {
+          "chord": "Dmaj7",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Em7",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 4
+        },
+        {
+          "chord": "D",
+          "col": 6
+        },
+        {
+          "chord": "Bm7",
+          "col": 8
+        },
+        {
+          "chord": "B7",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Em7",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 4
+        },
+        {
+          "chord": "F#m7",
+          "col": 6
+        },
+        {
+          "chord": "Am",
+          "col": 11
+        },
+        {
+          "chord": "B7",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Say you want the Moon",
+      "chords": [
+        {
+          "chord": "Em7",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Watch me learn to fly",
+      "chords": [
+        {
+          "chord": "Gm7",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ain't no mountain you could point to",
+      "chords": [
+        {
+          "chord": "F#m7",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I wouldn't climb",
+      "chords": [
+        {
+          "chord": "B7",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "It's crazy, but it's true",
+      "chords": [
+        {
+          "chord": "Em7",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "There's nothing I won't do",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'd risk it all for you",
+      "chords": [
+        {
+          "chord": "F#m7",
+          "col": 12
+        },
+        {
+          "chord": "Am",
+          "col": 17
+        },
+        {
+          "chord": "B7",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "It's crazy, but it's true",
+      "chords": [
+        {
+          "chord": "Em7",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "There's nothing I won't do",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'd risk it all for you",
+      "chords": [
+        {
+          "chord": "Dmaj7",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

@@ -1,0 +1,201 @@
+{
+  "slug": "zeynep-bastik-bir-daha",
+  "artist": "Zeynep Bastık",
+  "title": "Bir Daha",
+  "key": "E",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Zamansızlıktan hiç korkma, güzel şeyler gelsin aklına",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 31
+        },
+        {
+          "chord": "Em",
+          "col": 42
+        },
+        {
+          "chord": "Am",
+          "col": 72
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sevgi ne diye sorsalar",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Aşkı bana anlatsalar inanmam bir dakka",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Durmam sonunda, her şeyi söyledim, buydu hislerim",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 17
+        },
+        {
+          "chord": "D",
+          "col": 24
+        },
+        {
+          "chord": "Em",
+          "col": 43
+        },
+        {
+          "chord": "Em",
+          "col": 69
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İnatsa yüzüne bunları söyledim, korkum yok yok yok yok yok",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 3
+        },
+        {
+          "chord": "Em",
+          "col": 14
+        },
+        {
+          "chord": "D",
+          "col": 17
+        },
+        {
+          "chord": "Em",
+          "col": 33
+        },
+        {
+          "chord": "Em",
+          "col": 61
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Görmeseydim onu keşke bir kez bile üzülmezdim asla",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 31
+        },
+        {
+          "chord": "Bm",
+          "col": 55
+        },
+        {
+          "chord": "Am",
+          "col": 62
+        },
+        {
+          "chord": "D",
+          "col": 72
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Söyleseydim en azından dur diye      bir daha",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 28
+        },
+        {
+          "chord": "Bm",
+          "col": 48
+        },
+        {
+          "chord": "Am",
+          "col": 53
+        },
+        {
+          "chord": "D",
+          "col": 60
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "                               Bir daha",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 4
+        },
+        {
+          "chord": "Bm",
+          "col": 7
+        },
+        {
+          "chord": "Em",
+          "col": 11
+        },
+        {
+          "chord": "Am",
+          "col": 15
+        },
+        {
+          "chord": "Bm",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

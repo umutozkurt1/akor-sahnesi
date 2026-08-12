@@ -1,0 +1,246 @@
+{
+  "slug": "emre-sertkaya-cikis-yok",
+  "artist": "Emre Sertkaya",
+  "title": "Çıkış Yok",
+  "key": "C#",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Nerdeyim, söyleyin",
+      "chords": [
+        {
+          "chord": "C#",
+          "col": 0
+        },
+        {
+          "chord": "A#m",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Çıkış yoooook,  ben kimlere yanmışım",
+      "chords": [
+        {
+          "chord": "C#",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 6
+        },
+        {
+          "chord": "C#",
+          "col": 11
+        },
+        {
+          "chord": "D#",
+          "col": 16
+        },
+        {
+          "chord": "C#",
+          "col": 23
+        },
+        {
+          "chord": "G#",
+          "col": 31
+        },
+        {
+          "chord": "A#m",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ben kimlere ağlamışım",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 0
+        },
+        {
+          "chord": "C#",
+          "col": 8
+        },
+        {
+          "chord": "D#",
+          "col": 15
+        },
+        {
+          "chord": "C#",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Söy leyin, kimleyim, söyleyin.",
+      "chords": [
+        {
+          "chord": "A#m",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 5
+        },
+        {
+          "chord": "Fm",
+          "col": 14
+        },
+        {
+          "chord": "A#m",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Çıkış yoooook, ben kimlere yanmışım",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 6
+        },
+        {
+          "chord": "C#",
+          "col": 10
+        },
+        {
+          "chord": "D#",
+          "col": 15
+        },
+        {
+          "chord": "C#",
+          "col": 20
+        },
+        {
+          "chord": "G#",
+          "col": 27
+        },
+        {
+          "chord": "A#m",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ben kimlere ağlamışım",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 0
+        },
+        {
+          "chord": "C#",
+          "col": 5
+        },
+        {
+          "chord": "D#",
+          "col": 14
+        },
+        {
+          "chord": "C#",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Söy leyin",
+      "chords": [
+        {
+          "chord": "A#m",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 4
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Nasıl bir kördüğüm",
+      "chords": [
+        {
+          "chord": "C#",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Tenime uğramaz elin",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 3
+        },
+        {
+          "chord": "A#m",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Nasııl büyüttün",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 3
+        },
+        {
+          "chord": "C#",
+          "col": 7
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sanırım ölüyorum",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 3
+        },
+        {
+          "chord": "Cm",
+          "col": 8
+        },
+        {
+          "chord": "Fm",
+          "col": 14
+        },
+        {
+          "chord": "C#",
+          "col": 18
+        },
+        {
+          "chord": "Fm",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

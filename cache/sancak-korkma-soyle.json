@@ -1,0 +1,219 @@
+{
+  "slug": "sancak-korkma-soyle",
+  "artist": "Sancak",
+  "title": "Korkma Söyle",
+  "key": "C#",
+  "capo": 0,
+  "rhythm": "A-A-Y-Y-Y-A-Y-A-Y-A-A-A-A-Y-K-Y-A-Y",
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Ne kadar uzak kaldık seninle, ne kadar böyle habersiz",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 4
+        },
+        {
+          "chord": "G#",
+          "col": 52
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "'O benim!' dediğimiz günlerden bi haber, ne hallere gelmişiz",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 7
+        },
+        {
+          "chord": "G#",
+          "col": 59
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ben hala kopamıyorum senden ya da ters giden bir şeyler var",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 9
+        },
+        {
+          "chord": "C#m",
+          "col": 62
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sen ağla ben silerim yaşını",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 7
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hem de neredeysen koşar, bulur, yanar yüreğim sana",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 18
+        },
+        {
+          "chord": "C#m",
+          "col": 79
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Korkma söyle ne zaman unuttuğunu",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 16
+        },
+        {
+          "chord": "G#m",
+          "col": 49
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hatta yerimi kimlerle doldurduğunu",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 10
+        },
+        {
+          "chord": "G#m",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Susma söyle, yeter ki sesini duyayım bana yeter",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 17
+        },
+        {
+          "chord": "G#m",
+          "col": 50
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bilsem de şimdi nerede uyuduğunu",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 16
+        },
+        {
+          "chord": "F#m",
+          "col": 32
+        },
+        {
+          "chord": "G#m",
+          "col": 46
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ne bahar uzak kaldık seninle ne de kış, şimdi neredesin",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 8
+        },
+        {
+          "chord": "G#",
+          "col": 56
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ya gelirse sana bir gün benden bir haber, 'ne halde bu' der misin",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 8
+        },
+        {
+          "chord": "G#",
+          "col": 59
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ben hala kopamıyorum senden ya da ters giden bir şeyler var",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 8
+        },
+        {
+          "chord": "C#m",
+          "col": 58
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sen ağla ben silerim yaşını",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 7
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hem de neredeysen koşar, bulur, yanar yüreğim sana",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 18
+        },
+        {
+          "chord": "C#m",
+          "col": 80
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

@@ -1,0 +1,233 @@
+{
+  "slug": "candan-ercetin-gamsiz-hayat",
+  "artist": "Candan Erçetin",
+  "title": "Gamsız Hayat",
+  "key": "F#",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Sormayın neden bu durgunluğum, görmeden kuytu yaralarımı",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 46
+        },
+        {
+          "chord": "D",
+          "col": 69
+        },
+        {
+          "chord": "F#m",
+          "col": 92
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sormayın neden bu huysuzluğum, bilmeden saklı duygularımı",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 47
+        },
+        {
+          "chord": "D",
+          "col": 64
+        },
+        {
+          "chord": "F#m",
+          "col": 90
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Çok mu dertsiz duruyorum uzaktan bakınca",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "C#m",
+          "col": 59
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Çok mu kalender sandınız dert anlatmayınca",
+      "chords": [
+        {
+          "chord": "C#",
+          "col": 40
+        },
+        {
+          "chord": "F#m",
+          "col": 66
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gamsız hayat herkese başka sunar garip oyunlarını",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 16
+        },
+        {
+          "chord": "C#m",
+          "col": 76
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gamsız hayat herkese başka kurar kahpe tuzaklarını",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 54
+        },
+        {
+          "chord": "D",
+          "col": 66
+        },
+        {
+          "chord": "F#m",
+          "col": 79
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gamsız hayat herkese başka sunar geçmiş hesaplarını",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 16
+        },
+        {
+          "chord": "C#m",
+          "col": 76
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gamsız hayat herkesi başka yorar görmez gözünün yaşını",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 58
+        },
+        {
+          "chord": "D",
+          "col": 70
+        },
+        {
+          "chord": "F#m",
+          "col": 87
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sanmayın biter bu durgunluğum sarmadan kuytu yaralarımı",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 42
+        },
+        {
+          "chord": "D",
+          "col": 61
+        },
+        {
+          "chord": "F#m",
+          "col": 84
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sanmayın biter bu huysuzluğum, açmadan saklı duygularımı",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 44
+        },
+        {
+          "chord": "D",
+          "col": 61
+        },
+        {
+          "chord": "F#m",
+          "col": 87
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Çok mu güçsüz duruyorum derdimi paylaşınca",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "C#m",
+          "col": 65
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Çok mu çaresiz dersiniz dertten ağlayınca",
+      "chords": [
+        {
+          "chord": "C#",
+          "col": 38
+        },
+        {
+          "chord": "F#m",
+          "col": 64
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

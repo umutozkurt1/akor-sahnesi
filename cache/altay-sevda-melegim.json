@@ -1,0 +1,224 @@
+{
+  "slug": "altay-sevda-melegim",
+  "artist": "Altay",
+  "title": "Sevda Meleğim",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "ORJİNAL TONU: A",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ben seni gördüğüm o an, ilk baktığın zaman vurulmuşum",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 36
+        },
+        {
+          "chord": "Fm",
+          "col": 66
+        },
+        {
+          "chord": "D#",
+          "col": 87
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sen birden alev alan kalbimde yanan ateş olmuşsun",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 30
+        },
+        {
+          "chord": "Fm",
+          "col": 55
+        },
+        {
+          "chord": "D#",
+          "col": 79
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gözlerin gözlerime ömür boyunca misafir olsun",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 26
+        },
+        {
+          "chord": "Fm",
+          "col": 50
+        },
+        {
+          "chord": "Gm",
+          "col": 70
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sen benim sevda meleğim, sevdiceğim bir tanemsin",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 36
+        },
+        {
+          "chord": "Fm",
+          "col": 53
+        },
+        {
+          "chord": "Gm",
+          "col": 73
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kaybetme aşkı bulmuşken,       gel benimle sonsuza tut elimden",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 18
+        },
+        {
+          "chord": "G#",
+          "col": 39
+        },
+        {
+          "chord": "Gm",
+          "col": 42
+        },
+        {
+          "chord": "G#",
+          "col": 46
+        },
+        {
+          "chord": "Gm",
+          "col": 73
+        },
+        {
+          "chord": "Cm",
+          "col": 93
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İyi günde kötü günde benimle olmaya var mısın",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 6
+        },
+        {
+          "chord": "Cm",
+          "col": 11
+        },
+        {
+          "chord": "Gm",
+          "col": 16
+        },
+        {
+          "chord": "Cm",
+          "col": 24
+        },
+        {
+          "chord": "Gm",
+          "col": 35
+        },
+        {
+          "chord": "Fm",
+          "col": 45
+        },
+        {
+          "chord": "Gm",
+          "col": 50
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ecel gelse de son nefeste aşkımı kalbinde saklar mısın",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 12
+        },
+        {
+          "chord": "Cm",
+          "col": 16
+        },
+        {
+          "chord": "Gm",
+          "col": 25
+        },
+        {
+          "chord": "Cm",
+          "col": 31
+        },
+        {
+          "chord": "Gm",
+          "col": 40
+        },
+        {
+          "chord": "Fm",
+          "col": 52
+        },
+        {
+          "chord": "Gm",
+          "col": 60
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

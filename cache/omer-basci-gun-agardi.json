@@ -1,0 +1,332 @@
+{
+  "slug": "omer-basci-gun-agardi",
+  "artist": "Ömer Başçı",
+  "title": "Gün Ağardı",
+  "key": "G#",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 3
+        },
+        {
+          "chord": "Gm7",
+          "col": 6
+        },
+        {
+          "chord": "G#maj7",
+          "col": 10
+        },
+        {
+          "chord": "Fm7",
+          "col": 17
+        },
+        {
+          "chord": "Gm7",
+          "col": 21
+        },
+        {
+          "chord": "D#",
+          "col": 25
+        },
+        {
+          "chord": "Fm7",
+          "col": 28
+        },
+        {
+          "chord": "Gm7",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gün Ağardı",
+      "chords": [
+        {
+          "chord": "Gm7",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bugün De Ne Geldi Ne De Aradı",
+      "chords": [
+        {
+          "chord": "G#maj7",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 13
+        },
+        {
+          "chord": "Fm7",
+          "col": 21
+        },
+        {
+          "chord": "Gm7",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yanmaya Yandı",
+      "chords": [
+        {
+          "chord": "Gm7",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ciğerime Sanki Bıçak Saplandı",
+      "chords": [
+        {
+          "chord": "G#maj7",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 10
+        },
+        {
+          "chord": "Fm7",
+          "col": 19
+        },
+        {
+          "chord": "Gm7",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Küskün Müsün Anlamadım",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Gm7",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir Gittin Bir Daha Aramadın",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 0
+        },
+        {
+          "chord": "G#maj7",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Çok Çabuk Gözden Çıkardın",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Fm7",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sanma Helaldir Sana Hakkım",
+      "chords": [
+        {
+          "chord": "G#maj7",
+          "col": 0
+        },
+        {
+          "chord": "Gm7",
+          "col": 11
+        },
+        {
+          "chord": "Fm7",
+          "col": 16
+        },
+        {
+          "chord": "A#",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gel     Gönülsüz De Olsan",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 4
+        },
+        {
+          "chord": "G#",
+          "col": 8
+        },
+        {
+          "chord": "A#",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "El Yerine Koysan",
+      "chords": [
+        {
+          "chord": "Gm7",
+          "col": 0
+        },
+        {
+          "chord": "G#maj7",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ölür Müsün Bir Hatır Sorsan",
+      "chords": [
+        {
+          "chord": "Fm7",
+          "col": 0
+        },
+        {
+          "chord": "Gm7",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kork Be Allah'tan",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 0
+        },
+        {
+          "chord": "Fm7",
+          "col": 4
+        },
+        {
+          "chord": "Gm7",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sevsin Bırak Yüreğim Uzaktan",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 11
+        },
+        {
+          "chord": "A#",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yüksünmem Yanmaktan",
+      "chords": [
+        {
+          "chord": "Gm7",
+          "col": 0
+        },
+        {
+          "chord": "G#maj7",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Nasıl Vicdanın Rahat",
+      "chords": [
+        {
+          "chord": "Fm7",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 11
+        },
+        {
+          "chord": "A#",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kork Be Allah'tan",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 0
+        },
+        {
+          "chord": "Fm7",
+          "col": 4
+        },
+        {
+          "chord": "Gm7",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

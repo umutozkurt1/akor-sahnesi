@@ -1,0 +1,176 @@
+{
+  "slug": "altay-iki-satir",
+  "artist": "Altay",
+  "title": "İki Satır",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Bitti dedi gitti",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Cm7",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dönüp ardına bakmadan",
+      "chords": [
+        {
+          "chord": "Gm7",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Soldu resimleri atamadım",
+      "chords": [
+        {
+          "chord": "Ab",
+          "col": 0
+        },
+        {
+          "chord": "Abmaj7",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Aklımdan çıkmadan",
+      "chords": [
+        {
+          "chord": "Gm7",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hani beni sendin anlayan",
+      "chords": [
+        {
+          "chord": "Ab",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Aşka bağlayan",
+      "chords": [
+        {
+          "chord": "Abmaj7",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bıraktın gittin",
+      "chords": [
+        {
+          "chord": "Gm7",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ben oldum ağlayan",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bitmez sanmıştım",
+      "chords": [
+        {
+          "chord": "Ab",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sana bağlanmıştım",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yalancıymışsın...",
+      "chords": [
+        {
+          "chord": "Gm7",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ne kadermiş sanki sen yazıyorsun",
+      "chords": [
+        {
+          "chord": "Cm7",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sıkıldıkça oyunu bozuyorsun",
+      "chords": [
+        {
+          "chord": "Gm7",
+          "col": 3
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İki satırlık karalanmış hikayem",
+      "chords": [
+        {
+          "chord": "Fm7",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Al git senin olsun",
+      "chords": [
+        {
+          "chord": "Gm7",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

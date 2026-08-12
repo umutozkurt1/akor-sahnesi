@@ -1,0 +1,142 @@
+{
+  "slug": "zeynep-dizdar-sana-guvenmiyorum",
+  "artist": "Zeynep Dizdar",
+  "title": "Sana Güvenmiyorum",
+  "key": "G",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Dur demem bundan sonra sana hiç",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kal demem yolunu kesmem asla",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sevmeyi sende öğrendiğimi sanmıştım safmışım oysa",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 12
+        },
+        {
+          "chord": "Eb",
+          "col": 42
+        },
+        {
+          "chord": "D",
+          "col": 81
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "x2",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Artık yok beni sevdiğini söylesen de kalbim bomboş sana",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 46
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bu ihanet benden aldığın her şeyi geri verdi sanki bana",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "Eb",
+          "col": 55
+        },
+        {
+          "chord": "D",
+          "col": 93
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "x2",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sana güvenmiyorum artık anlasana, oyuncağın değilim",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 15
+        },
+        {
+          "chord": "Cm",
+          "col": 43
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gözüme perdeler indi senle yazık, artık aşkta kör değilim",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 18
+        },
+        {
+          "chord": "Eb",
+          "col": 40
+        },
+        {
+          "chord": "F",
+          "col": 67
+        },
+        {
+          "chord": "D",
+          "col": 93
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

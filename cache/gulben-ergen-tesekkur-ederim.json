@@ -1,0 +1,111 @@
+{
+  "slug": "gulben-ergen-tesekkur-ederim",
+  "artist": "Gülben Ergen",
+  "title": "Teşekkür Ederim",
+  "key": "G#",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Kimdin neydin bilmem",
+      "chords": [
+        {
+          "chord": "G#m",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ve bir gün geldin aniden",
+      "chords": [
+        {
+          "chord": "G#m",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sevdim düşünmeden",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ama bir şeyden eminim halen",
+      "chords": [
+        {
+          "chord": "F#",
+          "col": 7
+        },
+        {
+          "chord": "G#m",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ben aşkı yalnız sana yakıştığı için severim",
+      "chords": [
+        {
+          "chord": "G#m",
+          "col": 0
+        },
+        {
+          "chord": "C#m",
+          "col": 11
+        },
+        {
+          "chord": "F#",
+          "col": 26
+        },
+        {
+          "chord": "B",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bana da yaşattığın için sevgilim, çok teşekkür ederim",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "C#m",
+          "col": 18
+        },
+        {
+          "chord": "D#",
+          "col": 46
+        },
+        {
+          "chord": "G#m",
+          "col": 74
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

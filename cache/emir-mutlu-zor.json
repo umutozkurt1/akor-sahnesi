@@ -1,0 +1,189 @@
+{
+  "slug": "emir-mutlu-zor",
+  "artist": "Emir Mutlu",
+  "title": "Zor",
+  "key": "F#",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Belki    mektubumda senden bahsetmedim",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 2
+        },
+        {
+          "chord": "Bm",
+          "col": 7
+        },
+        {
+          "chord": "D",
+          "col": 38
+        },
+        {
+          "chord": "E",
+          "col": 45
+        },
+        {
+          "chord": "F#m",
+          "col": 63
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yazdığım  şiirlerinde olmak bana yeter dedin",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 8
+        },
+        {
+          "chord": "Bm",
+          "col": 14
+        },
+        {
+          "chord": "D",
+          "col": 33
+        },
+        {
+          "chord": "E",
+          "col": 45
+        },
+        {
+          "chord": "F#m",
+          "col": 65
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  Zooor       kimseye     söylemedim",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 3
+        },
+        {
+          "chord": "D",
+          "col": 21
+        },
+        {
+          "chord": "E",
+          "col": 24
+        },
+        {
+          "chord": "F#m",
+          "col": 45
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  Zooor      onlara         güvenmedim",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 3
+        },
+        {
+          "chord": "D",
+          "col": 17
+        },
+        {
+          "chord": "E",
+          "col": 20
+        },
+        {
+          "chord": "F#m",
+          "col": 46
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ben yandım senin gözlerinde",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Verdiğim sözleride tutamadım sözümden cayardım",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 10
+        },
+        {
+          "chord": "E",
+          "col": 30
+        },
+        {
+          "chord": "F#m",
+          "col": 62
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sen sandım tuttuğum elleride",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dokunduğum her bedende biraz seni aradım",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 19
+        },
+        {
+          "chord": "E",
+          "col": 40
+        },
+        {
+          "chord": "F#m",
+          "col": 64
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

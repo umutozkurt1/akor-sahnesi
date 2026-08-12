@@ -1,0 +1,155 @@
+{
+  "slug": "furkan-halici-ne-olursun",
+  "artist": "Furkan Halıcı",
+  "title": "Ne olursun",
+  "key": "F",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Gel gönlümü, yerden yere, vurma güzel ne olursun",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "Eb",
+          "col": 61
+        },
+        {
+          "chord": "Bbm",
+          "col": 65
+        },
+        {
+          "chord": "Fm",
+          "col": 73
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gül dururken dikenleri, derme güzel ne olursun",
+      "chords": [
+        {
+          "chord": "Bbm",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 22
+        },
+        {
+          "chord": "Eb",
+          "col": 35
+        },
+        {
+          "chord": "Fm",
+          "col": 56
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Git diyemem, kal diyemem, sen goncasın, gül diyemem",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "Eb",
+          "col": 21
+        },
+        {
+          "chord": "Bbm",
+          "col": 43
+        },
+        {
+          "chord": "Eb",
+          "col": 65
+        },
+        {
+          "chord": "Fm",
+          "col": 79
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Çok severim, söyleyemem, sorma güzel ne olursun",
+      "chords": [
+        {
+          "chord": "Bbm",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 20
+        },
+        {
+          "chord": "Eb",
+          "col": 41
+        },
+        {
+          "chord": "Fm",
+          "col": 61
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sevgin nefes, sevgin candır, sevgin bana heyecandır",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "Eb",
+          "col": 63
+        },
+        {
+          "chord": "Bbm",
+          "col": 66
+        },
+        {
+          "chord": "Fm",
+          "col": 75
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kalbim ince bir fidandır, kırma güzel ne olursun",
+      "chords": [
+        {
+          "chord": "Bbm",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 18
+        },
+        {
+          "chord": "Eb",
+          "col": 36
+        },
+        {
+          "chord": "Fm",
+          "col": 55
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

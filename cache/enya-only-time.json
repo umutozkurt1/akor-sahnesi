@@ -1,0 +1,229 @@
+{
+  "slug": "enya-only-time",
+  "artist": "Enya",
+  "title": "Only Time",
+  "key": "B",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Who can say where the road goes",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 0
+        },
+        {
+          "chord": "G#m",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "where the day flows only time",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 10
+        },
+        {
+          "chord": "B",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And who can say if your love grows",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 4
+        },
+        {
+          "chord": "G#m",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "as your heart chose only time",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 9
+        },
+        {
+          "chord": "B",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "sn(0:38) deki",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "G#m",
+          "col": 16
+        },
+        {
+          "chord": "E",
+          "col": 21
+        },
+        {
+          "chord": "F#",
+          "col": 24
+        },
+        {
+          "chord": "B",
+          "col": 28
+        },
+        {
+          "chord": "B",
+          "col": 31
+        },
+        {
+          "chord": "D#m",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "G#m",
+          "col": 16
+        },
+        {
+          "chord": "E",
+          "col": 21
+        },
+        {
+          "chord": "F#",
+          "col": 24
+        },
+        {
+          "chord": "B",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "...farklı sözlerle aynen dewam edio",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "sn(2:22) civarlarındaki",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "öteki geri vokal: D  A  G  D  x3",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 18
+        },
+        {
+          "chord": "A",
+          "col": 21
+        },
+        {
+          "chord": "G",
+          "col": 24
+        },
+        {
+          "chord": "F#",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "ARPEJ: her akor 2 defa (ve oldukça yavaş)",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "---------------------------------------------------",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 2
+        },
+        {
+          "chord": "G#m",
+          "col": 20
+        },
+        {
+          "chord": "E",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "--------------------------5----------------2-------",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "---------1------------6------6---------2-------2---",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "-----2-------2------6---6--6---6-----2---2---2---2-",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "---2---2---2---2--4----------------0---------------",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "-0-------------------------------------------------",
+      "chords": [],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

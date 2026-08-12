@@ -1,0 +1,518 @@
+{
+  "slug": "hanson-weird",
+  "artist": "Hanson",
+  "title": "Weird",
+  "key": "E",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Isn't it weird. Isn't it strange.",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "G#m",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Even though we're just two strangers on this runaway train",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 46
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "We're both trying to find a place in the sun",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 21
+        },
+        {
+          "chord": "G#m",
+          "col": 41
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "We've lived in the shadows, but doesn't everyone",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 19
+        },
+        {
+          "chord": "G#m",
+          "col": 27
+        },
+        {
+          "chord": "F#m",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Isn't it strange how we all feel a little bit weird sometimes",
+      "chords": [
+        {
+          "chord": "G#m",
+          "col": 9
+        },
+        {
+          "chord": "A",
+          "col": 24
+        },
+        {
+          "chord": "Am",
+          "col": 35
+        },
+        {
+          "chord": "E",
+          "col": 54
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Weird. Oh ho.",
+      "chords": [
+        {
+          "chord": "G#m",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 7
+        },
+        {
+          "chord": "Am",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Isn't it hard. Standing in the rain.",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 9
+        },
+        {
+          "chord": "G#m",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You're on the verge of going crazy and your heart's in pain",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 14
+        },
+        {
+          "chord": "Am",
+          "col": 44
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "No one can hear but you're screaming so loud",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 11
+        },
+        {
+          "chord": "G#m",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You feel like you're all alone in a faceless crowd",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 21
+        },
+        {
+          "chord": "G#m",
+          "col": 30
+        },
+        {
+          "chord": "F#m",
+          "col": 43
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Isn't it strange how we all get a little bit weird sometimes.",
+      "chords": [
+        {
+          "chord": "G#m",
+          "col": 9
+        },
+        {
+          "chord": "A",
+          "col": 24
+        },
+        {
+          "chord": "Am",
+          "col": 35
+        },
+        {
+          "chord": "E",
+          "col": 51
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sitting on the side. Waiting for a sign. Hoping that my luck will change.",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 56
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Reaching for a hand that can understand, someone who feels the same.",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 43
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "When you live in a cookie cutter world being different is a sin.",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 58
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "So you don't stand out. And you don't fit in. Weird. Whoa oh.",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 13
+        },
+        {
+          "chord": "Am",
+          "col": 32
+        },
+        {
+          "chord": "E",
+          "col": 53
+        },
+        {
+          "chord": "G#m",
+          "col": 55
+        },
+        {
+          "chord": "A",
+          "col": 59
+        },
+        {
+          "chord": "Am",
+          "col": 61
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sitting on the side. Waiting for a sign. Hoping that my luck will change.",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 56
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Oh ho. Reaching for a hand that can understand, someone who feels the",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 7
+        },
+        {
+          "chord": "E",
+          "col": 52
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "same.",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "When you live in a cookie cutter world if you're different you can't win.",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 49
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "So you don't stand out and you don't fit in. Oh.",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 7
+        },
+        {
+          "chord": "Am",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Isn't it strange how we all feel a little bit weird",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 9
+        },
+        {
+          "chord": "A",
+          "col": 24
+        },
+        {
+          "chord": "Am",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Strange, how we all get a little bit.",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 16
+        },
+        {
+          "chord": "Am",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Strange, how we all feel a little bit weird sometimes.",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 16
+        },
+        {
+          "chord": "Am",
+          "col": 27
+        },
+        {
+          "chord": "E",
+          "col": 55
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Oh, just a little bit weird sometimes.",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 18
+        },
+        {
+          "chord": "Am",
+          "col": 28
+        },
+        {
+          "chord": "E",
+          "col": 40
+        },
+        {
+          "chord": "G#m",
+          "col": 42
+        },
+        {
+          "chord": "A",
+          "col": 46
+        },
+        {
+          "chord": "Am",
+          "col": 48
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  >",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Related Tabs",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hoobastank   Crawling in The Dark Tab",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Imbruglia Natalie   Torn Tab",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Savage Garden   Truly Madly Deeply Tab",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Madonna   Crazy for You Tab",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Incubus   Drive Tab",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Extreme   More Than Words Tab",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hootie & The Blowfish   Only Wanna Be With You Tab",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "No Doubt   Dont Speak Tab",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Radiohead   High & Dry Tab",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hanson songs in movies",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "American Wedding",
+      "chords": [],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

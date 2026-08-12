@@ -1,0 +1,254 @@
+{
+  "slug": "pilli-bebek-kara-diller",
+  "artist": "Pilli Bebek",
+  "title": "Kara Diller",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Kara diller , kara   yüzler   dünyama   çöktü",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "F#dim",
+          "col": 11
+        },
+        {
+          "chord": "C",
+          "col": 22
+        },
+        {
+          "chord": "B",
+          "col": 32
+        },
+        {
+          "chord": "Am",
+          "col": 41
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Korktu yazlar ,",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ürktü nazlı bahar güze büründü",
+      "chords": [
+        {
+          "chord": "F#dim",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 9
+        },
+        {
+          "chord": "B",
+          "col": 18
+        },
+        {
+          "chord": "Am",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Of of böyle mi oldu  ...",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 3
+        },
+        {
+          "chord": "C",
+          "col": 6
+        },
+        {
+          "chord": "B",
+          "col": 11
+        },
+        {
+          "chord": "Am",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Zaman , yaman bizi de vurdu",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 8
+        },
+        {
+          "chord": "C",
+          "col": 14
+        },
+        {
+          "chord": "B",
+          "col": 18
+        },
+        {
+          "chord": "Am",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ay saklandı bulut ardında ,",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "F#dim",
+          "col": 12
+        },
+        {
+          "chord": "C",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Karardı durdu",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 4
+        },
+        {
+          "chord": "Am",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gün tükendi ,",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Aydınlık dünler hasretlik oldu",
+      "chords": [
+        {
+          "chord": "F#dim",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 10
+        },
+        {
+          "chord": "B",
+          "col": 16
+        },
+        {
+          "chord": "Am",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Of of böyle mi oldu ...",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 3
+        },
+        {
+          "chord": "C",
+          "col": 6
+        },
+        {
+          "chord": "B",
+          "col": 11
+        },
+        {
+          "chord": "Am",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Zaman , yaman bizi de vurdu",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 8
+        },
+        {
+          "chord": "C",
+          "col": 14
+        },
+        {
+          "chord": "B",
+          "col": 18
+        },
+        {
+          "chord": "Am",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

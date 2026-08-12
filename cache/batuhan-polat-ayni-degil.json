@@ -1,0 +1,190 @@
+{
+  "slug": "batuhan-polat-ayni-degil",
+  "artist": "Batuhan Polat",
+  "title": "Aynı Değil",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "İntro :",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 3
+        },
+        {
+          "chord": "F#m",
+          "col": 6
+        },
+        {
+          "chord": "E",
+          "col": 11
+        },
+        {
+          "chord": "A",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Parlak yüzün iki koca gözün",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "değişti sana bakmak,    bakamamak",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 4
+        },
+        {
+          "chord": "E",
+          "col": 23
+        },
+        {
+          "chord": "A",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "neşe dolu sözün, içinde hep hüzün",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 3
+        },
+        {
+          "chord": "E",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "değişti seni sevmek,      sevememek",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 4
+        },
+        {
+          "chord": "E",
+          "col": 23
+        },
+        {
+          "chord": "A",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "aynı değil, aynı değil",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 13
+        },
+        {
+          "chord": "E",
+          "col": 20
+        },
+        {
+          "chord": "A",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "gözyaşı bile artık   masum değil",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 6
+        },
+        {
+          "chord": "E",
+          "col": 20
+        },
+        {
+          "chord": "A",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "ilk kez değil, son kez değil",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 15
+        },
+        {
+          "chord": "E",
+          "col": 21
+        },
+        {
+          "chord": "A",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "değişti seni sevmek artık masum değil",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 6
+        },
+        {
+          "chord": "E",
+          "col": 23
+        },
+        {
+          "chord": "A",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

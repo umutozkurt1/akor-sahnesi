@@ -1,0 +1,599 @@
+{
+  "slug": "calling-the-adrienne",
+  "artist": "Calling, The",
+  "title": "Adrienne",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Intro.: (Am79 Gadd9 Em7 Cadd9)",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I've been thinking about you, my love",
+      "chords": [
+        {
+          "chord": "Am7",
+          "col": 25
+        },
+        {
+          "chord": "Gsus4",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And all the crazy things that you put me through",
+      "chords": [
+        {
+          "chord": "Em7",
+          "col": 4
+        },
+        {
+          "chord": "Fadd9",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Now I'm coming around, Throwing it back to you",
+      "chords": [
+        {
+          "chord": "Am7",
+          "col": 9
+        },
+        {
+          "chord": "G",
+          "col": 26
+        },
+        {
+          "chord": "Em7",
+          "col": 41
+        },
+        {
+          "chord": "Fadd9",
+          "col": 48
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Were you thinking of me when you kissed him",
+      "chords": [
+        {
+          "chord": "Am7",
+          "col": 22
+        },
+        {
+          "chord": "Gsus4",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Could you taste me when you licked his skin",
+      "chords": [
+        {
+          "chord": "Em7",
+          "col": 11
+        },
+        {
+          "chord": "Fadd9",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "All the while I showered you with trust and promises",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 21
+        },
+        {
+          "chord": "Em7",
+          "col": 39
+        },
+        {
+          "chord": "Fadd9",
+          "col": 49
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "          Dm7                  C7E",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "What I'm needing now is some sweet revenge",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "To get back all that I lost then",
+      "chords": [
+        {
+          "chord": "Fadd9",
+          "col": 4
+        },
+        {
+          "chord": "G",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I gave you all I had to give, but I could never reach you",
+      "chords": [
+        {
+          "chord": "Dm7",
+          "col": 3
+        },
+        {
+          "chord": "Em",
+          "col": 18
+        },
+        {
+          "chord": "Fadd9",
+          "col": 31
+        },
+        {
+          "chord": "Gsus4",
+          "col": 46
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": ", I thought I knew     you",
+      "chords": [
+        {
+          "chord": "Am79",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 11
+        },
+        {
+          "chord": "Em7",
+          "col": 17
+        },
+        {
+          "chord": "Fadd9",
+          "col": 27
+        },
+        {
+          "chord": "G",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Once again, you used me, used   me",
+      "chords": [
+        {
+          "chord": "Am79",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 11
+        },
+        {
+          "chord": "Em7",
+          "col": 17
+        },
+        {
+          "chord": "Fadd9",
+          "col": 27
+        },
+        {
+          "chord": "G",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": ", I should have left   you",
+      "chords": [
+        {
+          "chord": "Am79",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 11
+        },
+        {
+          "chord": "Em7",
+          "col": 17
+        },
+        {
+          "chord": "Fadd9",
+          "col": 27
+        },
+        {
+          "chord": "G",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Long before you used me, Used   me  up",
+      "chords": [
+        {
+          "chord": "Am79",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 11
+        },
+        {
+          "chord": "Em7",
+          "col": 17
+        },
+        {
+          "chord": "Fadd9",
+          "col": 27
+        },
+        {
+          "chord": "G",
+          "col": 35
+        },
+        {
+          "chord": "Am79",
+          "col": 38
+        },
+        {
+          "chord": "G",
+          "col": 49
+        },
+        {
+          "chord": "Em7",
+          "col": 55
+        },
+        {
+          "chord": "Fadd9",
+          "col": 65
+        },
+        {
+          "chord": "G",
+          "col": 73
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "(Am7 Gsus4 Em7 Cadd9)",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Spent my money, drove my car",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I treated you like a shining star",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But in my sky all burnt out you are",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And I'll have the last laugh, when I see you walking some other guy",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "'Cause I know you're gone end up all alone",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "    Dm7                    C7E",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "So take these words, some good advice",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "All you've done gonna come back twice",
+      "chords": [
+        {
+          "chord": "Fadd9",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You never cared how much it hurt, I really need to tell you",
+      "chords": [
+        {
+          "chord": "Dm7",
+          "col": 5
+        },
+        {
+          "chord": "Em",
+          "col": 21
+        },
+        {
+          "chord": "Fadd9",
+          "col": 36
+        },
+        {
+          "chord": "Gsus4",
+          "col": 51
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "(Am79 Gadd9 Em7 Cadd9)",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": ", I thought I knew     you",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Once again, you used me, used   me",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": ", I should have left   you",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Long before you used me, Used   me up",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Solo: (Dm7 Em Fadd9 G) 4x",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "     Dm7                 C7E",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "What I'm needing now's some sweet revenge",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "To get back all that I lost then",
+      "chords": [
+        {
+          "chord": "Fadd9",
+          "col": 4
+        },
+        {
+          "chord": "G",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I gave you all that I had to give, but I could never reach you",
+      "chords": [
+        {
+          "chord": "Dm7",
+          "col": 3
+        },
+        {
+          "chord": "Em",
+          "col": 23
+        },
+        {
+          "chord": "Fadd9",
+          "col": 38
+        },
+        {
+          "chord": "Gsus4",
+          "col": 53
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": ", I thought I knew     you",
+      "chords": [
+        {
+          "chord": "Am79",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 11
+        },
+        {
+          "chord": "Em7",
+          "col": 17
+        },
+        {
+          "chord": "Fadd9",
+          "col": 27
+        },
+        {
+          "chord": "G",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Once again, you used me, used   me",
+      "chords": [
+        {
+          "chord": "Am79",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 11
+        },
+        {
+          "chord": "Em7",
+          "col": 17
+        },
+        {
+          "chord": "Fadd9",
+          "col": 27
+        },
+        {
+          "chord": "G",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": ", I should have left   you",
+      "chords": [
+        {
+          "chord": "Am79",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 11
+        },
+        {
+          "chord": "Em7",
+          "col": 17
+        },
+        {
+          "chord": "Fadd9",
+          "col": 27
+        },
+        {
+          "chord": "G",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Long before you used me, Used   me  up",
+      "chords": [
+        {
+          "chord": "Am79",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 11
+        },
+        {
+          "chord": "Em7",
+          "col": 17
+        },
+        {
+          "chord": "Fadd9",
+          "col": 27
+        },
+        {
+          "chord": "G",
+          "col": 35
+        },
+        {
+          "chord": "Am79",
+          "col": 38
+        },
+        {
+          "chord": "G",
+          "col": 49
+        },
+        {
+          "chord": "Em7",
+          "col": 55
+        },
+        {
+          "chord": "Fadd9",
+          "col": 65
+        },
+        {
+          "chord": "G",
+          "col": 73
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

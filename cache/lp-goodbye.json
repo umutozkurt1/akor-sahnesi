@@ -1,0 +1,615 @@
+{
+  "slug": "lp-goodbye",
+  "artist": "LP",
+  "title": "Goodbye",
+  "key": "Db",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "İntro :",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Db",
+          "col": 0
+        },
+        {
+          "chord": "Abm",
+          "col": 4
+        },
+        {
+          "chord": "Gb",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "The substance, the dealer",
+      "chords": [
+        {
+          "chord": "Db",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "The wiser, the realer",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "The sun coming up",
+      "chords": [
+        {
+          "chord": "Abm",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And the touch of a healer",
+      "chords": [
+        {
+          "chord": "Gb",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "The days of our lives",
+      "chords": [
+        {
+          "chord": "Db",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "The first time that I saw her",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "The eyes of a savior",
+      "chords": [
+        {
+          "chord": "Abm",
+          "col": 7
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I loved her and lost her",
+      "chords": [
+        {
+          "chord": "Gb",
+          "col": 2
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And I don't know why",
+      "chords": [
+        {
+          "chord": "Db",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "All I do is try",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "It's a lonely night that talks to me, talks to me",
+      "chords": [
+        {
+          "chord": "Abm",
+          "col": 0
+        },
+        {
+          "chord": "Gb",
+          "col": 34
+        },
+        {
+          "chord": "Db",
+          "col": 67
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And it takes its toll, on the sweetest soul",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "To release into peace and tell yourself to let it go",
+      "chords": [
+        {
+          "chord": "Abm",
+          "col": 0
+        },
+        {
+          "chord": "Gb",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Goodbye to less than, goodbye",
+      "chords": [
+        {
+          "chord": "Db",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Goodbye to wasting more time",
+      "chords": [
+        {
+          "chord": "Abm",
+          "col": 0
+        },
+        {
+          "chord": "Gb",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "To all of the darkness where there should be light",
+      "chords": [
+        {
+          "chord": "Db",
+          "col": 6
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Goodbye, goodbye, goodbye",
+      "chords": [
+        {
+          "chord": "Abm",
+          "col": 0
+        },
+        {
+          "chord": "Gb",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yeah-Yeah-Yeah",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yeah-Yeah-Yeah",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yeah-Yeah-Yeah",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "The loveless, the what's next",
+      "chords": [
+        {
+          "chord": "Db",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "The subtext is complex",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And in the end we're all just having same sex",
+      "chords": [
+        {
+          "chord": "Abm",
+          "col": 7
+        },
+        {
+          "chord": "Ebm",
+          "col": 46
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Your heroes, your demons",
+      "chords": [
+        {
+          "chord": "Db",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You're taught to believe in",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "They change with the seasons",
+      "chords": [
+        {
+          "chord": "Abm",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yeah fuck em', don't need em'",
+      "chords": [
+        {
+          "chord": "Gb",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And I don't know why",
+      "chords": [
+        {
+          "chord": "Db",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "All I do is try",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "It's a lonely night that talks to me, talks to me",
+      "chords": [
+        {
+          "chord": "Abm",
+          "col": 0
+        },
+        {
+          "chord": "Gb",
+          "col": 34
+        },
+        {
+          "chord": "Db",
+          "col": 67
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And it takes its toll, on the sweetest soul",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "To release into peace and tell yourself to let it go",
+      "chords": [
+        {
+          "chord": "Abm",
+          "col": 0
+        },
+        {
+          "chord": "Gb",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Goodbye to less than, goodbye",
+      "chords": [
+        {
+          "chord": "Db",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Goodbye to wasting more time",
+      "chords": [
+        {
+          "chord": "Abm",
+          "col": 0
+        },
+        {
+          "chord": "Gb",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "To all of the darkness where there should be light",
+      "chords": [
+        {
+          "chord": "Db",
+          "col": 6
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Goodbye, goodbye, goodbye",
+      "chords": [
+        {
+          "chord": "Abm",
+          "col": 0
+        },
+        {
+          "chord": "Gb",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ah-Oh",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "No more cry",
+      "chords": [
+        {
+          "chord": "Db",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Wave goodbye",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "It's alright, say goodbye",
+      "chords": [
+        {
+          "chord": "Abm",
+          "col": 11
+        },
+        {
+          "chord": "Gb",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "No more cry",
+      "chords": [
+        {
+          "chord": "Db",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Say goodbye",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "It's alright, say goodbye",
+      "chords": [
+        {
+          "chord": "Abm",
+          "col": 11
+        },
+        {
+          "chord": "Gb",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "No more cry",
+      "chords": [
+        {
+          "chord": "Db",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Wave goodbye",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "It's alright, say goodbye",
+      "chords": [
+        {
+          "chord": "Abm",
+          "col": 11
+        },
+        {
+          "chord": "Gb",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "To all of the darkness where there should be light",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Goodbye, goodbye, goodbye",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Adiós, Au revoir, Arrivederci",
+      "chords": [
+        {
+          "chord": "Db",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'll sing in any language you let me",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yassou, Dosvendanaya, Odabo",
+      "chords": [
+        {
+          "chord": "Gb",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Goodbye let's say hello to tomorrow",
+      "chords": [
+        {
+          "chord": "Ebm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Adiós, Au revoir, Arrivederci",
+      "chords": [
+        {
+          "chord": "Db",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'll sing in any language you let me",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yassou, Dosvendanaya, Odabo",
+      "chords": [
+        {
+          "chord": "Gb",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Goodbye let's say hello to tomorrow",
+      "chords": [
+        {
+          "chord": "Ebm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

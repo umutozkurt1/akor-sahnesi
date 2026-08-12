@@ -1,0 +1,271 @@
+{
+  "slug": "murat-dalkilic-saltanat",
+  "artist": "Murat Dalkılıç",
+  "title": "Saltanat",
+  "key": "G",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "İntro:",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 3
+        },
+        {
+          "chord": "Gm",
+          "col": 6
+        },
+        {
+          "chord": "D#",
+          "col": 9
+        },
+        {
+          "chord": "F",
+          "col": 12
+        },
+        {
+          "chord": "D#",
+          "col": 14
+        },
+        {
+          "chord": "Gm",
+          "col": 17
+        },
+        {
+          "chord": "D#",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bak bize bir var bir yokmuş eskiden",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Nasıl da idareten yaşıyormuşuz ayrı ayrı telden",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sen bana ben sana tuzaklar sermeden",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kalbe zeval vermeden yaşayamaz olduk aşkı",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sözler tutulmadı kalpler sınıfta kaldı",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 11
+        },
+        {
+          "chord": "Gm",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yeniden başlasak hayırlısı mı",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bilmem yüzde kaç olur hata payı",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Zaman kaybedince hakkımız yanmış",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 11
+        },
+        {
+          "chord": "Gm",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Aslında hiç öyle kolay olmadı",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ağlaya ağlaya göz yaşı kalmadı",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Fikri firar akılı senden başkasını almadı",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 19
+        },
+        {
+          "chord": "Gm",
+          "col": 33
+        },
+        {
+          "chord": "D#",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ne gençlik çağının hovardalıkları",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ne yazın kalpteki kıpırdanışı",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Şu tendeki saltanatı kaldıran olmadı",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 2
+        },
+        {
+          "chord": "D#",
+          "col": 16
+        },
+        {
+          "chord": "Gm",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "O ihtimali bile düşünmeye fırsat olmadı",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 2
+        },
+        {
+          "chord": "D#",
+          "col": 18
+        },
+        {
+          "chord": "Gm",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

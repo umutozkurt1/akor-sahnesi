@@ -1,0 +1,193 @@
+{
+  "slug": "aydok-moralioglu-ruzgar",
+  "artist": "Aydok Moralioglu",
+  "title": "Rüzgar",
+  "key": "G",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 7
+        },
+        {
+          "chord": "D#maj7",
+          "col": 11
+        },
+        {
+          "chord": "C",
+          "col": 19
+        },
+        {
+          "chord": "Gmaj6",
+          "col": 22
+        },
+        {
+          "chord": "Gm",
+          "col": 29
+        },
+        {
+          "chord": "D#maj7",
+          "col": 32
+        },
+        {
+          "chord": "C",
+          "col": 40
+        },
+        {
+          "chord": "F7",
+          "col": 43
+        },
+        {
+          "chord": "Dm7",
+          "col": 47
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Geçtiğim sokaklarda izin kalmış",
+      "chords": [
+        {
+          "chord": "Gm7",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Süzülen güneşlerin dört yanımda",
+      "chords": [
+        {
+          "chord": "D#maj7",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Adın kazınmış gördüğüm afişlerde",
+      "chords": [
+        {
+          "chord": "Gm7",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Başrolündesin hayatımın hep yanımda",
+      "chords": [
+        {
+          "chord": "D#maj7",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Umutlarım dolaşır ruhunun dolaylarında",
+      "chords": [
+        {
+          "chord": "Gm7",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 24
+        },
+        {
+          "chord": "D#",
+          "col": 47
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir anlık isteklerim bekler",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gördüğüm ne varsa O senin yokluğun",
+      "chords": [
+        {
+          "chord": "Gm7",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 11
+        },
+        {
+          "chord": "D#",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " götür beni onun kıyısına",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Söyleeee    benim gibi düşler mi kurmakta",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 13
+        },
+        {
+          "chord": "D#",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Söyleeeeeee  Söyleeeeeeeeeeee",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 13
+        },
+        {
+          "chord": "D",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

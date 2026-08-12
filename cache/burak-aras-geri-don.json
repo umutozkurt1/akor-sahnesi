@@ -1,0 +1,158 @@
+{
+  "slug": "burak-aras-geri-don",
+  "artist": "Burak Aras",
+  "title": "Geri Dön",
+  "key": "D",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Şimdi kapkara bir denizle göz gözeyiz.",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Biraz durgunuz,belli ki çok yorulmuşuz.",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 25
+        },
+        {
+          "chord": "E",
+          "col": 52
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Çünkü bu sabaha kadar çok şey vardı içimizde",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 45
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kaldırmak zorundaydık ikimizde.",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 25
+        },
+        {
+          "chord": "E",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kara deniz hiç hiç zorlanmadı,ben altında kaldım,bıraktım yapamadım.",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 37
+        },
+        {
+          "chord": "G",
+          "col": 49
+        },
+        {
+          "chord": "F",
+          "col": 80
+        },
+        {
+          "chord": "E",
+          "col": 99
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Şimdi sabahın beşinde geri dönüşler var içimde",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 32
+        },
+        {
+          "chord": "G",
+          "col": 38
+        },
+        {
+          "chord": "F",
+          "col": 56
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Durdurmaya niyetlendiğim yolculuklar var gecenin köründe",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 26
+        },
+        {
+          "chord": "G",
+          "col": 49
+        },
+        {
+          "chord": "F",
+          "col": 70
+        },
+        {
+          "chord": "E",
+          "col": 79
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

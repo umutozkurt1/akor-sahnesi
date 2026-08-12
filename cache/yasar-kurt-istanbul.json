@@ -1,0 +1,143 @@
+{
+  "slug": "yasar-kurt-istanbul",
+  "artist": "Yaşar Kurt",
+  "title": "İstanbul",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "İstanbul   seninle yaşadım yüzyıllar boyu",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 4
+        },
+        {
+          "chord": "G#",
+          "col": 11
+        },
+        {
+          "chord": "A#",
+          "col": 25
+        },
+        {
+          "chord": "Cm",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Beyaz elbiseni çok sevdim esmer tenini",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 7
+        },
+        {
+          "chord": "G#",
+          "col": 15
+        },
+        {
+          "chord": "A#7",
+          "col": 25
+        },
+        {
+          "chord": "Cm",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Güzel saçların vardı hiç dokunmadım",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Aslında ben seni su perisi sanmıştım istanbul",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 11
+        },
+        {
+          "chord": "A#",
+          "col": 20
+        },
+        {
+          "chord": "G#",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Vahşi sokakların hep kavga dövüş",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 8
+        },
+        {
+          "chord": "G#",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir de neden hep gecesin ah İstanbul",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 14
+        },
+        {
+          "chord": "G#",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

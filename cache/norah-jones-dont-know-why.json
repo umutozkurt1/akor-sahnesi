@@ -1,0 +1,233 @@
+{
+  "slug": "norah-jones-dont-know-why",
+  "artist": "Norah Jones",
+  "title": "Don't Know Why",
+  "key": "F",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "I waited til I saw the sun, I dont know why I didn't come",
+      "chords": [
+        {
+          "chord": "Fmaj7",
+          "col": 0
+        },
+        {
+          "chord": "F7",
+          "col": 7
+        },
+        {
+          "chord": "A#m7",
+          "col": 12
+        },
+        {
+          "chord": "A7",
+          "col": 21
+        },
+        {
+          "chord": "Dm7",
+          "col": 37
+        },
+        {
+          "chord": "G7",
+          "col": 44
+        },
+        {
+          "chord": "C7",
+          "col": 51
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I left you by the house of fun, I don't know why I didn't come",
+      "chords": [
+        {
+          "chord": "Fmaj7",
+          "col": 2
+        },
+        {
+          "chord": "F7",
+          "col": 11
+        },
+        {
+          "chord": "A#m7",
+          "col": 19
+        },
+        {
+          "chord": "A7",
+          "col": 28
+        },
+        {
+          "chord": "D7",
+          "col": 45
+        },
+        {
+          "chord": "G7",
+          "col": 51
+        },
+        {
+          "chord": "C7",
+          "col": 56
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I don't know why I didn't come",
+      "chords": [
+        {
+          "chord": "Dm7",
+          "col": 14
+        },
+        {
+          "chord": "G7",
+          "col": 21
+        },
+        {
+          "chord": "C7",
+          "col": 28
+        },
+        {
+          "chord": "F6",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "When I saw the break of day, I wished that I could fly away",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Instead of kneeling in the sand, catching teardrops in my hand",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "My heart is drenched in wine",
+      "chords": [
+        {
+          "chord": "Dm7",
+          "col": 3
+        },
+        {
+          "chord": "G6",
+          "col": 13
+        },
+        {
+          "chord": "C7",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But you'll be on my mind, forever",
+      "chords": [
+        {
+          "chord": "Dm7",
+          "col": 3
+        },
+        {
+          "chord": "G6",
+          "col": 13
+        },
+        {
+          "chord": "C7",
+          "col": 20
+        },
+        {
+          "chord": "C9",
+          "col": 25
+        },
+        {
+          "chord": "C6",
+          "col": 28
+        },
+        {
+          "chord": "C7",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Out across the endless sea, I would die in ecstasy",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But I'll be a bag of bones, driving down the road alone",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "My heart is drenched in wine",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But you'll be on my mind, forever",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Something has to make you run, don't know why I didn't come",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I feel as empty as a drum, I don't know why I didn't come",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I don't know why I didn't come",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I don't know why I didn't come",
+      "chords": [
+        {
+          "chord": "Dm7",
+          "col": 3
+        },
+        {
+          "chord": "G7",
+          "col": 12
+        },
+        {
+          "chord": "C7",
+          "col": 25
+        },
+        {
+          "chord": "F6",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

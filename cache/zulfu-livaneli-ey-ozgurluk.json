@@ -1,0 +1,122 @@
+{
+  "slug": "zulfu-livaneli-ey-ozgurluk",
+  "artist": "Zülfü Livaneli",
+  "title": "Ey Özgürlük",
+  "key": "E",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Okulda defterime  sirama agaçlara  yazarim adini",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 18
+        },
+        {
+          "chord": "C",
+          "col": 34
+        },
+        {
+          "chord": "D",
+          "col": 42
+        },
+        {
+          "chord": "Em",
+          "col": 47
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Okunmus yapraklara  bembeyaz sayfalara yazarim adini",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yaldizli imgelere  toplara tüfeklere  krallarin tacina",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "En güzel gecelere  günün ak ekmegine  yazarim adini",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Tarlalara ve ufka  kuslarin kanadina",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "Em7",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gölgede degirmene yazarim",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "B7",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Uyanmis patikaya  serilip giden yola",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "Em7",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hincahinç meydanlara adini ey Özgürlük",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "B7",
+          "col": 20
+        },
+        {
+          "chord": "Em",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

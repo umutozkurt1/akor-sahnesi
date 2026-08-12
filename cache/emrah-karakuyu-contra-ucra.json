@@ -1,0 +1,878 @@
+{
+  "slug": "emrah-karakuyu-contra-ucra",
+  "artist": "Emrah Karakuyu & Contra",
+  "title": "Ücra",
+  "key": "B",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "İntro :",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 3
+        },
+        {
+          "chord": "G",
+          "col": 5
+        },
+        {
+          "chord": "A",
+          "col": 7
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bütün şehir uyuduğunda yeni sesler duyunca",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 21
+        },
+        {
+          "chord": "G",
+          "col": 40
+        },
+        {
+          "chord": "A",
+          "col": 63
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Erdi yine benden öte senden içeri bestem  zuhura(?)",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 15
+        },
+        {
+          "chord": "G",
+          "col": 42
+        },
+        {
+          "chord": "A",
+          "col": 72
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Son sözlerim sandığımda",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yanan gömlekler askılarda",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 5
+        },
+        {
+          "chord": "A",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yakınlaşırsam aklıma",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 13
+        },
+        {
+          "chord": "G",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir dileğim daha var galiba yüz bulmuşken Tanrı'dan",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 18
+        },
+        {
+          "chord": "A",
+          "col": 39
+        },
+        {
+          "chord": "G",
+          "col": 56
+        },
+        {
+          "chord": "A",
+          "col": 79
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Unutulmuşken daima yarınlardan ücra",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 13
+        },
+        {
+          "chord": "A",
+          "col": 30
+        },
+        {
+          "chord": "G",
+          "col": 47
+        },
+        {
+          "chord": "A",
+          "col": 59
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir dileğim daha var galiba yüz bulmuşken Tanrı'dan",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 18
+        },
+        {
+          "chord": "A",
+          "col": 39
+        },
+        {
+          "chord": "G",
+          "col": 56
+        },
+        {
+          "chord": "A",
+          "col": 79
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gerçi yaşardım daima yarınlardan ücra",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 13
+        },
+        {
+          "chord": "A",
+          "col": 30
+        },
+        {
+          "chord": "G",
+          "col": 47
+        },
+        {
+          "chord": "A",
+          "col": 59
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Diyo'lar aşk dediğin hemen öldürmez hemen öldürmez",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 11
+        },
+        {
+          "chord": "G",
+          "col": 44
+        },
+        {
+          "chord": "A",
+          "col": 73
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dert olup girer ansızın hep gece göğsümden gece göğsümden",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 9
+        },
+        {
+          "chord": "A",
+          "col": 23
+        },
+        {
+          "chord": "G",
+          "col": 52
+        },
+        {
+          "chord": "A",
+          "col": 82
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yılların adı bile yok bi de unutamıyosun esir almışken kalbini",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 9
+        },
+        {
+          "chord": "G",
+          "col": 38
+        },
+        {
+          "chord": "A",
+          "col": 72
+        },
+        {
+          "chord": "Bm",
+          "col": 91
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Suç bulup kadere yine sövdüm ben yine sövdüm ben",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 11
+        },
+        {
+          "chord": "G",
+          "col": 39
+        },
+        {
+          "chord": "A",
+          "col": 68
+        },
+        {
+          "chord": "Bm",
+          "col": 83
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Var mı şu hayatın benden alacağı daha",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 8
+        },
+        {
+          "chord": "G",
+          "col": 21
+        },
+        {
+          "chord": "Bm",
+          "col": 57
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sorma bi neden kim günahsız kalmış yalan",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 7
+        },
+        {
+          "chord": "G",
+          "col": 20
+        },
+        {
+          "chord": "A",
+          "col": 51
+        },
+        {
+          "chord": "Bm",
+          "col": 62
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Duymadın mı hasretin sesini söyle arsız zaman",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 13
+        },
+        {
+          "chord": "G",
+          "col": 34
+        },
+        {
+          "chord": "Bm",
+          "col": 68
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Şimdi hep dalıp gidiyor aklım hatıralara",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 11
+        },
+        {
+          "chord": "G",
+          "col": 29
+        },
+        {
+          "chord": "A",
+          "col": 49
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bütün şehir uyuduğunda yeni sesler duyunca",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 21
+        },
+        {
+          "chord": "G",
+          "col": 40
+        },
+        {
+          "chord": "A",
+          "col": 63
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Erdi yine benden öte senden içeri bestem  zuhura(?)",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 15
+        },
+        {
+          "chord": "G",
+          "col": 42
+        },
+        {
+          "chord": "A",
+          "col": 72
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Son sözlerim sandığımda",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yanan gömlekler askılarda",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 5
+        },
+        {
+          "chord": "A",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yakınlaşırsam aklıma",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 13
+        },
+        {
+          "chord": "G",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir dileğim daha var galiba yüz bulmuşken Tanrı'dan",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 18
+        },
+        {
+          "chord": "A",
+          "col": 39
+        },
+        {
+          "chord": "G",
+          "col": 56
+        },
+        {
+          "chord": "A",
+          "col": 79
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Unutulmuşken daima yarınlardan ücra",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 13
+        },
+        {
+          "chord": "A",
+          "col": 30
+        },
+        {
+          "chord": "G",
+          "col": 47
+        },
+        {
+          "chord": "A",
+          "col": 59
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir dileğim daha var galiba yüz bulmuşken Tanrı'dan",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 18
+        },
+        {
+          "chord": "A",
+          "col": 39
+        },
+        {
+          "chord": "G",
+          "col": 56
+        },
+        {
+          "chord": "A",
+          "col": 79
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gerçi yaşardım daima yarınlardan ücra",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 13
+        },
+        {
+          "chord": "A",
+          "col": 30
+        },
+        {
+          "chord": "G",
+          "col": 47
+        },
+        {
+          "chord": "A",
+          "col": 59
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sövdüm saydım her günüme yine yeniden derin suların dibinde kaybolup",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 26
+        },
+        {
+          "chord": "G",
+          "col": 55
+        },
+        {
+          "chord": "A",
+          "col": 82
+        },
+        {
+          "chord": "Bm",
+          "col": 110
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Çıkarım yeryüzüne çalıp şarkımızı ada vapurunda hayat bulurum",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 15
+        },
+        {
+          "chord": "G",
+          "col": 42
+        },
+        {
+          "chord": "A",
+          "col": 69
+        },
+        {
+          "chord": "Bm",
+          "col": 103
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yine bi bağ bozumu yine mey",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 13
+        },
+        {
+          "chord": "G",
+          "col": 43
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Diyo'lar aşk kavuşamayana aşk olur",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 22
+        },
+        {
+          "chord": "Bm",
+          "col": 55
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Diyo'lar öldürmez o zaman nasıl cenneti gördüm ben",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 14
+        },
+        {
+          "chord": "G",
+          "col": 39
+        },
+        {
+          "chord": "Bm",
+          "col": 84
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bütün şehir uyuduğunda yeni sesler duyunca",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 21
+        },
+        {
+          "chord": "G",
+          "col": 40
+        },
+        {
+          "chord": "A",
+          "col": 63
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Erdi yine benden öte senden içeri bestem  zuhura(?)",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 15
+        },
+        {
+          "chord": "G",
+          "col": 42
+        },
+        {
+          "chord": "A",
+          "col": 72
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Son sözlerim sandığımda",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yanan gömlekler askılarda",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 5
+        },
+        {
+          "chord": "A",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yakınlaşırsam aklıma",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 13
+        },
+        {
+          "chord": "G",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir dileğim daha var galiba yüz bulmuşken Tanrı'dan",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 18
+        },
+        {
+          "chord": "A",
+          "col": 39
+        },
+        {
+          "chord": "G",
+          "col": 56
+        },
+        {
+          "chord": "A",
+          "col": 79
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Unutulmuşken daima yarınlardan ücra",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 13
+        },
+        {
+          "chord": "A",
+          "col": 30
+        },
+        {
+          "chord": "G",
+          "col": 47
+        },
+        {
+          "chord": "A",
+          "col": 59
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir dileğim daha var galiba yüz bulmuşken Tanrı'dan",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 18
+        },
+        {
+          "chord": "A",
+          "col": 39
+        },
+        {
+          "chord": "G",
+          "col": 56
+        },
+        {
+          "chord": "A",
+          "col": 79
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gerçi yaşardım daima yarınlardan ücra",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 13
+        },
+        {
+          "chord": "A",
+          "col": 30
+        },
+        {
+          "chord": "G",
+          "col": 47
+        },
+        {
+          "chord": "A",
+          "col": 59
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

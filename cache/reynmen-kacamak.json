@@ -1,0 +1,633 @@
+{
+  "slug": "reynmen-kacamak",
+  "artist": "Reynmen",
+  "title": "Kaçamak",
+  "key": "Ab",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Ah-ah-ah-ah",
+      "chords": [
+        {
+          "chord": "Ab",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yaşamak değil ki bu (Ah-ah-ah)",
+      "chords": [
+        {
+          "chord": "Ab",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kaçamak yaptım, bi’ dur",
+      "chords": [
+        {
+          "chord": "Ab",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Oh-ah-ah",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yaşamak değil ki bu",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "Ab",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Her yol yokuş",
+      "chords": [
+        {
+          "chord": "Bb",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sorunlar sur gibi büyük bur’da",
+      "chords": [
+        {
+          "chord": "Eb",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kaçamak yaptım, bi’ dur",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "Ab",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sen anca kur, kafanda kur",
+      "chords": [
+        {
+          "chord": "Bb",
+          "col": 9
+        },
+        {
+          "chord": "Eb",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Keşke (Keşke) ben de böyle olsam",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "Ab",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bilmeden kırılsam",
+      "chords": [
+        {
+          "chord": "Bb",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yalnız kaldım hep sanırsam",
+      "chords": [
+        {
+          "chord": "Eb",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Döndüm kendi enkazıma",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 7
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Şöhret doldu etrafıma",
+      "chords": [
+        {
+          "chord": "Ab",
+          "col": 7
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kafamda doldu tonla soru bak",
+      "chords": [
+        {
+          "chord": "Bb",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sus",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bunun sonu ne olacak?",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Düzeltmem gerek bu işi, düzeltmem gerek",
+      "chords": [
+        {
+          "chord": "Ab",
+          "col": 0
+        },
+        {
+          "chord": "Bb",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Çünkü düşersem bi’ gün",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 6
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Etmez kimse merhamet",
+      "chords": [
+        {
+          "chord": "Eb",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Tüm yanlışlara rağmen",
+      "chords": [
+        {
+          "chord": "Ab",
+          "col": 4
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hala gülümseyerek",
+      "chords": [
+        {
+          "chord": "Bb",
+          "col": 5
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ya barışmam gerek",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 3
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ya savaşmam gerek",
+      "chords": [
+        {
+          "chord": "Eb",
+          "col": 3
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yaşamak değil ki bu",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "Ab",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Her yol yokuş",
+      "chords": [
+        {
+          "chord": "Bb",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sorunlar sur gibi büyük bur’da",
+      "chords": [
+        {
+          "chord": "Eb",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kaçamak yaptım, bi’ dur",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "Ab",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sen anca kur, kafanda kur",
+      "chords": [
+        {
+          "chord": "Bb",
+          "col": 9
+        },
+        {
+          "chord": "Eb",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Früher war ich in den Streets",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "Ab",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ohne Racks, immer nur das Team dabei, ja",
+      "chords": [
+        {
+          "chord": "Bb",
+          "col": 5
+        },
+        {
+          "chord": "Eb",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Heute fahr’ ich in ‘nem Benz",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "Ab",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Und zähle Cash, aber kann mit niemandem teil’n, ja",
+      "chords": [
+        {
+          "chord": "Bb",
+          "col": 10
+        },
+        {
+          "chord": "Eb",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Früher Birthdays, Dicka, ohne Torte (Ja)",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dicka, heute fahr’ ich im Porsche (Skrrt)",
+      "chords": [
+        {
+          "chord": "Ab",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Früher wollte mir keiner zuhör’n, nein",
+      "chords": [
+        {
+          "chord": "Bb",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Heute rich-rich durch meine Worte (Rich-rich)",
+      "chords": [
+        {
+          "chord": "Eb",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Trage Céline, hab’ keine Zeit für die Fam, ja",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 6
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Was bringt mir ‘ne Patek Philippe? (Patek Philippe)",
+      "chords": [
+        {
+          "chord": "Ab",
+          "col": 4
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Frosted AP, verbrenne ein’n Stapel vom Money, ja, gib mir Benzin",
+      "chords": [
+        {
+          "chord": "Bb",
+          "col": 8
+        },
+        {
+          "chord": "Eb",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ohne mich (Ja) wärd ihr (Ja) immer noch (Ja) auf Boom Bap (Ja)",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 10
+        },
+        {
+          "chord": "Ab",
+          "col": 46
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Feature nicht Wu-Tang (Future)",
+      "chords": [
+        {
+          "chord": "Bb",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Stay High, Dicka, Crew-Chain (Stay High)",
+      "chords": [
+        {
+          "chord": "Eb",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ja, es war ein long way (Long way), long way",
+      "chords": [
+        {
+          "chord": "Ab",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ja, ich acker’ all day (All day), all day (Ja)",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yaşamak değil ki bu",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "Ab",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Her yol yokuş",
+      "chords": [
+        {
+          "chord": "Bb",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sorunlar sur gibi büyük bur’da",
+      "chords": [
+        {
+          "chord": "Eb",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kaçamak yaptım, bi’ dur",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "Ab",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sen anca kur, kafanda kur",
+      "chords": [
+        {
+          "chord": "Bb",
+          "col": 10
+        },
+        {
+          "chord": "Eb",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

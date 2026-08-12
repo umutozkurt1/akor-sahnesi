@@ -1,0 +1,119 @@
+{
+  "slug": "emel-sayin-mavi-boncuk",
+  "artist": "Emel Sayın",
+  "title": "Mavi Boncuk",
+  "key": "D",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Şu dünyada sevgi büyük ihtiyaç",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Herkes sevmeye sevilmeye muhtaç",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Herkesle dost ol herkesle arkadaş",
+      "chords": [
+        {
+          "chord": "Bb",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 44
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ömrümüz geçiyor bak yavaş yavaş",
+      "chords": [
+        {
+          "chord": "Bb",
+          "col": 44
+        },
+        {
+          "chord": "Dm",
+          "col": 52
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Onda bunda şundadır, şunda bunda ondadır",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "Bb",
+          "col": 19
+        },
+        {
+          "chord": "A",
+          "col": 34
+        },
+        {
+          "chord": "Dm",
+          "col": 56
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Mavi boncuk kimdeyse, benim gönlüm ondadır",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "Bb",
+          "col": 20
+        },
+        {
+          "chord": "A",
+          "col": 36
+        },
+        {
+          "chord": "Dm",
+          "col": 61
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

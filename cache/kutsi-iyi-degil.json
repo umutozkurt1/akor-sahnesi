@@ -1,0 +1,156 @@
+{
+  "slug": "kutsi-iyi-degil",
+  "artist": "Kutsi",
+  "title": "iyi değil",
+  "key": "E",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Zaman bile çare olamadı, seni bu kadar görmemek iyi değil",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Elimden gelen her şeyi yaptım unutamadım seni iyi değil",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 51
+        },
+        {
+          "chord": "C",
+          "col": 71
+        },
+        {
+          "chord": "Em",
+          "col": 78
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hakkını verdin ayrılığın helal sana",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 56
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Seni deli gibi sevmişim yazık bana",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 41
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir rüyaya bağlı kalmışım ama Artık sen de uykundan uyansana",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 38
+        },
+        {
+          "chord": "Am7",
+          "col": 54
+        },
+        {
+          "chord": "Am",
+          "col": 70
+        },
+        {
+          "chord": "Em",
+          "col": 91
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sensiz de hayat güzelmiş, ağlamaya hiç değmezmiş",
+      "chords": [
+        {
+          "chord": "Em7",
+          "col": 0
+        },
+        {
+          "chord": "Am7",
+          "col": 41
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yazık oldu yıllarımıza",
+      "chords": [
+        {
+          "chord": "Bm7",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Senden tek bir isteğim var, her ne şart olursa olsun",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 44
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Adımı bile hatırlama",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

@@ -1,0 +1,149 @@
+{
+  "slug": "oguzhan-koc-sen-kendi-haline-yan",
+  "artist": "Oğuzhan Koç",
+  "title": "Sen Kendi Haline Yan",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Umutlarım gitti birer birer,",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 1
+        },
+        {
+          "chord": "C#",
+          "col": 8
+        },
+        {
+          "chord": "Cm",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hayallerim gitti birer birer,",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 5
+        },
+        {
+          "chord": "C#",
+          "col": 12
+        },
+        {
+          "chord": "Cm",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gidişin bitişim ne olur gitme,",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 3
+        },
+        {
+          "chord": "C#",
+          "col": 12
+        },
+        {
+          "chord": "D#",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Beni benle çaresiz bırakma...",
+      "chords": [
+        {
+          "chord": "C#",
+          "col": 6
+        },
+        {
+          "chord": "A#m",
+          "col": 15
+        },
+        {
+          "chord": "Cm",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yan yüreğim yan,",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Acısıyla parçalan,",
+      "chords": [
+        {
+          "chord": "C#",
+          "col": 1
+        },
+        {
+          "chord": "A#m",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yan kimin umrunda,",
+      "chords": [
+        {
+          "chord": "C#",
+          "col": 0
+        },
+        {
+          "chord": "A#m",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sen kendi haline yan.",
+      "chords": [
+        {
+          "chord": "C#",
+          "col": 2
+        },
+        {
+          "chord": "D#",
+          "col": 9
+        },
+        {
+          "chord": "Cm",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

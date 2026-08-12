@@ -1,0 +1,109 @@
+{
+  "slug": "erdal-guney-gul-bakislim",
+  "artist": "Erdal Güney",
+  "title": "Gül Bakışlım",
+  "key": "C",
+  "capo": 0,
+  "rhythm": "A-A-A-Y-Y-A-Y-Y-A-Y-A-Y",
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Gül teninden oyalanıp süzül de gel",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gül bakışlım göz yaşların silip de gel",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yarim sızlar yalnızlığı bilip de gel",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gül bakışlım gel",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ay büyüdü gecelerce seni beklerim",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ak gerdanda gül kokulu tenin özlerim",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Çare bilmez dertlerimle yolun gözlerim",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gül kokuşlum(bakışlım) gel",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

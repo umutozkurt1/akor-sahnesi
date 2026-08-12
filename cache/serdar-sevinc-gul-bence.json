@@ -1,0 +1,126 @@
+{
+  "slug": "serdar-sevinc-gul-bence",
+  "artist": "Serdar Sevinc",
+  "title": "Gül Bence",
+  "key": "F",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Bu aralar durgunum ,",
+      "chords": [
+        {
+          "chord": "Fm7",
+          "col": 0
+        },
+        {
+          "chord": "Cm7",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Nedensiz yorgunum ,",
+      "chords": [
+        {
+          "chord": "Fm7",
+          "col": 0
+        },
+        {
+          "chord": "Cm7",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Üzgünüm adını unuttum         )",
+      "chords": [
+        {
+          "chord": "Fm7",
+          "col": 0
+        },
+        {
+          "chord": "Cm7",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "O yüzden bu kadar suskunum    )",
+      "chords": [
+        {
+          "chord": "A#m",
+          "col": 9
+        },
+        {
+          "chord": "Cm7",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ben giderken sen üzülme  )",
+      "chords": [
+        {
+          "chord": "Fm7",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hatalıydım ben sence!    )",
+      "chords": [
+        {
+          "chord": "Cm7",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "A#m                         2",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ağlanacak bu haline      )",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yana yana gül bence      )",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 9
+        },
+        {
+          "chord": "A#m",
+          "col": 12
+        },
+        {
+          "chord": "Cm7",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

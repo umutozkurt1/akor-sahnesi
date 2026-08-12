@@ -1,0 +1,189 @@
+{
+  "slug": "hepsi-olmaz-oglan",
+  "artist": "Hepsi",
+  "title": "Olmaz Oğlan",
+  "key": "Ab",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Amanın da amanın kim gelmiş eski sevgilim gelmiş",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 42
+        },
+        {
+          "chord": "G",
+          "col": 52
+        },
+        {
+          "chord": "Am",
+          "col": 73
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sütü sıcak içmiş belli gezmiş görmüş öğrenmiş",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 30
+        },
+        {
+          "chord": "G",
+          "col": 36
+        },
+        {
+          "chord": "Am",
+          "col": 61
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Tok evin aç kedisi aferinin delisi ben seni nazlatamam",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 55
+        },
+        {
+          "chord": "Am",
+          "col": 71
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bulunur yenileri ağa takılır biri ben seni fazlatamam",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 54
+        },
+        {
+          "chord": "Am",
+          "col": 71
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İyi kötü hoşsun hala buralarda harcanma",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 28
+        },
+        {
+          "chord": "G",
+          "col": 33
+        },
+        {
+          "chord": "Am",
+          "col": 56
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İyi kötü hoşsun hala buralarda paslanma",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 27
+        },
+        {
+          "chord": "G",
+          "col": 33
+        },
+        {
+          "chord": "Am",
+          "col": 56
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hiç bana bakma olmaz oğlan sen kendine ısmarlan",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 41
+        },
+        {
+          "chord": "G",
+          "col": 48
+        },
+        {
+          "chord": "Am",
+          "col": 73
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hiç bana bakma olmaz oğlan başkasına yuvarlan",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 41
+        },
+        {
+          "chord": "G",
+          "col": 49
+        },
+        {
+          "chord": "Am",
+          "col": 68
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

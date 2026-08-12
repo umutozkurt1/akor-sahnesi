@@ -1,0 +1,165 @@
+{
+  "slug": "kubilay-karca-karalim",
+  "artist": "Kubilay Karça",
+  "title": "Karalım",
+  "key": "Eb",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Gel, ne olursun gel",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hasretin her yerde, bekletme bu sefer",
+      "chords": [
+        {
+          "chord": "Bbm",
+          "col": 15
+        },
+        {
+          "chord": "Cm",
+          "col": 57
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Aşk, yüreğimde aşk",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Özlemin her yerde, özletme bu sefer",
+      "chords": [
+        {
+          "chord": "Bbm",
+          "col": 15
+        },
+        {
+          "chord": "Cm",
+          "col": 54
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kar gibi düştün üstüme, Güneş eritir sandım",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 14
+        },
+        {
+          "chord": "Cm",
+          "col": 55
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Oysa ben Ay'dan gece diye korkardım",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 16
+        },
+        {
+          "chord": "Cm",
+          "col": 44
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bana \"Güneş'im\" derdin, yetinemedim",
+      "chords": [
+        {
+          "chord": "Db",
+          "col": 17
+        },
+        {
+          "chord": "Cm",
+          "col": 59
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Karalım, karalım",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Db",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Esmer güzelim, yaralım",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 12
+        },
+        {
+          "chord": "Db",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dön, gel, benim ol, benim ol",
+      "chords": [
+        {
+          "chord": "Bbm",
+          "col": 16
+        },
+        {
+          "chord": "Cm",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gitme, ne olur, beni terk etme",
+      "chords": [
+        {
+          "chord": "Bbm",
+          "col": 12
+        },
+        {
+          "chord": "Cm",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

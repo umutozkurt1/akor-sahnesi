@@ -1,0 +1,751 @@
+{
+  "slug": "imagine-dragons-wrecked",
+  "artist": "Imagine Dragons",
+  "title": "Wrecked",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "İntro :",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Eb",
+          "col": 3
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "     Days  pass by and my eyes stay dry, and I think  that I'm okay",
+      "chords": [
+        {
+          "chord": "Bb",
+          "col": 0
+        },
+        {
+          "chord": "Ab",
+          "col": 3
+        },
+        {
+          "chord": "Cm",
+          "col": 9
+        },
+        {
+          "chord": "Eb",
+          "col": 52
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "'Till I find  myself in conversation fading away",
+      "chords": [
+        {
+          "chord": "Bb",
+          "col": 12
+        },
+        {
+          "chord": "Ab",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "The way  you smile, the way you walk, the time  you took",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 7
+        },
+        {
+          "chord": "Eb",
+          "col": 46
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "To teach me all that you  had taught",
+      "chords": [
+        {
+          "chord": "Bb",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Tell me, how  am I supposed to move on?",
+      "chords": [
+        {
+          "chord": "Ab",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  These days I'm becoming everything that I hate",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Eb",
+          "col": 44
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Wishing you were around but now it's too late",
+      "chords": [
+        {
+          "chord": "Bb",
+          "col": 41
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "My mind is a place that I can't escape your ghost",
+      "chords": [
+        {
+          "chord": "Ab",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  Sometimes I wish  that I could wish it all away",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Eb",
+          "col": 18
+        },
+        {
+          "chord": "Bb",
+          "col": 46
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "One more rainy day without you",
+      "chords": [
+        {
+          "chord": "Ab",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  Sometimes I wish  that I could see you one more day",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Eb",
+          "col": 18
+        },
+        {
+          "chord": "Bb",
+          "col": 50
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "One more rainy day",
+      "chords": [
+        {
+          "chord": "Ab",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Oh, I'm a wreck without you here",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  Yeah, I'm a wreck since you've been gone",
+      "chords": [
+        {
+          "chord": "Eb",
+          "col": 0
+        },
+        {
+          "chord": "Bb",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  I've tried to put this all behind  me",
+      "chords": [
+        {
+          "chord": "Ab",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 16
+        },
+        {
+          "chord": "Eb",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I think I was wrecked all along",
+      "chords": [
+        {
+          "chord": "Bb",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  Yeah, I'm a wreck",
+      "chords": [
+        {
+          "chord": "Ab",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "They say that the time will heal it, the pain  will go away",
+      "chords": [
+        {
+          "chord": "Eb",
+          "col": 45
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But everything, it reminds me of you and it comes in waves",
+      "chords": [
+        {
+          "chord": "Bb",
+          "col": 4
+        },
+        {
+          "chord": "Ab",
+          "col": 44
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "The way  you laugh when your shoulders shook, the time  you took",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 7
+        },
+        {
+          "chord": "Eb",
+          "col": 54
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "To teach me all that you  had taught",
+      "chords": [
+        {
+          "chord": "Bb",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Tell me, how  am I supposed to move on?",
+      "chords": [
+        {
+          "chord": "Ab",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  These days I'm becoming everything that I hate",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Eb",
+          "col": 44
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Wishing you were around but now it's too late",
+      "chords": [
+        {
+          "chord": "Bb",
+          "col": 41
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "My mind is a place that I can't escape your ghost",
+      "chords": [
+        {
+          "chord": "Ab",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  Sometimes I wish  that I could wish it all away",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Eb",
+          "col": 18
+        },
+        {
+          "chord": "Bb",
+          "col": 46
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "One more rainy day without you",
+      "chords": [
+        {
+          "chord": "Ab",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  Sometimes I wish  that I could see you one more day",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Eb",
+          "col": 18
+        },
+        {
+          "chord": "Bb",
+          "col": 50
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "One more rainy day",
+      "chords": [
+        {
+          "chord": "Ab",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Oh, I'm a wreck without you here",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  Yeah, I'm a wreck since you've been gone",
+      "chords": [
+        {
+          "chord": "Eb",
+          "col": 0
+        },
+        {
+          "chord": "Bb",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  I've tried to put this all behind  me",
+      "chords": [
+        {
+          "chord": "Ab",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 16
+        },
+        {
+          "chord": "Eb",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I think I was wrecked all along",
+      "chords": [
+        {
+          "chord": "Bb",
+          "col": 14
+        },
+        {
+          "chord": "Ab",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  These days when I'm on the brink of the edge",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Eb",
+          "col": 46
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I remember the words that you said",
+      "chords": [
+        {
+          "chord": "Bb",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Remember the life you led",
+      "chords": [
+        {
+          "chord": "Ab",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  You'd say, \"Oh, suck it all up, don't get stuck in the mud",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Eb",
+          "col": 44
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Thinkin' of things that you should have done",
+      "chords": [
+        {
+          "chord": "Bb",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'll see you again, my loved one\"",
+      "chords": [
+        {
+          "chord": "Ab",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "        I'll see you again, my loved  one",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Eb",
+          "col": 3
+        },
+        {
+          "chord": "Bb",
+          "col": 6
+        },
+        {
+          "chord": "Ab",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yeah, I'm a wreck",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "     I'll see you again, my loved  one",
+      "chords": [
+        {
+          "chord": "Eb",
+          "col": 0
+        },
+        {
+          "chord": "Bb",
+          "col": 3
+        },
+        {
+          "chord": "Ab",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yeah, I'm a wreck without you here",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  Yeah, I'm a wreck since you've been gone",
+      "chords": [
+        {
+          "chord": "Eb",
+          "col": 0
+        },
+        {
+          "chord": "Bb",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  I've tried to put this all behind  me",
+      "chords": [
+        {
+          "chord": "Ab",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 16
+        },
+        {
+          "chord": "Eb",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I think I was wrecked all along",
+      "chords": [
+        {
+          "chord": "Bb",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  Yeah, I'm a wreck",
+      "chords": [
+        {
+          "chord": "Ab",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sometimes I wish  that I could wish it all away",
+      "chords": [
+        {
+          "chord": "Eb",
+          "col": 16
+        },
+        {
+          "chord": "Bb",
+          "col": 44
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "One more rainy day without you",
+      "chords": [
+        {
+          "chord": "Ab",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  Sometimes I wish  that I could see you one more day",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Eb",
+          "col": 18
+        },
+        {
+          "chord": "Bb",
+          "col": 50
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "One more rainy day",
+      "chords": [
+        {
+          "chord": "Ab",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

@@ -1,0 +1,121 @@
+{
+  "slug": "sancak-gelmen-yetmez",
+  "artist": "Sancak",
+  "title": "Gelmen Yetmez",
+  "key": "Bb",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "O kadar kolaysa gömsünler beni topraklara",
+      "chords": [
+        {
+          "chord": "Bbm",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Suya düşen her hayalim benziyor dökülen yapraklara",
+      "chords": [
+        {
+          "chord": "Gb",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sonbaharım, kışım olsan da gel gönül muhtaç sana",
+      "chords": [
+        {
+          "chord": "Bbm",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sesini duyar duymaz sağırım tüm insanlara",
+      "chords": [
+        {
+          "chord": "Ebm",
+          "col": 15
+        },
+        {
+          "chord": "F",
+          "col": 47
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bana şimdi nefesin lazım başucumdaki resmin yetmez",
+      "chords": [
+        {
+          "chord": "Bbm",
+          "col": 10
+        },
+        {
+          "chord": "Fm",
+          "col": 57
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bana o günkü hevesin lazım aklımdaki gülüşün yetmez",
+      "chords": [
+        {
+          "chord": "Bbm",
+          "col": 7
+        },
+        {
+          "chord": "Fm",
+          "col": 55
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kimlerden yara aldın ya da sen kimi sardın söyle",
+      "chords": [
+        {
+          "chord": "Gb",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 34
+        },
+        {
+          "chord": "Ebm",
+          "col": 70
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sadece (Öylece) gelmen yetmez ah",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

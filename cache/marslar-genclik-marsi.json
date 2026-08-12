@@ -1,0 +1,173 @@
+{
+  "slug": "marslar-genclik-marsi",
+  "artist": "Marşlar",
+  "title": "Gençlik Marşı",
+  "key": "D",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Dağ başını duman almış, gümüş dere durmaz akar",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 33
+        },
+        {
+          "chord": "Em",
+          "col": 46
+        },
+        {
+          "chord": "A",
+          "col": 59
+        },
+        {
+          "chord": "D",
+          "col": 75
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Güneş ufuktan şimdi doğar, yürüyelim arkadaşlar",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 37
+        },
+        {
+          "chord": "Em",
+          "col": 51
+        },
+        {
+          "chord": "A",
+          "col": 75
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sesimizi yer gök su dinlesin, sert adımlarla her yer inlesin",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 76
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sesimizi yer gök su dinlesin, sert adımlarla her yer inlesin, inlesin",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 59
+        },
+        {
+          "chord": "D",
+          "col": 96
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bu gök deniz nerede var, nerede bu dağlar taşlar",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 33
+        },
+        {
+          "chord": "Em",
+          "col": 44
+        },
+        {
+          "chord": "A",
+          "col": 57
+        },
+        {
+          "chord": "D",
+          "col": 74
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bu ağaçlar güzel kuşlar, yürüyelim arkadaşlar",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 30
+        },
+        {
+          "chord": "Em",
+          "col": 44
+        },
+        {
+          "chord": "A",
+          "col": 68
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sesimizi yer gök su dinlesin, sert adımlarla her yer inlesin",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 76
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sesimizi yer gök su dinlesin, sert adımlarla her yer inlesin, inlesin",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 59
+        },
+        {
+          "chord": "D",
+          "col": 96
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

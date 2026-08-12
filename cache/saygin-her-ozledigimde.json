@@ -1,0 +1,200 @@
+{
+  "slug": "saygin-her-ozledigimde",
+  "artist": "Saygın",
+  "title": "Her Özlediğimde",
+  "key": "D",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Adımlarımızın saklı olduğu o sokaklar",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 24
+        },
+        {
+          "chord": "F#m",
+          "col": 54
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sis gibi çöküyor içime, bu akşam da anılar",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 6
+        },
+        {
+          "chord": "A",
+          "col": 24
+        },
+        {
+          "chord": "F#m",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Aynadaki o adam benim, ama yalancı bahar bu mevsim",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yaşanmışlıklarım gibi, soluduğum hava da nemli",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 1
+        },
+        {
+          "chord": "E",
+          "col": 37
+        },
+        {
+          "chord": "Bm",
+          "col": 49
+        },
+        {
+          "chord": "A",
+          "col": 61
+        },
+        {
+          "chord": "Bm",
+          "col": 68
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İstanbul gibi..",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Desinler deli giye, desinler küskün diye",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 12
+        },
+        {
+          "chord": "E",
+          "col": 28
+        },
+        {
+          "chord": "F#m",
+          "col": 45
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kanar bu kalbim, senin o her gülüşüne",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 21
+        },
+        {
+          "chord": "D",
+          "col": 31
+        },
+        {
+          "chord": "E",
+          "col": 42
+        },
+        {
+          "chord": "F#m",
+          "col": 48
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Desinler deli giye, desinler suskun diye",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 12
+        },
+        {
+          "chord": "E",
+          "col": 28
+        },
+        {
+          "chord": "F#m",
+          "col": 45
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Tutuklu hayallerim, Ankara'yı her özlediğimde..",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 12
+        },
+        {
+          "chord": "E",
+          "col": 28
+        },
+        {
+          "chord": "F#m",
+          "col": 45
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

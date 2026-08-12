@@ -1,0 +1,152 @@
+{
+  "slug": "sertab-erener-ruya",
+  "artist": "Sertab Erener",
+  "title": "Rüya",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Değmeyin feryadıma, figanıma değmeyin",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 25
+        },
+        {
+          "chord": "Dm",
+          "col": 40
+        },
+        {
+          "chord": "Am",
+          "col": 55
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Eğer sevda bu demekse, ben vazgeçtim beni sevmeyin",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 30
+        },
+        {
+          "chord": "Dm",
+          "col": 52
+        },
+        {
+          "chord": "Am",
+          "col": 73
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Garipliğim kader değil, geçici gülmeyin",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 12
+        },
+        {
+          "chord": "Dm",
+          "col": 31
+        },
+        {
+          "chord": "Am",
+          "col": 38
+        },
+        {
+          "chord": "Em",
+          "col": 50
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bu kışta efkarlıyım, bahara Allah kerim",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 27
+        },
+        {
+          "chord": "Em",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hadi yüreğim ha gayret, hele sıkı dur hele sabret",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Başını eğme dik tut, bu bir rüyaydı farzet",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hadi yüreğim ha gayret, hele sıkı dur hele sabret",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Başını eğme dik tut, bu bir rüyaydı farzet",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hadi, hadi yüreğim ha gayret",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

@@ -1,0 +1,630 @@
+{
+  "slug": "kate-walsh-your-song",
+  "artist": "Kate Walsh",
+  "title": "Your Song",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Giriş: A A  A A (  )",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Haven’t you heard I’m stuck on a verse",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 12
+        },
+        {
+          "chord": "A",
+          "col": 22
+        },
+        {
+          "chord": "A",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I’m stuck on a boy who fills me joy",
+      "chords": [
+        {
+          "chord": "Dsus4",
+          "col": 0
+        },
+        {
+          "chord": "Dsus4",
+          "col": 12
+        },
+        {
+          "chord": "Dsus4",
+          "col": 21
+        },
+        {
+          "chord": "Dsus4",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I knew I was wrong to jump straight on into",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 11
+        },
+        {
+          "chord": "A",
+          "col": 20
+        },
+        {
+          "chord": "A",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "This picture so pretty but he is so pretty to me",
+      "chords": [
+        {
+          "chord": "Dsus4",
+          "col": 0
+        },
+        {
+          "chord": "Dsus4",
+          "col": 12
+        },
+        {
+          "chord": "Dsus4",
+          "col": 24
+        },
+        {
+          "chord": "Dsus4",
+          "col": 34
+        },
+        {
+          "chord": "A",
+          "col": 45
+        },
+        {
+          "chord": "A",
+          "col": 48
+        },
+        {
+          "chord": "A",
+          "col": 51
+        },
+        {
+          "chord": "A",
+          "col": 53
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And he doesn’t know just how far I would go",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 11
+        },
+        {
+          "chord": "A",
+          "col": 25
+        },
+        {
+          "chord": "A",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Just to kiss him, he doesn’t know how I pine",
+      "chords": [
+        {
+          "chord": "Dsus4",
+          "col": 3
+        },
+        {
+          "chord": "Dsus4",
+          "col": 9
+        },
+        {
+          "chord": "Dsus4",
+          "col": 15
+        },
+        {
+          "chord": "Dsus4",
+          "col": 27
+        },
+        {
+          "chord": "A",
+          "col": 39
+        },
+        {
+          "chord": "A",
+          "col": 44
+        },
+        {
+          "chord": "A",
+          "col": 47
+        },
+        {
+          "chord": "A",
+          "col": 49
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "So I’ll make whirlpools and watch him sparkle",
+      "chords": [
+        {
+          "chord": "Dsus4",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And we’ll make love make magic",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "F#m7",
+          "col": 7
+        },
+        {
+          "chord": "Bm7",
+          "col": 13
+        },
+        {
+          "chord": "E",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 2
+        },
+        {
+          "chord": "A",
+          "col": 5
+        },
+        {
+          "chord": "A",
+          "col": 7
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And haven’t you heard I’ve fallen headfirst",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 12
+        },
+        {
+          "chord": "A",
+          "col": 23
+        },
+        {
+          "chord": "A",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And he loves me so we’re two in a row",
+      "chords": [
+        {
+          "chord": "Dsus4",
+          "col": 0
+        },
+        {
+          "chord": "Dsus4",
+          "col": 13
+        },
+        {
+          "chord": "Dsus4",
+          "col": 23
+        },
+        {
+          "chord": "Dsus4",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "just look in his eyes they’re blue as the skies are",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 12
+        },
+        {
+          "chord": "A",
+          "col": 25
+        },
+        {
+          "chord": "A",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Picture so pretty but he is so pretty to me",
+      "chords": [
+        {
+          "chord": "Dsus4",
+          "col": 0
+        },
+        {
+          "chord": "Dsus4",
+          "col": 12
+        },
+        {
+          "chord": "Dsus4",
+          "col": 24
+        },
+        {
+          "chord": "Dsus4",
+          "col": 34
+        },
+        {
+          "chord": "A",
+          "col": 45
+        },
+        {
+          "chord": "A",
+          "col": 47
+        },
+        {
+          "chord": "A",
+          "col": 50
+        },
+        {
+          "chord": "A",
+          "col": 52
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "So I’ll make whirlpools and watch him sparkle",
+      "chords": [
+        {
+          "chord": "Dsus4",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And we’ll make love make magic",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "F#m7",
+          "col": 7
+        },
+        {
+          "chord": "Bm7",
+          "col": 13
+        },
+        {
+          "chord": "E",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 2
+        },
+        {
+          "chord": "A",
+          "col": 5
+        },
+        {
+          "chord": "A",
+          "col": 7
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But I   couldn’t tell you",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "F#m7",
+          "col": 5
+        },
+        {
+          "chord": "Bm7",
+          "col": 15
+        },
+        {
+          "chord": "Bm7",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Just how long it   takes you",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "F#m7",
+          "col": 5
+        },
+        {
+          "chord": "Bm7",
+          "col": 16
+        },
+        {
+          "chord": "Bm7",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Cause words don’t make",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 1
+        },
+        {
+          "chord": "F#m7",
+          "col": 8
+        },
+        {
+          "chord": "Dsus4",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "What I make with him",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 2
+        },
+        {
+          "chord": "A",
+          "col": 12
+        },
+        {
+          "chord": "A",
+          "col": 16
+        },
+        {
+          "chord": "A",
+          "col": 19
+        },
+        {
+          "chord": "A",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 2
+        },
+        {
+          "chord": "A",
+          "col": 5
+        },
+        {
+          "chord": "A",
+          "col": 7
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Haven’t you heard I’m stuck on a verse",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 12
+        },
+        {
+          "chord": "A",
+          "col": 22
+        },
+        {
+          "chord": "A",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I’m stuck on a boy who fills me with joy",
+      "chords": [
+        {
+          "chord": "Dsus4",
+          "col": 0
+        },
+        {
+          "chord": "Dsus4",
+          "col": 12
+        },
+        {
+          "chord": "Dsus4",
+          "col": 21
+        },
+        {
+          "chord": "Dsus4",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I knew I was wrong to jump straight on into",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 11
+        },
+        {
+          "chord": "A",
+          "col": 20
+        },
+        {
+          "chord": "A",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "This picture so pretty but he is so pretty to me",
+      "chords": [
+        {
+          "chord": "Dsus4",
+          "col": 0
+        },
+        {
+          "chord": "Dsus4",
+          "col": 12
+        },
+        {
+          "chord": "Dsus4",
+          "col": 24
+        },
+        {
+          "chord": "Dsus4",
+          "col": 34
+        },
+        {
+          "chord": "A",
+          "col": 45
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

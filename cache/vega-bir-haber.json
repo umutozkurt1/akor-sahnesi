@@ -1,0 +1,241 @@
+{
+  "slug": "vega-bir-haber",
+  "artist": "Vega",
+  "title": "Bir Haber",
+  "key": "B",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Sarılmayı isterdim çok, dokunmayı sana",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gel, bul beni",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 8
+        },
+        {
+          "chord": "F#",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Anlatmayı isterdim çok, açılmayı sana",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gel bul beni",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 7
+        },
+        {
+          "chord": "F#",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dolaşırdı adımlarım birbirine seni görünce",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 8
+        },
+        {
+          "chord": "F#",
+          "col": 21
+        },
+        {
+          "chord": "Bm",
+          "col": 37
+        },
+        {
+          "chord": "D",
+          "col": 55
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Öyle emindim ki, çıldırdığımı bildiğine, bildiğine",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 11
+        },
+        {
+          "chord": "F#",
+          "col": 29
+        },
+        {
+          "chord": "Bm",
+          "col": 51
+        },
+        {
+          "chord": "G",
+          "col": 65
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Karışırdı kelimeler hep birbirine seni görünce",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 6
+        },
+        {
+          "chord": "F#",
+          "col": 22
+        },
+        {
+          "chord": "Bm",
+          "col": 42
+        },
+        {
+          "chord": "D",
+          "col": 60
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Öyle emindim ki, çıldırdığımı bildiğine, bildiğine",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 11
+        },
+        {
+          "chord": "F#",
+          "col": 29
+        },
+        {
+          "chord": "Bm",
+          "col": 51
+        },
+        {
+          "chord": "G",
+          "col": 65
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yürüyordun beyoğlu'nda aşkımızdan bihaberdin",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "F#",
+          "col": 20
+        },
+        {
+          "chord": "Bm",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yürüyordun sen yolundan, aşkımızdan bihaberdin",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "F#",
+          "col": 19
+        },
+        {
+          "chord": "Bm",
+          "col": 44
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ölüyordum ben yolunda, öldüğümden bihaberdin",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "F#",
+          "col": 17
+        },
+        {
+          "chord": "Bm",
+          "col": 39
+        },
+        {
+          "chord": "D",
+          "col": 58
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Eriyorum karşında, yerinde olsam nasıl öperdim",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "F#",
+          "col": 16
+        },
+        {
+          "chord": "Bm",
+          "col": 34
+        },
+        {
+          "chord": "G",
+          "col": 55
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

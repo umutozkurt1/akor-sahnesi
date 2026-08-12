@@ -1,0 +1,150 @@
+{
+  "slug": "sertab-erener-sessiz-gemi",
+  "artist": "Sertab Erener",
+  "title": "Sessiz Gemi",
+  "key": "G",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Artık demir almak günü gelmişse zamandan",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 61
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Meçhule giden bir gemi kalkar bu limandan",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 65
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hiç yolcusu yokmuş gibi sessizce alır yol",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 62
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sallanmaz o kalkışta ne mendil ne de bir kol",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 67
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir çok giden, memnun ki yerinden",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Çok seneler geçti çok seneler geçti",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dönen yok seferinden",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Biçare gönüller ne giden son gemidir bu",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 53
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hicranlı hayatın ne de son matemidir bu",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 65
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dünyada sevilmiş ve seven nafile bekler",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 61
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bilmez ki giden sevgililer dönmeyecekler",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 64
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

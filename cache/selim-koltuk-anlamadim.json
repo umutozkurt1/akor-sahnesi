@@ -1,0 +1,198 @@
+{
+  "slug": "selim-koltuk-anlamadim",
+  "artist": "Selim Koltuk",
+  "title": "Anlamadım",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Intro:",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 4
+        },
+        {
+          "chord": "Bbm",
+          "col": 7
+        },
+        {
+          "chord": "Cm",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "bugüne kadar yaşadığım normal bir hayat gibi geldi",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 16
+        },
+        {
+          "chord": "Bbm",
+          "col": 42
+        },
+        {
+          "chord": "Cm",
+          "col": 73
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "koştum yanına geldim birden yazın değişti gittin aniden",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 18
+        },
+        {
+          "chord": "Bbm",
+          "col": 37
+        },
+        {
+          "chord": "Cm",
+          "col": 57
+        },
+        {
+          "chord": "Fm",
+          "col": 76
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "gitme dedim gittin bana bakmadın",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 17
+        },
+        {
+          "chord": "Bbm",
+          "col": 46
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "sustun söyledin döndün konuşmadın",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 22
+        },
+        {
+          "chord": "Fm",
+          "col": 56
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "kaçtın gittin yanımda kalmadın",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 15
+        },
+        {
+          "chord": "Bbm",
+          "col": 44
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "herşeyi anladımda bir seni anlamadım",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 22
+        },
+        {
+          "chord": "Fm",
+          "col": 57
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "benim kadar seninde canın yandımı anlamadım",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 17
+        },
+        {
+          "chord": "Bbm",
+          "col": 37
+        },
+        {
+          "chord": "Cm",
+          "col": 67
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "yarını olmayan bir savaşın ortasında sende kaldın mı anlamadım",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 16
+        },
+        {
+          "chord": "Bbm",
+          "col": 48
+        },
+        {
+          "chord": "Cm",
+          "col": 75
+        },
+        {
+          "chord": "Fm",
+          "col": 92
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

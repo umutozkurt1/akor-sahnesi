@@ -1,0 +1,149 @@
+{
+  "slug": "gulsah-tutuncu-hazan-vakti",
+  "artist": "Gülşah Tütüncü",
+  "title": "Hazan Vakti",
+  "key": "B",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Yalnız gece bir duvar gibi,",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir bilmece gel çık içinden,",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 4
+        },
+        {
+          "chord": "Em",
+          "col": 21
+        },
+        {
+          "chord": "Bm",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sessiz sedasız uyanıyor,",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 1
+        },
+        {
+          "chord": "A",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Anlamıyor içimdeki hislerden,",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 4
+        },
+        {
+          "chord": "Em",
+          "col": 20
+        },
+        {
+          "chord": "Bm",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yine mi hazan vakti geliyor gizliden,",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 8
+        },
+        {
+          "chord": "A",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sessizce vuruyor diplerden,",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 1
+        },
+        {
+          "chord": "Em",
+          "col": 18
+        },
+        {
+          "chord": "Bm",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yine mi seher vakti geliyor inceden,",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 8
+        },
+        {
+          "chord": "A",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Tek tek sırlar çıkıyor içinden",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 1
+        },
+        {
+          "chord": "Em",
+          "col": 24
+        },
+        {
+          "chord": "Bm",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

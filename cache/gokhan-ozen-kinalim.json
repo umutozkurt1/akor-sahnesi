@@ -1,0 +1,168 @@
+{
+  "slug": "gokhan-ozen-kinalim",
+  "artist": "Gökhan Özen",
+  "title": "Kınalım",
+  "key": "C#",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Göz görmeyince gönül katlanır,",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 21
+        },
+        {
+          "chord": "C#m",
+          "col": 41
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ben sensizliğe neden katlanamıyorum?",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 21
+        },
+        {
+          "chord": "E",
+          "col": 40
+        },
+        {
+          "chord": "D",
+          "col": 48
+        },
+        {
+          "chord": "C#m",
+          "col": 54
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Her şey yerinde kalbimden başka,",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 24
+        },
+        {
+          "chord": "C#m",
+          "col": 49
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kalbimi sana verdim alamıyorum",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 18
+        },
+        {
+          "chord": "E",
+          "col": 38
+        },
+        {
+          "chord": "D",
+          "col": 43
+        },
+        {
+          "chord": "C#m",
+          "col": 48
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ah benim kınalım yüreği yaralım",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kimlerle gülülelim avunalım?",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Olmaya sen karası bahtımın",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 20
+        },
+        {
+          "chord": "Bm",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yeminler mi yeminler mi ediyorsun",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 19
+        },
+        {
+          "chord": "D",
+          "col": 36
+        },
+        {
+          "chord": "C#m",
+          "col": 47
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sen buna sevmek mi diyorsun?",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 8
+        },
+        {
+          "chord": "D",
+          "col": 28
+        },
+        {
+          "chord": "C#m",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

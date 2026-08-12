@@ -1,0 +1,187 @@
+{
+  "slug": "mavi-isiklar-helvaci-helva",
+  "artist": "Mavi Işıklar",
+  "title": "Helvacı Helva",
+  "key": "G",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Helvacıya gidelim.",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Biraz helva yiyelim.",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Tanrı bize sıhhat vermiş, biz ona şükredelim.",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 11
+        },
+        {
+          "chord": "Fm",
+          "col": 26
+        },
+        {
+          "chord": "G",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Tanrı bize sıhhat vermiş, biz ona şükredelim.",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Helvacı helva yapar helvasına bal katar.",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "G#",
+          "col": 20
+        },
+        {
+          "chord": "G",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Helvanın çok türlüsü var.",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İnsan ona can atar.",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Helvacı, helva.",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Şeker lokumlu helva.",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kendir tohumlu helva.",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Helvacı, helva.",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Şeker lokumlu helva.",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kendir tohumlu helva.",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Helvaa",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Helvaaaa",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Helvaaaaaa",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Helvaaaaaaaa",
+      "chords": [],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

@@ -1,0 +1,118 @@
+{
+  "slug": "grup-gundogarken-bin-defa-dedim",
+  "artist": "Grup Gündoğarken",
+  "title": "Bin Defa Dedim",
+  "key": "E",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Bin defa dedim sana bana bunu yapma",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bırakıp habersiz gitme  ne olursun",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 51
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "...   uyanmak zor sensiz sabahlara",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "açılan çiçeklerim bile senle solsun",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 4
+        },
+        {
+          "chord": "Em",
+          "col": 44
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "bin defa dedim",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 11
+        },
+        {
+          "chord": "Em",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "beni böyle  koyma Allah’tan kork bitsin bu kabus",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 57
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sensizlik    yalnızlıktan da zor  o da Allah’a mahsus",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 17
+        },
+        {
+          "chord": "B",
+          "col": 64
+        },
+        {
+          "chord": "Em",
+          "col": 77
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

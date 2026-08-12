@@ -1,0 +1,185 @@
+{
+  "slug": "mustafa-sandal-gonlunu-gun-edeni",
+  "artist": "Mustafa Sandal",
+  "title": "Gönlünü Gün Edeni",
+  "key": "B",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Anlamaz aşk acısından, gidene dert olmaz",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 27
+        },
+        {
+          "chord": "Em",
+          "col": 39
+        },
+        {
+          "chord": "F#m",
+          "col": 54
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dağ dağa kütsümü, hiçkimse nedenini sormaz",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 34
+        },
+        {
+          "chord": "Em",
+          "col": 53
+        },
+        {
+          "chord": "F#",
+          "col": 68
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Anlayamaz, yeni bir aşkı kabul edemez",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 19
+        },
+        {
+          "chord": "A",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir kalbi iki kişi paylaşamaz, unutmadı daha yeni gideni",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 29
+        },
+        {
+          "chord": "Em",
+          "col": 44
+        },
+        {
+          "chord": "F#",
+          "col": 71
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Anlatamaz, yeni bir aşkı kabul edemez",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 19
+        },
+        {
+          "chord": "A",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir kalbi iki kişi paylaşamaz, unutmadı onu terkedeni",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 29
+        },
+        {
+          "chord": "Em",
+          "col": 44
+        },
+        {
+          "chord": "F#",
+          "col": 69
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gönlünü gün edeni sevmez sevda, ister hep onu üzeni",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 35
+        },
+        {
+          "chord": "A",
+          "col": 58
+        },
+        {
+          "chord": "F#m",
+          "col": 79
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Her ona kucak açan olmaz fayda, bekler hep onu sileni",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 35
+        },
+        {
+          "chord": "F#",
+          "col": 58
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

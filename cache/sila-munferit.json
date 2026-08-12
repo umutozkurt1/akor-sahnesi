@@ -1,0 +1,227 @@
+{
+  "slug": "sila-munferit",
+  "artist": "Sıla",
+  "title": "Münferit",
+  "key": "C#",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Bulutlu bir hayatta bir gece gizliden terk edip aşk",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "Dmaj7",
+          "col": 58
+        },
+        {
+          "chord": "C#m",
+          "col": 68
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "O münferit benimdir haksızda değilimdir dön bir bak",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "Dmaj7",
+          "col": 69
+        },
+        {
+          "chord": "C#m",
+          "col": 79
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Güneş yağar yağmur açar     burda dağlar avucumda",
+      "chords": [
+        {
+          "chord": "C#m7",
+          "col": 0
+        },
+        {
+          "chord": "Dmaj7",
+          "col": 6
+        },
+        {
+          "chord": "E",
+          "col": 14
+        },
+        {
+          "chord": "C#m7",
+          "col": 23
+        },
+        {
+          "chord": "F#m",
+          "col": 30
+        },
+        {
+          "chord": "C#m",
+          "col": 55
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Denizle yıldız aynı boyda",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 14
+        },
+        {
+          "chord": "C#m",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gel yer var soframda külüstür hatıralar",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 13
+        },
+        {
+          "chord": "C#m",
+          "col": 22
+        },
+        {
+          "chord": "Bm",
+          "col": 45
+        },
+        {
+          "chord": "C#m",
+          "col": 51
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Tam biri toplanır biri ağlar",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "Dmaj7",
+          "col": 15
+        },
+        {
+          "chord": "E",
+          "col": 24
+        },
+        {
+          "chord": "Dmaj7",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Koy ver dünyanın yükünü hep mi biz çekicez",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "Dmaj7",
+          "col": 19
+        },
+        {
+          "chord": "C#m",
+          "col": 33
+        },
+        {
+          "chord": "Dmaj7",
+          "col": 54
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yalnızlığın alfabesini hep mi biz sökücez",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "Dmaj7",
+          "col": 18
+        },
+        {
+          "chord": "Bm",
+          "col": 27
+        },
+        {
+          "chord": "C#m",
+          "col": 52
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dolunay tövbe gibi siyahta dövme gibi vay ki ne vay",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "Dmaj7",
+          "col": 64
+        },
+        {
+          "chord": "C#m",
+          "col": 75
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Başıma dikilmiş bir zebani yok ki desin kalk iş var",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "Dmaj7",
+          "col": 57
+        },
+        {
+          "chord": "C#m",
+          "col": 70
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

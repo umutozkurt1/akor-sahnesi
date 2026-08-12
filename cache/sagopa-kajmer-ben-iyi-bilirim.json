@@ -1,0 +1,67 @@
+{
+  "slug": "sagopa-kajmer-ben-iyi-bilirim",
+  "artist": "Sagopa Kajmer",
+  "title": "Ben İyi Bilirim",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Sana dememiş miydim? Böğrüne keskin bıçaklar,",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Saplayanlar da var.",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ben iyi bilirim,",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kim kime dost, kime düşman,",
+      "chords": [
+        {
+          "chord": "Db",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kabuk bile tutamayan yaraların hatrına susmam.",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 44
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

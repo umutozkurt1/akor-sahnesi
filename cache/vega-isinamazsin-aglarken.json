@@ -1,0 +1,231 @@
+{
+  "slug": "vega-isinamazsin-aglarken",
+  "artist": "Vega",
+  "title": "İsınamazsın Ağlarken",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "C2",
+          "col": 0
+        },
+        {
+          "chord": "D#maj7",
+          "col": 3
+        },
+        {
+          "chord": "C2",
+          "col": 10
+        },
+        {
+          "chord": "Cm",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dudaklarımdan dur da dinle bu defa",
+      "chords": [
+        {
+          "chord": "C2",
+          "col": 0
+        },
+        {
+          "chord": "D#maj7",
+          "col": 7
+        },
+        {
+          "chord": "C2",
+          "col": 19
+        },
+        {
+          "chord": "Cm",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gözlerimden Anlamıyorsan",
+      "chords": [
+        {
+          "chord": "C2",
+          "col": 0
+        },
+        {
+          "chord": "D#maj7",
+          "col": 9
+        },
+        {
+          "chord": "C2",
+          "col": 20
+        },
+        {
+          "chord": "Cm",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gitmiyorki zorla",
+      "chords": [
+        {
+          "chord": "C2",
+          "col": 0
+        },
+        {
+          "chord": "D#maj7",
+          "col": 9
+        },
+        {
+          "chord": "C2",
+          "col": 18
+        },
+        {
+          "chord": "Cm",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Duyuyor musun? görüyor musun beni hala?",
+      "chords": [
+        {
+          "chord": "C2",
+          "col": 0
+        },
+        {
+          "chord": "D#maj7",
+          "col": 7
+        },
+        {
+          "chord": "C2",
+          "col": 19
+        },
+        {
+          "chord": "Cm",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bu deli oyunda, bu deli oyunda oynuyor muyuz hala?",
+      "chords": [
+        {
+          "chord": "C2",
+          "col": 0
+        },
+        {
+          "chord": "D#maj7",
+          "col": 7
+        },
+        {
+          "chord": "C2",
+          "col": 20
+        },
+        {
+          "chord": "Fm",
+          "col": 30
+        },
+        {
+          "chord": "Gm",
+          "col": 45
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gerçekler soğuk olur sen ağlarken",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 11
+        },
+        {
+          "chord": "A#",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Delirsen bile dirensen bile bu kadar",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 20
+        },
+        {
+          "chord": "Ab",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gerçewkler bu kadar hain... üzülme",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 11
+        },
+        {
+          "chord": "A#",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Isınamazsın ağlarken",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 17
+        },
+        {
+          "chord": "Ab",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

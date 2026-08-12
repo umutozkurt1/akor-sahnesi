@@ -1,0 +1,111 @@
+{
+  "slug": "nev-kapildim-gidiyorum",
+  "artist": "Nev",
+  "title": "Kapıldım Gidiyorum",
+  "key": "B",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Kapıldım Gidiyorum",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kapıldım gidiyorum bahtımın rüzgârına",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ey ufuklar diyorum yolculuk var yarına",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 16
+        },
+        {
+          "chord": "Cm7",
+          "col": 20
+        },
+        {
+          "chord": "Am",
+          "col": 30
+        },
+        {
+          "chord": "B",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ayrılık görünmüşken yâr tutmuyor elimden",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 14
+        },
+        {
+          "chord": "Cm7",
+          "col": 26
+        },
+        {
+          "chord": "B",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Misafirim bugün ben gurbet akşamlarına",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 18
+        },
+        {
+          "chord": "Cm7",
+          "col": 20
+        },
+        {
+          "chord": "Am",
+          "col": 33
+        },
+        {
+          "chord": "B",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

@@ -1,0 +1,159 @@
+{
+  "slug": "gokhan-ozen-aramazsan-arama",
+  "artist": "Gökhan Özen",
+  "title": "Aramazsan Arama",
+  "key": "A#",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Seninle aşk dilinden, konuşmayı bilemedik",
+      "chords": [
+        {
+          "chord": "A#m",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 17
+        },
+        {
+          "chord": "G#m",
+          "col": 29
+        },
+        {
+          "chord": "A#m",
+          "col": 45
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Şu üç günlük dünyada, bir gün yüzü göremedik",
+      "chords": [
+        {
+          "chord": "A#m",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 19
+        },
+        {
+          "chord": "G#m",
+          "col": 35
+        },
+        {
+          "chord": "A#m",
+          "col": 54
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bu ayrılık sebebini",
+      "chords": [
+        {
+          "chord": "C#",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Boşver benden bilsinler",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Demek çabuk unutursun",
+      "chords": [
+        {
+          "chord": "D#m",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Senin huyunu sevsinler",
+      "chords": [
+        {
+          "chord": "C#",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Aramazsan arama aramazsan arama",
+      "chords": [
+        {
+          "chord": "A#m",
+          "col": 24
+        },
+        {
+          "chord": "C#",
+          "col": 29
+        },
+        {
+          "chord": "A#m",
+          "col": 45
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Aramazsan arama yar aramazsan arama",
+      "chords": [
+        {
+          "chord": "D#m",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Zaten merhem olmazsın sen",
+      "chords": [
+        {
+          "chord": "C#",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Benim gönül yarama",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 0
+        },
+        {
+          "chord": "A#m",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

@@ -1,0 +1,666 @@
+{
+  "slug": "guns-n-roses-patience",
+  "artist": "Guns 'n Roses",
+  "title": "Patience",
+  "key": "E",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Intro:",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 2
+        },
+        {
+          "chord": "C#",
+          "col": 4
+        },
+        {
+          "chord": "F#",
+          "col": 7
+        },
+        {
+          "chord": "E",
+          "col": 13
+        },
+        {
+          "chord": "B",
+          "col": 15
+        },
+        {
+          "chord": "C#",
+          "col": 17
+        },
+        {
+          "chord": "F#",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 2
+        },
+        {
+          "chord": "E",
+          "col": 4
+        },
+        {
+          "chord": "G#m",
+          "col": 6
+        },
+        {
+          "chord": "E",
+          "col": 12
+        },
+        {
+          "chord": "B",
+          "col": 14
+        },
+        {
+          "chord": "F#",
+          "col": 16
+        },
+        {
+          "chord": "F#",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Shed a tear cause I'm missing you",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'm still allright to smile",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 4
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Girl I think about you every day now",
+      "chords": [
+        {
+          "chord": "C#",
+          "col": 0
+        },
+        {
+          "chord": "F#",
+          "col": 30
+        },
+        {
+          "chord": "D",
+          "col": 35
+        },
+        {
+          "chord": "F#",
+          "col": 41
+        },
+        {
+          "chord": "F#2",
+          "col": 45
+        },
+        {
+          "chord": "F#",
+          "col": 50
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Was a time when I was unsure",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But you set my mind at ease",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "There is no doubt you're in my heart now",
+      "chords": [
+        {
+          "chord": "C#",
+          "col": 0
+        },
+        {
+          "chord": "F#",
+          "col": 33
+        },
+        {
+          "chord": "D",
+          "col": 38
+        },
+        {
+          "chord": "F#",
+          "col": 42
+        },
+        {
+          "chord": "F#2",
+          "col": 46
+        },
+        {
+          "chord": "F#",
+          "col": 51
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sad woman take it slow",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "It will work itself out fine",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 8
+        },
+        {
+          "chord": "G#m",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "All we need is just a little patience",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 15
+        },
+        {
+          "chord": "F#",
+          "col": 31
+        },
+        {
+          "chord": "D",
+          "col": 36
+        },
+        {
+          "chord": "F#",
+          "col": 40
+        },
+        {
+          "chord": "F#2",
+          "col": 44
+        },
+        {
+          "chord": "F#",
+          "col": 49
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sad sugar make it slow",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "It'll come together fine",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 3
+        },
+        {
+          "chord": "G#m",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "All we need is just a little patience",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 15
+        },
+        {
+          "chord": "F#",
+          "col": 31
+        },
+        {
+          "chord": "D",
+          "col": 36
+        },
+        {
+          "chord": "F#",
+          "col": 40
+        },
+        {
+          "chord": "F#2",
+          "col": 44
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I sit here on the stairs",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Cause I'd rather be alone",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "If I can't have you right now",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'll wait dear",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sometimes I get so tense",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But I can't speed up the time",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You know love, there's one more thing",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "To consider",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sad woman take it slow",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And things will be just fine",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You and I'll just use a little patience",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sad sugar take the time",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Cause the lights are shining bright",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You and I got what it takes to make it",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "We won't fake it",
+      "chords": [
+        {
+          "chord": "F#",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 5
+        },
+        {
+          "chord": "F#",
+          "col": 9
+        },
+        {
+          "chord": "F#2",
+          "col": 13
+        },
+        {
+          "chord": "F#",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ahh and never break it",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 4
+        },
+        {
+          "chord": "F#",
+          "col": 8
+        },
+        {
+          "chord": "F#2",
+          "col": 12
+        },
+        {
+          "chord": "F#",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Cause I can't take it",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 4
+        },
+        {
+          "chord": "F#",
+          "col": 8
+        },
+        {
+          "chord": "F#2",
+          "col": 12
+        },
+        {
+          "chord": "F#",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Solo",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "F#",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 5
+        },
+        {
+          "chord": "F#",
+          "col": 9
+        },
+        {
+          "chord": "B",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "A little patience",
+      "chords": [
+        {
+          "chord": "F#",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yeah Yeah",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 7
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'll be walking the streets tonight",
+      "chords": [
+        {
+          "chord": "F#",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Just trying to get it right",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "It's hard to see with so many around",
+      "chords": [
+        {
+          "chord": "F#",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You know I don't like bein' stuck in a crowd",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And the streets don't change but baby the name",
+      "chords": [
+        {
+          "chord": "F#",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I ain't got time for the pain",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Cause I need you",
+      "chords": [
+        {
+          "chord": "F#",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yeah Yeah well, I need you",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Uh I need you",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 6
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Woh I need you",
+      "chords": [
+        {
+          "chord": "G#m",
+          "col": 6
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Uhh this time",
+      "chords": [
+        {
+          "chord": "F#",
+          "col": 9
+        },
+        {
+          "chord": "B",
+          "col": 15
+        },
+        {
+          "chord": "F#",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

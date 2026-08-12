@@ -1,0 +1,195 @@
+{
+  "slug": "baha-ask-acisi",
+  "artist": "Baha",
+  "title": "Aşk Acısı",
+  "key": "F",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Bugün, ayrılığın ilk günü",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Db",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Daha şimdiden seni çok özledim",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 12
+        },
+        {
+          "chord": "Db",
+          "col": 33
+        },
+        {
+          "chord": "Cm",
+          "col": 42
+        },
+        {
+          "chord": "Eb",
+          "col": 47
+        },
+        {
+          "chord": "Db",
+          "col": 51
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gönül, çekmeyince anlamıyor",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Db",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ne yazık sonunu göremedim",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 8
+        },
+        {
+          "chord": "Db",
+          "col": 20
+        },
+        {
+          "chord": "Cm",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ben hangi savaştan galip çıktım ki",
+      "chords": [
+        {
+          "chord": "Ab",
+          "col": 0
+        },
+        {
+          "chord": "Bbm",
+          "col": 6
+        },
+        {
+          "chord": "Eb",
+          "col": 24
+        },
+        {
+          "chord": "Fm",
+          "col": 43
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ben birkaç anıyla mutlu olmam ki",
+      "chords": [
+        {
+          "chord": "Ab",
+          "col": 0
+        },
+        {
+          "chord": "Bbm",
+          "col": 6
+        },
+        {
+          "chord": "Eb",
+          "col": 19
+        },
+        {
+          "chord": "Fm",
+          "col": 40
+        },
+        {
+          "chord": "Cm",
+          "col": 44
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yaşamayan nasıl bilsin",
+      "chords": [
+        {
+          "chord": "Bbm",
+          "col": 11
+        },
+        {
+          "chord": "Eb",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Alt tarafı aşk desin",
+      "chords": [
+        {
+          "chord": "Ab",
+          "col": 13
+        },
+        {
+          "chord": "Db",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Allah kimseye vermesin",
+      "chords": [
+        {
+          "chord": "Bbm",
+          "col": 13
+        },
+        {
+          "chord": "Db",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Aşk acısı",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

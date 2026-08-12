@@ -1,0 +1,170 @@
+{
+  "slug": "grup-gam-kimden-geldiysen-don-geri",
+  "artist": "Grup Gam",
+  "title": "Kimden Geldiysen Dön Geri",
+  "key": "E",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Onca zaman çabaladım unutmak için seni",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 1
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kuruttum acıları daha yeni",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 2
+        },
+        {
+          "chord": "D",
+          "col": 10
+        },
+        {
+          "chord": "Em",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bazen ölmek istedim bazen de öldürmek",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Toparladım ama kendimi",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 2
+        },
+        {
+          "chord": "D",
+          "col": 13
+        },
+        {
+          "chord": "Em",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Şimdi gelmiş aşk diyorsun",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Aşk’ı gömdüm derde",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 6
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir kaç yaşla beraber kıvrandım gecelerce",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 8
+        },
+        {
+          "chord": "D",
+          "col": 30
+        },
+        {
+          "chord": "C",
+          "col": 32
+        },
+        {
+          "chord": "Em",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ben affedemem seni",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bak ben öldüm sen diri",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Seviyorsam da gururum var",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kimden geldiysen dön geri",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 7
+        },
+        {
+          "chord": "C",
+          "col": 14
+        },
+        {
+          "chord": "Em",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

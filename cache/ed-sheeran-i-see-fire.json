@@ -1,0 +1,845 @@
+{
+  "slug": "ed-sheeran-i-see-fire",
+  "artist": "Ed Sheeran",
+  "title": "I See Fire",
+  "key": "D",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "If this is to end in fire",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 14
+        },
+        {
+          "chord": "F",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Then we should all burn together",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 15
+        },
+        {
+          "chord": "A#",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Watch the flames climb high into the night",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 10
+        },
+        {
+          "chord": "F",
+          "col": 23
+        },
+        {
+          "chord": "C",
+          "col": 28
+        },
+        {
+          "chord": "Gm7",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Calling out father, oh, stand by and we will",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 8
+        },
+        {
+          "chord": "F",
+          "col": 14
+        },
+        {
+          "chord": "C",
+          "col": 24
+        },
+        {
+          "chord": "A#",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Watch the flames burn auburn on the mountain side",
+      "chords": [
+        {
+          "chord": "Gm7",
+          "col": 10
+        },
+        {
+          "chord": "Am",
+          "col": 22
+        },
+        {
+          "chord": "A#",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And if we should die tonight",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 17
+        },
+        {
+          "chord": "F",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Then we should all die together",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 15
+        },
+        {
+          "chord": "A#",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Raise a glass of wine for the last time",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 8
+        },
+        {
+          "chord": "F",
+          "col": 17
+        },
+        {
+          "chord": "C",
+          "col": 21
+        },
+        {
+          "chord": "Gm7",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Calling out father, oh, prepare as we will",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 8
+        },
+        {
+          "chord": "F",
+          "col": 14
+        },
+        {
+          "chord": "C",
+          "col": 24
+        },
+        {
+          "chord": "A#",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Watch the flames burn auburn on the mountain side",
+      "chords": [
+        {
+          "chord": "Gm7",
+          "col": 10
+        },
+        {
+          "chord": "Am",
+          "col": 22
+        },
+        {
+          "chord": "A#",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Desolation comes upon the sky",
+      "chords": [
+        {
+          "chord": "Gm7",
+          "col": 4
+        },
+        {
+          "chord": "Am",
+          "col": 11
+        },
+        {
+          "chord": "A#",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Now I see fire,  inside the mountain",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 10
+        },
+        {
+          "chord": "A#",
+          "col": 14
+        },
+        {
+          "chord": "C",
+          "col": 17
+        },
+        {
+          "chord": "Dm",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I see fire,  burning the trees",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 6
+        },
+        {
+          "chord": "A#",
+          "col": 10
+        },
+        {
+          "chord": "C",
+          "col": 13
+        },
+        {
+          "chord": "Dm",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And I see fire,  hollowing souls",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 10
+        },
+        {
+          "chord": "A#",
+          "col": 14
+        },
+        {
+          "chord": "C",
+          "col": 17
+        },
+        {
+          "chord": "Dm",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I see fire,  blood in the breeze",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 6
+        },
+        {
+          "chord": "A#",
+          "col": 10
+        },
+        {
+          "chord": "C",
+          "col": 13
+        },
+        {
+          "chord": "Gm7",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And I hope that you'll remember me",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Oh, should my people fall",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 14
+        },
+        {
+          "chord": "F",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Then surely I'll do the same",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 12
+        },
+        {
+          "chord": "A#",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Confined in mountain halls",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 12
+        },
+        {
+          "chord": "F",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "We got too close to the flame",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 11
+        },
+        {
+          "chord": "Gm7",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Calling out father, oh, hold fast and we will",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 8
+        },
+        {
+          "chord": "F",
+          "col": 15
+        },
+        {
+          "chord": "C",
+          "col": 24
+        },
+        {
+          "chord": "A#",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Watch the flames burn auburn on the mountain side",
+      "chords": [
+        {
+          "chord": "Gm7",
+          "col": 10
+        },
+        {
+          "chord": "Am",
+          "col": 22
+        },
+        {
+          "chord": "A#",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Desolation comes upon the sky",
+      "chords": [
+        {
+          "chord": "Gm7",
+          "col": 4
+        },
+        {
+          "chord": "Am",
+          "col": 11
+        },
+        {
+          "chord": "A#",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Now I see fire,  inside the mountain",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 10
+        },
+        {
+          "chord": "A#",
+          "col": 14
+        },
+        {
+          "chord": "C",
+          "col": 17
+        },
+        {
+          "chord": "Dm",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I see fire,  burning the trees",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 6
+        },
+        {
+          "chord": "A#",
+          "col": 10
+        },
+        {
+          "chord": "C",
+          "col": 13
+        },
+        {
+          "chord": "Dm",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And I see fire,  hollowing souls",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 10
+        },
+        {
+          "chord": "A#",
+          "col": 14
+        },
+        {
+          "chord": "C",
+          "col": 17
+        },
+        {
+          "chord": "Dm",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I see fire,  blood in the breeze",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 6
+        },
+        {
+          "chord": "A#",
+          "col": 10
+        },
+        {
+          "chord": "C",
+          "col": 13
+        },
+        {
+          "chord": "Gm7",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And I hope that you'll remember me",
+      "chords": [
+        {
+          "chord": "Gm7",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And if the night is burning",
+      "chords": [
+        {
+          "chord": "Gm7",
+          "col": 11
+        },
+        {
+          "chord": "Dm",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I will cover my eyes",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 7
+        },
+        {
+          "chord": "A#",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "For if the dark returns then",
+      "chords": [
+        {
+          "chord": "Gm7",
+          "col": 11
+        },
+        {
+          "chord": "Dm",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   D             CMaj7",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "My brothers will die",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And as the sky is falling down",
+      "chords": [
+        {
+          "chord": "Gm7",
+          "col": 11
+        },
+        {
+          "chord": "Dm",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "It crashed into this lonely town",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 11
+        },
+        {
+          "chord": "A#",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And with that shadow upon the ground",
+      "chords": [
+        {
+          "chord": "Gm7",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I hear my people screaming out",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 2
+        },
+        {
+          "chord": "A#",
+          "col": 10
+        },
+        {
+          "chord": "C",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Now I see fire,  inside the mountain",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 10
+        },
+        {
+          "chord": "A#",
+          "col": 14
+        },
+        {
+          "chord": "C",
+          "col": 17
+        },
+        {
+          "chord": "Dm",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I see fire,  burning the trees",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 6
+        },
+        {
+          "chord": "A#",
+          "col": 10
+        },
+        {
+          "chord": "C",
+          "col": 13
+        },
+        {
+          "chord": "Dm",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And I see fire,  hollowing souls",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 10
+        },
+        {
+          "chord": "A#",
+          "col": 14
+        },
+        {
+          "chord": "C",
+          "col": 17
+        },
+        {
+          "chord": "Dm",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I see fire,  blood in the breeze",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 6
+        },
+        {
+          "chord": "A#",
+          "col": 10
+        },
+        {
+          "chord": "C",
+          "col": 13
+        },
+        {
+          "chord": "Dm",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I see fire, oh you know I saw a city burning (fire)",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 6
+        },
+        {
+          "chord": "A#",
+          "col": 19
+        },
+        {
+          "chord": "C",
+          "col": 37
+        },
+        {
+          "chord": "Dm",
+          "col": 46
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I see fire, feel the heat upon my skin (fire)",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 6
+        },
+        {
+          "chord": "A#",
+          "col": 17
+        },
+        {
+          "chord": "C",
+          "col": 34
+        },
+        {
+          "chord": "Dm",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And I see fire, oooooo (fire)",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 10
+        },
+        {
+          "chord": "A#",
+          "col": 15
+        },
+        {
+          "chord": "C",
+          "col": 23
+        },
+        {
+          "chord": "Dm",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And I see fire burn auburn on the mountain side",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 10
+        },
+        {
+          "chord": "A#",
+          "col": 20
+        },
+        {
+          "chord": "C",
+          "col": 34
+        },
+        {
+          "chord": "Dm",
+          "col": 43
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

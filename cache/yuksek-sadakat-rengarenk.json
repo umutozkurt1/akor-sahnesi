@@ -1,0 +1,227 @@
+{
+  "slug": "yuksek-sadakat-rengarenk",
+  "artist": "Yüksek Sadakat",
+  "title": "Rengarenk",
+  "key": "E",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "bir   gün sen uyurken çiçeklerle gelecekler",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 4
+        },
+        {
+          "chord": "Bm",
+          "col": 16
+        },
+        {
+          "chord": "F#m",
+          "col": 20
+        },
+        {
+          "chord": "D",
+          "col": 45
+        },
+        {
+          "chord": "E",
+          "col": 53
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "sevmişsen güzeli ne ala        onlarda seni sevecekler",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 6
+        },
+        {
+          "chord": "Bm",
+          "col": 21
+        },
+        {
+          "chord": "F#m",
+          "col": 25
+        },
+        {
+          "chord": "Bm",
+          "col": 32
+        },
+        {
+          "chord": "F#m",
+          "col": 36
+        },
+        {
+          "chord": "D",
+          "col": 51
+        },
+        {
+          "chord": "E",
+          "col": 59
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "sövmüşsen güzele haşa boyun büküp küsecekler",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 13
+        },
+        {
+          "chord": "F#m",
+          "col": 35
+        },
+        {
+          "chord": "Bm",
+          "col": 44
+        },
+        {
+          "chord": "F#m",
+          "col": 51
+        },
+        {
+          "chord": "D",
+          "col": 60
+        },
+        {
+          "chord": "E",
+          "col": 69
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "bir gün sen uyurken seni almadan dönecekler",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 21
+        },
+        {
+          "chord": "D",
+          "col": 34
+        },
+        {
+          "chord": "E",
+          "col": 61
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "kalbim rengarenk katmamış ki",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 14
+        },
+        {
+          "chord": "Dm",
+          "col": 22
+        },
+        {
+          "chord": "G",
+          "col": 26
+        },
+        {
+          "chord": "Am",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "yüzün o yüzden sararıp solmamış",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 11
+        },
+        {
+          "chord": "E",
+          "col": 42
+        },
+        {
+          "chord": "Am",
+          "col": 52
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "aşk kapını çalıp kaçmamış ki",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 11
+        },
+        {
+          "chord": "G",
+          "col": 25
+        },
+        {
+          "chord": "C",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "beklemiş ama açan olmamış",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 26
+        },
+        {
+          "chord": "Am",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "beklemiş ama diyecekler",
+      "chords": [],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

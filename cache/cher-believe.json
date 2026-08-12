@@ -1,0 +1,586 @@
+{
+  "slug": "cher-believe",
+  "artist": "Cher",
+  "title": "Believe",
+  "key": "B",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 9
+        },
+        {
+          "chord": "F#",
+          "col": 13
+        },
+        {
+          "chord": "C#m",
+          "col": 18
+        },
+        {
+          "chord": "E",
+          "col": 24
+        },
+        {
+          "chord": "B",
+          "col": 28
+        },
+        {
+          "chord": "D#m",
+          "col": 32
+        },
+        {
+          "chord": "C#m",
+          "col": 38
+        },
+        {
+          "chord": "G#m",
+          "col": 44
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "VERSG# 1:",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "No matter how hard I try",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You keep pushing me aside, I can't break through",
+      "chords": [
+        {
+          "chord": "Bmaj7",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "There's no talking to you",
+      "chords": [
+        {
+          "chord": "F#",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "It's so sad that you're leaving",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "It takes time to believe it",
+      "chords": [
+        {
+          "chord": "D#m",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But after all is said and done",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You're gonna be the lonely one",
+      "chords": [
+        {
+          "chord": "F#",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Here's the guitar line you hear",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "in the chorus:",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "E-----------------",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "B-----------------",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "G--5---4---2------",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "D-------------2---",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "A-----------------",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "E-----------------",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "CHORUS:",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "Do you believe in life after love?",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 0
+        },
+        {
+          "chord": "F#",
+          "col": 10
+        },
+        {
+          "chord": "C#m",
+          "col": 31
+        },
+        {
+          "chord": "E",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I can feel something inside me say",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 0
+        },
+        {
+          "chord": "F#",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I really don't think it's strong enough, no",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "G#m",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Do you believe in life after love?",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 0
+        },
+        {
+          "chord": "F#",
+          "col": 10
+        },
+        {
+          "chord": "C#m",
+          "col": 31
+        },
+        {
+          "chord": "E",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I can feel something inside me say",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 0
+        },
+        {
+          "chord": "F#",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I really don't think it's strong enough, no",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "G#m",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "VERSG# 2: [play like verse 1]",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "What am I supposed to do?",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sit around and wait for you, well I can't do that",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "and there's no turning back",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I need time to move on",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I need love to feel strong",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "'Cause I've got time to think it through",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "and maybe I'm too good for you",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "CHORUS: [play like first chorus]",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Do you believe in life after love?",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I can feel something inside me say",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I really don't think it's strong enough, no",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Do you believe in life after love?",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I can feel something inside me say",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I really don't think it's strong enough, no",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "BRIDGE:",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "Well I know that I'll get through this",
+      "chords": [
+        {
+          "chord": "G#m",
+          "col": 0
+        },
+        {
+          "chord": "F#",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "'Cause I know that I am strong",
+      "chords": [
+        {
+          "chord": "G#m",
+          "col": 0
+        },
+        {
+          "chord": "F#",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I don't need you anymore",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I don't need you anymore",
+      "chords": [
+        {
+          "chord": "F#",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I don't need you anymore",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "C#m",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "no I don't need you anymore",
+      "chords": [
+        {
+          "chord": "F#",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Do you believe in life after love?",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 0
+        },
+        {
+          "chord": "F#",
+          "col": 10
+        },
+        {
+          "chord": "C#m",
+          "col": 31
+        },
+        {
+          "chord": "E",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I can feel something inside me say",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 0
+        },
+        {
+          "chord": "D#m",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I really don't think it's strong enough, no",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "G#m",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "CHORUS: [play like previous choruses, then fade out]",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Do you believe in life after love?",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I can feel something inside me say",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I really don't think it's strong enough, no",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Do you believe in life after love?",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I can feel something inside me say",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I really don't think it's strong enough, no",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Do you believe in life after love?",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I can feel something inside me say",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I really don't think it's strong enough, no",
+      "chords": [],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

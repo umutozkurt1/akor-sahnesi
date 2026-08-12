@@ -1,0 +1,709 @@
+{
+  "slug": "chris-cornell-you-know-my-name",
+  "artist": "Chris Cornell",
+  "title": "You Know My Name",
+  "key": "F",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 7
+        },
+        {
+          "chord": "C#",
+          "col": 10
+        },
+        {
+          "chord": "E",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "If you take a life do you know what you'll give?",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "C#m",
+          "col": 43
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Odds are, you won't like what it is.",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "When the storm arrives, would you be seen with me?",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "C#m",
+          "col": 47
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "By the merciless eyes of deceit?",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 17
+        },
+        {
+          "chord": "C",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I've seen angels fall from blinding heights",
+      "chords": [
+        {
+          "chord": "C#",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 11
+        },
+        {
+          "chord": "Fm",
+          "col": 26
+        },
+        {
+          "chord": "D#",
+          "col": 30
+        },
+        {
+          "chord": "Dm",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But you yourself are nothing so divine",
+      "chords": [
+        {
+          "chord": "C#",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 13
+        },
+        {
+          "chord": "Fm",
+          "col": 28
+        },
+        {
+          "chord": "D#",
+          "col": 31
+        },
+        {
+          "chord": "Dm",
+          "col": 34
+        },
+        {
+          "chord": "C#",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Just next in line.",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "CHORUS",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "Arm yourself because no one else here will save you",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "C#",
+          "col": 21
+        },
+        {
+          "chord": "A#",
+          "col": 44
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "The odds will betray you",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 14
+        },
+        {
+          "chord": "C#",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And I will replace you",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You can't deny the prize it may never fulfill you",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 4
+        },
+        {
+          "chord": "C#",
+          "col": 19
+        },
+        {
+          "chord": "A#",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "It longs to kill you",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 12
+        },
+        {
+          "chord": "C#",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Are you willing to die?",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "The coldest blood runs through my veins",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You know my name",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "C#",
+          "col": 3
+        },
+        {
+          "chord": "A#",
+          "col": 6
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "If you come inside things will not be the same",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "C#m",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "When you return to the night",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And if you think you've won",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You never saw me change",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "The game that we all been playing",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 14
+        },
+        {
+          "chord": "C",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I've seen diamonds cut through harder men",
+      "chords": [
+        {
+          "chord": "C#",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 10
+        },
+        {
+          "chord": "Fm",
+          "col": 31
+        },
+        {
+          "chord": "D#",
+          "col": 34
+        },
+        {
+          "chord": "Dm",
+          "col": 39
+        },
+        {
+          "chord": "C#",
+          "col": 43
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Than you yourself",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But if you must pretend",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 11
+        },
+        {
+          "chord": "D#",
+          "col": 16
+        },
+        {
+          "chord": "Dm",
+          "col": 20
+        },
+        {
+          "chord": "C#",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You may meet your end",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "CHORUS",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "Arm yourself because no one else here will save you",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "C#",
+          "col": 21
+        },
+        {
+          "chord": "A#",
+          "col": 44
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "The odds will betray you",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 14
+        },
+        {
+          "chord": "C#",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And I will replace you",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You can't deny the prize it may never fulfill you",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 4
+        },
+        {
+          "chord": "C#",
+          "col": 19
+        },
+        {
+          "chord": "A#",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "It longs to kill you",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 12
+        },
+        {
+          "chord": "C#",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Are you willing to die?",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "The coldest blood runs through my veins",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Try to hide your hand",
+      "chords": [
+        {
+          "chord": "C#",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Forget how to feel (Forget how to feel)",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Life is gone with just a spin of the wheel (Spin of the wheel)",
+      "chords": [
+        {
+          "chord": "C#",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Arm yourself because no one else here will save you",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "C#",
+          "col": 21
+        },
+        {
+          "chord": "A#",
+          "col": 44
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "The odds will betray you",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 14
+        },
+        {
+          "chord": "C#",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And I will replace you",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You can't deny the prize it may never fulfill you",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 4
+        },
+        {
+          "chord": "C#",
+          "col": 19
+        },
+        {
+          "chord": "A#",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "It longs to kill you",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 12
+        },
+        {
+          "chord": "C#",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Are you willing to die?",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "The coldest blood runs through my veins",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You know my name",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You know my name",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You know my name",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You know my name",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You know my name",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You know my name",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You know my name",
+      "chords": [],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

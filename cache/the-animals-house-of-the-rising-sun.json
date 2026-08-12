@@ -1,0 +1,724 @@
+{
+  "slug": "the-animals-house-of-the-rising-sun",
+  "artist": "The Animals",
+  "title": "House Of The Rising Sun",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 3
+        },
+        {
+          "chord": "F",
+          "col": 6
+        },
+        {
+          "chord": "G#",
+          "col": 8
+        },
+        {
+          "chord": "Cm",
+          "col": 11
+        },
+        {
+          "chord": "G",
+          "col": 14
+        },
+        {
+          "chord": "Cm",
+          "col": 16
+        },
+        {
+          "chord": "G",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "There is a house in New Orleans,",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 6
+        },
+        {
+          "chord": "D#",
+          "col": 11
+        },
+        {
+          "chord": "F",
+          "col": 20
+        },
+        {
+          "chord": "G#",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "They call the Rising Sun,",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 6
+        },
+        {
+          "chord": "D#",
+          "col": 15
+        },
+        {
+          "chord": "G7",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "It's been the ruin of many a poor boy,",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 5
+        },
+        {
+          "chord": "D#",
+          "col": 14
+        },
+        {
+          "chord": "F",
+          "col": 22
+        },
+        {
+          "chord": "G#",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And God, I know, I'm one.",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 4
+        },
+        {
+          "chord": "G",
+          "col": 11
+        },
+        {
+          "chord": "Cm",
+          "col": 21
+        },
+        {
+          "chord": "D#",
+          "col": 27
+        },
+        {
+          "chord": "F",
+          "col": 32
+        },
+        {
+          "chord": "G#",
+          "col": 37
+        },
+        {
+          "chord": "Cm",
+          "col": 40
+        },
+        {
+          "chord": "G",
+          "col": 43
+        },
+        {
+          "chord": "Cm",
+          "col": 45
+        },
+        {
+          "chord": "G",
+          "col": 48
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "My mother was a tailor,",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 6
+        },
+        {
+          "chord": "D#",
+          "col": 11
+        },
+        {
+          "chord": "F",
+          "col": 20
+        },
+        {
+          "chord": "G#",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "She sewed my new blue jeans,",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 6
+        },
+        {
+          "chord": "D#",
+          "col": 15
+        },
+        {
+          "chord": "G7",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "My father was a gambling man,",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 5
+        },
+        {
+          "chord": "D#",
+          "col": 14
+        },
+        {
+          "chord": "F",
+          "col": 22
+        },
+        {
+          "chord": "G#",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Down in New Orleans.",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 4
+        },
+        {
+          "chord": "G",
+          "col": 11
+        },
+        {
+          "chord": "Cm",
+          "col": 21
+        },
+        {
+          "chord": "D#",
+          "col": 27
+        },
+        {
+          "chord": "F",
+          "col": 32
+        },
+        {
+          "chord": "G#",
+          "col": 37
+        },
+        {
+          "chord": "Cm",
+          "col": 40
+        },
+        {
+          "chord": "G",
+          "col": 43
+        },
+        {
+          "chord": "Cm",
+          "col": 45
+        },
+        {
+          "chord": "G",
+          "col": 48
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Now the only thing a gambler needs,",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 6
+        },
+        {
+          "chord": "D#",
+          "col": 11
+        },
+        {
+          "chord": "F",
+          "col": 20
+        },
+        {
+          "chord": "G#",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Is a suitcase and a trunk,",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 6
+        },
+        {
+          "chord": "D#",
+          "col": 15
+        },
+        {
+          "chord": "G7",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And the only time, he's satisfied, is when",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 5
+        },
+        {
+          "chord": "D#",
+          "col": 14
+        },
+        {
+          "chord": "F",
+          "col": 22
+        },
+        {
+          "chord": "G#",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "He's on a drunk",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 4
+        },
+        {
+          "chord": "G",
+          "col": 11
+        },
+        {
+          "chord": "Cm",
+          "col": 21
+        },
+        {
+          "chord": "D#",
+          "col": 27
+        },
+        {
+          "chord": "F",
+          "col": 32
+        },
+        {
+          "chord": "G#",
+          "col": 37
+        },
+        {
+          "chord": "Cm",
+          "col": 40
+        },
+        {
+          "chord": "G",
+          "col": 43
+        },
+        {
+          "chord": "Cm",
+          "col": 45
+        },
+        {
+          "chord": "G",
+          "col": 48
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Oh, mother, tell your children",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 6
+        },
+        {
+          "chord": "D#",
+          "col": 11
+        },
+        {
+          "chord": "F",
+          "col": 20
+        },
+        {
+          "chord": "G#",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Not to do what I have done",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 6
+        },
+        {
+          "chord": "D#",
+          "col": 15
+        },
+        {
+          "chord": "G7",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Spend your lives in sin and misery",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 5
+        },
+        {
+          "chord": "D#",
+          "col": 14
+        },
+        {
+          "chord": "F",
+          "col": 22
+        },
+        {
+          "chord": "G#",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "In the House of Rising Sun",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 4
+        },
+        {
+          "chord": "G",
+          "col": 11
+        },
+        {
+          "chord": "Cm",
+          "col": 21
+        },
+        {
+          "chord": "D#",
+          "col": 27
+        },
+        {
+          "chord": "F",
+          "col": 32
+        },
+        {
+          "chord": "G#",
+          "col": 37
+        },
+        {
+          "chord": "Cm",
+          "col": 40
+        },
+        {
+          "chord": "G",
+          "col": 43
+        },
+        {
+          "chord": "Cm",
+          "col": 45
+        },
+        {
+          "chord": "G",
+          "col": 48
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Well, I've  got one foot on the platform,",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 6
+        },
+        {
+          "chord": "D#",
+          "col": 11
+        },
+        {
+          "chord": "F",
+          "col": 20
+        },
+        {
+          "chord": "G#",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "The other's on the train,",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 6
+        },
+        {
+          "chord": "D#",
+          "col": 15
+        },
+        {
+          "chord": "G7",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'm going back to New Orleans,",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 5
+        },
+        {
+          "chord": "D#",
+          "col": 14
+        },
+        {
+          "chord": "F",
+          "col": 22
+        },
+        {
+          "chord": "G#",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "to wear that ball and chain.",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 4
+        },
+        {
+          "chord": "G",
+          "col": 11
+        },
+        {
+          "chord": "Cm",
+          "col": 21
+        },
+        {
+          "chord": "D#",
+          "col": 27
+        },
+        {
+          "chord": "F",
+          "col": 32
+        },
+        {
+          "chord": "G#",
+          "col": 37
+        },
+        {
+          "chord": "Cm",
+          "col": 40
+        },
+        {
+          "chord": "G",
+          "col": 43
+        },
+        {
+          "chord": "Cm",
+          "col": 45
+        },
+        {
+          "chord": "G",
+          "col": 48
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Well, there is a house in new Orleans",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 6
+        },
+        {
+          "chord": "D#",
+          "col": 11
+        },
+        {
+          "chord": "F",
+          "col": 20
+        },
+        {
+          "chord": "G#",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "They call the Rising Sun,",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 6
+        },
+        {
+          "chord": "D#",
+          "col": 15
+        },
+        {
+          "chord": "G7",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And it's been the ruin of many a poor boy,",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 5
+        },
+        {
+          "chord": "D#",
+          "col": 14
+        },
+        {
+          "chord": "F",
+          "col": 22
+        },
+        {
+          "chord": "G#",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And God I know i'm one",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 4
+        },
+        {
+          "chord": "G",
+          "col": 11
+        },
+        {
+          "chord": "Cm",
+          "col": 21
+        },
+        {
+          "chord": "D#",
+          "col": 27
+        },
+        {
+          "chord": "F",
+          "col": 32
+        },
+        {
+          "chord": "G#",
+          "col": 37
+        },
+        {
+          "chord": "Cm",
+          "col": 40
+        },
+        {
+          "chord": "G",
+          "col": 43
+        },
+        {
+          "chord": "Cm",
+          "col": 45
+        },
+        {
+          "chord": "G",
+          "col": 48
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

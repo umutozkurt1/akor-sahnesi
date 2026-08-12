@@ -1,0 +1,238 @@
+{
+  "slug": "mirkelam-yazik-gunah",
+  "artist": "Mirkelam",
+  "title": "Yazık Günah",
+  "key": "G",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "Gmaj7",
+          "col": 2
+        },
+        {
+          "chord": "A7sus4",
+          "col": 8
+        },
+        {
+          "chord": "Am",
+          "col": 15
+        },
+        {
+          "chord": "Em",
+          "col": 18
+        },
+        {
+          "chord": "Am7",
+          "col": 21
+        },
+        {
+          "chord": "D7sus4",
+          "col": 25
+        },
+        {
+          "chord": "D7",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sanki ustume kapandi senin o goz kapaklarin",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "Gmaj7",
+          "col": 13
+        },
+        {
+          "chord": "A7sus4",
+          "col": 21
+        },
+        {
+          "chord": "Am",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Seni gormek bir yana    karanliga gomuldum",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Am7",
+          "col": 15
+        },
+        {
+          "chord": "D7sus4",
+          "col": 20
+        },
+        {
+          "chord": "D7",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bilmiyorsun ah   sevmiyorsun ah",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 12
+        },
+        {
+          "chord": "D7",
+          "col": 16
+        },
+        {
+          "chord": "G",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Cektirdigin bana   yazik gunah",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 12
+        },
+        {
+          "chord": "D7",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gormuyorsun ah    bilmiyorsun ah",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 12
+        },
+        {
+          "chord": "D7",
+          "col": 16
+        },
+        {
+          "chord": "G",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Cektirdigin bana  yazik gunah",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 11
+        },
+        {
+          "chord": "D7",
+          "col": 15
+        },
+        {
+          "chord": "G",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sanki cok kolay gibi   seviyorum ayriligini",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "Gmaj7",
+          "col": 16
+        },
+        {
+          "chord": "A7sus4",
+          "col": 23
+        },
+        {
+          "chord": "Am",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yasadikca o aciyi  seni hatirliyorum",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Am7",
+          "col": 11
+        },
+        {
+          "chord": "D7sus4",
+          "col": 16
+        },
+        {
+          "chord": "D7",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Nak.",
+      "chords": [],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

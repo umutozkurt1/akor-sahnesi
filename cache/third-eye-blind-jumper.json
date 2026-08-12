@@ -1,0 +1,776 @@
+{
+  "slug": "third-eye-blind-jumper",
+  "artist": "Third Eye Blind",
+  "title": "Jumper",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "I wish you would step back from that ledge, my friend",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 17
+        },
+        {
+          "chord": "A#",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You could cut ties with all the lies, that you've been living in",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 10
+        },
+        {
+          "chord": "D#",
+          "col": 19
+        },
+        {
+          "chord": "A#",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And if you do not want to see me again",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 4
+        },
+        {
+          "chord": "D#",
+          "col": 17
+        },
+        {
+          "chord": "A#",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I would understand,   I would understand",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 13
+        },
+        {
+          "chord": "A#",
+          "col": 16
+        },
+        {
+          "chord": "F",
+          "col": 19
+        },
+        {
+          "chord": "Cm",
+          "col": 24
+        },
+        {
+          "chord": "D#",
+          "col": 37
+        },
+        {
+          "chord": "A#",
+          "col": 40
+        },
+        {
+          "chord": "F",
+          "col": 43
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "The angry boy, a bit too insane",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Icing over a secret pain",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You know you don't belong",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You're the first to fight",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You're way too loud",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You're the flash of light",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "On a burial shroud",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I know something's wrong",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Well, everyone I know has got a reason",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "To say",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Put the past away",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Wish you would step back from that ledge, my friend",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 15
+        },
+        {
+          "chord": "A#",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You could cut ties with all the lies that you've been living in",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 10
+        },
+        {
+          "chord": "D#",
+          "col": 19
+        },
+        {
+          "chord": "A#",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And if you do not want to see me again",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 5
+        },
+        {
+          "chord": "D#",
+          "col": 18
+        },
+        {
+          "chord": "A#",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I would understand,    I would understand",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 13
+        },
+        {
+          "chord": "A#",
+          "col": 16
+        },
+        {
+          "chord": "F",
+          "col": 19
+        },
+        {
+          "chord": "Cm",
+          "col": 25
+        },
+        {
+          "chord": "D#",
+          "col": 38
+        },
+        {
+          "chord": "A#",
+          "col": 41
+        },
+        {
+          "chord": "F",
+          "col": 44
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And well, he's on the table",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And he's gone to code",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And I do not think anyone knows",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "What they are doing here",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And your friends have left you",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You've been dismissed",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I never thought it would come to this",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And I, I want you to know",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 7
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Everyone's got to face down the demons",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Maybe today",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "We can put the past away",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I wish you would step back from that ledge my friend",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 17
+        },
+        {
+          "chord": "A#",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You could cut ties with all the lies, that you've been living in",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 10
+        },
+        {
+          "chord": "D#",
+          "col": 19
+        },
+        {
+          "chord": "A#",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And if you do not want to see me again",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 4
+        },
+        {
+          "chord": "D#",
+          "col": 18
+        },
+        {
+          "chord": "A#",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I would understand,    I would understand,    I would understand",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 13
+        },
+        {
+          "chord": "A#",
+          "col": 16
+        },
+        {
+          "chord": "F",
+          "col": 19
+        },
+        {
+          "chord": "Cm",
+          "col": 25
+        },
+        {
+          "chord": "D#",
+          "col": 38
+        },
+        {
+          "chord": "A#",
+          "col": 41
+        },
+        {
+          "chord": "F",
+          "col": 44
+        },
+        {
+          "chord": "Cm",
+          "col": 50
+        },
+        {
+          "chord": "D#",
+          "col": 63
+        },
+        {
+          "chord": "A#",
+          "col": 66
+        },
+        {
+          "chord": "F",
+          "col": 69
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I would understand",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I would understand",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Understand",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Can you put the past away?",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I wish you would step back from that ledge, my friend",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 17
+        },
+        {
+          "chord": "A#",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I would understand",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 13
+        },
+        {
+          "chord": "A#",
+          "col": 16
+        },
+        {
+          "chord": "F",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I wish you would step back from that ledge, my friend",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 17
+        },
+        {
+          "chord": "A#",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I would understand",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 13
+        },
+        {
+          "chord": "A#",
+          "col": 16
+        },
+        {
+          "chord": "F",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I wish you would step back from that ledge, my friend",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 17
+        },
+        {
+          "chord": "A#",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And I would understand",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 17
+        },
+        {
+          "chord": "A#",
+          "col": 20
+        },
+        {
+          "chord": "F",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I wish you would step back from that ledge, my friend",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 17
+        },
+        {
+          "chord": "A#",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I would understand",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 13
+        },
+        {
+          "chord": "A#",
+          "col": 16
+        },
+        {
+          "chord": "F",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I wish you would step back from that ledge, my friend",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 17
+        },
+        {
+          "chord": "A#",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And I would understand",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 17
+        },
+        {
+          "chord": "A#",
+          "col": 20
+        },
+        {
+          "chord": "F",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

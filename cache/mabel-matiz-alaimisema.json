@@ -1,0 +1,141 @@
+{
+  "slug": "mabel-matiz-alaimisema",
+  "artist": "Mabel Matiz",
+  "title": "Alaimisema",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Maskesini düşürme sakın o kuralın neşesi,hiç geçmez keşkesi",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 10
+        },
+        {
+          "chord": "Fm7",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "kaldı bize, bizden gacıların acısıyla baronları hoş etmesi",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 12
+        },
+        {
+          "chord": "Fm7",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "sonra,sonlardan en sonra,hem narin hem zorba, aşklardan itildik",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 39
+        },
+        {
+          "chord": "D#",
+          "col": 58
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "kanlı,terli yorganlarda, al sebzeler hormonda, çiğnemeden yutulduk",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 39
+        },
+        {
+          "chord": "D#",
+          "col": 59
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Mais la  pluie sera,alaimisema !",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 16
+        },
+        {
+          "chord": "D#",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "sen bari,dön bari kır normali  koynunda !",
+      "chords": [
+        {
+          "chord": "Gm7",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "et   la  pluie  sera, alaimisema !",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 16
+        },
+        {
+          "chord": "D#",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "sen bari,dön bari kır normalı koynunda !",
+      "chords": [
+        {
+          "chord": "Gm7",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

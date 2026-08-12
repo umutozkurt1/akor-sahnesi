@@ -1,0 +1,169 @@
+{
+  "slug": "sertab-erener-zor-kadin",
+  "artist": "Sertab Erener",
+  "title": "Zor Kadın",
+  "key": "D",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Acı bitti aşk bu defa yanıyor içim hala",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 7
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yüreğimde can buluyor her vuruşunda",
+      "chords": [
+        {
+          "chord": "Bb",
+          "col": 10
+        },
+        {
+          "chord": "A",
+          "col": 26
+        },
+        {
+          "chord": "Dm",
+          "col": 53
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bana sorma hiç o günü eriyor tenim bedenim",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gecelerce iz sürerek aşk bulunmayacak",
+      "chords": [
+        {
+          "chord": "Bb",
+          "col": 10
+        },
+        {
+          "chord": "A",
+          "col": 26
+        },
+        {
+          "chord": "Dm",
+          "col": 53
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sorma sus sorma aşkın yıllarca",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 16
+        },
+        {
+          "chord": "Gm",
+          "col": 26
+        },
+        {
+          "chord": "Dm",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hoş bir kör tuzak hey hat",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "Bb",
+          "col": 20
+        },
+        {
+          "chord": "C",
+          "col": 34
+        },
+        {
+          "chord": "A",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yapma çok yıkıldım zor avundum",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "Bb",
+          "col": 3
+        },
+        {
+          "chord": "C",
+          "col": 7
+        },
+        {
+          "chord": "Bb",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Affet       zor kadındım gel unuttum gel",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "Bb",
+          "col": 4
+        },
+        {
+          "chord": "C",
+          "col": 10
+        },
+        {
+          "chord": "Bb",
+          "col": 31
+        },
+        {
+          "chord": "A",
+          "col": 52
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

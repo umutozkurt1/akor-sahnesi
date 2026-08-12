@@ -1,0 +1,125 @@
+{
+  "slug": "model-dagilmak-istiyorum",
+  "artist": "Model",
+  "title": "Dağılmak İstiyorum",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "İçimden bir masalın külleri uçtu bu gece",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 63
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yorgun kırgın kahramanı gel gör ki yalnız tek hece",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 85
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Çok değil kısa zaman önce, bir masal yeşerdi içimde",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 84
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sen her gün yalanlar söyledikçe, can verdi kalbimde sessizce",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 103
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yüzüm gözüm şişene kadar ağlamak istiyorum",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 41
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İçip sabaha kadar bayılmak istiyorum",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Caddelerde dolanıp bağırmak istiyorum",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 25
+        },
+        {
+          "chord": "Am",
+          "col": 59
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Müsadenle bu gece dağılmak istiyorum",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

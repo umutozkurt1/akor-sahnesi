@@ -1,0 +1,662 @@
+{
+  "slug": "alanis-morissette-ironic",
+  "artist": "Alanis Morissette",
+  "title": "Ironic",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Intro",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Cmaj7",
+          "col": 0
+        },
+        {
+          "chord": "D6add11",
+          "col": 6
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "           An old  man   turned ninetyeight",
+      "chords": [
+        {
+          "chord": "Cmaj7",
+          "col": 0
+        },
+        {
+          "chord": "Cadd9",
+          "col": 6
+        },
+        {
+          "chord": "Gsus2",
+          "col": 18
+        },
+        {
+          "chord": "Em7",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   DF#           Gsus2    DF#             Em7",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "He won the lottery     and died the next day",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "      DF#      Gsus2       DF#          Em7",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "It's a    black fly  in your    Chardonnay",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "       DF#      Gsus2      DF#        Em7",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "It's a death row pardon two minutes too late",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "              DF# Gsus2          DF# Em7",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And isn't it ironic     don't you think",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "It's like rain on your wedding day",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 12
+        },
+        {
+          "chord": "G",
+          "col": 14
+        },
+        {
+          "chord": "D",
+          "col": 23
+        },
+        {
+          "chord": "Em",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "It's a free ride   when you've already paid",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 16
+        },
+        {
+          "chord": "G",
+          "col": 18
+        },
+        {
+          "chord": "D",
+          "col": 31
+        },
+        {
+          "chord": "Em",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "It's the good advice   that you just didn't take",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 20
+        },
+        {
+          "chord": "G",
+          "col": 22
+        },
+        {
+          "chord": "D",
+          "col": 32
+        },
+        {
+          "chord": "Em",
+          "col": 44
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "and Who would've thought, it figures",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 4
+        },
+        {
+          "chord": "C",
+          "col": 17
+        },
+        {
+          "chord": "D",
+          "col": 36
+        },
+        {
+          "chord": "Dsus4",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "    DF#        Gsus2     DF#        Em7",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Mr. Play It Safe     was afraid to fly",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "              DF# Gsus2              DF#        Em7",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "He packed his suitcase and kissed his kids goodbye",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "              DF#       Gsus2   DF#      Em7",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "He waited his whole damn life to take that flight",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "           DF#          Gsus2",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And as the plane crashed down he thought",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "       DF#            Em7",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Well, isn't this nice.",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "              DF#  Gsus2          DF# Em7",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And isn't it ironic,     don't you think",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "It's like rain on your wedding day",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 12
+        },
+        {
+          "chord": "G",
+          "col": 14
+        },
+        {
+          "chord": "D",
+          "col": 23
+        },
+        {
+          "chord": "Em",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "It's a free ride when you've already paid",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 14
+        },
+        {
+          "chord": "D",
+          "col": 29
+        },
+        {
+          "chord": "Em",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "It's the good advice   that you just didn't take",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 20
+        },
+        {
+          "chord": "G",
+          "col": 22
+        },
+        {
+          "chord": "D",
+          "col": 32
+        },
+        {
+          "chord": "Em",
+          "col": 44
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "and Who would've thought, it figures",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 4
+        },
+        {
+          "chord": "C",
+          "col": 17
+        },
+        {
+          "chord": "D",
+          "col": 36
+        },
+        {
+          "chord": "Dsus4",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Well, life has a funny way of sneaking up on       you",
+      "chords": [
+        {
+          "chord": "Cmaj7",
+          "col": 6
+        },
+        {
+          "chord": "D6add11",
+          "col": 44
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "When you think everything's okay and everything's going right",
+      "chords": [
+        {
+          "chord": "Cmaj7",
+          "col": 37
+        },
+        {
+          "chord": "Cadd9",
+          "col": 61
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And life has a funny way helping you out       when",
+      "chords": [
+        {
+          "chord": "Cmaj7",
+          "col": 4
+        },
+        {
+          "chord": "D6add11",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You think everything's gone wrong and everything blows up",
+      "chords": [
+        {
+          "chord": "Cmaj7",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "In your face",
+      "chords": [
+        {
+          "chord": "Cadd9",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  DF#    Gsus2            DF#        Em7",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "A traffic jam  when you're already late",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "    DF#   Gsus2             DF#      Em7",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "A nosmoking     sign on your cigarette break",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "          DF#         Gsus2               DF#      Em7",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "It's like ten thousand spoons when all you need is a knife",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "     DF#                  Gsus2",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "It's meeting the man of my dreams",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "           DF#                Em7",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And then meeting his beautiful wife",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "              DF#  Gsus2          DF# Em7",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And isn't it ironic,     don't you think",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "            DF#       Gsus2           DF#           Em7",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "A little too    ironic,     and yeah I really do think",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "It's like rain on your wedding day",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 12
+        },
+        {
+          "chord": "G",
+          "col": 14
+        },
+        {
+          "chord": "D",
+          "col": 23
+        },
+        {
+          "chord": "Em",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "It's a free ride when you've already paid",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 14
+        },
+        {
+          "chord": "G",
+          "col": 16
+        },
+        {
+          "chord": "D",
+          "col": 29
+        },
+        {
+          "chord": "Em",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "It's the good advice   that you just didn't take",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 20
+        },
+        {
+          "chord": "G",
+          "col": 22
+        },
+        {
+          "chord": "D",
+          "col": 32
+        },
+        {
+          "chord": "Em",
+          "col": 44
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "and Who would've thought, it figures",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 4
+        },
+        {
+          "chord": "C",
+          "col": 17
+        },
+        {
+          "chord": "D",
+          "col": 36
+        },
+        {
+          "chord": "Dsus4",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Cmaj7",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "       and you",
+      "chords": [
+        {
+          "chord": "D6add11",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "life has a funny way of sneaking up on you",
+      "chords": [
+        {
+          "chord": "Cmaj7",
+          "col": 0
+        },
+        {
+          "chord": "D6add11",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And life has a funny funny way       of helping you out",
+      "chords": [
+        {
+          "chord": "Cmaj7",
+          "col": 4
+        },
+        {
+          "chord": "D6add11",
+          "col": 30
+        },
+        {
+          "chord": "Cmaj7",
+          "col": 55
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Helping you out.",
+      "chords": [],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

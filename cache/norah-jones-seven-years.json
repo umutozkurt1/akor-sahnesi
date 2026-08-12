@@ -1,0 +1,574 @@
+{
+  "slug": "norah-jones-seven-years",
+  "artist": "Norah Jones",
+  "title": "Seven Years",
+  "key": "G",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Spinning, laughing, dancing to",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 9
+        },
+        {
+          "chord": "F#",
+          "col": 12
+        },
+        {
+          "chord": "Em",
+          "col": 23
+        },
+        {
+          "chord": "Em",
+          "col": 30
+        },
+        {
+          "chord": "D",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "her   favorite song",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 7
+        },
+        {
+          "chord": "C#",
+          "col": 11
+        },
+        {
+          "chord": "C",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "A little girl with nothing wrong",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 3
+        },
+        {
+          "chord": "G",
+          "col": 9
+        },
+        {
+          "chord": "F#",
+          "col": 12
+        },
+        {
+          "chord": "Em",
+          "col": 22
+        },
+        {
+          "chord": "D",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Is all alone",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 4
+        },
+        {
+          "chord": "G",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Eyes wide open",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 9
+        },
+        {
+          "chord": "F#",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Always hoping for the sun",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 7
+        },
+        {
+          "chord": "D",
+          "col": 11
+        },
+        {
+          "chord": "Em",
+          "col": 14
+        },
+        {
+          "chord": "C#",
+          "col": 18
+        },
+        {
+          "chord": "C",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And she'll sing her song to anyone",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 12
+        },
+        {
+          "chord": "G",
+          "col": 20
+        },
+        {
+          "chord": "F#",
+          "col": 23
+        },
+        {
+          "chord": "Em",
+          "col": 30
+        },
+        {
+          "chord": "D",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "that comes along",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 6
+        },
+        {
+          "chord": "G",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Fragile as a leaf in autumn",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 8
+        },
+        {
+          "chord": "Em",
+          "col": 22
+        },
+        {
+          "chord": "G",
+          "col": 27
+        },
+        {
+          "chord": "F#",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Just fallin' to the ground ....",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 6
+        },
+        {
+          "chord": "G",
+          "col": 13
+        },
+        {
+          "chord": "F#",
+          "col": 16
+        },
+        {
+          "chord": "Em",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Without a sound",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 3
+        },
+        {
+          "chord": "A",
+          "col": 6
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Crooked little smile on her face",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 2
+        },
+        {
+          "chord": "G",
+          "col": 8
+        },
+        {
+          "chord": "F#",
+          "col": 11
+        },
+        {
+          "chord": "Em",
+          "col": 18
+        },
+        {
+          "chord": "Em",
+          "col": 22
+        },
+        {
+          "chord": "D",
+          "col": 26
+        },
+        {
+          "chord": "Em",
+          "col": 31
+        },
+        {
+          "chord": "C#",
+          "col": 35
+        },
+        {
+          "chord": "C",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Tells a tale of grace",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 5
+        },
+        {
+          "chord": "G",
+          "col": 9
+        },
+        {
+          "chord": "F#",
+          "col": 12
+        },
+        {
+          "chord": "Em",
+          "col": 19
+        },
+        {
+          "chord": "Em",
+          "col": 24
+        },
+        {
+          "chord": "D",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "That's all her own",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 8
+        },
+        {
+          "chord": "G",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 3
+        },
+        {
+          "chord": "F#",
+          "col": 6
+        },
+        {
+          "chord": "Em",
+          "col": 10
+        },
+        {
+          "chord": "Em",
+          "col": 14
+        },
+        {
+          "chord": "D",
+          "col": 18
+        },
+        {
+          "chord": "Em",
+          "col": 22
+        },
+        {
+          "chord": "C#",
+          "col": 26
+        },
+        {
+          "chord": "C",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 3
+        },
+        {
+          "chord": "F#",
+          "col": 6
+        },
+        {
+          "chord": "Em",
+          "col": 10
+        },
+        {
+          "chord": "Em",
+          "col": 14
+        },
+        {
+          "chord": "D",
+          "col": 18
+        },
+        {
+          "chord": "C",
+          "col": 23
+        },
+        {
+          "chord": "G",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Chorus",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "Spinning, laughing, dancing to her favorite song",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 2
+        },
+        {
+          "chord": "G",
+          "col": 5
+        },
+        {
+          "chord": "F#",
+          "col": 8
+        },
+        {
+          "chord": "Em",
+          "col": 17
+        },
+        {
+          "chord": "Em",
+          "col": 23
+        },
+        {
+          "chord": "D",
+          "col": 27
+        },
+        {
+          "chord": "Em",
+          "col": 33
+        },
+        {
+          "chord": "C#",
+          "col": 37
+        },
+        {
+          "chord": "C",
+          "col": 44
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "She's a little girl with nothing wrong",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 9
+        },
+        {
+          "chord": "G",
+          "col": 15
+        },
+        {
+          "chord": "F#",
+          "col": 18
+        },
+        {
+          "chord": "Em",
+          "col": 28
+        },
+        {
+          "chord": "Em",
+          "col": 36
+        },
+        {
+          "chord": "D",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And she's all alone",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 10
+        },
+        {
+          "chord": "G",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "A little girl with nothing wrong",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 3
+        },
+        {
+          "chord": "G",
+          "col": 9
+        },
+        {
+          "chord": "F#",
+          "col": 12
+        },
+        {
+          "chord": "Em",
+          "col": 22
+        },
+        {
+          "chord": "Em",
+          "col": 30
+        },
+        {
+          "chord": "D",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And she?s all alone",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 11
+        },
+        {
+          "chord": "G",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

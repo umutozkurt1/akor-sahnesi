@@ -1,0 +1,866 @@
+{
+  "slug": "acdc-thunderstruck",
+  "artist": "ACDC",
+  "title": "Thunderstruck",
+  "key": "B",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Intro :",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I was caught",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "In the middle of a railroad track",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I looked round",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And I knew there was no turning back (thunder)",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "My mind raced",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And I thought what could I do",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And I knew",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "There was no help, no help from you",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sound of the drums",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Beating in my heart",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "The thunder of guns",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Tore me apart You've been",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Thunderstruck",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Rode down the highway",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Broke the limit, we hit the town",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Went through to",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Texas, yeah",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Texas, and we had some fun",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "We met some girls",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Some dancers who gave a good time",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Broke all the rules",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Played all the fools",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yeah yeah they, they, they blew our minds",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "     And I was shaking at the knees",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 2
+        },
+        {
+          "chord": "E",
+          "col": 4
+        },
+        {
+          "chord": "A",
+          "col": 35
+        },
+        {
+          "chord": "B",
+          "col": 37
+        },
+        {
+          "chord": "A",
+          "col": 39
+        },
+        {
+          "chord": "E",
+          "col": 41
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Could I come again please",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "     Yeah them ladies were too kind You've been",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 2
+        },
+        {
+          "chord": "E",
+          "col": 4
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "     Thunderstruck",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 2
+        },
+        {
+          "chord": "E",
+          "col": 4
+        },
+        {
+          "chord": "B",
+          "col": 18
+        },
+        {
+          "chord": "A",
+          "col": 20
+        },
+        {
+          "chord": "E",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   Thunderstruck",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 2
+        },
+        {
+          "chord": "B",
+          "col": 16
+        },
+        {
+          "chord": "A",
+          "col": 18
+        },
+        {
+          "chord": "E",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Thunderstruck",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 13
+        },
+        {
+          "chord": "B",
+          "col": 15
+        },
+        {
+          "chord": "A",
+          "col": 17
+        },
+        {
+          "chord": "E",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Thunderstruck",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 13
+        },
+        {
+          "chord": "B",
+          "col": 15
+        },
+        {
+          "chord": "A",
+          "col": 17
+        },
+        {
+          "chord": "E",
+          "col": 19
+        },
+        {
+          "chord": "A",
+          "col": 21
+        },
+        {
+          "chord": "E",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " I was shaking at the knees",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Could I come again please",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 2
+        },
+        {
+          "chord": "A",
+          "col": 4
+        },
+        {
+          "chord": "E",
+          "col": 6
+        },
+        {
+          "chord": "E",
+          "col": 8
+        },
+        {
+          "chord": "B",
+          "col": 10
+        },
+        {
+          "chord": "A",
+          "col": 12
+        },
+        {
+          "chord": "E",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 2
+        },
+        {
+          "chord": "A",
+          "col": 4
+        },
+        {
+          "chord": "E",
+          "col": 6
+        },
+        {
+          "chord": "E",
+          "col": 8
+        },
+        {
+          "chord": "B",
+          "col": 10
+        },
+        {
+          "chord": "A",
+          "col": 12
+        },
+        {
+          "chord": "E",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Thunderstruck,",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 14
+        },
+        {
+          "chord": "A",
+          "col": 16
+        },
+        {
+          "chord": "E",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  Thunderstruck,",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 2
+        },
+        {
+          "chord": "B",
+          "col": 16
+        },
+        {
+          "chord": "A",
+          "col": 18
+        },
+        {
+          "chord": "E",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Thunderstruck,",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 14
+        },
+        {
+          "chord": "B",
+          "col": 16
+        },
+        {
+          "chord": "A",
+          "col": 18
+        },
+        {
+          "chord": "E",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Thunderstruck",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 13
+        },
+        {
+          "chord": "B",
+          "col": 15
+        },
+        {
+          "chord": "A",
+          "col": 17
+        },
+        {
+          "chord": "E",
+          "col": 19
+        },
+        {
+          "chord": "A",
+          "col": 21
+        },
+        {
+          "chord": "E",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "It's alright,   we're doin' fine",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 13
+        },
+        {
+          "chord": "B",
+          "col": 15
+        },
+        {
+          "chord": "E",
+          "col": 32
+        },
+        {
+          "chord": "B",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "It's alright,   we're doin' fine, fine, fine",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 13
+        },
+        {
+          "chord": "B",
+          "col": 15
+        },
+        {
+          "chord": "E",
+          "col": 34
+        },
+        {
+          "chord": "B",
+          "col": 44
+        },
+        {
+          "chord": "A",
+          "col": 46
+        },
+        {
+          "chord": "E",
+          "col": 48
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  Thunderstruck,      yeah, yeah, yeah",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 2
+        },
+        {
+          "chord": "B",
+          "col": 16
+        },
+        {
+          "chord": "A",
+          "col": 18
+        },
+        {
+          "chord": "E",
+          "col": 20
+        },
+        {
+          "chord": "A",
+          "col": 22
+        },
+        {
+          "chord": "E",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Thunderstruck,",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 7
+        },
+        {
+          "chord": "A",
+          "col": 14
+        },
+        {
+          "chord": "E",
+          "col": 16
+        },
+        {
+          "chord": "A",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Thunderstruck,      baby, baby",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 14
+        },
+        {
+          "chord": "A",
+          "col": 16
+        },
+        {
+          "chord": "E",
+          "col": 18
+        },
+        {
+          "chord": "A",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Thunderstruck,        you've been  Thunder",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 14
+        },
+        {
+          "chord": "A",
+          "col": 16
+        },
+        {
+          "chord": "E",
+          "col": 18
+        },
+        {
+          "chord": "A",
+          "col": 20
+        },
+        {
+          "chord": "E",
+          "col": 22
+        },
+        {
+          "chord": "B",
+          "col": 33
+        },
+        {
+          "chord": "A",
+          "col": 35
+        },
+        {
+          "chord": "E",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "struck Thunderstruck,",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Thunderstruck",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 13
+        },
+        {
+          "chord": "A",
+          "col": 15
+        },
+        {
+          "chord": "E",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "    You've been Thunderstruck",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 2
+        },
+        {
+          "chord": "B",
+          "col": 4
+        },
+        {
+          "chord": "A",
+          "col": 16
+        },
+        {
+          "chord": "E",
+          "col": 23
+        },
+        {
+          "chord": "A",
+          "col": 29
+        },
+        {
+          "chord": "E",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

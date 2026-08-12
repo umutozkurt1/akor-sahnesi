@@ -1,0 +1,163 @@
+{
+  "slug": "baris-manco-donence",
+  "artist": "Barış Manço",
+  "title": "Dönence",
+  "key": "A",
+  "capo": 0,
+  "rhythm": "A-Y-Y-A-Y-A",
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Simsiyah gecenin koynundayım, yapayalnız",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 23
+        },
+        {
+          "chord": "Em",
+          "col": 40
+        },
+        {
+          "chord": "F",
+          "col": 59
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Uzaklarda bir yerlerde, güneşler doğuyor",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 12
+        },
+        {
+          "chord": "Em",
+          "col": 28
+        },
+        {
+          "chord": "F",
+          "col": 45
+        },
+        {
+          "chord": "Em",
+          "col": 56
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kupkuru bir ağacın dalıyım, yapayalnız",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 24
+        },
+        {
+          "chord": "Em",
+          "col": 36
+        },
+        {
+          "chord": "F",
+          "col": 52
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Uzaklarda bir yerlerde, bir şeyler kök salıyor",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 12
+        },
+        {
+          "chord": "Em",
+          "col": 29
+        },
+        {
+          "chord": "F",
+          "col": 46
+        },
+        {
+          "chord": "Em",
+          "col": 59
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Çatlamış dudağımda ne bir ses ne bir nefes",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 25
+        },
+        {
+          "chord": "Em",
+          "col": 43
+        },
+        {
+          "chord": "F",
+          "col": 61
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Uzaklarda bir yerlerde, türküler söyleniyor",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 12
+        },
+        {
+          "chord": "Em",
+          "col": 29
+        },
+        {
+          "chord": "F",
+          "col": 46
+        },
+        {
+          "chord": "Em",
+          "col": 59
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

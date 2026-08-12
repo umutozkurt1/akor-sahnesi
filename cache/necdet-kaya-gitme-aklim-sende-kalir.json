@@ -1,0 +1,141 @@
+{
+  "slug": "necdet-kaya-gitme-aklim-sende-kalir",
+  "artist": "Necdet Kaya",
+  "title": "Gitme Aklım Sende Kalır",
+  "key": "Ab",
+  "capo": 0,
+  "rhythm": "A",
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Dbm",
+          "col": 1
+        },
+        {
+          "chord": "Abm",
+          "col": 5
+        },
+        {
+          "chord": "Gb",
+          "col": 9
+        },
+        {
+          "chord": "Abm",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gitme aklım sende kalır uyuyamam geceleri",
+      "chords": [
+        {
+          "chord": "Abm",
+          "col": 0
+        },
+        {
+          "chord": "Gb",
+          "col": 40
+        },
+        {
+          "chord": "Dbm",
+          "col": 62
+        },
+        {
+          "chord": "Abm",
+          "col": 67
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hiç ayrılmadık seninle, hiç ayrılmadık seninle",
+      "chords": [
+        {
+          "chord": "Dbm",
+          "col": 0
+        },
+        {
+          "chord": "Abm",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Değil bir sene bir gün bile gitme",
+      "chords": [
+        {
+          "chord": "Gb",
+          "col": 0
+        },
+        {
+          "chord": "Abm",
+          "col": 50
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Dbm",
+          "col": 0
+        },
+        {
+          "chord": "Abm",
+          "col": 4
+        },
+        {
+          "chord": "Gb",
+          "col": 8
+        },
+        {
+          "chord": "Abm",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Belki bir şey olmaz ama korkuyorum elde değil",
+      "chords": [
+        {
+          "chord": "Abm",
+          "col": 0
+        },
+        {
+          "chord": "Gb",
+          "col": 39
+        },
+        {
+          "chord": "Dbm",
+          "col": 65
+        },
+        {
+          "chord": "Abm",
+          "col": 70
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Nakarat",
+      "chords": [],
+      "section": true,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

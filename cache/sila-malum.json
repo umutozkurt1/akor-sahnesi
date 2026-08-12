@@ -1,0 +1,203 @@
+{
+  "slug": "sila-malum",
+  "artist": "Sıla",
+  "title": "Malum",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Uzun zamandır kayıpsın artık çık nerelerdesin",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 24
+        },
+        {
+          "chord": "F",
+          "col": 45
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Aradım sordum kimleri yordum bilemezsin",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 25
+        },
+        {
+          "chord": "F",
+          "col": 49
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kaderimle oynayacak kadar sevgilim olmuşsun meğer",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 46
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ben seni kabullenmeyi ben yapmaya çalışırken",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yokluğun çirkinde yapmış beni",
+      "chords": [
+        {
+          "chord": "E7",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 44
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Geçen gün aynada gördüm tesadüfen",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 5
+        },
+        {
+          "chord": "Em",
+          "col": 25
+        },
+        {
+          "chord": "E",
+          "col": 42
+        },
+        {
+          "chord": "Am",
+          "col": 53
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Malum ortada halim",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Eminim ben bu kadını ömrümde görmedim",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 2
+        },
+        {
+          "chord": "E",
+          "col": 42
+        },
+        {
+          "chord": "Am",
+          "col": 64
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Olurda duyarsan özür dilerim çok çok..",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 3
+        },
+        {
+          "chord": "Am",
+          "col": 10
+        },
+        {
+          "chord": "Bm",
+          "col": 25
+        },
+        {
+          "chord": "E",
+          "col": 35
+        },
+        {
+          "chord": "Am",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Olurda duyarsan özür dilerim",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 3
+        },
+        {
+          "chord": "Am",
+          "col": 10
+        },
+        {
+          "chord": "Bm",
+          "col": 25
+        },
+        {
+          "chord": "E",
+          "col": 35
+        },
+        {
+          "chord": "Am",
+          "col": 41
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

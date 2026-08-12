@@ -1,0 +1,369 @@
+{
+  "slug": "paul-weller-you-do-something-to-me",
+  "artist": "Paul Weller",
+  "title": "You Do Something To Me",
+  "key": "E",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Em69",
+          "col": 6
+        },
+        {
+          "chord": "Em7",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You do something to me          Something deep inside",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 1
+        },
+        {
+          "chord": "D",
+          "col": 18
+        },
+        {
+          "chord": "Am7",
+          "col": 39
+        },
+        {
+          "chord": "Bm7",
+          "col": 46
+        },
+        {
+          "chord": "Em",
+          "col": 69
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'm hanging on the wire            For the love I'll never find",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 35
+        },
+        {
+          "chord": "Am7",
+          "col": 43
+        },
+        {
+          "chord": "Bm7",
+          "col": 61
+        },
+        {
+          "chord": "Em",
+          "col": 80
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You do something wonderful         And chase it all away",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 37
+        },
+        {
+          "chord": "Am7",
+          "col": 51
+        },
+        {
+          "chord": "Bm7",
+          "col": 62
+        },
+        {
+          "chord": "Em",
+          "col": 77
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Mixing my emotions                 That throws me back again",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 25
+        },
+        {
+          "chord": "Am7",
+          "col": 42
+        },
+        {
+          "chord": "Bm7",
+          "col": 57
+        },
+        {
+          "chord": "Em",
+          "col": 79
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hanging on the wire, yeah           I'm waiting on a change",
+      "chords": [
+        {
+          "chord": "Am7",
+          "col": 42
+        },
+        {
+          "chord": "Em",
+          "col": 73
+        },
+        {
+          "chord": "C7",
+          "col": 84
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'm dancing through the fire        Just to catch a flame and feel real again",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 45
+        },
+        {
+          "chord": "A7",
+          "col": 69
+        },
+        {
+          "chord": "C",
+          "col": 108
+        },
+        {
+          "chord": "Em",
+          "col": 126
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 1
+        },
+        {
+          "chord": "Am7",
+          "col": 4
+        },
+        {
+          "chord": "Bm7",
+          "col": 9
+        },
+        {
+          "chord": "Em",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hanging on the wire, yeah           I'm waiting on a change",
+      "chords": [
+        {
+          "chord": "Am7",
+          "col": 42
+        },
+        {
+          "chord": "Em",
+          "col": 73
+        },
+        {
+          "chord": "C7",
+          "col": 84
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'm dancing through the fire        Just to catch a flame and feel real again",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 45
+        },
+        {
+          "chord": "A7",
+          "col": 69
+        },
+        {
+          "chord": "C",
+          "col": 108
+        },
+        {
+          "chord": "Em",
+          "col": 126
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You do something to me          Something deep inside",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 1
+        },
+        {
+          "chord": "D",
+          "col": 18
+        },
+        {
+          "chord": "Am7",
+          "col": 39
+        },
+        {
+          "chord": "Bm7",
+          "col": 46
+        },
+        {
+          "chord": "Em",
+          "col": 69
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'm hoping to get close to         The piece I cannot find",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 35
+        },
+        {
+          "chord": "Am7",
+          "col": 43
+        },
+        {
+          "chord": "Bm7",
+          "col": 58
+        },
+        {
+          "chord": "Em",
+          "col": 77
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dancing through the fire, yeah          Just to catch a flame",
+      "chords": [
+        {
+          "chord": "Am7",
+          "col": 48
+        },
+        {
+          "chord": "Em",
+          "col": 76
+        },
+        {
+          "chord": "C7",
+          "col": 85
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Just to get close to    Just close enough to tell you that",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 24
+        },
+        {
+          "chord": "A7",
+          "col": 46
+        },
+        {
+          "chord": "C7",
+          "col": 70
+        },
+        {
+          "chord": "Em",
+          "col": 96
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You do something to me",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 34
+        },
+        {
+          "chord": "Am7",
+          "col": 44
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Something deep inside",
+      "chords": [
+        {
+          "chord": "Bm7",
+          "col": 2
+        },
+        {
+          "chord": "Em",
+          "col": 18
+        },
+        {
+          "chord": "Em69",
+          "col": 23
+        },
+        {
+          "chord": "Em7",
+          "col": 29
+        },
+        {
+          "chord": "Em",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

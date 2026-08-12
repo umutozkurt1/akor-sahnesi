@@ -1,0 +1,225 @@
+{
+  "slug": "teoman-tek-basina-dans",
+  "artist": "Teoman",
+  "title": "Tek Başına Dans",
+  "key": "E",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Bir gün daha geçmiş, zaten yılları saymaz",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 26
+        },
+        {
+          "chord": "D",
+          "col": 31
+        },
+        {
+          "chord": "G",
+          "col": 56
+        },
+        {
+          "chord": "B",
+          "col": 61
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sorduğundaysa aynaya, ayna yalan söylememiş",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 30
+        },
+        {
+          "chord": "D",
+          "col": 37
+        },
+        {
+          "chord": "G",
+          "col": 68
+        },
+        {
+          "chord": "B",
+          "col": 73
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Geceleri anılarda, hayalleriyle konuşmuş",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 20
+        },
+        {
+          "chord": "D",
+          "col": 25
+        },
+        {
+          "chord": "G",
+          "col": 55
+        },
+        {
+          "chord": "B",
+          "col": 60
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gözündeki halkalarda, yaşlarını kurutmuş",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 29
+        },
+        {
+          "chord": "D",
+          "col": 34
+        },
+        {
+          "chord": "G",
+          "col": 60
+        },
+        {
+          "chord": "B",
+          "col": 65
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Belki önümüz yaz, gideriz bir yerlere",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 15
+        },
+        {
+          "chord": "G",
+          "col": 28
+        },
+        {
+          "chord": "B",
+          "col": 40
+        },
+        {
+          "chord": "Em",
+          "col": 49
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Belki dans edersin, kumsalda yalnız tek başına",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 21
+        },
+        {
+          "chord": "G",
+          "col": 29
+        },
+        {
+          "chord": "B",
+          "col": 57
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bu yağmur bu deniz bu kumsal, bu yıldızlar geçen yıllar",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 44
+        },
+        {
+          "chord": "D",
+          "col": 51
+        },
+        {
+          "chord": "G",
+          "col": 81
+        },
+        {
+          "chord": "B",
+          "col": 86
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bu sarhoşlar bu yalnızlar, kalbi kırık eski dostlar",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 33
+        },
+        {
+          "chord": "D",
+          "col": 40
+        },
+        {
+          "chord": "G",
+          "col": 69
+        },
+        {
+          "chord": "B",
+          "col": 74
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

@@ -1,0 +1,414 @@
+{
+  "slug": "birileri-halledebilirdik",
+  "artist": "Birileri",
+  "title": "Halledebilirdik",
+  "key": "B",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Intro:",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 0
+        },
+        {
+          "chord": "D#m",
+          "col": 4
+        },
+        {
+          "chord": "E",
+          "col": 10
+        },
+        {
+          "chord": "F#",
+          "col": 14
+        },
+        {
+          "chord": "B",
+          "col": 19
+        },
+        {
+          "chord": "F#",
+          "col": 23
+        },
+        {
+          "chord": "E",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sen bedenim oldun, ruhum oldun, karanlık gecemde güneş oldun",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 0
+        },
+        {
+          "chord": "D#m",
+          "col": 26
+        },
+        {
+          "chord": "E",
+          "col": 48
+        },
+        {
+          "chord": "F#",
+          "col": 91
+        },
+        {
+          "chord": "B",
+          "col": 106
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ben önümü bile göremezken, beni düştüğüm yerden doğrulttun",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 0
+        },
+        {
+          "chord": "D#m",
+          "col": 20
+        },
+        {
+          "chord": "E",
+          "col": 38
+        },
+        {
+          "chord": "F#",
+          "col": 82
+        },
+        {
+          "chord": "B",
+          "col": 97
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Şimdiyse bitti diyorsun, gerçekten, bırakıp gidiyor musun",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 9
+        },
+        {
+          "chord": "B",
+          "col": 31
+        },
+        {
+          "chord": "Em",
+          "col": 48
+        },
+        {
+          "chord": "F#",
+          "col": 83
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 0
+        },
+        {
+          "chord": "D#m",
+          "col": 3
+        },
+        {
+          "chord": "E",
+          "col": 8
+        },
+        {
+          "chord": "B",
+          "col": 11
+        },
+        {
+          "chord": "F#",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sen ilk öptüğüm, dokunduğum, hakkında durmadan hayaller kurduğum",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 0
+        },
+        {
+          "chord": "D#m",
+          "col": 21
+        },
+        {
+          "chord": "E",
+          "col": 43
+        },
+        {
+          "chord": "F#",
+          "col": 86
+        },
+        {
+          "chord": "B",
+          "col": 101
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ben aşk denen o ünlü kelimenin, sözlük anlamını senin kollarında buldum",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 0
+        },
+        {
+          "chord": "D#m",
+          "col": 27
+        },
+        {
+          "chord": "E",
+          "col": 47
+        },
+        {
+          "chord": "F#",
+          "col": 93
+        },
+        {
+          "chord": "B",
+          "col": 111
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Şimdiyse bitti diyorsun, öylece, bırakıp gidiyor musun",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 9
+        },
+        {
+          "chord": "B",
+          "col": 31
+        },
+        {
+          "chord": "Em",
+          "col": 48
+        },
+        {
+          "chord": "F#",
+          "col": 82
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dur, çıkma hayatımdan, hayır inanmam, bu kötü bir şaka",
+      "chords": [
+        {
+          "chord": "G#m",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 34
+        },
+        {
+          "chord": "B",
+          "col": 57
+        },
+        {
+          "chord": "D#",
+          "col": 84
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dur, konuşsaydık iki dakika, sen de biliyorsun, halledebilir,",
+      "chords": [
+        {
+          "chord": "G#m",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 33
+        },
+        {
+          "chord": "B",
+          "col": 70
+        },
+        {
+          "chord": "F#",
+          "col": 85
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Halledebilir, halledebilir, halledebilirdik, üstesinden gelebilirdik",
+      "chords": [
+        {
+          "chord": "G#m",
+          "col": 11
+        },
+        {
+          "chord": "F#",
+          "col": 33
+        },
+        {
+          "chord": "E",
+          "col": 56
+        },
+        {
+          "chord": "Em",
+          "col": 62
+        },
+        {
+          "chord": "B",
+          "col": 94
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "D#m",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 5
+        },
+        {
+          "chord": "B",
+          "col": 8
+        },
+        {
+          "chord": "F#",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bak, iki damla gözyaşı daha süzülüyor senin için yanaklarımdan",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 0
+        },
+        {
+          "chord": "D#m",
+          "col": 14
+        },
+        {
+          "chord": "E",
+          "col": 36
+        },
+        {
+          "chord": "F#",
+          "col": 78
+        },
+        {
+          "chord": "B",
+          "col": 97
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ah, anlamıyorum nasıl bir şey bu, nasıl da hastalıklı bir duygu",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 0
+        },
+        {
+          "chord": "D#m",
+          "col": 19
+        },
+        {
+          "chord": "E",
+          "col": 46
+        },
+        {
+          "chord": "F#",
+          "col": 78
+        },
+        {
+          "chord": "B",
+          "col": 93
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Zaman bile gücünü yettiremez buna, hatırlarım hala, bilirim daim olduğunu",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 15
+        },
+        {
+          "chord": "B",
+          "col": 55
+        },
+        {
+          "chord": "Em",
+          "col": 82
+        },
+        {
+          "chord": "F#",
+          "col": 116
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Nakarat",
+      "chords": [],
+      "section": true,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

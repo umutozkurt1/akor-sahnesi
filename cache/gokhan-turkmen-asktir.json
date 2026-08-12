@@ -1,0 +1,231 @@
+{
+  "slug": "gokhan-turkmen-asktir",
+  "artist": "Gökhan Türkmen",
+  "title": "Aşktır",
+  "key": "B",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Başka bir hikaye var gözlerimizde",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 13
+        },
+        {
+          "chord": "C#m",
+          "col": 27
+        },
+        {
+          "chord": "F#m",
+          "col": 41
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yarım kalmış hep defterlerimizde",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 13
+        },
+        {
+          "chord": "C#m",
+          "col": 27
+        },
+        {
+          "chord": "F#m",
+          "col": 41
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yüzünü görmekten hiç mi hiç bıkmamıştım",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 13
+        },
+        {
+          "chord": "C#m",
+          "col": 28
+        },
+        {
+          "chord": "F#m",
+          "col": 45
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir el verdin şimdi o el tam yüreğimde",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 9
+        },
+        {
+          "chord": "C#m",
+          "col": 23
+        },
+        {
+          "chord": "F#m",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ne olur ne olur o gözlerin hiç kısılmasın",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 51
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir bakmışsın yanıbaşındayım",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 17
+        },
+        {
+          "chord": "F#m",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Delirmiş olsam da ben sende saklıyım",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 48
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "O zamandayım, şimdideyim, sendeyim",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 20
+        },
+        {
+          "chord": "F#m",
+          "col": 48
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yastığıma terin düşmüş, bir damlası durur",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 47
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Başımı her koyuşumda kana (sana) karışır",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 27
+        },
+        {
+          "chord": "F#m",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Aşktır, kimse bilmez, kimse bilmez bilmesi de gerekmez",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "Bm",
+          "col": 47
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İğne atsan yere (bana) düşer bu kalp (kalbin) temiz",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 21
+        },
+        {
+          "chord": "F#m",
+          "col": 57
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "(İğne atsam sana düşer kalbim temiz)",
+      "chords": [],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

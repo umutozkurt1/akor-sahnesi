@@ -1,0 +1,189 @@
+{
+  "slug": "murat-evgin-ilk-ve-son-askimsin",
+  "artist": "Murat Evgin",
+  "title": "İlk Ve Son Aşkımsın",
+  "key": "F",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Dün seni görünce anladım,",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "Cm7",
+          "col": 7
+        },
+        {
+          "chord": "A#m7",
+          "col": 15
+        },
+        {
+          "chord": "Fm7",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Unuttum diye kendimi kandırmışım.",
+      "chords": [
+        {
+          "chord": "A#m",
+          "col": 0
+        },
+        {
+          "chord": "Fm7",
+          "col": 10
+        },
+        {
+          "chord": "Cm7",
+          "col": 23
+        },
+        {
+          "chord": "Fm",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gözlerimden aktı yaşlar,",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "Cm7",
+          "col": 8
+        },
+        {
+          "chord": "D#",
+          "col": 15
+        },
+        {
+          "chord": "C#",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Her damlada sen vardın.",
+      "chords": [
+        {
+          "chord": "A#m",
+          "col": 0
+        },
+        {
+          "chord": "Fm7",
+          "col": 10
+        },
+        {
+          "chord": "Cm7",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yaktı geçti şu bağrımı,",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "Cm7",
+          "col": 7
+        },
+        {
+          "chord": "D#",
+          "col": 14
+        },
+        {
+          "chord": "C#",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Her bakışın bir yangındı.",
+      "chords": [
+        {
+          "chord": "A#m",
+          "col": 0
+        },
+        {
+          "chord": "Fm7",
+          "col": 10
+        },
+        {
+          "chord": "Cm7",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Canımsın, kanımsın, kadınımsın.",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "Cm7",
+          "col": 10
+        },
+        {
+          "chord": "A#m7",
+          "col": 20
+        },
+        {
+          "chord": "Fm7",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hem ilk, hem tek hem de son aşkımsın.",
+      "chords": [
+        {
+          "chord": "A#m",
+          "col": 0
+        },
+        {
+          "chord": "Fm7",
+          "col": 10
+        },
+        {
+          "chord": "Cm7",
+          "col": 23
+        },
+        {
+          "chord": "Fm",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

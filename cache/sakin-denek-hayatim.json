@@ -1,0 +1,372 @@
+{
+  "slug": "sakin-denek-hayatim",
+  "artist": "Sakin",
+  "title": "Denek Hayatım",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "İntro:",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "E-------------------------------------------------------------------",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "B----010----010----------010----010---------010-----1---3-",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "G---2--------2------2-2-----2--------2------2-2----2----------------",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "D--2--------2--------2-----1--------1--------1----2---------2---4---",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "A-0--------0--------------2--------2-----------------------3---5----",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "E------------------------------------------------1------------------",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "bir kahır içim bugün",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "D7",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "durmuyor yolculuk",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "ankara",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "elimde hazırlanmış bavulumla",
+      "chords": [
+        {
+          "chord": "D7",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "boş dururken",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 7
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "gardayım",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "gördüüüüm her yanda",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 5
+        },
+        {
+          "chord": "G#",
+          "col": 10
+        },
+        {
+          "chord": "G",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "korkma bu ceset bu yüzüm ağlar kan içinde",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 4
+        },
+        {
+          "chord": "G#",
+          "col": 17
+        },
+        {
+          "chord": "Fm",
+          "col": 30
+        },
+        {
+          "chord": "G",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "ben sana söyledim hepten ölürüm ben",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "inan dönüşü yok bu hız seferi",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 2
+        },
+        {
+          "chord": "Fm",
+          "col": 21
+        },
+        {
+          "chord": "G",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "bak bu tren devrilir, bağırır",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "bu raylar o sahte o kart düzene",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 6
+        },
+        {
+          "chord": "Fm",
+          "col": 20
+        },
+        {
+          "chord": "G",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "ağladık, ağlaştık",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "D7",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "dünyaları kopardık",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "farkındayız bugün",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "sonrası hep aydınlık",
+      "chords": [
+        {
+          "chord": "D7",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "sebepsiz ve sonuçsuz denek hayatım",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 14
+        },
+        {
+          "chord": "A#",
+          "col": 24
+        },
+        {
+          "chord": "G#",
+          "col": 31
+        },
+        {
+          "chord": "Cm",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "gördüüüm her yanda",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 6
+        },
+        {
+          "chord": "G#",
+          "col": 9
+        },
+        {
+          "chord": "G",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "korkma bu ceset bu yüzün ağlar kan içinde",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 4
+        },
+        {
+          "chord": "G#",
+          "col": 17
+        },
+        {
+          "chord": "Fm",
+          "col": 31
+        },
+        {
+          "chord": "G",
+          "col": 41
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

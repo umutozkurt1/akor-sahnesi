@@ -1,0 +1,665 @@
+{
+  "slug": "bryan-adams-everything-i-do-i-do-it-for-you",
+  "artist": "Bryan Adams",
+  "title": "Everything I Do I Do It For You",
+  "key": "Db",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Intro",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Db",
+          "col": 0
+        },
+        {
+          "chord": "Ab",
+          "col": 3
+        },
+        {
+          "chord": "Gb",
+          "col": 6
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Ab",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  Look into my eyes,  you will see",
+      "chords": [
+        {
+          "chord": "Db",
+          "col": 0
+        },
+        {
+          "chord": "Ab",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "What you mean to me.",
+      "chords": [
+        {
+          "chord": "Gb",
+          "col": 0
+        },
+        {
+          "chord": "Ab",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Search your heart, search your  soul",
+      "chords": [
+        {
+          "chord": "Db",
+          "col": 12
+        },
+        {
+          "chord": "Ab",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And when you find me there you'll search no more.",
+      "chords": [
+        {
+          "chord": "Gb",
+          "col": 13
+        },
+        {
+          "chord": "Db",
+          "col": 36
+        },
+        {
+          "chord": "Ab",
+          "col": 46
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Don’t tell me it’s not worth tryin' for.",
+      "chords": [
+        {
+          "chord": "Ebm",
+          "col": 8
+        },
+        {
+          "chord": "Db",
+          "col": 33
+        },
+        {
+          "chord": "Ebm",
+          "col": 40
+        },
+        {
+          "chord": "Db",
+          "col": 44
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You can’t tell me it’s not worth dyin' for.",
+      "chords": [
+        {
+          "chord": "Ebm",
+          "col": 12
+        },
+        {
+          "chord": "Db",
+          "col": 37
+        },
+        {
+          "chord": "Ebm",
+          "col": 43
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You know its true:",
+      "chords": [
+        {
+          "chord": "Db",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Everything I  do, I do it for  you.",
+      "chords": [
+        {
+          "chord": "Ab",
+          "col": 12
+        },
+        {
+          "chord": "Db",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  Look into your heart,  you will find",
+      "chords": [
+        {
+          "chord": "Db",
+          "col": 0
+        },
+        {
+          "chord": "Ab",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "There’s nothin' there to hide.",
+      "chords": [
+        {
+          "chord": "Gb",
+          "col": 10
+        },
+        {
+          "chord": "Ab",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Take me as I am, take my life.",
+      "chords": [
+        {
+          "chord": "Db",
+          "col": 13
+        },
+        {
+          "chord": "Ab",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I would give it all, I would sacrifice.",
+      "chords": [
+        {
+          "chord": "Gb",
+          "col": 8
+        },
+        {
+          "chord": "Db",
+          "col": 29
+        },
+        {
+          "chord": "Ab",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Don’t tell me it’s not worth fightin' for",
+      "chords": [
+        {
+          "chord": "Ebm",
+          "col": 8
+        },
+        {
+          "chord": "Db",
+          "col": 33
+        },
+        {
+          "chord": "Ebm",
+          "col": 42
+        },
+        {
+          "chord": "Db",
+          "col": 46
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I can't help it, there's nothin' I want more",
+      "chords": [
+        {
+          "chord": "Ebm",
+          "col": 10
+        },
+        {
+          "chord": "Db",
+          "col": 37
+        },
+        {
+          "chord": "Ebm",
+          "col": 44
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You know it’s true:  Everything I  do,",
+      "chords": [
+        {
+          "chord": "Db",
+          "col": 21
+        },
+        {
+          "chord": "Ab",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I do it for  you, oh, yeah.",
+      "chords": [
+        {
+          "chord": "Db",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "There’s no love like your love",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 10
+        },
+        {
+          "chord": "E",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And no other could give more love.",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 7
+        },
+        {
+          "chord": "Gb",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "There’s nowhere unless you’re there",
+      "chords": [
+        {
+          "chord": "Db",
+          "col": 10
+        },
+        {
+          "chord": "Ab",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "All the time, all the way,  yeah.",
+      "chords": [
+        {
+          "chord": "Eb",
+          "col": 8
+        },
+        {
+          "chord": "Absus4",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "     Look into your heart, babe  yeah",
+      "chords": [
+        {
+          "chord": "Gb",
+          "col": 0
+        },
+        {
+          "chord": "Db",
+          "col": 3
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "     Oh, yeah",
+      "chords": [
+        {
+          "chord": "Gb",
+          "col": 0
+        },
+        {
+          "chord": "Db",
+          "col": 3
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Oh, you can’t tell me it’s not worth tryin' for.",
+      "chords": [
+        {
+          "chord": "Ebm",
+          "col": 16
+        },
+        {
+          "chord": "Ab",
+          "col": 48
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I can’t help it, there’s nothin' I want more.",
+      "chords": [
+        {
+          "chord": "Ebm",
+          "col": 10
+        },
+        {
+          "chord": "Ab",
+          "col": 44
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yeah, I would fight for you, I’d lie for you,",
+      "chords": [
+        {
+          "chord": "Db",
+          "col": 14
+        },
+        {
+          "chord": "Ab",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Walk the wire for you, yeah, I’d die for you.",
+      "chords": [
+        {
+          "chord": "Gb",
+          "col": 9
+        },
+        {
+          "chord": "Gbm",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You know it’s true: Everything I  do, oh,",
+      "chords": [
+        {
+          "chord": "Db",
+          "col": 16
+        },
+        {
+          "chord": "Ab",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "      I do it for  you.",
+      "chords": [
+        {
+          "chord": "Gb",
+          "col": 0
+        },
+        {
+          "chord": "Ebm",
+          "col": 3
+        },
+        {
+          "chord": "Db",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "     Everything I do, darling.",
+      "chords": [
+        {
+          "chord": "Gb",
+          "col": 0
+        },
+        {
+          "chord": "Db",
+          "col": 3
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  We will see it’s through.",
+      "chords": [
+        {
+          "chord": "Gb",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "We will see it’s through.",
+      "chords": [
+        {
+          "chord": "Db",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Oh, yeah",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yeah!",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  Listen to your heart,",
+      "chords": [
+        {
+          "chord": "Gb",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  You can't tell me it ain't worth dying for",
+      "chords": [
+        {
+          "chord": "Db",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Oh, oh yeah,",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  i'll be there,  yeah.",
+      "chords": [
+        {
+          "chord": "Gb",
+          "col": 0
+        },
+        {
+          "chord": "Db",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  I'll walk the wire,  yeah,     yeah",
+      "chords": [
+        {
+          "chord": "Gb",
+          "col": 0
+        },
+        {
+          "chord": "Db",
+          "col": 21
+        },
+        {
+          "chord": "Gb",
+          "col": 28
+        },
+        {
+          "chord": "Db",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  All the time  we're gonna fall away, fall away",
+      "chords": [
+        {
+          "chord": "Gb",
+          "col": 0
+        },
+        {
+          "chord": "Db",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "     Yeah, yeah , yeah",
+      "chords": [
+        {
+          "chord": "Gb",
+          "col": 0
+        },
+        {
+          "chord": "Db",
+          "col": 3
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Gb",
+          "col": 0
+        },
+        {
+          "chord": "Db",
+          "col": 3
+        },
+        {
+          "chord": "Gb",
+          "col": 6
+        },
+        {
+          "chord": "Db",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

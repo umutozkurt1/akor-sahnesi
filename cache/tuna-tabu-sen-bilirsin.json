@@ -1,0 +1,162 @@
+{
+  "slug": "tuna-tabu-sen-bilirsin",
+  "artist": "Tuna Tabu",
+  "title": "Sen Bilirsin",
+  "key": "D",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "dur böyle bitemez çok erken sebebim olma günü karartma yapma",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 23
+        },
+        {
+          "chord": "F",
+          "col": 36
+        },
+        {
+          "chord": "D#",
+          "col": 47
+        },
+        {
+          "chord": "Dm",
+          "col": 56
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "sen hani benimdin şimdi çok değiştin kalbimdeydin kalbimdesin",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 20
+        },
+        {
+          "chord": "F",
+          "col": 32
+        },
+        {
+          "chord": "D#",
+          "col": 45
+        },
+        {
+          "chord": "Dm",
+          "col": 57
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "böyle vicdan mı olur hiç sızlamayan ardında bıraktığı cana hiç acımayan",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 17
+        },
+        {
+          "chord": "F",
+          "col": 31
+        },
+        {
+          "chord": "D#",
+          "col": 43
+        },
+        {
+          "chord": "Dm",
+          "col": 66
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "sen bilirsin bitirmişsin zaten",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "gözünden anlıyorum kaçıyorsun",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 14
+        },
+        {
+          "chord": "Dm",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "yazık oldu emeklere boş sözlere",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "canımdan can kopsada sen bilirsin",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 17
+        },
+        {
+          "chord": "Dm",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

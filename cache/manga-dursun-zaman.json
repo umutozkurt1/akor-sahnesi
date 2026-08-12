@@ -1,0 +1,171 @@
+{
+  "slug": "manga-dursun-zaman",
+  "artist": "Manga",
+  "title": "Dursun Zaman",
+  "key": "D",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Her sabah doğan güneş bir sabah doğmaz oldu",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Elleri ellerimden kayıp giden yıldız oldu",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gülünce ışık saçan o gözler yasla doldu",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ağlama duymaz artık bir varmış bir yok oldu",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Giderken bıraktığın bütün renkler siyah oldu",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Üzülme anla artık belki de huzur buldu",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dursun zaman dursun diyorsun da oyun değil ki yaşamak",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 31
+        },
+        {
+          "chord": "Cm",
+          "col": 59
+        },
+        {
+          "chord": "D",
+          "col": 88
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sen inanmasan da bir son var anla herkese inat",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 28
+        },
+        {
+          "chord": "Cm",
+          "col": 51
+        },
+        {
+          "chord": "D",
+          "col": 66
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dursun seni görsün diyorsun da oyun değil ki yaşamak",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 24
+        },
+        {
+          "chord": "Dm",
+          "col": 50
+        },
+        {
+          "chord": "E",
+          "col": 75
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yok bir çaren anla sakın uyanma yıllara inat",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 25
+        },
+        {
+          "chord": "Dm",
+          "col": 44
+        },
+        {
+          "chord": "E",
+          "col": 63
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

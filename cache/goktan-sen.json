@@ -1,0 +1,364 @@
+{
+  "slug": "goktan-sen",
+  "artist": "Göktan",
+  "title": "Sen",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "ORJİNAL TONU: B",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İntro:",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "G#",
+          "col": 6
+        },
+        {
+          "chord": "A#",
+          "col": 11
+        },
+        {
+          "chord": "Cm",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ne geceler ne gündüzler gördüm",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "En vazgeçilmez yeminlerden döndüm",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 41
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Görmedim senin gibi sevmedim hiç kimseyi",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 57
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yapayalnızım şimdi unuttum gülmeyi",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sen vaktinden çok sonra gelen, sevdalı bir yağmur gibisin",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "G#",
+          "col": 41
+        },
+        {
+          "chord": "A#",
+          "col": 87
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Çisil çisil gözlerimden",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sen çıldırmış şairlerin, titreyen mısralarında",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "G#",
+          "col": 28
+        },
+        {
+          "chord": "A#",
+          "col": 63
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bahsettiği o perisin",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Pencereler önünde çürürken, senden kalan çiçekler",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 21
+        },
+        {
+          "chord": "D#",
+          "col": 49
+        },
+        {
+          "chord": "G#",
+          "col": 74
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hayalin gözlerimin önünde, hala ağlıyorum",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 15
+        },
+        {
+          "chord": "G",
+          "col": 30
+        },
+        {
+          "chord": "Cm",
+          "col": 45
+        },
+        {
+          "chord": "Dm",
+          "col": 55
+        },
+        {
+          "chord": "C",
+          "col": 60
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Pencereler önünde çürürken, o güzelim yılların",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 21
+        },
+        {
+          "chord": "D#",
+          "col": 48
+        },
+        {
+          "chord": "G#",
+          "col": 73
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hayali gözlerimin önünde, bize ağlıyorum",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 14
+        },
+        {
+          "chord": "G",
+          "col": 29
+        },
+        {
+          "chord": "Cm",
+          "col": 41
+        },
+        {
+          "chord": "Dm",
+          "col": 48
+        },
+        {
+          "chord": "C",
+          "col": 55
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 6
+        },
+        {
+          "chord": "D#",
+          "col": 11
+        },
+        {
+          "chord": "G#",
+          "col": 16
+        },
+        {
+          "chord": "Fm",
+          "col": 22
+        },
+        {
+          "chord": "G",
+          "col": 28
+        },
+        {
+          "chord": "Cm",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Başa döner",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 6
+        },
+        {
+          "chord": "D#",
+          "col": 11
+        },
+        {
+          "chord": "G#",
+          "col": 16
+        },
+        {
+          "chord": "Fm",
+          "col": 22
+        },
+        {
+          "chord": "G",
+          "col": 28
+        },
+        {
+          "chord": "Cm",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Güneş doğduğunda başka bir şehrin sabahında olacağım",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Her insanın bir öyküsü vardır ya benimki de böyle işte",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bu sabah pencerene bak bu koca şehri sana bıraktım",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Başka bir şehrin sabahından başka bir dilde, elveda",
+      "chords": [],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

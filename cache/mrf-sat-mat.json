@@ -1,0 +1,179 @@
+{
+  "slug": "mrf-sat-mat",
+  "artist": "MRF",
+  "title": "Şat Mat",
+  "key": "Eb",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "İçimde ritm ve bas var bunu bi dinle!",
+      "chords": [
+        {
+          "chord": "Eb",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bütün hislerim şu an intihar ipinde.",
+      "chords": [
+        {
+          "chord": "Eb",
+          "col": 0
+        },
+        {
+          "chord": "Eb",
+          "col": 49
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Fareysen bile kedilere “pisi pisi” de.",
+      "chords": [
+        {
+          "chord": "Eb",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 49
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Denizli şehrindeyim fakat ruhum Misisipi’de.",
+      "chords": [
+        {
+          "chord": "Eb",
+          "col": 1
+        },
+        {
+          "chord": "Em",
+          "col": 50
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ortam içine gir ve de çıkama.",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yakana yapışır bu çocuk, en hızlısı bizden kaçamaz.",
+      "chords": [
+        {
+          "chord": "Eb",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 49
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "“Ufak kaçamak” değil hedefim “Zirvedeki Taht”.",
+      "chords": [
+        {
+          "chord": "Eb",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 49
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "808 kaydırır şaft şah ve de mat.",
+      "chords": [
+        {
+          "chord": "Eb",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 49
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Köprü :",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "———",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Cebimdekileri verip aldım hevesimi, kötü çocuk sokakta ve taktı beresini.",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "Gb",
+          "col": 64
+        },
+        {
+          "chord": "E",
+          "col": 115
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "O’nu sevmeyen çok ama hepsi tuttu çenesini, tuttu çenesini çünkü gördü ebesini.",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 55
+        },
+        {
+          "chord": "Gb",
+          "col": 80
+        },
+        {
+          "chord": "Eb",
+          "col": 124
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

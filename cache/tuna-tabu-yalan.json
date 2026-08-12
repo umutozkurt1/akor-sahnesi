@@ -1,0 +1,192 @@
+{
+  "slug": "tuna-tabu-yalan",
+  "artist": "Tuna Tabu",
+  "title": "Yalan",
+  "key": "G",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "G#",
+          "col": 3
+        },
+        {
+          "chord": "A#",
+          "col": 6
+        },
+        {
+          "chord": "G#",
+          "col": 9
+        },
+        {
+          "chord": "Gm",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "günümdesin gecemdesin diyordun",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "senden asla vazgeçemem diyordun",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "güvenmiştim inanmıştım oysa yar",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "biz olmadan aşk olmaz sanıyordum",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "yanılmışım yar aldanmışım yar",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 12
+        },
+        {
+          "chord": "G#",
+          "col": 17
+        },
+        {
+          "chord": "Gm",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "yalan gözlerin gibi yalan, sözlerin gibi yalan",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "G#",
+          "col": 20
+        },
+        {
+          "chord": "A#",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "bir batakki çıkmak imkansız çamurundan...",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "uyan deli gönlüm uyan onun her sözü yalan",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "G#",
+          "col": 19
+        },
+        {
+          "chord": "A#",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "ellerini gördüm yaban ellerin arasında...",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "G#",
+          "col": 3
+        },
+        {
+          "chord": "A#",
+          "col": 6
+        },
+        {
+          "chord": "G#",
+          "col": 9
+        },
+        {
+          "chord": "Gm",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

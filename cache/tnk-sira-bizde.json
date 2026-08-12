@@ -1,0 +1,349 @@
+{
+  "slug": "tnk-sira-bizde",
+  "artist": "TNK",
+  "title": "Sıra Bizde",
+  "key": "E",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Yapraklarını döktün sonbahar gelmeden",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 13
+        },
+        {
+          "chord": "D",
+          "col": 21
+        },
+        {
+          "chord": "Bm",
+          "col": 30
+        },
+        {
+          "chord": "Em",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sen meltemi hiç bu kadar soğuk hissetmedin",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 9
+        },
+        {
+          "chord": "D",
+          "col": 22
+        },
+        {
+          "chord": "Bm",
+          "col": 31
+        },
+        {
+          "chord": "Em",
+          "col": 41
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hergün uzaklaştın... görünmedin",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 11
+        },
+        {
+          "chord": "D",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sen niye kendin değildin?",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 4
+        },
+        {
+          "chord": "Em",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Son bir kez olsun sonbaharı görmeliydiiiiiiin",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 13
+        },
+        {
+          "chord": "D",
+          "col": 25
+        },
+        {
+          "chord": "Bm",
+          "col": 30
+        },
+        {
+          "chord": "Em",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Nak.",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "    Sensiz burada",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 4
+        },
+        {
+          "chord": "A",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "    Güneş doğmaz",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "    Sonunda bir eşin bulunmaz",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 11
+        },
+        {
+          "chord": "Em",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "    Şimdi elinde",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "    Taşlar olamaz",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "    Ama rüzgarım pes etti",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 10
+        },
+        {
+          "chord": "Em",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "    İşte şimdi sıra bizde...",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 10
+        },
+        {
+          "chord": "Bm",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Çığlıklarını duymadık, biz kendimizi kandırdık",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yolun sonunu hiç sormadık",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sonunda biz birlikte yandık",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sensiz burada",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Güneş doğmaz",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sonunda bir yeşil bulunmaz",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Şimdi evimde",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Taşlar olamaz",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ama rüzgarım pes etti",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İşte şimdi sıra bende...",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gökyüzü karardı, dağlar yandı",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Denizler dondu, çiçekler soldu",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Tabiat sustu, zaman doldu.Haaa haaaa",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 13
+        },
+        {
+          "chord": "Bm",
+          "col": 26
+        },
+        {
+          "chord": "Bm",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 4
+        },
+        {
+          "chord": "Bm",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Nak.",
+      "chords": [],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

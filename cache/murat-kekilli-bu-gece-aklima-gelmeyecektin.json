@@ -1,0 +1,145 @@
+{
+  "slug": "murat-kekilli-bu-gece-aklima-gelmeyecektin",
+  "artist": "Murat Kekilli",
+  "title": "Bu Gece Aklıma Gelmeyecektin",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "     Tüm ışıkları bir bir saklasan bulurum seni bu gece",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 5
+        },
+        {
+          "chord": "Fm",
+          "col": 35
+        },
+        {
+          "chord": "Cm",
+          "col": 53
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "     Cadde cadde sokak sokak bu kenti yakarım bu gece",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 29
+        },
+        {
+          "chord": "Cm",
+          "col": 49
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "     Ölümümsün sen benim ölüm gibi ömrümdesin",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 5
+        },
+        {
+          "chord": "A#",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "     Elindeyse al kendini benden",
+      "chords": [
+        {
+          "chord": "C#",
+          "col": 5
+        },
+        {
+          "chord": "C",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "     Bu gece aklıma gelmeyecektin bu gece",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 5
+        },
+        {
+          "chord": "D#",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "     Bu gece düşlerime girmeyecektin...",
+      "chords": [
+        {
+          "chord": "C#",
+          "col": 5
+        },
+        {
+          "chord": "C",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "     Terkedilmiş yaşantımın bir durak ötesindesin",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 5
+        },
+        {
+          "chord": "Fm",
+          "col": 28
+        },
+        {
+          "chord": "Cm",
+          "col": 46
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "     Kopartıp al al kendini küflenmiş yüreğimden",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 5
+        },
+        {
+          "chord": "Fm",
+          "col": 28
+        },
+        {
+          "chord": "Cm",
+          "col": 45
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

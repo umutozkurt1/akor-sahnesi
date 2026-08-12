@@ -1,0 +1,167 @@
+{
+  "slug": "asemira-gizli-kacak",
+  "artist": "Asemira",
+  "title": "Gizli Kaçak",
+  "key": "Db",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Bu ayrılık kalbimi sızlatıyor",
+      "chords": [
+        {
+          "chord": "Abm",
+          "col": 0
+        },
+        {
+          "chord": "Dbm",
+          "col": 14
+        },
+        {
+          "chord": "Ebm",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sen bile bilemezsin hislerimi",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 51
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yokluğun beni her gün ağlatıyor",
+      "chords": [
+        {
+          "chord": "Dbm",
+          "col": 0
+        },
+        {
+          "chord": "E",
+          "col": 15
+        },
+        {
+          "chord": "Ebm",
+          "col": 51
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hangi açıdan bakarsan bak",
+      "chords": [
+        {
+          "chord": "Abm",
+          "col": 0
+        },
+        {
+          "chord": "Ebm",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Aşk kalbime saplanmış bıçak",
+      "chords": [
+        {
+          "chord": "Abm",
+          "col": 0
+        },
+        {
+          "chord": "Ebm",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Garip bir his dans etmek yokluğunla",
+      "chords": [
+        {
+          "chord": "Abm",
+          "col": 0
+        },
+        {
+          "chord": "Ebm",
+          "col": 45
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bu gönül sana gizli kaçak",
+      "chords": [
+        {
+          "chord": "Dbm",
+          "col": 0
+        },
+        {
+          "chord": "Ebm",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Üç günlük dünyamı zehir ettin",
+      "chords": [
+        {
+          "chord": "Dbm",
+          "col": 0
+        },
+        {
+          "chord": "Ebm",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Savurdun duygularımı hep kül ettin",
+      "chords": [
+        {
+          "chord": "Dbm",
+          "col": 0
+        },
+        {
+          "chord": "Ebm",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Aşk olsun sana ben pes ettim",
+      "chords": [
+        {
+          "chord": "Dbm",
+          "col": 0
+        },
+        {
+          "chord": "Ebm",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

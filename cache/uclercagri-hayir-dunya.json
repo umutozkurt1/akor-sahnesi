@@ -1,0 +1,481 @@
+{
+  "slug": "uclercagri-hayir-dunya",
+  "artist": "uclercagri",
+  "title": "Hayır Dünya",
+  "key": "G#",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "İntro :",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 6
+        },
+        {
+          "chord": "A",
+          "col": 10
+        },
+        {
+          "chord": "F#m",
+          "col": 14
+        },
+        {
+          "chord": "G#m",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dalgası vurur ve benzemez hiçbir şeye",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 9
+        },
+        {
+          "chord": "A",
+          "col": 35
+        },
+        {
+          "chord": "F#",
+          "col": 54
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dikişlerimden başlayıp yukarı hep",
+      "chords": [
+        {
+          "chord": "G#m",
+          "col": 14
+        },
+        {
+          "chord": "C#m",
+          "col": 48
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Farı kapat, istediğin bir vitese tak",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 12
+        },
+        {
+          "chord": "A",
+          "col": 28
+        },
+        {
+          "chord": "F#m",
+          "col": 50
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Tabanlarım erir, bulsunlar bizi gelip",
+      "chords": [
+        {
+          "chord": "G#m",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dedin ki \"Ben her şeyim, yararlan al bugün",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 12
+        },
+        {
+          "chord": "A",
+          "col": 31
+        },
+        {
+          "chord": "F#",
+          "col": 52
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Acırsa kaç, ara veririz",
+      "chords": [
+        {
+          "chord": "G#m",
+          "col": 0
+        },
+        {
+          "chord": "C#m",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ama veda edilmez hiç\"",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 12
+        },
+        {
+          "chord": "A",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "\"Evet\"",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Soğuk içim",
+      "chords": [
+        {
+          "chord": "G#m",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "\"Hayır, dünya bu değil, değil\" denir",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 14
+        },
+        {
+          "chord": "E",
+          "col": 18
+        },
+        {
+          "chord": "A",
+          "col": 27
+        },
+        {
+          "chord": "F#m",
+          "col": 45
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "\"Değil, yenilmeyin\"",
+      "chords": [
+        {
+          "chord": "G#m",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "\"Hayır, dünya bu değil\" yemin edilir",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 14
+        },
+        {
+          "chord": "E",
+          "col": 18
+        },
+        {
+          "chord": "A",
+          "col": 27
+        },
+        {
+          "chord": "F#m",
+          "col": 45
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Değil, değil, değil",
+      "chords": [
+        {
+          "chord": "G#m",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Nereye kadar gider desem, elimde sen",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 13
+        },
+        {
+          "chord": "A",
+          "col": 34
+        },
+        {
+          "chord": "F#",
+          "col": 55
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Seninle ben cesur, tutarsız oluveririz",
+      "chords": [
+        {
+          "chord": "G#m",
+          "col": 14
+        },
+        {
+          "chord": "C#m",
+          "col": 51
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Çocuk gibi büyülendiler, ekiptiler",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 12
+        },
+        {
+          "chord": "A",
+          "col": 36
+        },
+        {
+          "chord": "F#m",
+          "col": 51
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gelip görüp yenildiler",
+      "chords": [
+        {
+          "chord": "G#m",
+          "col": 0
+        },
+        {
+          "chord": "C#m",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Seyirciyim, bana da sürpriz tüm hislerim",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 12
+        },
+        {
+          "chord": "A",
+          "col": 42
+        },
+        {
+          "chord": "F#m",
+          "col": 62
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Anlatmadan bil isterim, bilir misin?",
+      "chords": [
+        {
+          "chord": "G#m",
+          "col": 15
+        },
+        {
+          "chord": "C#m",
+          "col": 46
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "\"Bitir beni\"",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Benim için",
+      "chords": [
+        {
+          "chord": "G#m",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "\"Hayır, dünya bu değil, değil\" denir",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 14
+        },
+        {
+          "chord": "E",
+          "col": 18
+        },
+        {
+          "chord": "A",
+          "col": 27
+        },
+        {
+          "chord": "F#m",
+          "col": 45
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "\"Değil, yenilmeyin\"",
+      "chords": [
+        {
+          "chord": "G#m",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "\"Hayır, dünya bu değil\" yemin edilir",
+      "chords": [
+        {
+          "chord": "C#m",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 14
+        },
+        {
+          "chord": "E",
+          "col": 18
+        },
+        {
+          "chord": "A",
+          "col": 27
+        },
+        {
+          "chord": "F#m",
+          "col": 45
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Değil, değil,",
+      "chords": [
+        {
+          "chord": "G#m",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hayır dünya",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hayır dünya",
+      "chords": [],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

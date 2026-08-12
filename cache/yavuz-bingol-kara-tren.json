@@ -1,0 +1,199 @@
+{
+  "slug": "yavuz-bingol-kara-tren",
+  "artist": "Yavuz Bingöl",
+  "title": "Kara Tren",
+  "key": "D#",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Gözüm yolda gönlüm darda",
+      "chords": [
+        {
+          "chord": "D#m",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ya kendin gel ya da haber yolla",
+      "chords": [
+        {
+          "chord": "F#",
+          "col": 27
+        },
+        {
+          "chord": "G#m",
+          "col": 43
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Duyarım yazmışsın iki satır mektup",
+      "chords": [
+        {
+          "chord": "D#m",
+          "col": 0
+        },
+        {
+          "chord": "G#m",
+          "col": 11
+        },
+        {
+          "chord": "F#",
+          "col": 23
+        },
+        {
+          "chord": "C#",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Vermişsin trene halini unutup",
+      "chords": [
+        {
+          "chord": "F#",
+          "col": 0
+        },
+        {
+          "chord": "C#",
+          "col": 18
+        },
+        {
+          "chord": "B",
+          "col": 24
+        },
+        {
+          "chord": "D#m",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kara tren gecikir belki hiç gelmez",
+      "chords": [
+        {
+          "chord": "G#m",
+          "col": 0
+        },
+        {
+          "chord": "D#m",
+          "col": 12
+        },
+        {
+          "chord": "G#m",
+          "col": 19
+        },
+        {
+          "chord": "D#m",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dağlarda salınır da derdimi bilmez",
+      "chords": [
+        {
+          "chord": "G#m",
+          "col": 18
+        },
+        {
+          "chord": "F#",
+          "col": 32
+        },
+        {
+          "chord": "C#",
+          "col": 45
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dumanın savurur halimi görmez",
+      "chords": [
+        {
+          "chord": "G#m",
+          "col": 0
+        },
+        {
+          "chord": "F#",
+          "col": 14
+        },
+        {
+          "chord": "C#",
+          "col": 26
+        },
+        {
+          "chord": "D#m",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kan dolar yüreğim gözyaşım dinmez",
+      "chords": [
+        {
+          "chord": "F#",
+          "col": 1
+        },
+        {
+          "chord": "C#",
+          "col": 18
+        },
+        {
+          "chord": "B",
+          "col": 35
+        },
+        {
+          "chord": "D#m",
+          "col": 47
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yara bende derman sende",
+      "chords": [
+        {
+          "chord": "D#m",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ya kendin gel ya da bana gel de",
+      "chords": [
+        {
+          "chord": "F#",
+          "col": 27
+        },
+        {
+          "chord": "G#m",
+          "col": 43
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

@@ -1,0 +1,191 @@
+{
+  "slug": "dogus-yalnizim",
+  "artist": "Doğuş",
+  "title": "Yalnızım",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Yaşamak sensiz yaşamak",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ha ölüm ha yaşamak",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 6
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Uzansa sana ellerim",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gitmez geriye dizlerim",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 14
+        },
+        {
+          "chord": "F",
+          "col": 21
+        },
+        {
+          "chord": "Em7",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Parçalanırım yüreğimde bak",
+      "chords": [
+        {
+          "chord": "Dm7",
+          "col": 0
+        },
+        {
+          "chord": "Em7",
+          "col": 9
+        },
+        {
+          "chord": "Dm7",
+          "col": 14
+        },
+        {
+          "chord": "Em7",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Her zerrem ayrı yerlerde",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 15
+        },
+        {
+          "chord": "G",
+          "col": 30
+        },
+        {
+          "chord": "Dm7",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Seni duydum başka ellerle",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 5
+        },
+        {
+          "chord": "F",
+          "col": 14
+        },
+        {
+          "chord": "Em7",
+          "col": 25
+        },
+        {
+          "chord": "F",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Beni sorma ben doğduğumdan beri yalnızım",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 15
+        },
+        {
+          "chord": "F",
+          "col": 36
+        },
+        {
+          "chord": "Dm7",
+          "col": 60
+        },
+        {
+          "chord": "Em7",
+          "col": 65
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sevgide aşkta sadakat lazım",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sen lazım ben lazım biz lazım..",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 9
+        },
+        {
+          "chord": "Em7",
+          "col": 43
+        },
+        {
+          "chord": "Dm7",
+          "col": 51
+        },
+        {
+          "chord": "Em7",
+          "col": 58
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

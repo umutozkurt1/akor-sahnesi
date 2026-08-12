@@ -1,0 +1,150 @@
+{
+  "slug": "taner-ayni-perde",
+  "artist": "Taner",
+  "title": "Aynı Perde",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Dert yine dert bıktım senden",
+      "chords": [
+        {
+          "chord": "G#m",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Git hadi git koptuk zaten",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Her sebebin bendim madem",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Neden sustun neden",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 5
+        },
+        {
+          "chord": "A",
+          "col": 17
+        },
+        {
+          "chord": "G#m",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Olanlar oldu yakalandık",
+      "chords": [
+        {
+          "chord": "G#m",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Fırtınada yara aldık",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Olanca sevda bir kalemde silinip gitti",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 46
+        },
+        {
+          "chord": "G#m",
+          "col": 59
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yıllarca aynı rol aynı perde",
+      "chords": [
+        {
+          "chord": "G#m",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yıllarca aynı ev aynı yerde",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sevdimde katlandım bunca derde",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ama çok yanlıştı adı yanlış aşktı",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 25
+        },
+        {
+          "chord": "A",
+          "col": 50
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ama suç hep bende",
+      "chords": [
+        {
+          "chord": "G#m",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

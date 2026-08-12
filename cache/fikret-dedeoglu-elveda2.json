@@ -1,0 +1,187 @@
+{
+  "slug": "fikret-dedeoglu-elveda2",
+  "artist": "Fikret Dedeoğlu",
+  "title": "Elveda",
+  "key": "F",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Buldun mu? , yerime kimseyi buldun mu?",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "F#",
+          "col": 6
+        },
+        {
+          "chord": "Fm",
+          "col": 25
+        },
+        {
+          "chord": "F#",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Başını omzuna koydun mu?",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 13
+        },
+        {
+          "chord": "F#",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Söyle bileyim yar!",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bulduysan tenini ona sunduysan.",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "F#",
+          "col": 6
+        },
+        {
+          "chord": "Fm",
+          "col": 19
+        },
+        {
+          "chord": "F#",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Benide onda unuttuysan, söyle öleyim yar!",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 11
+        },
+        {
+          "chord": "F#",
+          "col": 18
+        },
+        {
+          "chord": "Fm",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gittinde ne oldu , hadi söyle..",
+      "chords": [
+        {
+          "chord": "A#m",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 6
+        },
+        {
+          "chord": "F#",
+          "col": 17
+        },
+        {
+          "chord": "G#",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yanımdaki özlemdin",
+      "chords": [
+        {
+          "chord": "F#",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Daha mı çok özlendin..",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sensizlik koyar ama, bensizlik sonun olacak..",
+      "chords": [
+        {
+          "chord": "A#m",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 7
+        },
+        {
+          "chord": "F#",
+          "col": 19
+        },
+        {
+          "chord": "G#",
+          "col": 27
+        },
+        {
+          "chord": "F#",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Benden sana elveda..",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

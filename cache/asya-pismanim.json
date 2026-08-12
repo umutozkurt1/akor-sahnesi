@@ -1,0 +1,139 @@
+{
+  "slug": "asya-pismanim",
+  "artist": "Asya",
+  "title": "Pişmanım",
+  "key": "F#",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Bir günah sanki aşkımız",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gözlerimdeki her damla hasretin",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bu sensiz geçirdiğim ilk gecenin",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sabahı nasıl gelir ah sevgilim",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 23
+        },
+        {
+          "chord": "Em",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Her şeyim...",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 6
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Meğer ne kaybetmişim",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Canımdan çok sevmişim",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Affet çok geç anladım",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Senden kalan bir çok şey",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hatıram oldu şimdi",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "dön artık çok pişmanım",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 10
+        },
+        {
+          "chord": "F#m",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

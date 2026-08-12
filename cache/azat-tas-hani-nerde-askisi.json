@@ -1,0 +1,231 @@
+{
+  "slug": "azat-tas-hani-nerde-askisi",
+  "artist": "Azat Taş",
+  "title": "Hani Nerde Aşkısı",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Maksadın ayrılık gözün aydın bak ayrıldık",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 8
+        },
+        {
+          "chord": "Gm",
+          "col": 23
+        },
+        {
+          "chord": "Am",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Şimdi git ellere korkma düşürmem dillere",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "Am",
+          "col": 11
+        },
+        {
+          "chord": "A#",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yazık boşa geçen senelere yalancısın yalancısın",
+      "chords": [
+        {
+          "chord": "C7",
+          "col": 18
+        },
+        {
+          "chord": "A#7",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sen bensiz daha çok ağlarsın.",
+      "chords": [
+        {
+          "chord": "C7",
+          "col": 1
+        },
+        {
+          "chord": "A#",
+          "col": 12
+        },
+        {
+          "chord": "Am",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Buraya kadarmış yolun buraya kadarmı sözlerin",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 6
+        },
+        {
+          "chord": "A#7",
+          "col": 16
+        },
+        {
+          "chord": "Am",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "     A#7         a7       g7-Am",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ne oldu yalancı bozuldumu yeminlerin",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   a7             g7          C7      F#M",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bana güneşi haram ettin neden karanlığa ittin",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Başkasına koymaz yerin hani yalnızca bana aittin.",
+      "chords": [
+        {
+          "chord": "C7",
+          "col": 8
+        },
+        {
+          "chord": "A#7",
+          "col": 18
+        },
+        {
+          "chord": "EM",
+          "col": 31
+        },
+        {
+          "chord": "F#M",
+          "col": 44
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hani nerde aşkısı hani nerde bitanesi",
+      "chords": [
+        {
+          "chord": "F#M",
+          "col": 0
+        },
+        {
+          "chord": "A#7",
+          "col": 12
+        },
+        {
+          "chord": "C7",
+          "col": 24
+        },
+        {
+          "chord": "F#M",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kapandı bu oyunun son perdesi",
+      "chords": [
+        {
+          "chord": "C7",
+          "col": 0
+        },
+        {
+          "chord": "F#M",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sus söyleme yalancı inanmam yalanlarına",
+      "chords": [
+        {
+          "chord": "A#7",
+          "col": 7
+        },
+        {
+          "chord": "C7",
+          "col": 21
+        },
+        {
+          "chord": "F#M",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Şimdi sen gündüze bense karalığına.",
+      "chords": [
+        {
+          "chord": "C7",
+          "col": 6
+        },
+        {
+          "chord": "EM",
+          "col": 19
+        },
+        {
+          "chord": "F#M",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

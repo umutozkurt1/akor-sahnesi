@@ -1,0 +1,134 @@
+{
+  "slug": "sila-korkma",
+  "artist": "Sıla",
+  "title": "Korkma",
+  "key": "F",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Eğer sensen tekilimsen beni çoka eriştirensen",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 49
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ama yine yine de gideceksen git, her şeyde bi hayır vardır",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 47
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Eger bensem, kadınımsan, beni suyla oluşturansan",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 53
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ama yine yine de gideceksen muhakkak bir sebebin vardır",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 60
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Eğer bizsek o birgün yine kavuşucaz",
+      "chords": [
+        {
+          "chord": "Eb",
+          "col": 11
+        },
+        {
+          "chord": "G",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Korkma, belki daha bile mutlu olucaz, şükran duyucaz hayata",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "G#",
+          "col": 22
+        },
+        {
+          "chord": "G",
+          "col": 39
+        },
+        {
+          "chord": "Cm",
+          "col": 60
+        },
+        {
+          "chord": "Bb",
+          "col": 75
+        },
+        {
+          "chord": "G#",
+          "col": 85
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Belki daha bile mutlu olucaz korkma",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 30
+        },
+        {
+          "chord": "Cm",
+          "col": 53
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

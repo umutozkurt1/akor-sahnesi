@@ -1,0 +1,147 @@
+{
+  "slug": "hande-unsal-kul",
+  "artist": "Hande Ünsal",
+  "title": "Kül",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "orjinal tonu: D#",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Daha çok değil üstünden seneler geçmedi ki",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yorgunum artık  bu son deyip geçebildik mi",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 10
+        },
+        {
+          "chord": "Cm7",
+          "col": 45
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Derin bir iz bıraktı içimde taze yaran",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir gün elbet kapanır",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kapandı yarım kalan sayfamız mümkün değil",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bu son değil",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 5
+        },
+        {
+          "chord": "Gm",
+          "col": 12
+        },
+        {
+          "chord": "Cm",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ayrılığın acısı sorulur mu yanana",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 13
+        },
+        {
+          "chord": "Fm",
+          "col": 21
+        },
+        {
+          "chord": "Gm",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Aşka düştüm düşeli kül oldu bahtım kara",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 13
+        },
+        {
+          "chord": "Fm",
+          "col": 25
+        },
+        {
+          "chord": "Gm",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

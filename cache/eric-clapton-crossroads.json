@@ -1,0 +1,225 @@
+{
+  "slug": "eric-clapton-crossroads",
+  "artist": "Eric Clapton",
+  "title": "Crossroads",
+  "key": "B",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "I went down to the crossroads, fell down on my knees",
+      "chords": [
+        {
+          "chord": "B7",
+          "col": 0
+        },
+        {
+          "chord": "E7",
+          "col": 31
+        },
+        {
+          "chord": "B7",
+          "col": 54
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I went down to the crossroads, fell down on my knees",
+      "chords": [
+        {
+          "chord": "E7",
+          "col": 0
+        },
+        {
+          "chord": "B7",
+          "col": 52
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ask the lord up above for mercy, take me if you please.",
+      "chords": [
+        {
+          "chord": "F#7",
+          "col": 0
+        },
+        {
+          "chord": "E7",
+          "col": 34
+        },
+        {
+          "chord": "B7",
+          "col": 55
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I went down to the crossroads, tried to flag a ride",
+      "chords": [
+        {
+          "chord": "B7",
+          "col": 0
+        },
+        {
+          "chord": "E7",
+          "col": 31
+        },
+        {
+          "chord": "B7",
+          "col": 51
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I went down to the crossroads, tried to flag a ride",
+      "chords": [
+        {
+          "chord": "E7",
+          "col": 0
+        },
+        {
+          "chord": "B7",
+          "col": 51
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Nobody seemed to know me, everybody passed me by.",
+      "chords": [
+        {
+          "chord": "F#7",
+          "col": 0
+        },
+        {
+          "chord": "E7",
+          "col": 27
+        },
+        {
+          "chord": "B7",
+          "col": 50
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Well I'm going down to Rosedale, take my rider by my side",
+      "chords": [
+        {
+          "chord": "B7",
+          "col": 0
+        },
+        {
+          "chord": "E7",
+          "col": 33
+        },
+        {
+          "chord": "B7",
+          "col": 60
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Well I'm going down to Rosedale, take my rider by my side",
+      "chords": [
+        {
+          "chord": "E7",
+          "col": 0
+        },
+        {
+          "chord": "B7",
+          "col": 57
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You can still buy a house baby, on the riverside.",
+      "chords": [
+        {
+          "chord": "F#7",
+          "col": 0
+        },
+        {
+          "chord": "E7",
+          "col": 33
+        },
+        {
+          "chord": "B7",
+          "col": 50
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You can run, you can run, tell my friends I'll be around",
+      "chords": [
+        {
+          "chord": "B7",
+          "col": 0
+        },
+        {
+          "chord": "E7",
+          "col": 26
+        },
+        {
+          "chord": "B7",
+          "col": 56
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Run, you can run, tell my friends I'll be around",
+      "chords": [
+        {
+          "chord": "E7",
+          "col": 0
+        },
+        {
+          "chord": "B7",
+          "col": 48
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Well I'm standing at the crossroads, believe I'm sinking down.",
+      "chords": [
+        {
+          "chord": "F#7",
+          "col": 0
+        },
+        {
+          "chord": "E7",
+          "col": 38
+        },
+        {
+          "chord": "B7",
+          "col": 58
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

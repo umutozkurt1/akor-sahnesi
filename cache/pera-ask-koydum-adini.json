@@ -1,0 +1,206 @@
+{
+  "slug": "pera-ask-koydum-adini",
+  "artist": "Pera",
+  "title": "Aşk Koydum Adını",
+  "key": "F#",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 4
+        },
+        {
+          "chord": "E",
+          "col": 7
+        },
+        {
+          "chord": "Bm",
+          "col": 10
+        },
+        {
+          "chord": "D",
+          "col": 14
+        },
+        {
+          "chord": "E",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Derine dalmadım, hiç usanmadım",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hiç acımadan yüreği dağladım",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Adını anmadım, hiç konuşmadım",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kimse bilmedi, seni hep sakladım",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Beni bilen biri der itin teki",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Beni sen bilirsin, bi’ tek sen anlarsın",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yaramı sararsın, uykuma rüyasın",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kimse bilmesin, sen benimlesin",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Duyanlar var kalbimin her atışında adını",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 16
+        },
+        {
+          "chord": "D",
+          "col": 42
+        },
+        {
+          "chord": "E",
+          "col": 61
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bilenler var yağmurlarda bile nasıl yandığımı",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 13
+        },
+        {
+          "chord": "D",
+          "col": 34
+        },
+        {
+          "chord": "E",
+          "col": 62
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Soranlar var, nasıl olur da saymaz senin hatırını",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 16
+        },
+        {
+          "chord": "E",
+          "col": 19
+        },
+        {
+          "chord": "A",
+          "col": 44
+        },
+        {
+          "chord": "E",
+          "col": 71
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kızmayın ona, ben çok sevdim, aşk koydum adını",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 21
+        },
+        {
+          "chord": "E",
+          "col": 49
+        },
+        {
+          "chord": "D",
+          "col": 76
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

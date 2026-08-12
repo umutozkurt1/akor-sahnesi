@@ -1,0 +1,280 @@
+{
+  "slug": "sila-insallah",
+  "artist": "Sıla",
+  "title": "İnşallah",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "İnan kalmadı solumda dermanım",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dün bütün gece oturdum da ağladım",
+      "chords": [
+        {
+          "chord": "Bbm",
+          "col": 10
+        },
+        {
+          "chord": "Fm",
+          "col": 16
+        },
+        {
+          "chord": "Bbm",
+          "col": 31
+        },
+        {
+          "chord": "Cm",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hekimde yok çaresi",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Db",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dile kolay kalbe zor söylemesi",
+      "chords": [
+        {
+          "chord": "Eb",
+          "col": 0
+        },
+        {
+          "chord": "Db",
+          "col": 28
+        },
+        {
+          "chord": "Cm",
+          "col": 40
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sende de hava kışa dönmüştür",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Eminim ellerin dizlerini dövmüştür",
+      "chords": [
+        {
+          "chord": "Bbm",
+          "col": 14
+        },
+        {
+          "chord": "Fm",
+          "col": 24
+        },
+        {
+          "chord": "Bbm",
+          "col": 34
+        },
+        {
+          "chord": "Cm",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir ışık yakmaz hayat",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Db",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Mecbur ayrılığımız aşka küstürmüştür",
+      "chords": [
+        {
+          "chord": "Eb",
+          "col": 0
+        },
+        {
+          "chord": "Db",
+          "col": 24
+        },
+        {
+          "chord": "Bbm",
+          "col": 29
+        },
+        {
+          "chord": "Cm",
+          "col": 44
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İnşallah         unutursun unutursun sen de",
+      "chords": [
+        {
+          "chord": "Eb",
+          "col": 0
+        },
+        {
+          "chord": "Db",
+          "col": 4
+        },
+        {
+          "chord": "Cm",
+          "col": 8
+        },
+        {
+          "chord": "Fm",
+          "col": 13
+        },
+        {
+          "chord": "Cm",
+          "col": 32
+        },
+        {
+          "chord": "Bbm",
+          "col": 47
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kendimi avuturum uyuturum ben de",
+      "chords": [
+        {
+          "chord": "Db",
+          "col": 9
+        },
+        {
+          "chord": "Eb",
+          "col": 19
+        },
+        {
+          "chord": "Bbm",
+          "col": 31
+        },
+        {
+          "chord": "Cm",
+          "col": 45
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İnşallah         unutursun unutursun sen de",
+      "chords": [
+        {
+          "chord": "Eb",
+          "col": 0
+        },
+        {
+          "chord": "Db",
+          "col": 4
+        },
+        {
+          "chord": "Cm",
+          "col": 8
+        },
+        {
+          "chord": "Fm",
+          "col": 13
+        },
+        {
+          "chord": "Cm",
+          "col": 32
+        },
+        {
+          "chord": "Bbm",
+          "col": 47
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kendimi avuturum uyuturum ben de",
+      "chords": [
+        {
+          "chord": "Db",
+          "col": 9
+        },
+        {
+          "chord": "Eb",
+          "col": 19
+        },
+        {
+          "chord": "Bbm",
+          "col": 31
+        },
+        {
+          "chord": "Cm",
+          "col": 45
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Zamanla unuturum ben de",
+      "chords": [
+        {
+          "chord": "Eb",
+          "col": 0
+        },
+        {
+          "chord": "Bbm",
+          "col": 15
+        },
+        {
+          "chord": "Cm",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

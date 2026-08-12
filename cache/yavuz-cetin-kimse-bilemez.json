@@ -1,0 +1,327 @@
+{
+  "slug": "yavuz-cetin-kimse-bilemez",
+  "artist": "Yavuz Çetin",
+  "title": "Kimse Bilemez",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Su gibi akıp gider hayat",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "İnsanlar değişir yüzler değişir",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 9
+        },
+        {
+          "chord": "G#sus2",
+          "col": 21
+        },
+        {
+          "chord": "Fsus2",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kimi zaman beni korkutuyor içimdeki dünya",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 12
+        },
+        {
+          "chord": "C",
+          "col": 28
+        },
+        {
+          "chord": "A#",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kimse bilemez,    hmmm",
+      "chords": [
+        {
+          "chord": "G#sus2",
+          "col": 0
+        },
+        {
+          "chord": "Fsus2",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kimse bilemez nasıl hissettiğimi",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 9
+        },
+        {
+          "chord": "A#",
+          "col": 16
+        },
+        {
+          "chord": "G#",
+          "col": 23
+        },
+        {
+          "chord": "A#",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kimse bilemez neler düşlediğimi",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 9
+        },
+        {
+          "chord": "G#",
+          "col": 21
+        },
+        {
+          "chord": "A#",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yalnızca sen duyarsın sesimi",
+      "chords": [
+        {
+          "chord": "C#maj7",
+          "col": 0
+        },
+        {
+          "chord": "G#",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Çok uzaklarda",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 4
+        },
+        {
+          "chord": "C",
+          "col": 9
+        },
+        {
+          "chord": "A#",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yaşadığım herşey benim için bile bir sır",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kimse bilemez",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kim gerçek, kimi hayal, kim oyun oynuyor",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kimse bilemez, hmmm",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kimse bilemez nasıl hissettiğimi",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kimse bilemez neler düşlediğimi",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yalnızca sen duyarsın sesimi",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Çok uzaklarda",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Solo:",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 0
+        },
+        {
+          "chord": "G#",
+          "col": 5
+        },
+        {
+          "chord": "C#maj7",
+          "col": 10
+        },
+        {
+          "chord": "G#",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "A#sus2",
+          "col": 4
+        },
+        {
+          "chord": "D#",
+          "col": 13
+        },
+        {
+          "chord": "A#sus2",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 4
+        },
+        {
+          "chord": "C",
+          "col": 9
+        },
+        {
+          "chord": "A#",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Güzel olan herşey neden çabuk biter",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kimse bilemez, hmmm",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Güzel olan herşey neden çabuk biter",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kimse bilemez, kimse bilemez",
+      "chords": [],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

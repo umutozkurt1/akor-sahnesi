@@ -1,0 +1,674 @@
+{
+  "slug": "348-bana-sen-lazimsin",
+  "artist": "348",
+  "title": "Bana Sen Lazımsın",
+  "key": "C#",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Intro:",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 2
+        },
+        {
+          "chord": "C#m",
+          "col": 4
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kurduğum bir hayalde",
+      "chords": [
+        {
+          "chord": "C#m7",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dinlediğim melodide",
+      "chords": [
+        {
+          "chord": "Ab7",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Seninle tanımadığım",
+      "chords": [
+        {
+          "chord": "C#m7",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bilmediğim bir şehirde",
+      "chords": [
+        {
+          "chord": "Ab7",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kimseler yokmuşçasına",
+      "chords": [
+        {
+          "chord": "C#m7",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Öpüştüğümüz caddelerde",
+      "chords": [
+        {
+          "chord": "Ab7",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hissediyorum ama yoksun",
+      "chords": [
+        {
+          "chord": "C#m7",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Artık düşümde bile",
+      "chords": [
+        {
+          "chord": "A7",
+          "col": 0
+        },
+        {
+          "chord": "B7",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yaşıyorum ama bomboş belki, bana sen lazımsın",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 14
+        },
+        {
+          "chord": "C#m",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gittin olmuyor sensiz, yine kaldım yarım",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 14
+        },
+        {
+          "chord": "C#m",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Son kez içmişim sanki, dudağımda tadın",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 14
+        },
+        {
+          "chord": "C#m",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Artık hep eksik yarınlarım",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 14
+        },
+        {
+          "chord": "C#m",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Üzerimde aptal çöküntü",
+      "chords": [
+        {
+          "chord": "C#m7",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Aklımdakiler hep hüzünlü",
+      "chords": [
+        {
+          "chord": "Ab7",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Zihnimde dönüp duran",
+      "chords": [
+        {
+          "chord": "C#m7",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sürekli aynı görüntü",
+      "chords": [
+        {
+          "chord": "Ab7",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bana seni hatırlatan denizi",
+      "chords": [
+        {
+          "chord": "C#m7",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Geride bırakıyorum tenini",
+      "chords": [
+        {
+          "chord": "Ab7",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Eylül gelmiş de",
+      "chords": [
+        {
+          "chord": "C#m7",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yaz bitiyormuş gibi",
+      "chords": [
+        {
+          "chord": "A7",
+          "col": 0
+        },
+        {
+          "chord": "B7",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yaşıyorum ama bomboş belki, bana sen lazımsın",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 14
+        },
+        {
+          "chord": "C#m",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gittin olmuyor sensiz, yine kaldım yarım",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 14
+        },
+        {
+          "chord": "C#m",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Son kez içmişim sanki, dudağımda tadın",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 14
+        },
+        {
+          "chord": "C#m",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Artık hep eksik yarınlarım",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 14
+        },
+        {
+          "chord": "C#m",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Zaman kavramını unuttum evrendeki",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Uzay boşluğunda bir derin yara gibi",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Öyle bir gittin ki, tıpkı dediğin gibi,",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Böylesi ikimize de daha iyi",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 22
+        },
+        {
+          "chord": "B",
+          "col": 24
+        },
+        {
+          "chord": "F#m",
+          "col": 26
+        },
+        {
+          "chord": "B",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Böylesi ikimize de daha iyi",
+      "chords": [
+        {
+          "chord": "G#",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 24
+        },
+        {
+          "chord": "B",
+          "col": 26
+        },
+        {
+          "chord": "A",
+          "col": 28
+        },
+        {
+          "chord": "B",
+          "col": 30
+        },
+        {
+          "chord": "G#",
+          "col": 32
+        },
+        {
+          "chord": "A",
+          "col": 35
+        },
+        {
+          "chord": "B",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Solo:",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "C#m",
+          "col": 2
+        },
+        {
+          "chord": "A",
+          "col": 6
+        },
+        {
+          "chord": "C#m",
+          "col": 8
+        },
+        {
+          "chord": "A",
+          "col": 12
+        },
+        {
+          "chord": "C#m",
+          "col": 14
+        },
+        {
+          "chord": "A",
+          "col": 18
+        },
+        {
+          "chord": "C#m",
+          "col": 20
+        },
+        {
+          "chord": "G#m",
+          "col": 24
+        },
+        {
+          "chord": "A",
+          "col": 28
+        },
+        {
+          "chord": "C#m",
+          "col": 30
+        },
+        {
+          "chord": "A",
+          "col": 34
+        },
+        {
+          "chord": "C#m",
+          "col": 36
+        },
+        {
+          "chord": "A",
+          "col": 40
+        },
+        {
+          "chord": "C#m",
+          "col": 42
+        },
+        {
+          "chord": "A",
+          "col": 46
+        },
+        {
+          "chord": "C#m",
+          "col": 48
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yaşıyorum ama bomboş belki, bana sen lazımsın",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 14
+        },
+        {
+          "chord": "C#m",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gittin olmuyor sensiz, yine kaldım yarım",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 14
+        },
+        {
+          "chord": "C#m",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Son kez içmişim sanki, dudağımda tadın",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 14
+        },
+        {
+          "chord": "C#m",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Artık hep eksik yarınlarım",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "B",
+          "col": 14
+        },
+        {
+          "chord": "C#m",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

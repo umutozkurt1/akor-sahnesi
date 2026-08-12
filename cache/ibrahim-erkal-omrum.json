@@ -1,0 +1,153 @@
+{
+  "slug": "ibrahim-erkal-omrum",
+  "artist": "İbrahim Erkal",
+  "title": "Ömrüm",
+  "key": "D",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Ömrüm bakışlarına ölürüm ömrüm",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 14
+        },
+        {
+          "chord": "F",
+          "col": 47
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Üzülürsen üzülürüm yaprak gibi dökülürüm ömrüm",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "Cm",
+          "col": 35
+        },
+        {
+          "chord": "F",
+          "col": 54
+        },
+        {
+          "chord": "A#",
+          "col": 70
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Benim gözümle baksaydın sana",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 18
+        },
+        {
+          "chord": "D#",
+          "col": 41
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Nasıl bir şeysin inanamazdın, nasıl bir şeysin inanamazdın",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 27
+        },
+        {
+          "chord": "Cm",
+          "col": 46
+        },
+        {
+          "chord": "D#",
+          "col": 67
+        },
+        {
+          "chord": "Dm",
+          "col": 81
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Benim gönlümden baksaydın sana",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 21
+        },
+        {
+          "chord": "D#",
+          "col": 44
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sen de severdin dayanamazdın, sen de severdin dayanamazdın",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 28
+        },
+        {
+          "chord": "Cm",
+          "col": 49
+        },
+        {
+          "chord": "D#",
+          "col": 73
+        },
+        {
+          "chord": "Dm",
+          "col": 87
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "N",
+      "chords": [],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

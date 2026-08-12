@@ -259,23 +259,10 @@ def is_section_line(lyric, chords):
 # Şarkı derleme akışı (4.1)
 # --------------------------------------------------------------------------
 
-def build_song(slug):
-    cache_file = CACHE_DIR / f"{slug}.json"
-    if cache_file.exists():
-        return json.loads(cache_file.read_text(encoding="utf-8"))
-
-    if not LIVE_SCRAPE:
-        raise RuntimeError(
-            "Bu şarkı henüz önbellekte yok. Bu sunucudan akorlar.com'a "
-            "doğrudan erişim yok (Cloudflare engeli) — önce Mac'teki "
-            "uygulamadan bu şarkıyı aç, sonra buluta senkronla."
-        )
-
-    url = f"{parser.BASE}/{slug}"
-    raw = parser.scrape_url(get_fetcher(), url)
-    if raw.get("title") and re.search(r'blocked|attention required|just a moment', raw["title"], re.I):
-        raise RuntimeError("akorlar.com bu sunucudan erişilemiyor (Cloudflare engeli).")
-
+def build_song_from_raw(slug, raw):
+    """Ham parser çıktısından (chords/lyric/meta) temel şarkı sözlüğünü kurar.
+    youtubeId/senkron henüz yok — enrich_song() ile tamamlanır.
+    """
     lines = []
     for ln in raw.get("lines", []):
         lyric = ln.get("lyric", "")
@@ -286,8 +273,7 @@ def build_song(slug):
             "section": is_section_line(lyric, chords),
             "t": None,
         })
-
-    song = {
+    return {
         "slug": slug,
         "artist": raw.get("artist"),
         "title": raw.get("title"),
@@ -297,9 +283,18 @@ def build_song(slug):
         "youtubeId": None,
         "hasSyncedLyrics": False,
         "lines": lines,
+        "enriched": False,
     }
 
-    query = " ".join(p for p in [song["artist"], song["title"]] if p) or slug
+
+def enrich_song(song):
+    """youtubeId + LRCLIB senkronunu ekler, "enriched" bayrağını True yapar.
+
+    Toplu çekimde sadece akor/söz kaydedilip video/senkron atlanabiliyor
+    (YouTube günlük kotası kısıtlı); bu fonksiyon, şarkı gerçekten
+    açıldığında o eksik kısmı tamamlar.
+    """
+    query = " ".join(p for p in [song["artist"], song["title"]] if p) or song["slug"]
     try:
         song["youtubeId"] = youtube_id(query)
     except Exception:
@@ -315,6 +310,37 @@ def build_song(slug):
         song["lines"] = align(song["lines"], parse_lrc(lrc))
         song["duration"] = duration
 
+    song["enriched"] = True
+    return song
+
+
+def build_song(slug):
+    cache_file = CACHE_DIR / f"{slug}.json"
+    cached = None
+    if cache_file.exists():
+        cached = json.loads(cache_file.read_text(encoding="utf-8"))
+        if cached.get("enriched", True):  # eski kayıtlarda bayrak yok -> zaten tam say
+            return cached
+
+    if cached is not None:
+        # Toplu çekimden gelen "sadece akor" kaydı var; sadece video/senkronu
+        # tamamlamamız yeterli, akorlar.com'a tekrar gitmeye gerek yok.
+        song = cached
+    else:
+        if not LIVE_SCRAPE:
+            raise RuntimeError(
+                "Bu şarkı henüz önbellekte yok. Bu sunucudan akorlar.com'a "
+                "doğrudan erişim yok (Cloudflare engeli) — önce Mac'teki "
+                "uygulamadan bu şarkıyı aç, sonra buluta senkronla."
+            )
+
+        url = f"{parser.BASE}/{slug}"
+        raw = parser.scrape_url(get_fetcher(), url)
+        if raw.get("title") and re.search(r'blocked|attention required|just a moment', raw["title"], re.I):
+            raise RuntimeError("akorlar.com bu sunucudan erişilemiyor (Cloudflare engeli).")
+        song = build_song_from_raw(slug, raw)
+
+    song = enrich_song(song)
     cache_file.write_text(
         json.dumps(song, ensure_ascii=False, indent=2), encoding="utf-8"
     )

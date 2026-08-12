@@ -1,0 +1,706 @@
+{
+  "slug": "flyleaf-all-around-me",
+  "artist": "Flyleaf",
+  "title": "All Around Me",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Guitar 1: (Palm Mute) C5 D#5 G#5",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "C5",
+          "col": 24
+        },
+        {
+          "chord": "D#5",
+          "col": 27
+        },
+        {
+          "chord": "G#5",
+          "col": 31
+        },
+        {
+          "chord": "A#5",
+          "col": 35
+        },
+        {
+          "chord": "G#5",
+          "col": 39
+        },
+        {
+          "chord": "G5",
+          "col": 43
+        },
+        {
+          "chord": "G#5",
+          "col": 46
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Guitar 2:",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "e------0---------0-----",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "B--------2-------------",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "G---2----------2-------",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "D-4--------------------",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "A----------------------",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "D----------------------",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Drum Etering:",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "e------0--------------------------0-----------------------",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "B--------2---------2h3p2-----------------------------2----",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "G---2---------2---------------2-2-----1h2p1--------1----2-",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "D-4---------4----2--------4-----------------4--4----------",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "A---------------------------0-------4---------------------",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "D---------------------------------------------------------",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Verse 1:",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "My hands are searching for you",
+      "chords": [
+        {
+          "chord": "C5",
+          "col": 3
+        },
+        {
+          "chord": "D#5",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "My arms are outstretched towards you",
+      "chords": [
+        {
+          "chord": "G#5",
+          "col": 3
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I feel you on my fingertips",
+      "chords": [
+        {
+          "chord": "C5",
+          "col": 2
+        },
+        {
+          "chord": "D#5",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "My tongue dances behind my lips for you",
+      "chords": [
+        {
+          "chord": "G#5",
+          "col": 3
+        },
+        {
+          "chord": "C5",
+          "col": 24
+        },
+        {
+          "chord": "D#5",
+          "col": 28
+        },
+        {
+          "chord": "G#5",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "This fire rising through my being",
+      "chords": [
+        {
+          "chord": "C5",
+          "col": 5
+        },
+        {
+          "chord": "D#5",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Burning I'm not used to seeing you",
+      "chords": [
+        {
+          "chord": "G#5",
+          "col": 0
+        },
+        {
+          "chord": "G5",
+          "col": 25
+        },
+        {
+          "chord": "D#5",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Refrain:",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "          I'm alive",
+      "chords": [
+        {
+          "chord": "D5",
+          "col": 0
+        },
+        {
+          "chord": "D#5",
+          "col": 3
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "          I'm alive",
+      "chords": [
+        {
+          "chord": "D5",
+          "col": 0
+        },
+        {
+          "chord": "D#5",
+          "col": 3
+        },
+        {
+          "chord": "G#5",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Guitar 2:",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "e-0--4--2--4--0--4--2--4--",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "B-------------------------",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "G------------------------- (x3)",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "D-------------------------",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "A-------------------------",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "D-------------------------",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I can feel you all around me",
+      "chords": [
+        {
+          "chord": "C5",
+          "col": 0
+        },
+        {
+          "chord": "D#5",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Thickening the air I'm breathing",
+      "chords": [
+        {
+          "chord": "G#5",
+          "col": 0
+        },
+        {
+          "chord": "A#5",
+          "col": 7
+        },
+        {
+          "chord": "G#5",
+          "col": 17
+        },
+        {
+          "chord": "G5",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Holding on to what I'm feeling",
+      "chords": [
+        {
+          "chord": "C5",
+          "col": 0
+        },
+        {
+          "chord": "D#5",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Savoring this heart that's healing",
+      "chords": [
+        {
+          "chord": "A#5",
+          "col": 0
+        },
+        {
+          "chord": "G5",
+          "col": 15
+        },
+        {
+          "chord": "G#5",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Verse 2:",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "My hands float up above me",
+      "chords": [
+        {
+          "chord": "C5",
+          "col": 3
+        },
+        {
+          "chord": "D#5",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And you whisper you love me",
+      "chords": [
+        {
+          "chord": "G#5",
+          "col": 4
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And I begin to fade",
+      "chords": [
+        {
+          "chord": "C5",
+          "col": 4
+        },
+        {
+          "chord": "D#5",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Into our secret place",
+      "chords": [
+        {
+          "chord": "G#5",
+          "col": 2
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "The music makes me sway",
+      "chords": [
+        {
+          "chord": "C5",
+          "col": 4
+        },
+        {
+          "chord": "D#5",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "The angels singing say we are alone with you",
+      "chords": [
+        {
+          "chord": "G#5",
+          "col": 4
+        },
+        {
+          "chord": "C5",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I am alone and they are too with you",
+      "chords": [
+        {
+          "chord": "G#5",
+          "col": 6
+        },
+        {
+          "chord": "C5",
+          "col": 16
+        },
+        {
+          "chord": "D#5",
+          "col": 21
+        },
+        {
+          "chord": "G#5",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And so I cry",
+      "chords": [
+        {
+          "chord": "C5",
+          "col": 9
+        },
+        {
+          "chord": "D#5",
+          "col": 14
+        },
+        {
+          "chord": "G#5",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "The light is white",
+      "chords": [
+        {
+          "chord": "C5",
+          "col": 4
+        },
+        {
+          "chord": "D#5",
+          "col": 9
+        },
+        {
+          "chord": "G#5",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And I see you",
+      "chords": [
+        {
+          "chord": "C5",
+          "col": 1
+        },
+        {
+          "chord": "D#5",
+          "col": 6
+        },
+        {
+          "chord": "G#5",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "(Repeat Refrain and Chorus)",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bridge: (Sing these lines faster)",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Take my hand I give it to you",
+      "chords": [
+        {
+          "chord": "C5",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Now you owe me All I am",
+      "chords": [
+        {
+          "chord": "D#5",
+          "col": 4
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You said you would never leave me",
+      "chords": [
+        {
+          "chord": "G#5",
+          "col": 0
+        },
+        {
+          "chord": "A#5",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I believe you I believe",
+      "chords": [
+        {
+          "chord": "G#5",
+          "col": 0
+        },
+        {
+          "chord": "G5",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Chorus 2:",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I can feel you all around me",
+      "chords": [
+        {
+          "chord": "C5",
+          "col": 0
+        },
+        {
+          "chord": "D#5",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Thickening the air I'm breathing",
+      "chords": [
+        {
+          "chord": "G#5",
+          "col": 0
+        },
+        {
+          "chord": "A#5",
+          "col": 7
+        },
+        {
+          "chord": "G#5",
+          "col": 17
+        },
+        {
+          "chord": "G5",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Holding on to what I'm feeling",
+      "chords": [
+        {
+          "chord": "C5",
+          "col": 0
+        },
+        {
+          "chord": "D#5",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Savoring this heart that's healed",
+      "chords": [
+        {
+          "chord": "A#5",
+          "col": 0
+        },
+        {
+          "chord": "G5",
+          "col": 15
+        },
+        {
+          "chord": "G#5",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

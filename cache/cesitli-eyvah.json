@@ -1,0 +1,212 @@
+{
+  "slug": "cesitli-eyvah",
+  "artist": "Çeşitli",
+  "title": "Eyvah",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Karadır şu bahtım kara",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 11
+        },
+        {
+          "chord": "Am",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sözüm kar etmiyor yara",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 11
+        },
+        {
+          "chord": "Am",
+          "col": 20
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "sen düşürdün beni dara eyvah eyvah eyvah ey",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 13
+        },
+        {
+          "chord": "C",
+          "col": 24
+        },
+        {
+          "chord": "A#",
+          "col": 30
+        },
+        {
+          "chord": "Am",
+          "col": 36
+        },
+        {
+          "chord": "Am",
+          "col": 43
+        },
+        {
+          "chord": "A#",
+          "col": 46
+        },
+        {
+          "chord": "C",
+          "col": 49
+        },
+        {
+          "chord": "Dm",
+          "col": 51
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "kendim etti kendim buldum",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "gül gibi sararıp soldum",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "eyvah eyvah ey",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 0
+        },
+        {
+          "chord": "Gm",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "bilmez yar halımdan bilmez",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 14
+        },
+        {
+          "chord": "Am",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "akar göz yaşlarım dinmez",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 13
+        },
+        {
+          "chord": "Am",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "bir kere yüzüme gülmez eyvah eyvah eyvah ey",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Dm",
+          "col": 19
+        },
+        {
+          "chord": "C",
+          "col": 26
+        },
+        {
+          "chord": "A#",
+          "col": 31
+        },
+        {
+          "chord": "Am",
+          "col": 38
+        },
+        {
+          "chord": "Am",
+          "col": 43
+        },
+        {
+          "chord": "A#",
+          "col": 46
+        },
+        {
+          "chord": "C",
+          "col": 49
+        },
+        {
+          "chord": "Dm",
+          "col": 51
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

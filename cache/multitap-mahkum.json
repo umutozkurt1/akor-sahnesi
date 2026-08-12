@@ -1,0 +1,242 @@
+{
+  "slug": "multitap-mahkum",
+  "artist": "Multitap",
+  "title": "Mahkum",
+  "key": "F",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Intro:",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "P.M.",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "E----------------------------------",
+      "chords": [
+        {
+          "chord": "F5",
+          "col": 6
+        },
+        {
+          "chord": "F5",
+          "col": 9
+        },
+        {
+          "chord": "G#5",
+          "col": 12
+        },
+        {
+          "chord": "F5",
+          "col": 24
+        },
+        {
+          "chord": "D#5",
+          "col": 27
+        },
+        {
+          "chord": "F5",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "B----------------------------------",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "G----------------------------------",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "D----------------------------------",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "A-0-0-0-0-0--0-3----0-0-0-0-0---0--",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "E------------------------------3---",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gelişimi durduramazsın, yenisine dur diyemezsin.",
+      "chords": [
+        {
+          "chord": "F5",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 3
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Değişimi kavrayamazsan, yok olup gitmeye mahkumsun!",
+      "chords": [
+        {
+          "chord": "F5",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 3
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Mahkumsun savrulup uçmaya,",
+      "chords": [
+        {
+          "chord": "C#",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Mahkumsun aynaya bakmaya,",
+      "chords": [
+        {
+          "chord": "C#",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "O yalanları tek tek yutmaya,",
+      "chords": [
+        {
+          "chord": "C#",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gerçeği saptırmaya mahkumsun!",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Arkada bak uçurum zaman, faydası yok silip atmadan.",
+      "chords": [
+        {
+          "chord": "F5",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 3
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Geçmişe baktığın her adımda, kaybetmeye mahkumsun!",
+      "chords": [
+        {
+          "chord": "F5",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 3
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Mahkumsun korkuyu seçmeye,",
+      "chords": [
+        {
+          "chord": "C#",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Mahkumsun yanlışı biçmeye,",
+      "chords": [
+        {
+          "chord": "C#",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kendini kurnaz sanıyorsan,",
+      "chords": [
+        {
+          "chord": "C#",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bu diyardan göçmeye mahkumsun!",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 0
+        },
+        {
+          "chord": "Fm",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

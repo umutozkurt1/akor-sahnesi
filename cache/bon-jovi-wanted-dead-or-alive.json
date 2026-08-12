@@ -1,0 +1,830 @@
+{
+  "slug": "bon-jovi-wanted-dead-or-alive",
+  "artist": "Bon Jovi",
+  "title": "Wanted Dead Or Alive",
+  "key": "D",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "It's all the same, only the names will change",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 5
+        },
+        {
+          "chord": "Cadd9",
+          "col": 19
+        },
+        {
+          "chord": "G",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Everyday it seems we're wasting away",
+      "chords": [
+        {
+          "chord": "Cadd9",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 8
+        },
+        {
+          "chord": "F",
+          "col": 28
+        },
+        {
+          "chord": "D",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Another place where the faces are so cold",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 2
+        },
+        {
+          "chord": "Cadd9",
+          "col": 24
+        },
+        {
+          "chord": "G",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'd drive all night just to get back home",
+      "chords": [
+        {
+          "chord": "Cadd9",
+          "col": 4
+        },
+        {
+          "chord": "G",
+          "col": 14
+        },
+        {
+          "chord": "G",
+          "col": 28
+        },
+        {
+          "chord": "F",
+          "col": 32
+        },
+        {
+          "chord": "D",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'm a cowboy",
+      "chords": [
+        {
+          "chord": "Cadd9",
+          "col": 6
+        },
+        {
+          "chord": "G",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "On a steel horse I ride",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 5
+        },
+        {
+          "chord": "D",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'm wanted  dead or alive",
+      "chords": [
+        {
+          "chord": "Cadd9",
+          "col": 4
+        },
+        {
+          "chord": "G",
+          "col": 10
+        },
+        {
+          "chord": "F",
+          "col": 12
+        },
+        {
+          "chord": "C",
+          "col": 17
+        },
+        {
+          "chord": "D",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Wanted  dead or alive",
+      "chords": [
+        {
+          "chord": "Cadd9",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 6
+        },
+        {
+          "chord": "F",
+          "col": 8
+        },
+        {
+          "chord": "C",
+          "col": 13
+        },
+        {
+          "chord": "D",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "  Sometimes I sleep, sometimes it's not for days",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 6
+        },
+        {
+          "chord": "Cadd9",
+          "col": 25
+        },
+        {
+          "chord": "G",
+          "col": 44
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And the people I meet always go their separate ways",
+      "chords": [
+        {
+          "chord": "Cadd9",
+          "col": 8
+        },
+        {
+          "chord": "G",
+          "col": 21
+        },
+        {
+          "chord": "F",
+          "col": 38
+        },
+        {
+          "chord": "D",
+          "col": 49
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sometimes you tell the day by the bottle that you drink",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 4
+        },
+        {
+          "chord": "Cadd9",
+          "col": 34
+        },
+        {
+          "chord": "G",
+          "col": 46
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And times when you're alone all you do is think",
+      "chords": [
+        {
+          "chord": "Cadd9",
+          "col": 4
+        },
+        {
+          "chord": "G",
+          "col": 23
+        },
+        {
+          "chord": "G",
+          "col": 28
+        },
+        {
+          "chord": "F",
+          "col": 32
+        },
+        {
+          "chord": "D",
+          "col": 42
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'm a cowboy",
+      "chords": [
+        {
+          "chord": "Cadd9",
+          "col": 6
+        },
+        {
+          "chord": "G",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "On a steel horse I ride",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 5
+        },
+        {
+          "chord": "D",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'm wanted, wanted, dead or alive",
+      "chords": [
+        {
+          "chord": "Cadd9",
+          "col": 4
+        },
+        {
+          "chord": "G",
+          "col": 12
+        },
+        {
+          "chord": "F",
+          "col": 20
+        },
+        {
+          "chord": "C",
+          "col": 25
+        },
+        {
+          "chord": "D",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Wanted wanted dead or alive",
+      "chords": [
+        {
+          "chord": "Cadd9",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 7
+        },
+        {
+          "chord": "F",
+          "col": 14
+        },
+        {
+          "chord": "C",
+          "col": 19
+        },
+        {
+          "chord": "D",
+          "col": 23
+        },
+        {
+          "chord": "Dm",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Cadd9",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 6
+        },
+        {
+          "chord": "Cadd9",
+          "col": 8
+        },
+        {
+          "chord": "G",
+          "col": 14
+        },
+        {
+          "chord": "G",
+          "col": 16
+        },
+        {
+          "chord": "F",
+          "col": 18
+        },
+        {
+          "chord": "D",
+          "col": 20
+        },
+        {
+          "chord": "Cadd9",
+          "col": 22
+        },
+        {
+          "chord": "G",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Cadd9",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 6
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "     I'm a cowboy",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 2
+        },
+        {
+          "chord": "D",
+          "col": 4
+        },
+        {
+          "chord": "Cadd9",
+          "col": 11
+        },
+        {
+          "chord": "G",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "On a steel horse I ride",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 5
+        },
+        {
+          "chord": "D",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'm wanted dead or alive",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I walk these streets, a loaded six  string on my back",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 2
+        },
+        {
+          "chord": "Cadd9",
+          "col": 31
+        },
+        {
+          "chord": "G",
+          "col": 46
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I play for keeps, 'cause I might not make it back",
+      "chords": [
+        {
+          "chord": "Cadd9",
+          "col": 2
+        },
+        {
+          "chord": "G",
+          "col": 17
+        },
+        {
+          "chord": "F",
+          "col": 33
+        },
+        {
+          "chord": "D",
+          "col": 45
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I been everywhere, still I'm standing tall",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 7
+        },
+        {
+          "chord": "Cadd9",
+          "col": 29
+        },
+        {
+          "chord": "G",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I've seen a million faces and I've rocked them all!",
+      "chords": [
+        {
+          "chord": "Cadd9",
+          "col": 5
+        },
+        {
+          "chord": "G",
+          "col": 20
+        },
+        {
+          "chord": "G",
+          "col": 35
+        },
+        {
+          "chord": "F",
+          "col": 42
+        },
+        {
+          "chord": "D",
+          "col": 51
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "'Cause I'm a cowboy",
+      "chords": [
+        {
+          "chord": "Cadd9",
+          "col": 13
+        },
+        {
+          "chord": "G",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "On a steel horse I ride",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 5
+        },
+        {
+          "chord": "D",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'm wanted wanted dead or alive",
+      "chords": [
+        {
+          "chord": "Cadd9",
+          "col": 4
+        },
+        {
+          "chord": "G",
+          "col": 15
+        },
+        {
+          "chord": "F",
+          "col": 18
+        },
+        {
+          "chord": "C",
+          "col": 23
+        },
+        {
+          "chord": "D",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And I'm a cowboy",
+      "chords": [
+        {
+          "chord": "Cadd9",
+          "col": 10
+        },
+        {
+          "chord": "G",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I got the night on my side",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 10
+        },
+        {
+          "chord": "C",
+          "col": 16
+        },
+        {
+          "chord": "D",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And I'm  wanted wanted) dead or alive",
+      "chords": [
+        {
+          "chord": "Cadd9",
+          "col": 4
+        },
+        {
+          "chord": "G",
+          "col": 20
+        },
+        {
+          "chord": "F",
+          "col": 24
+        },
+        {
+          "chord": "D",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And I     ride and I ride, dead or alive",
+      "chords": [
+        {
+          "chord": "Cadd9",
+          "col": 5
+        },
+        {
+          "chord": "G",
+          "col": 20
+        },
+        {
+          "chord": "F",
+          "col": 27
+        },
+        {
+          "chord": "C",
+          "col": 32
+        },
+        {
+          "chord": "D",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I still drive still drive, dead or alive",
+      "chords": [
+        {
+          "chord": "Cadd9",
+          "col": 8
+        },
+        {
+          "chord": "G",
+          "col": 19
+        },
+        {
+          "chord": "F",
+          "col": 27
+        },
+        {
+          "chord": "C",
+          "col": 32
+        },
+        {
+          "chord": "D",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dead or alive",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 5
+        },
+        {
+          "chord": "G",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dead or alive",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 5
+        },
+        {
+          "chord": "D",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dead or alive",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 5
+        },
+        {
+          "chord": "G",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Dead or alive",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "C",
+          "col": 5
+        },
+        {
+          "chord": "D",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

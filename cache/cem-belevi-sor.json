@@ -1,0 +1,184 @@
+{
+  "slug": "cem-belevi-sor",
+  "artist": "Cem Belevi",
+  "title": "Sor",
+  "key": "B",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Intro:",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 5
+        },
+        {
+          "chord": "Em",
+          "col": 10
+        },
+        {
+          "chord": "F#m",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sor, yerleri yaratan,",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Gökleri yaratan altı günde bilir halimi",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ona sor, dertleri yaşatan,",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 5
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Derman aratan kara günde bilir halimi",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ona sor, bana sorma",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 5
+        },
+        {
+          "chord": "F#m",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Benim halim, vaktim, keyfim yerindeyken",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bir zalim sevdim, bittim elindeyken",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Kor oldum, yandım, oldum huzurumdan",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Offf",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Öyle yağma yok",
+      "chords": [
+        {
+          "chord": "Bm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ya gelir ya gider bir karar verirsin",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Baştan savma yok",
+      "chords": [
+        {
+          "chord": "F#m",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ya sever ya siler sen aşkı bilirsin",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Başka çare yok, başka çare yok",
+      "chords": [
+        {
+          "chord": "Em",
+          "col": 0
+        },
+        {
+          "chord": "F#m",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

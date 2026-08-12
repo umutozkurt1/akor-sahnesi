@@ -1,0 +1,749 @@
+{
+  "slug": "oasis-talk-tonight",
+  "artist": "Oasis",
+  "title": "Talk Tonight",
+  "key": "E",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Em7",
+          "col": 0
+        },
+        {
+          "chord": "A7sus4",
+          "col": 4
+        },
+        {
+          "chord": "C7",
+          "col": 11
+        },
+        {
+          "chord": "G",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "A7sus4",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Cadd9",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sittin' on my own",
+      "chords": [
+        {
+          "chord": "Em7",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Chewin' on a bone",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "A thousand million",
+      "chords": [
+        {
+          "chord": "A7sus4",
+          "col": 6
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Miles from home",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "When Something hit me",
+      "chords": [
+        {
+          "chord": "Cadd9",
+          "col": 5
+        },
+        {
+          "chord": "G",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Somewhere right between the eyes",
+      "chords": [
+        {
+          "chord": "A7sus4",
+          "col": 0
+        },
+        {
+          "chord": "Cadd9",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sleepin' on a plane",
+      "chords": [
+        {
+          "chord": "Em7",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You know you can't complain",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You took      your last chance",
+      "chords": [
+        {
+          "chord": "A7sus4",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Once again I landed, stranded",
+      "chords": [
+        {
+          "chord": "Cadd9",
+          "col": 13
+        },
+        {
+          "chord": "G",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hardly even knew your name",
+      "chords": [
+        {
+          "chord": "A7",
+          "col": 0
+        },
+        {
+          "chord": "Cadd9",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I wanna talk tonight",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 20
+        },
+        {
+          "chord": "D",
+          "col": 22
+        },
+        {
+          "chord": "Em7",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Until the mornin' light",
+      "chords": [
+        {
+          "chord": "Cadd9",
+          "col": 14
+        },
+        {
+          "chord": "G",
+          "col": 23
+        },
+        {
+          "chord": "D",
+          "col": 25
+        },
+        {
+          "chord": "Em7",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "'Bout how you saved     my life",
+      "chords": [
+        {
+          "chord": "Cadd9",
+          "col": 19
+        },
+        {
+          "chord": "G",
+          "col": 31
+        },
+        {
+          "chord": "D",
+          "col": 33
+        },
+        {
+          "chord": "Em7",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You and me     see how we are",
+      "chords": [
+        {
+          "chord": "Cadd9",
+          "col": 10
+        },
+        {
+          "chord": "A7sus4",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "     You and me see how we are",
+      "chords": [
+        {
+          "chord": "Cadd9",
+          "col": 0
+        },
+        {
+          "chord": "A7sus4",
+          "col": 27
+        },
+        {
+          "chord": "Cadd9",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Em7",
+          "col": 0
+        },
+        {
+          "chord": "A7sus4",
+          "col": 4
+        },
+        {
+          "chord": "C7",
+          "col": 11
+        },
+        {
+          "chord": "G",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "A7sus4",
+          "col": 0
+        },
+        {
+          "chord": "Cadd9",
+          "col": 7
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "All your dreams are made",
+      "chords": [
+        {
+          "chord": "Em7",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Of Strawberry lemonade",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And you      make sure",
+      "chords": [
+        {
+          "chord": "A7sus4",
+          "col": 7
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I eat today",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "You take me walking",
+      "chords": [
+        {
+          "chord": "Cadd9",
+          "col": 4
+        },
+        {
+          "chord": "G",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "To where you played",
+      "chords": [
+        {
+          "chord": "A7",
+          "col": 3
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "when you were young",
+      "chords": [
+        {
+          "chord": "Cadd9",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I'll never say that I",
+      "chords": [
+        {
+          "chord": "Em7",
+          "col": 5
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Won't ever make you cry",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And this      I'll say",
+      "chords": [
+        {
+          "chord": "A7sus4",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I don't know why",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I know I'm leavin'",
+      "chords": [
+        {
+          "chord": "Cadd9",
+          "col": 2
+        },
+        {
+          "chord": "G",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "But I'll      be back another day",
+      "chords": [
+        {
+          "chord": "A7sus4",
+          "col": 8
+        },
+        {
+          "chord": "Cadd9",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I wanna talk tonight",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 20
+        },
+        {
+          "chord": "D",
+          "col": 22
+        },
+        {
+          "chord": "Em7",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Until the mornin' light",
+      "chords": [
+        {
+          "chord": "Cadd9",
+          "col": 14
+        },
+        {
+          "chord": "G",
+          "col": 23
+        },
+        {
+          "chord": "D",
+          "col": 25
+        },
+        {
+          "chord": "Em7",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "'Bout how you saved     my life",
+      "chords": [
+        {
+          "chord": "Cadd9",
+          "col": 19
+        },
+        {
+          "chord": "G",
+          "col": 31
+        },
+        {
+          "chord": "D",
+          "col": 33
+        },
+        {
+          "chord": "Em7",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I wanna talk     tonight",
+      "chords": [
+        {
+          "chord": "Cadd9",
+          "col": 12
+        },
+        {
+          "chord": "G",
+          "col": 24
+        },
+        {
+          "chord": "D",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "   'Bout how you saved     my life",
+      "chords": [
+        {
+          "chord": "Em7",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 9
+        },
+        {
+          "chord": "Cadd9",
+          "col": 22
+        },
+        {
+          "chord": "D",
+          "col": 29
+        },
+        {
+          "chord": "G",
+          "col": 34
+        },
+        {
+          "chord": "D",
+          "col": 36
+        },
+        {
+          "chord": "Em7",
+          "col": 38
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "'Bout how you saved     my life",
+      "chords": [
+        {
+          "chord": "Cadd9",
+          "col": 19
+        },
+        {
+          "chord": "G",
+          "col": 31
+        },
+        {
+          "chord": "D",
+          "col": 33
+        },
+        {
+          "chord": "Em7",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "'Bout how you saved     my life",
+      "chords": [
+        {
+          "chord": "Cadd9",
+          "col": 19
+        },
+        {
+          "chord": "G",
+          "col": 31
+        },
+        {
+          "chord": "D",
+          "col": 33
+        },
+        {
+          "chord": "Em7",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "'Bout how you saved     my life",
+      "chords": [
+        {
+          "chord": "Cadd9",
+          "col": 19
+        },
+        {
+          "chord": "G",
+          "col": 31
+        },
+        {
+          "chord": "D",
+          "col": 33
+        },
+        {
+          "chord": "Em7",
+          "col": 35
+        },
+        {
+          "chord": "D",
+          "col": 39
+        },
+        {
+          "chord": "Cadd9",
+          "col": 41
+        },
+        {
+          "chord": "D",
+          "col": 47
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 2
+        },
+        {
+          "chord": "Em7",
+          "col": 4
+        },
+        {
+          "chord": "Cadd9",
+          "col": 8
+        },
+        {
+          "chord": "G",
+          "col": 14
+        },
+        {
+          "chord": "D",
+          "col": 16
+        },
+        {
+          "chord": "Em7",
+          "col": 18
+        },
+        {
+          "chord": "D",
+          "col": 22
+        },
+        {
+          "chord": "Cadd9",
+          "col": 24
+        },
+        {
+          "chord": "D",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 2
+        },
+        {
+          "chord": "Em7",
+          "col": 4
+        },
+        {
+          "chord": "Cadd9",
+          "col": 8
+        },
+        {
+          "chord": "A7sus4",
+          "col": 14
+        },
+        {
+          "chord": "Cadd9",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "A7sus4",
+          "col": 0
+        },
+        {
+          "chord": "Cadd9",
+          "col": 7
+        },
+        {
+          "chord": "Em7",
+          "col": 13
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

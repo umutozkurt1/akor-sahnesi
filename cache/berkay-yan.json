@@ -1,0 +1,157 @@
+{
+  "slug": "berkay-yan",
+  "artist": "Berkay",
+  "title": "Yan",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 4
+        },
+        {
+          "chord": "Em",
+          "col": 7
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Unutamadım seni bırakıp giderken bu şehirde her şeyi",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 27
+        },
+        {
+          "chord": "F",
+          "col": 36
+        },
+        {
+          "chord": "Am",
+          "col": 78
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Konuşamadım seni unuttum en büyük zalimi sevdiğimi",
+      "chords": [
+        {
+          "chord": "Dm",
+          "col": 29
+        },
+        {
+          "chord": "F",
+          "col": 39
+        },
+        {
+          "chord": "Am",
+          "col": 75
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bıraktığın yeri sarmış hatıralar",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 21
+        },
+        {
+          "chord": "Am",
+          "col": 46
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Çaldığın ömrü yakmış yıkmış ah anılar",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 21
+        },
+        {
+          "chord": "Am",
+          "col": 57
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Eğer özlersen ve yol gözlersen hiç bunlar yaşanmadı say",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 26
+        },
+        {
+          "chord": "Em",
+          "col": 49
+        },
+        {
+          "chord": "Am",
+          "col": 84
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Çünkü ben dönmem asla sözümden",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 7
+        },
+        {
+          "chord": "Dm",
+          "col": 34
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Sen bensiz günlerine yan",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "G",
+          "col": 19
+        },
+        {
+          "chord": "Am",
+          "col": 35
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

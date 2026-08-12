@@ -1,0 +1,163 @@
+{
+  "slug": "deha-vazgec-kalbim",
+  "artist": "Deha",
+  "title": "Vazgeç Kalbim",
+  "key": "A",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Kaderim seninsizlik ecelim sen olsan da",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Üzüleceğim sanma sakın canımı acıtsan da",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Belki çok aldandım umutsuzca yalvardım",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 11
+        },
+        {
+          "chord": "Gm",
+          "col": 43
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Hep içimde saklardım aşkı ne fayda",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 12
+        },
+        {
+          "chord": "A#",
+          "col": 26
+        },
+        {
+          "chord": "Dm",
+          "col": 47
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yapayalnız günlerime geri dönüyorum",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 53
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bende kalan her şeyi yırtıp yok ediyorum",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 36
+        },
+        {
+          "chord": "Am",
+          "col": 57
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Vazgeç kalbim sonununu göremem",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 20
+        },
+        {
+          "chord": "A#",
+          "col": 50
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yalvarsan da, geriye dönemem",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 22
+        },
+        {
+          "chord": "C",
+          "col": 43
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Boş ver gitsin, yoluna ölemem",
+      "chords": [
+        {
+          "chord": "A#",
+          "col": 17
+        },
+        {
+          "chord": "Gm",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Bundan sonra seviyorum diyemem",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 19
+        },
+        {
+          "chord": "A#",
+          "col": 28
+        },
+        {
+          "chord": "F",
+          "col": 47
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

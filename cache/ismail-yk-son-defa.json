@@ -1,0 +1,153 @@
+{
+  "slug": "ismail-yk-son-defa",
+  "artist": "İsmail YK",
+  "title": "Son Defa",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Doluyor gözlerim unutur mu dersin",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "C#",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Soluyor bu canım daha ne beklersin",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 21
+        },
+        {
+          "chord": "C#",
+          "col": 26
+        },
+        {
+          "chord": "Cm",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Icimdeki umudu silemedim atamadım (ışıgı atamadım)",
+      "chords": [
+        {
+          "chord": "C#",
+          "col": 3
+        },
+        {
+          "chord": "Cm",
+          "col": 11
+        },
+        {
+          "chord": "D#",
+          "col": 21
+        },
+        {
+          "chord": "C#",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Şunu ben anladım sensiz yatamadım",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 5
+        },
+        {
+          "chord": "D#",
+          "col": 13
+        },
+        {
+          "chord": "C#",
+          "col": 21
+        },
+        {
+          "chord": "Cm",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Son defa bebeğim yanına varayım",
+      "chords": [
+        {
+          "chord": "Fm",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Son defa birtanem kollarıma alayım (yüregime sarayım)",
+      "chords": [
+        {
+          "chord": "G#m",
+          "col": 0
+        },
+        {
+          "chord": "D#",
+          "col": 4
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Son defa sevdiğim gözlerine dalayım",
+      "chords": [
+        {
+          "chord": "C#",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Son defa, son defa",
+      "chords": [
+        {
+          "chord": "D#",
+          "col": 0
+        },
+        {
+          "chord": "C#",
+          "col": 8
+        },
+        {
+          "chord": "Cm",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

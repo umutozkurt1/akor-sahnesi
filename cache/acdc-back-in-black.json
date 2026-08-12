@@ -1,0 +1,926 @@
+{
+  "slug": "acdc-back-in-black",
+  "artist": "ACDC",
+  "title": "Back In Black",
+  "key": "E",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "Intro",
+      "chords": [],
+      "section": true,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 2
+        },
+        {
+          "chord": "A",
+          "col": 4
+        },
+        {
+          "chord": "E",
+          "col": 6
+        },
+        {
+          "chord": "D",
+          "col": 8
+        },
+        {
+          "chord": "A",
+          "col": 10
+        },
+        {
+          "chord": "G#5",
+          "col": 12
+        },
+        {
+          "chord": "A5",
+          "col": 16
+        },
+        {
+          "chord": "A#5",
+          "col": 19
+        },
+        {
+          "chord": "B5",
+          "col": 23
+        },
+        {
+          "chord": "E",
+          "col": 26
+        },
+        {
+          "chord": "D",
+          "col": 28
+        },
+        {
+          "chord": "A",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 2
+        },
+        {
+          "chord": "A",
+          "col": 4
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "G#5",
+          "col": 0
+        },
+        {
+          "chord": "A5",
+          "col": 4
+        },
+        {
+          "chord": "A#5",
+          "col": 7
+        },
+        {
+          "chord": "B5",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Back in black I hit the sack",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 13
+        },
+        {
+          "chord": "A",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "It's been too long I'm glad to be back",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yes I'm let loose from the noose",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 7
+        },
+        {
+          "chord": "D",
+          "col": 17
+        },
+        {
+          "chord": "A",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "That's kept   me hanging around",
+      "chords": [
+        {
+          "chord": "G#5",
+          "col": 11
+        },
+        {
+          "chord": "A5",
+          "col": 17
+        },
+        {
+          "chord": "A#5",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I've been looking at the sky Ð¡ause it's getting me high",
+      "chords": [
+        {
+          "chord": "B5",
+          "col": 5
+        },
+        {
+          "chord": "E",
+          "col": 10
+        },
+        {
+          "chord": "D",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Forget the hearse cause I never die",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "I got nine lives, cat's eyes",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 5
+        },
+        {
+          "chord": "D",
+          "col": 17
+        },
+        {
+          "chord": "A",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Abusing every one of them And running wild",
+      "chords": [
+        {
+          "chord": "G#5",
+          "col": 18
+        },
+        {
+          "chord": "A5",
+          "col": 30
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "A#5",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Cause I'm back",
+      "chords": [
+        {
+          "chord": "B5",
+          "col": 6
+        },
+        {
+          "chord": "B",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yes I'm back",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Well I'm back",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yes I'm back",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Well I'm back back",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Well I'm back in black",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yes I'm back in black Oh!",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Back in the back of a Cadillac Number",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 17
+        },
+        {
+          "chord": "A",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "One with a bullet I'm a power pack",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yes I'm in the bang with a gang",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 7
+        },
+        {
+          "chord": "D",
+          "col": 19
+        },
+        {
+          "chord": "A",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "They've got to catch me",
+      "chords": [
+        {
+          "chord": "G#5",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "If they want me to hang",
+      "chords": [
+        {
+          "chord": "A5",
+          "col": 8
+        },
+        {
+          "chord": "A#5",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Cause I'm back on the track And I'm beating the flack",
+      "chords": [
+        {
+          "chord": "B5",
+          "col": 6
+        },
+        {
+          "chord": "E",
+          "col": 10
+        },
+        {
+          "chord": "D",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Nobody's gonna get me on another rap",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "So look at me now I'm just making my play",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 3
+        },
+        {
+          "chord": "D",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Don't try to push your luck",
+      "chords": [
+        {
+          "chord": "G#5",
+          "col": 27
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Just get out of my way",
+      "chords": [
+        {
+          "chord": "A5",
+          "col": 9
+        },
+        {
+          "chord": "A#5",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Cause I'm back",
+      "chords": [
+        {
+          "chord": "B5",
+          "col": 6
+        },
+        {
+          "chord": "B",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yes I'm back",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Well I'm back",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yes I'm back",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Well I'm back back",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Well I'm back in black",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 9
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yes I'm back in black",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 2
+        },
+        {
+          "chord": "A",
+          "col": 4
+        },
+        {
+          "chord": "E",
+          "col": 6
+        },
+        {
+          "chord": "D",
+          "col": 8
+        },
+        {
+          "chord": "A",
+          "col": 10
+        },
+        {
+          "chord": "E",
+          "col": 12
+        },
+        {
+          "chord": "D",
+          "col": 14
+        },
+        {
+          "chord": "A",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 2
+        },
+        {
+          "chord": "A",
+          "col": 4
+        },
+        {
+          "chord": "E",
+          "col": 6
+        },
+        {
+          "chord": "D",
+          "col": 8
+        },
+        {
+          "chord": "A",
+          "col": 10
+        },
+        {
+          "chord": "E",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 2
+        },
+        {
+          "chord": "E",
+          "col": 4
+        },
+        {
+          "chord": "D",
+          "col": 6
+        },
+        {
+          "chord": "A",
+          "col": 8
+        },
+        {
+          "chord": "E",
+          "col": 10
+        },
+        {
+          "chord": "D",
+          "col": 12
+        },
+        {
+          "chord": "A",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Well I'm back   Yes I'm back",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 9
+        },
+        {
+          "chord": "B",
+          "col": 13
+        },
+        {
+          "chord": "E",
+          "col": 15
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Well I'm back",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yes I'm back",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Well I'm back back",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Cause I'm back in black",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 10
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Yes I'm back in black",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 8
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "     Well, I'm back back",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 2
+        },
+        {
+          "chord": "E",
+          "col": 4
+        },
+        {
+          "chord": "B",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Back back",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Back back",
+      "chords": [
+        {
+          "chord": "B",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Back in black Yes I'm back in black",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 22
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Outta sight",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 2
+        },
+        {
+          "chord": "A",
+          "col": 4
+        },
+        {
+          "chord": "E",
+          "col": 6
+        },
+        {
+          "chord": "D",
+          "col": 8
+        },
+        {
+          "chord": "A",
+          "col": 10
+        },
+        {
+          "chord": "E",
+          "col": 12
+        },
+        {
+          "chord": "D",
+          "col": 14
+        },
+        {
+          "chord": "A",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "E",
+          "col": 0
+        },
+        {
+          "chord": "D",
+          "col": 2
+        },
+        {
+          "chord": "A",
+          "col": 4
+        },
+        {
+          "chord": "E",
+          "col": 6
+        },
+        {
+          "chord": "D",
+          "col": 8
+        },
+        {
+          "chord": "A",
+          "col": 10
+        },
+        {
+          "chord": "E",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "D",
+          "col": 0
+        },
+        {
+          "chord": "A",
+          "col": 2
+        },
+        {
+          "chord": "E",
+          "col": 4
+        },
+        {
+          "chord": "D",
+          "col": 6
+        },
+        {
+          "chord": "A",
+          "col": 8
+        },
+        {
+          "chord": "E",
+          "col": 10
+        },
+        {
+          "chord": "D",
+          "col": 12
+        },
+        {
+          "chord": "A",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

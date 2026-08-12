@@ -1,0 +1,437 @@
+{
+  "slug": "zombies-she-ist-there",
+  "artist": "Zombies",
+  "title": "She Is't There",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "               v   v   v   v     v   v   v   v",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 0
+        },
+        {
+          "chord": "F",
+          "col": 6
+        },
+        {
+          "chord": "Cm7",
+          "col": 9
+        },
+        {
+          "chord": "F",
+          "col": 18
+        },
+        {
+          "chord": "Cm",
+          "col": 24
+        },
+        {
+          "chord": "F",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "        --------------------------------------",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "        --2------2---0-4-2--------2---0-4-2---",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "        -----0-----0----------0-----0---------",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "        --------------------------------------",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "              <-------------- 2X -------------->",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Verse 1:",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "        Well no one told me about her",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 13
+        },
+        {
+          "chord": "F",
+          "col": 21
+        },
+        {
+          "chord": "Cm7",
+          "col": 30
+        },
+        {
+          "chord": "F",
+          "col": 35
+        },
+        {
+          "chord": "Cm",
+          "col": 38
+        },
+        {
+          "chord": "F",
+          "col": 41
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "           The way she lied",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 8
+        },
+        {
+          "chord": "G#",
+          "col": 16
+        },
+        {
+          "chord": "Cm",
+          "col": 24
+        },
+        {
+          "chord": "F",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "            Well no one told me about her",
+      "chords": [
+        {
+          "chord": "Cm7",
+          "col": 8
+        },
+        {
+          "chord": "F",
+          "col": 25
+        },
+        {
+          "chord": "Cm7",
+          "col": 34
+        },
+        {
+          "chord": "F",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "        How many people tried",
+      "chords": [
+        {
+          "chord": "Cm7",
+          "col": 14
+        },
+        {
+          "chord": "G#",
+          "col": 24
+        },
+        {
+          "chord": "C",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Pre-chorus:",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "                     FA    FmG#       Cm",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "        But it's too late to say you're sorry",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "        How would I know, why should I care",
+      "chords": [
+        {
+          "chord": "Gm",
+          "col": 20
+        },
+        {
+          "chord": "Cm",
+          "col": 39
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "                     FA   FmG#       D#",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "        Please don't bother trying to find her",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "        She's not there",
+      "chords": [
+        {
+          "chord": "G7",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "        Well let me tell you 'bout the way she looked",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 39
+        },
+        {
+          "chord": "F",
+          "col": 55
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "        The way she acted, the color of her hair",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 20
+        },
+        {
+          "chord": "G#",
+          "col": 32
+        },
+        {
+          "chord": "Cm",
+          "col": 45
+        },
+        {
+          "chord": "F",
+          "col": 51
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "        Her voice was soft and good,   her eyes were clear and bright",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 22
+        },
+        {
+          "chord": "G#",
+          "col": 37
+        },
+        {
+          "chord": "Cm",
+          "col": 55
+        },
+        {
+          "chord": "F",
+          "col": 71
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "                       C    [2: to piano solo  3: end cold]",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "        But she's not there",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "        bass fill:",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "         v   v   v   v",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "        -----------------",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "        -------2-0---2---",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "        -0-0-3-----3---3-",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "        -----------------",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "[repeat intro]",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Verse 2:",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "        Well no one told me about her",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "        What could I do?",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "        Well no one told me about her",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "        Though they all knew",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "[repeat pre-chorus]",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "[repeat chorus]",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Piano solo:",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "Cm",
+          "col": 8
+        },
+        {
+          "chord": "F",
+          "col": 12
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 8
+        },
+        {
+          "chord": "C7",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "[repeat pre-chorus]",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "[repeat chorus; end cold on [A]]",
+      "chords": [],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}

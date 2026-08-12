@@ -1,0 +1,628 @@
+{
+  "slug": "the-beatles-a-day-in-the-life",
+  "artist": "The Beatles",
+  "title": "A Day in the Life",
+  "key": "C",
+  "capo": 0,
+  "rhythm": null,
+  "youtubeId": null,
+  "hasSyncedLyrics": false,
+  "lines": [
+    {
+      "lyric": "",
+      "chords": [
+        {
+          "chord": "G",
+          "col": 7
+        },
+        {
+          "chord": "Bm",
+          "col": 9
+        },
+        {
+          "chord": "Em",
+          "col": 12
+        },
+        {
+          "chord": "Em7",
+          "col": 15
+        },
+        {
+          "chord": "C",
+          "col": 19
+        },
+        {
+          "chord": "C",
+          "col": 21
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " I read the news today oh boy",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 12
+        },
+        {
+          "chord": "Am",
+          "col": 26
+        },
+        {
+          "chord": "Am7",
+          "col": 29
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " About a lucky man who made the grade",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "Dsus2",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " And though the news was rather sad",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 16
+        },
+        {
+          "chord": "Am",
+          "col": 32
+        },
+        {
+          "chord": "Am7",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Well I just had to laugh",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 8
+        },
+        {
+          "chord": "Am",
+          "col": 25
+        },
+        {
+          "chord": "Am7",
+          "col": 31
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " I saw the photograph",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 10
+        },
+        {
+          "chord": "Am",
+          "col": 20
+        },
+        {
+          "chord": "F",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " He blew his mind out in a car",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 12
+        },
+        {
+          "chord": "Am",
+          "col": 27
+        },
+        {
+          "chord": "Am7",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " He didn't notice that the lights had changed",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "Dsus2",
+          "col": 26
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " A crowd of people stood and stared",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 12
+        },
+        {
+          "chord": "Am",
+          "col": 30
+        },
+        {
+          "chord": "Am7",
+          "col": 36
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " They'd seen his face before",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 16
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Nobody was really sure",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " If he was from the House of Lords",
+      "chords": [
+        {
+          "chord": "Am7",
+          "col": 1
+        },
+        {
+          "chord": "F",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " I saw a film today oh boy",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 8
+        },
+        {
+          "chord": "Am",
+          "col": 22
+        },
+        {
+          "chord": "Am7",
+          "col": 28
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " The English Army had just won the war",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "Dsus2",
+          "col": 25
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " A crowd of people turned away",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 11
+        },
+        {
+          "chord": "Am",
+          "col": 27
+        },
+        {
+          "chord": "Am7",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " But I just had to look",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 11
+        },
+        {
+          "chord": "Am",
+          "col": 23
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Having read the book",
+      "chords": [
+        {
+          "chord": "Am7",
+          "col": 7
+        },
+        {
+          "chord": "F",
+          "col": 17
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " I'd love to turn you on",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "E5",
+          "col": 18
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Instrumental:E",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Woke up, fell out of bed, dragged a comb across my head",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 0
+        },
+        {
+          "chord": "Gsus2",
+          "col": 52
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "          A                  E7sus",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Found my way downstairs and drank a cup",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And looking up, I noticed I was late. Ha, ha, ha.",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 4
+        },
+        {
+          "chord": "E7",
+          "col": 37
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Found my coat and grabbed my hat",
+      "chords": [
+        {
+          "chord": "A",
+          "col": 11
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Made the bus in seconds flat",
+      "chords": [
+        {
+          "chord": "Gsus2",
+          "col": 24
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "          A               E7sus",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Found my way upstairs and had a smoke",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "    A                         E7sus",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "And somebody spoke and I went into a dream",
+      "chords": [],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Ah...  Ah...  Ah...   Ah...  Ah...",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 1
+        },
+        {
+          "chord": "C",
+          "col": 3
+        },
+        {
+          "chord": "G",
+          "col": 6
+        },
+        {
+          "chord": "D",
+          "col": 8
+        },
+        {
+          "chord": "A",
+          "col": 14
+        },
+        {
+          "chord": "F",
+          "col": 21
+        },
+        {
+          "chord": "C",
+          "col": 23
+        },
+        {
+          "chord": "G",
+          "col": 29
+        },
+        {
+          "chord": "D",
+          "col": 31
+        },
+        {
+          "chord": "A",
+          "col": 38
+        },
+        {
+          "chord": "G",
+          "col": 41
+        },
+        {
+          "chord": "F",
+          "col": 44
+        },
+        {
+          "chord": "G",
+          "col": 47
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " I read the news today oh boy",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 12
+        },
+        {
+          "chord": "Am",
+          "col": 27
+        },
+        {
+          "chord": "Am7",
+          "col": 32
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Four thousand holes in Blackburn, Lancashire.",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "Dsus2",
+          "col": 33
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " And though the holes were rather small",
+      "chords": [
+        {
+          "chord": "C",
+          "col": 0
+        },
+        {
+          "chord": "Em",
+          "col": 16
+        },
+        {
+          "chord": "Am",
+          "col": 35
+        },
+        {
+          "chord": "Am7",
+          "col": 41
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " They had to count them all;",
+      "chords": [
+        {
+          "chord": "F",
+          "col": 0
+        },
+        {
+          "chord": "A#",
+          "col": 14
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " Now they know how many holes it takes to fill the Albert Hall.",
+      "chords": [
+        {
+          "chord": "Am",
+          "col": 0
+        },
+        {
+          "chord": "Am7",
+          "col": 34
+        },
+        {
+          "chord": "F",
+          "col": 59
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": " I'd love to turnn you on.",
+      "chords": [
+        {
+          "chord": "E5",
+          "col": 19
+        }
+      ],
+      "section": false,
+      "t": null
+    },
+    {
+      "lyric": "Instrumental: E",
+      "chords": [],
+      "section": false,
+      "t": null
+    }
+  ],
+  "enriched": false
+}
