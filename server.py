@@ -39,6 +39,12 @@ CACHE_DIR.mkdir(exist_ok=True)
 
 UA = {"User-Agent": parser.USER_AGENT}
 YT_API_KEY = os.environ.get("YT_API_KEY", "").strip()
+ADMIN_TOKEN = os.environ.get("ADMIN_TOKEN", "").strip()
+
+# Bulut barındırmalarda (Render vb.) akorlar.com'un Cloudflare koruması IP'yi
+# doğrudan engelliyor — bu yüzden orada canlı çekim hiç denenmez, sadece
+# Mac'ten senkronlanmış önbellek sunulur. Yerelde varsayılan olarak açık.
+LIVE_SCRAPE = os.environ.get("LIVE_SCRAPE", "1").strip() != "0"
 
 app = Flask(__name__)
 
@@ -258,8 +264,17 @@ def build_song(slug):
     if cache_file.exists():
         return json.loads(cache_file.read_text(encoding="utf-8"))
 
+    if not LIVE_SCRAPE:
+        raise RuntimeError(
+            "Bu şarkı henüz önbellekte yok. Bu sunucudan akorlar.com'a "
+            "doğrudan erişim yok (Cloudflare engeli) — önce Mac'teki "
+            "uygulamadan bu şarkıyı aç, sonra buluta senkronla."
+        )
+
     url = f"{parser.BASE}/{slug}"
     raw = parser.scrape_url(get_fetcher(), url)
+    if raw.get("title") and re.search(r'blocked|attention required|just a moment', raw["title"], re.I):
+        raise RuntimeError("akorlar.com bu sunucudan erişilemiyor (Cloudflare engeli).")
 
     lines = []
     for ln in raw.get("lines", []):
@@ -310,7 +325,27 @@ def build_song(slug):
 # akorlar.com içi arama (arama ekranı için)
 # --------------------------------------------------------------------------
 
+def search_cache(query, limit=30):
+    """Bulut modunda (canlı erişim yokken) yalnızca senkronlanmış önbellekte ara."""
+    q = query.strip().lower()
+    out = []
+    for f in sorted(CACHE_DIR.glob("*.json")):
+        try:
+            d = json.loads(f.read_text(encoding="utf-8"))
+        except Exception:
+            continue
+        label = f"{d.get('artist') or ''} - {d.get('title') or ''}".strip(" -")
+        if q in label.lower():
+            out.append({"slug": d.get("slug", f.stem), "label": label})
+        if len(out) >= limit:
+            break
+    return out
+
+
 def search_songs(query, limit=30):
+    if not LIVE_SCRAPE:
+        return search_cache(query, limit)
+
     slug_query = quote(re.sub(r'\s+', '-', query.strip()))
     url = f"{parser.BASE}/ara/{slug_query}"
     html = get_fetcher().get(url)
@@ -373,6 +408,25 @@ def api_search():
     except Exception as e:
         return jsonify({"error": f"arama başarısız: {e}"}), 502
     return jsonify(results)
+
+
+@app.route("/api/admin/sync-song", methods=["POST"])
+def api_sync_song():
+    """Mac'te önbelleğe alınmış bir şarkıyı buluta yükler (senkron scripti kullanır)."""
+    if not ADMIN_TOKEN or request.headers.get("Authorization") != f"Bearer {ADMIN_TOKEN}":
+        return jsonify({"error": "yetkisiz"}), 403
+
+    data = request.get_json(silent=True)
+    if not data or not data.get("slug"):
+        return jsonify({"error": "geçersiz gövde, 'slug' gerekli"}), 400
+
+    slug = data["slug"]
+    if not SLUG_RE.match(slug):
+        return jsonify({"error": "geçersiz slug"}), 400
+
+    cache_file = CACHE_DIR / f"{slug}.json"
+    cache_file.write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8")
+    return jsonify({"ok": True, "slug": slug})
 
 
 @app.route("/api/youtube-alts")
